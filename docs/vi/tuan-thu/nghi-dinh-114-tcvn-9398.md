@@ -1,3 +1,8 @@
+---
+lang: vi
+lang_alt: compliance/decree-114-tcvn-9398/
+---
+
 # Ma trận tuân thủ — Nghị định 114/2018/NĐ-CP & TCVN 9398:2012
 
 !!! abstract "Tài liệu này là gì?"

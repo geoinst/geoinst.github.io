@@ -10,6 +10,7 @@ edit_uri: ""
 theme:
   name: material
   language: en
+  custom_dir: overrides
   features:
     - navigation.tabs
     - navigation.sections
@@ -50,6 +51,9 @@ extra:
 
 copyright: >
   © 2026 RST Instruments Knowledge Base · Built for geotechnical engineers
+
+extra_css:
+  - assets/lang-switch.css
 
 markdown_extensions:
   - admonition
@@ -94,6 +98,8 @@ nav:
           - Ma trận Nghị định 114 & TCVN 9398: vi/tuan-thu/nghi-dinh-114-tcvn-9398.md
       - Hệ thống ADAQS: vi/adaqs/index.md
       - Thuật ngữ Anh – Việt: vi/thuat-ngu/index.md
+  - "Compliance (EN)":
+      - Decree 114 / TCVN 9398 Matrix: compliance/decree-114-tcvn-9398.md
   - Getting Started:
       - Overview: getting-started/index.md
       - Instrument Categories: getting-started/categories.md
