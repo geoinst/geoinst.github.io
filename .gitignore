@@ -2,3 +2,6 @@ site/
 __pycache__/
 *.pyc
 .venv/
+.venv-mkdocs/
+.tmp/
+planning/

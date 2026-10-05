@@ -87,6 +87,13 @@ plugins:
 
 nav:
   - Home: index.md
+  - "Tiếng Việt (VI)":
+      - Trang chủ: vi/index.md
+      - Tuân thủ pháp lý:
+          - Tổng quan: vi/tuan-thu/index.md
+          - Ma trận Nghị định 114 & TCVN 9398: vi/tuan-thu/nghi-dinh-114-tcvn-9398.md
+      - Hệ thống ADAQS: vi/adaqs/index.md
+      - Thuật ngữ Anh – Việt: vi/thuat-ngu/index.md
   - Getting Started:
       - Overview: getting-started/index.md
       - Instrument Categories: getting-started/categories.md
@@ -198,4 +205,11 @@ nav:
       - Durham Geo Slope Indicator: manufacturers/dgsi.md
       - GEO-Instruments: manufacturers/geo-instruments.md
       - Geocomp: manufacturers/geocomp.md
+  - Reference Manuals:
+      - Catalog Index: reference-manuals/index.md
+      - Dunnicliff (Field Monitoring): reference-manuals/dunnicliff.md
+      - FHWA Reference Manual: reference-manuals/fhwa.md
+      - Das (Foundation Engineering): reference-manuals/das-foundation.md
+      - Das (Geotechnical Engineering): reference-manuals/das-geotech.md
+  - Interactive Sandbox: visualizer.md
   - GTI Doctor (AI): gti-doctor.md
