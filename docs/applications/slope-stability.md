@@ -61,14 +61,14 @@ Detect the onset of slope movement before failure, identify the shear surface, a
 
 ## Typical Instrument Array for Slope Stability
 
-| Instrument | Purpose | Dunnicliff Chapter | RST Instruments Product |
+| Instrument | Purpose | Dunnicliff Chapter | Representative Instrument |
 |------------|---------|-------------------|------------------------|
-| **In-place inclinometer (IPI) array** | Continuous profile of lateral movement | Ch 12, 22 | MEMS IPI, RSTAR wireless IPI |
-| **Vibrating-wire piezometers** | Pore water pressure triggering failure | Ch 9, 22 | VW piezometers, RSTAR wireless piezometer nodes |
-| **Surface tiltmeters** | Catch the upper edge of a moving mass | Ch 12, 22 | MEMS tiltmeters, RSTAR wireless tilt arrays |
-| **Surface survey points / GPS** | Surface displacement monitoring | Ch 12, 22 | Locator One GNSS, RSTAR mesh radio |
+| **In-place inclinometer (IPI) array** | Continuous profile of lateral movement | Ch 12, 22 | MEMS IPI, wireless IPI |
+| **Vibrating-wire piezometers** | Pore water pressure triggering failure | Ch 9, 22 | VW piezometers, wireless piezometer nodes |
+| **Surface tiltmeters** | Catch the upper edge of a moving mass | Ch 12, 22 | MEMS tiltmeters, wireless tilt arrays |
+| **Surface survey points / GPS** | Surface displacement monitoring | Ch 12, 22 | Locator One GNSS, wireless mesh radio |
 | **Crackmeters / jointmeters** | Discrete crack/joint opening | Ch 12 | Crackmeters, jointmeters |
-| **RSTAR mesh radio** | Brings sensor data back to alert gateway | Ch 8, 18 | RSTAR Affinity mesh radio |
+| **wireless mesh radio** | Brings sensor data back to alert gateway | Ch 8, 18 | wireless mesh radio |
 
 ---
 
@@ -105,13 +105,9 @@ Detect the onset of slope movement before failure, identify the shear surface, a
 ---
 
 ## Related Pages
-- [RST Inclinometers](../rst-instruments/inclinometers.md)
-- [RST Piezometers](../rst-instruments/piezometers.md)
-- [RST Extensometers](../rst-instruments/extensometers.md)
-- [RSTAR Affinity Platform](../rst-instruments/rstar-affinity.md)
 - [Dunnicliff Chapter 22](../reference-manuals/dunnicliff.md#chapter-22)
 - [GTI Doctor — Ask about slope monitoring](../gti-doctor.md)
 
 ---
 
-*Source: Compiled from Dunnicliff (616 chunks), Das Foundation (817 pp), Das Geotechnical (683 pp), Murthy (821 pp), Benerjee & Butterfield (394 pp), Field Methods (405 pp), Encyclopedia (952 pp), NCHRP Synthesis 89, and RST Instruments official support articles.*
+*Source: Compiled from Dunnicliff (616 chunks), Das Foundation (817 pp), Das Geotechnical (683 pp), Murthy (821 pp), Benerjee & Butterfield (394 pp), Field Methods (405 pp), Encyclopedia (952 pp), NCHRP Synthesis 89, and field reference manuals.*

@@ -91,20 +91,20 @@ Verify design assumptions about load-settlement behavior, validate deep foundati
 
 ## Typical Instrument Array for Foundation & Deep Excavation
 
-| Instrument | Purpose | Dunnicliff Chapter | RST Instruments Product |
+| Instrument | Purpose | Dunnicliff Chapter | Representative Instrument |
 |------------|---------|-------------------|------------------------|
 | **Load cells** | Pile load tests, anchor load monitoring | Ch 13, 24, 25 | VW load cells, hydraulic load cells |
-| **Settlement plates** | Track consolidation under foundations | Ch 12, 19 | Settlement plates, RSTAR wireless |
+| **Settlement plates** | Track consolidation under foundations | Ch 12, 19 | Settlement plates, wireless |
 | **Rod extensometers** | Deep foundation settlement, heave | Ch 12, 24, 25 | Rod extensometers, MPBX |
 | **Inclinometers (perimeter)** | Lateral movement of excavation walls | Ch 12, 19 | MEMS inclinometers, IPI arrays |
-| **Piezometers** | Dewatering pressures inside/outside | Ch 9, 19 | VW piezometers, RSTAR wireless |
-| **Tiltmeters** | Adjacent building tilt | Ch 12, 19 | MEMS tiltmeters, RSTAR wireless |
+| **Piezometers** | Dewatering pressures inside/outside | Ch 9, 19 | VW piezometers, wireless |
+| **Tiltmeters** | Adjacent building tilt | Ch 12, 19 | MEMS tiltmeters, wireless |
 | **Strut load cells** | Strut/anchor loads in braced cuts | Ch 13, 19 | VW load cells, hydraulic load cells |
 | **Telltales / crackmeters** | Foundation settlement, crack monitoring | Ch 12, 13, 24, 25 | Telltales, crackmeters |
 | **Strain gages** | Pile/ shaft strain, concrete stress | Ch 13, 24, 25 | VW strain gages, foil strain gages |
-| **AMTS / total stations** | Surface deformation, building monitoring | Ch 12, 18 | AMTS, RSTAR wireless |
+| **AMTS / total stations** | Surface deformation, building monitoring | Ch 12, 18 | AMTS, wireless |
 | **GNSS / GNSS receivers** | 3D displacement of structures | Ch 12, 18 | Locator One GNSS |
-| **RSTAR Affinity mesh** | Wireless data from all sensors | Ch 8, 18 | RSTAR Affinity mesh |
+| **wireless mesh** | Wireless data from all sensors | Ch 8, 18 | wireless mesh |
 
 ---
 
@@ -151,11 +151,11 @@ Verify design assumptions about load-settlement behavior, validate deep foundati
 
 ## Automated Monitoring for Excavations (Dunnicliff Ch 18, Ch 19)
 
-| System | Function | RST Implementation |
+| System | Function | Implementation |
 |--------|----------|-------------------|
-| **Real-time strut loads** | Continuous strut load monitoring | RSTAR wireless load cells |
+| **Real-time strut loads** | Continuous strut load monitoring | wireless load cells |
 | **Wall deflection** | Inclinometer + AMTS | MEMS IPI + AMTS |
-| **Groundwater monitoring** | Inside/outside piezometers | RSTAR wireless piezometers |
+| **Groundwater monitoring** | Inside/outside piezometers | wireless piezometers |
 | **Surface settlement** | AMTS + GNSS | AMTS + Locator One |
 | **Automated alarms** | Threshold exceedance | Terra Insights Cloud |
 | **Adjacent building monitoring** | Tilt + settlement | Tiltmeters + settlement plates + AMTS |
@@ -163,10 +163,6 @@ Verify design assumptions about load-settlement behavior, validate deep foundati
 ---
 
 ## Related Pages
-- [RST Extensometers](../rst-instruments/extensometers.md)
-- [RST Inclinometers](../rst-instruments/inclinometers.md)
-- [RST Piezometers](../rst-instruments/piezometers.md)
-- [RSTAR Affinity Platform](../rst-instruments/rstar-affinity.md)
 - [Dunnicliff Chapter 19](../reference-manuals/dunnicliff.md#chapter-19)
 - [Dunnicliff Chapter 24](../reference-manuals/dunnicliff.md#chapter-24)
 - [Dunnicliff Chapter 25](../reference-manuals/dunnicliff.md#chapter-25)
@@ -174,4 +170,4 @@ Verify design assumptions about load-settlement behavior, validate deep foundati
 
 ---
 
-*Source: Compiled from Dunnicliff (616 chunks), Das Foundation (817 pp), Das Geotechnical (683 pp), Murthy (821 pp), Benerjee & Butterfield (394 pp), Field Methods (405 pp), Encyclopedia (952 pp), NCHRP Synthesis 89, and RST Instruments official support articles.*
+*Source: Compiled from Dunnicliff (616 chunks), Das Foundation (817 pp), Das Geotechnical (683 pp), Murthy (821 pp), Benerjee & Butterfield (394 pp), Field Methods (405 pp), Encyclopedia (952 pp), NCHRP Synthesis 89, and field reference manuals.*

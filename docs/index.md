@@ -1,13 +1,13 @@
-# RST Instruments Knowledge Base
+# Geotechnical Instrumentation Knowledge Base
 
-> **An internal intranet for the geotechnical instrumentation community — built around the RST Instruments product portfolio (now an Orica company) and the field manuals engineers rely on every day.**
+> **An internal intranet for the geotechnical instrumentation community — built around the instrument portfolio and the field manuals engineers rely on every day.**
 
 Welcome to a curated, searchable knowledge base covering:
 
-- **RST Instruments portfolio** — piezometers, extensometers, inclinometers, and the RSTAR Affinity wireless data mesh
+- **instrument portfolio** — piezometers, extensometers, inclinometers, and the wireless wireless data mesh
 - **Reference manuals** — Dunnicliff's *Geotechnical Instrumentation for Monitoring Field Performance*, the FHWA *Geotechnical Instrumentation Reference Manual*, Das's foundation and geotechnical engineering texts
 - **Field applications** — slope stability, dam seepage, tunnel linings, deep excavations, and embankment consolidation
-- **Industry manufacturers** — RST, Durham Geo Slope Indicator (DGSI), GEO-Instruments, Geocomp
+- **Industry manufacturers** — Durham Geo Slope Indicator (DGSI), GEO-Instruments, Geocomp
 
 ---
 
@@ -17,7 +17,7 @@ Welcome to a curated, searchable knowledge base covering:
 | --- | --- |
 | New to this site? Start here | [Getting Started →](getting-started/index.md) |
 | Browse instrument types by what they measure | [Instrument Categories](getting-started/categories.md) |
-| Learn about RST Instruments and the RSTAR platform | [RST Instruments →](rst-instruments/index.md) |
+| Learn about instrument types and platforms | [Instrument Categories →](getting-started/categories.md) |
 | Look up a specific reference manual | [Reference Manuals →](reference-manuals/index.md) |
 | See instruments grouped by project application | [Applications →](applications/index.md) |
 | Compare industry suppliers | [Manufacturers →](manufacturers/index.md) |

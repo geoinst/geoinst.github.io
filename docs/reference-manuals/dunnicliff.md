@@ -84,11 +84,11 @@ Dunnicliff is the **definitive guide** for engineers designing instrumentation p
 
 ---
 
-## Key Cross-References to RST Instruments & GTI Doctor
+## Key Cross-References to Instrumentation & GTI Doctor
 
-| Topic | Dunnicliff Chapter | RST Instruments Product | GTI Doctor Query Example |
+| Topic | Dunnicliff Chapter | Representative Instrument | GTI Doctor Query Example |
 |-------|-------------------|------------------------|--------------------------|
-| **Piezometer selection & installation** | Ch 9, 17 | VW Piezometers, Multi-point VMP, RSTAR wireless | "What's the saturation procedure for VW2100MM piezometers?" |
+| **Piezometer selection & installation** | Ch 9, 17 | VW Piezometers, Multi-point VMP, wireless | "What's the saturation procedure for VW2100MM piezometers?" |
 | **Inclinometer installation & casing** | Ch 12, 17 | MEMS Inclinometers, SAA, IPI arrays | "How to install inclinometer casing in soft clay per Dunnicliff?" |
 | **Extensometer types & installation** | Ch 12, 17 | Rod extensometers, magnetic extensometers, MPBX | "Multi-point borehole extensometer installation per Dunnicliff Ch 12" |
 | **Settlement systems** | Ch 12, 17 | Liquid settlement, magnetic settlement, tape extensometers | "Liquid settlement system installation per Dunnicliff Ch 12" |

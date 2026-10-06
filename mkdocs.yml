@@ -1,7 +1,7 @@
-site_name: RST Instruments Knowledge Base
+site_name: Geotechnical Instrumentation Knowledge Base
 site_description: >-
-  Geotechnical instrumentation intranet — RST Instruments portfolio,
-  field monitoring guides, and reference manuals for engineers.
+  Geotechnical instrumentation knowledge base — field monitoring guides,
+  instrument principles, and reference manuals for engineers.
 site_url: https://rstaffinity.github.io/geoinst/
 repo_url: https://github.com/rstaffinity/geoinst
 repo_name: rstaffinity/geoinst
@@ -43,14 +43,7 @@ theme:
     logo: material/screw-machine-flat-top
 
 extra:
-  social:
-    - icon: fontawesome/solid/globe
-      link: https://www.orica.com/digital-solutions/geosolutions/rst-instruments/
-      name: RST Instruments (Orica)
   generator: false
-
-copyright: >
-  © 2026 RST Instruments Knowledge Base · Built for geotechnical engineers
 
 extra_css:
   - assets/lang-switch.css
@@ -104,101 +97,21 @@ nav:
       - Overview: getting-started/index.md
       - Instrument Categories: getting-started/categories.md
       - How to Use This Site: getting-started/how-to-use.md
-  - RST Instruments:
-      - Company Profile: rst-instruments/index.md
-      - RSTAR Affinity Platform: rst-instruments/rstar-affinity.md
-      - Piezometers: rst-instruments/piezometers.md
-      - Extensometers: rst-instruments/extensometers.md
-      - Inclinometers: rst-instruments/inclinometers.md
-      - Data Loggers: rst-instruments/data-loggers.md
-  - RST Solutions:
-      - Official Support Articles: rst-solutions/index.md
-      - Adding Devices in GeoExplorerIQ Using the Affinity Mobile App (Recommended): rst-solutions/adding-devices-in-geoexploreriq-using-the-affinity-mobile-ap.md
-      - Device configuration and set up: rst-solutions/device-configuration-and-set-up.md
-      - Adding a Gateway Directly in GeoExplorerIQ: rst-solutions/adding-a-gateway-directly-in-geoexploreriq.md
-      - How to accept invitation and access GeoExplorerIQ: rst-solutions/how-to-accept-invitation-and-access-geoexploreriq.md
-      - How to Add Users to the Platform: rst-solutions/how-to-add-users-to-the-platform.md
-      - Adding a User to Site Groups: rst-solutions/adding-a-user-to-site-groups.md
-      - GeoExplorer Overview: rst-solutions/geoexplorer-overview.md
-      - Sub Surface Analysis: rst-solutions/sub-surface-analysis.md
-      - Sub-Surface Analysis Workflow: rst-solutions/sub-surface-analysis-workflow.md
-      - Charts - Plotting Time Series: rst-solutions/charts-plotting-time-series.md
-      - GEOExplorerIQ Release Notes - May 2026: rst-solutions/geoexploreriq-release-notes-may-2026.md
-      - GEOExplorerIQ Data Types: rst-solutions/geoexploreriq-data-types.md
-      - Displacement & Velocity Calculations: rst-solutions/displacement-amp-velocity-calculations.md
-      - Trend Line Description & Calculations: rst-solutions/trend-line-description-amp-calculations.md
-      - Create Triggers: rst-solutions/create-triggers.md
-      - How to Review Events: rst-solutions/how-to-review-events.md
-      - Creating a Static Report: rst-solutions/creating-a-static-report.md
-      - How to connect a ShapeArray SAA Sensor to NavSTAR/ GeoExplorer: rst-solutions/how-to-connect-a-shapearray-saa-sensor-to-navstar-geoexplore.md
-      - How to pair an older inclinometer reel with a newer Field PC: rst-solutions/how-to-pair-an-older-inclinometer-reel-with-a-newer-field-pc.md
-      - How to convert Borehole File to output .rpp files in the RST Field PC: rst-solutions/how-to-convert-borehole-file-to-output-rpp-files-in-the-rst.md
-      - Neat Grout vs. Bentonite Grout: rst-solutions/neat-grout-vs-bentonite-grout.md
-      - VW2106 - Programming Piezometer Locations using RST Readout Host: rst-solutions/vw2106-programming-piezometer-locations-using-rst-readout-ho.md
-      - VW2106 - Discharging the low power capacitor when a VW2106 will not turn on: rst-solutions/vw2106-discharging-the-low-power-capacitor-when-a-vw2106-wil.md
-      - VW2106 - Choosing the proper connection port: rst-solutions/vw2106-choosing-the-proper-connection-port.md
-      - Espanol - Decarga del condensador de baja potencia: rst-solutions/espanol-decarga-del-condensador-de-baja-potencia.md
-      - How to use VW2106 Read Out to set up VW Load Cells: rst-solutions/how-to-use-vw2106-read-out-to-set-up-vw-load-cells.md
-      - How to enable the feature Read Top Segment last for SAA Sensor: rst-solutions/how-to-enable-the-feature-read-top-segment-last-for-saa-sens.md
-      - How to find SAAV resources?: rst-solutions/how-to-find-saav-resources.md
-      - Programming a load cell calibration into a SG350 Readout: rst-solutions/programming-a-load-cell-calibration-into-a-sg350-readout.md
-      - How to transfer Site Files Between RST Readouts: rst-solutions/how-to-transfer-site-files-between-rst-readouts.md
-      - How to Set up a wireless communication between a DT series Data Logger with a L900 RSTAR Node and FlexDAQ with L900 RSTAR RTU using DT Logger Host Software: rst-solutions/how-to-set-up-a-wireless-communication-between-a-dt-series-d.md
-      - How to setup CR6 with LoggerNet (applicable to other CR series loggers): rst-solutions/how-to-setup-cr6-with-loggernet-applicable-to-other-cr-serie.md
-      - How to update table definitions to fix common issue with data collection: rst-solutions/how-to-update-table-definitions-to-fix-common-issue-with-dat.md
-      - How to update firmware of RTU to fix data error issues: rst-solutions/how-to-update-firmware-of-rtu-to-fix-data-error-issues.md
-      - How to setup FlexDAQs to connect with a base station: rst-solutions/how-to-setup-flexdaqs-to-connect-with-a-base-station.md
-      - How to connect a DT2055B Data Logger to VW Multi-Point Borehole Extensometers (MPBX): rst-solutions/how-to-connect-a-dt2055b-data-logger-to-vw-multi-point-boreh.md
-      - VW Piezometer kPa/MPa Calculation Spreadsheet: rst-solutions/vw-piezometer-kpa-mpa-calculation-spreadsheet.md
-      - Pneumatic Piezometer - Working principle: rst-solutions/pneumatic-piezometer-working-principle.md
-      - Saturation Procedure for VW2100MM - Micro-Miniature VW Piezometers: rst-solutions/saturation-procedure-for-vw2100mm-micro-miniature-vw-piezome.md
-      - How to connect a RST Multi-point Piezometer String VMP to RST DT Logger: rst-solutions/how-to-connect-a-rst-multi-point-piezometer-string-vmp-to-rs.md
-      - How do Pneumatic Piezometer works?: rst-solutions/how-do-pneumatic-piezometer-works.md
-      - How to Quick-Start Digital Portable Tiltmeter: rst-solutions/how-to-quick-start-digital-portable-tiltmeter.md
-      - How to purge air out of a D'Aerator: rst-solutions/how-to-purge-air-out-of-a-d-39-aerator.md
-      - How to test a tape and reset a reed switch of RST Magnetic Settlement System: rst-solutions/how-to-test-a-tape-and-reset-a-reed-switch-of-rst-magnetic-s.md
-      - How to program the timer on a D'Aerator: rst-solutions/how-to-program-the-timer-on-a-d-aerator.md
-      - How to Set up a Crack Meter and Joint Meters in DT2011B Data Logger: rst-solutions/how-to-set-up-a-crack-meter-and-joint-meters-in-dt2011b-data.md
-      - How to setup a DT2011B Data Logger with a VW Strain Gauge Sensor: rst-solutions/how-to-setup-a-dt2011b-data-logger-with-a-vw-strain-gauge-se.md
-      - How to connect Thermistor String with DT2040 Data Logger: rst-solutions/how-to-connect-thermistor-string-with-dt2040-data-logger.md
-      - How to make ganged common connections for Thermistor String in DT2040 Data Logger: rst-solutions/how-to-make-ganged-common-connections-for-thermistor-string.md
-      - How to reset Instantel Micromate: rst-solutions/how-to-reset-instantel-micromate.md
-      - How to use YAT to read RTU information: rst-solutions/how-to-use-yat-to-read-rtu-information.md
-      - How to connect DTLink Loggers to DT Link Wireless Hub: rst-solutions/how-to-connect-dtlink-loggers-to-dt-link-wireless-hub.md
-      - How to connect DT Loggers to DTLink Wireless Hub using DT Loggers Host Software: rst-solutions/how-to-connect-dt-loggers-to-dtlink-wireless-hub-using-dt-lo.md
-      - How to Upgrade a DT Logger to a DT Link Enable Logger and setup wireless communication between DT Loggers and DT Link Hub: rst-solutions/how-to-upgrade-a-dt-logger-to-a-dt-link-enable-logger-and-se.md
-      - DTLink - Radio mismatch warning after decryption: rst-solutions/dtlink-radio-mismatch-warning-after-decryption.md
-      - Setting up Multiple DTLink Hubs for use with the same DTLink data loggers: rst-solutions/setting-up-multiple-dtlink-hubs-for-use-with-the-same-dtlink.md
-      - How to Login a Site from Affinity Field App and from Terra Insights Cloud: rst-solutions/how-to-login-a-site-from-affinity-field-app-and-from-terra-i.md
-      - How to Claim an Affinity Data Logger to a site using Affinity Field App: rst-solutions/how-to-claim-an-affinity-data-logger-to-a-site-using-affinit.md
-      - How to add an instrument in an Affinity Data Logger using Affinity Field App: rst-solutions/how-to-add-an-instrument-in-an-affinity-data-logger-using-af.md
-      - How to download data from Affinity Data Logger to Affinity Field App and Sync data to Terra Insights Dashboard: rst-solutions/how-to-download-data-from-affinity-data-logger-to-affinity-f.md
-      - Installation Guide of RSTAR Affinity Logger - Instrument Wiring: rst-solutions/installation-guide-of-rstar-affinity-logger-instrument-wirin.md
-      - DT2011B VWP Default kPa Calculation Spreadsheet: rst-solutions/dt2011b-vwp-default-kpa-calculation-spreadsheet.md
-      - DT2011B VWP Default MPa Calculation Spreadsheet: rst-solutions/dt2011b-vwp-default-mpa-calculation-spreadsheet.md
-      - How to fix Port Closed error when a DT Logger is connected to DT Logger Host: rst-solutions/how-to-fix-port-closed-error-when-a-dt-logger-is-connected-t.md
-      - DT Loggers (DT2011B, DT2055B, DT2040, etc.) setting consideration on application with Vibrating Wire Crack Meters: rst-solutions/dt-loggers-dt2011b-dt2055b-dt2040-etc-setting-consideration.md
-      - How to setup a DT2011B Data Logger with a VW piezometer: rst-solutions/how-to-setup-a-dt2011b-data-logger-with-a-vw-piezometer.md
-      - Here is the user guide to use Affinity Field Utility App: rst-solutions/here-is-the-user-guide-to-use-affinity-field-utility-app.md
-      - How to adjust boreholes after Adding or Removing inclinometer casing: rst-solutions/how-to-adjust-boreholes-after-adding-or-removing-inclinomete.md
-      - How to convert CSV data files to RPP data files for use with DigiPro software: rst-solutions/how-to-convert-csv-data-files-to-rpp-data-files-for-use-with.md
-      - How to transfer CP3 Digital Inclinometer Data vis USB to a computer: rst-solutions/how-to-transfer-cp3-digital-inclinometer-data-vis-usb-to-a-c.md
-      - Inclinalysis - Changing Values on the X Axis: rst-solutions/inclinalysis-changing-values-on-the-x-axis.md
-      - Android Digital Inclinometer App Hot Sheet: rst-solutions/android-digital-inclinometer-app-hot-sheet.md
-      - How to copy files from RST FieldPC2 to PC via USB Cable, a memory stick or Bluetooth: rst-solutions/how-to-copy-files-from-rst-fieldpc2-to-pc-via-usb-cable-a-me.md
-      - How to convert Data File in a RST Field PC from .csv to .rpp for use in DigiPro software: rst-solutions/how-to-convert-data-file-in-a-rst-field-pc-from-csv-to-rpp-f.md
-      - How to modify RST Field PC CSV borehole base files to output RPP format files for use with DigiPro software: rst-solutions/how-to-modify-rst-field-pc-csv-borehole-base-files-to-output.md
-      - Setting up a Piezometer in DT Logger Host for a DT2011B Data Logger: rst-solutions/setting-up-a-piezometer-in-dt-logger-host-for-a-dt2011b-data.md
-      - DT Logger Host - Communication Troubleshooting (Status 0, 2 and 3 Warnings): rst-solutions/dt-logger-host-communication-troubleshooting-status-0-2-and.md
-      - How to resolve Memory Pointers Range Error: rst-solutions/how-to-resolve-memory-pointers-range-error.md
-      - How to update firmware for RST DT Data Logger: rst-solutions/how-to-update-firmware-for-rst-dt-data-logger.md
-      - DT Logger Host - Communications Troubleshooting (Status 0, 2 and 3 Warnings): rst-solutions/dt-logger-host-communications-troubleshooting-status-0-2-and.md
-      - Digital Tilmeter Connection Issue: rst-solutions/digital-tilmeter-connection-issue.md
-      - How to change batteries in a new style RST Inclinometer Reel: rst-solutions/how-to-change-batteries-in-a-new-style-rst-inclinometer-reel.md
-      - How to setup a TDR Sensor and TDR200 Datalogger: rst-solutions/how-to-setup-a-tdr-sensor-and-tdr200-datalogger.md
-      - Documento de configuracion de TDR: rst-solutions/documento-de-configuraci-n-de-tdr.md
-      - TDR200 Setup Document: rst-solutions/tdr200-setup-document.md
-      - TDR200 Setting up a TDR using PC-TDR software: rst-solutions/tdr200-setting-up-a-tdr-using-pc-tdr-software.md
+  - Field Notes:
+      - Digital Tiltmeter Connection Issue: field-notes/digital-tilmeter-connection-issue.md
+      - TDR Configuration Document (ES): field-notes/documento-de-configuraci-n-de-tdr.md
+      - How Pneumatic Piezometers Work: field-notes/how-do-pneumatic-piezometer-works.md
+      - How to Find SAAV Resources: field-notes/how-to-find-saav-resources.md
+      - Programming the D'Aerator Timer: field-notes/how-to-program-the-timer-on-a-d-aerator.md
+      - Purging Air from a D'Aerator: field-notes/how-to-purge-air-out-of-a-d-39-aerator.md
+      - Resetting the Instantel Micromate: field-notes/how-to-reset-instantel-micromate.md
+      - TDR Sensor & TDR200 Setup: field-notes/how-to-setup-a-tdr-sensor-and-tdr200-datalogger.md
+      - Inclinalysis — Changing X-Axis Values: field-notes/inclinalysis-changing-values-on-the-x-axis.md
+      - Neat Grout vs. Bentonite Grout: field-notes/neat-grout-vs-bentonite-grout.md
+      - Pneumatic Piezometer — Working Principle: field-notes/pneumatic-piezometer-working-principle.md
+      - TDR200 with PC-TDR Software: field-notes/tdr200-setting-up-a-tdr-using-pc-tdr-software.md
+      - TDR200 Setup Document: field-notes/tdr200-setup-document.md
+      - VW Piezometer kPa/MPa Calculation: field-notes/vw-piezometer-kpa-mpa-calculation-spreadsheet.md
   - Applications:
       - Index: applications/index.md
       - Slope Stability: applications/slope-stability.md
@@ -207,7 +120,6 @@ nav:
       - Foundation & Excavation: applications/foundations.md
   - Manufacturers:
       - Index: manufacturers/index.md
-      - RST Instruments (Orica): manufacturers/rst.md
       - Durham Geo Slope Indicator: manufacturers/dgsi.md
       - GEO-Instruments: manufacturers/geo-instruments.md
       - Geocomp: manufacturers/geocomp.md

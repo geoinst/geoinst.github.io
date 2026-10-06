@@ -55,4 +55,4 @@ Mục tiêu không phải là bán thiết bị, mà là giúp người đọc *
 
 ---
 
-*Biên soạn: Cơ sở Tri thức Địa kỹ thuật Việt Nam — RST Affinity · Cập nhật lần đầu: tháng 10/2026.*
+*Biên soạn: Cơ sở Tri thức Địa kỹ thuật Việt Nam · Cập nhật lần đầu: tháng 10/2026.*

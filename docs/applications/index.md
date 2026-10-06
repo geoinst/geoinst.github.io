@@ -9,4 +9,4 @@ Geotechnical instrumentation programs are usually designed around a project's pr
 | Tunnel instrumentation | Inclinometers, extensometers, convergence | [Tunnels →](tunnels.md) |
 | Foundation & deep excavation | Settlement plates, extensometers, load cells | [Foundations →](foundations.md) |
 
-Each application page connects to the RST Instruments product that supports it and the Dunnicliff chapter that documents the methodology.
+Each application page connects to representative instruments that support it and the Dunnicliff chapter that documents the methodology.

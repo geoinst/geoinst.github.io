@@ -14,7 +14,7 @@ Geotechnical instruments are grouped by **what they measure**. The four foundati
 
 **Typical readout**: deviation-vs-depth profiles; cumulative displacement plots.
 
-**RST products**: Digital MEMS inclinometers, RSTAR wireless tilt arrays. See [RST Inclinometers](../rst-instruments/inclinometers.md).
+**Representative instruments**: Digital MEMS inclinometers, wireless tilt arrays..
 
 ---
 
@@ -28,7 +28,7 @@ Geotechnical instruments are grouped by **what they measure**. The four foundati
 
 **Typical readout**: hydraulic head (m) vs time; pressure (kPa).
 
-**RST products**: Vibrating wire piezometers, RSTAR wireless piezometer nodes. See [RST Piezometers](../rst-instruments/piezometers.md).
+**Representative instruments**: Vibrating wire piezometers, wireless piezometer nodes..
 
 ---
 
@@ -42,7 +42,7 @@ Geotechnical instruments are grouped by **what they measure**. The four foundati
 
 **Typical readout**: settlement (mm) vs depth; ground-strain distribution.
 
-**RST products**: Borehole extensometers, magnetic extensometer spider systems. See [RST Extensometers](../rst-instruments/extensometers.md).
+**Representative instruments**: Borehole extensometers, magnetic extensometer spider systems..
 
 ---
 
@@ -56,7 +56,7 @@ Geotechnical instruments are grouped by **what they measure**. The four foundati
 
 **Typical readout**: load (kN) vs time; creep curves.
 
-**RST products**: Vibrating-wire load cells and strain gauges for structural monitoring.
+**Representative instruments**: Vibrating-wire load cells and strain gauges for structural monitoring.
 
 ---
 
@@ -64,6 +64,6 @@ Geotechnical instruments are grouped by **what they measure**. The four foundati
 
 | Goal | Suggested next step |
 | --- | --- |
-| Find RST product specs | [RST Instruments →](../rst-instruments/index.md) |
+| Find Instrument specifications | [Instrument Categories →](categories.md) |
 | See real-world deployments | [Applications →](../applications/index.md) |
 | Commissioning / installation procedures | [Reference Manuals →](../reference-manuals/index.md) |

@@ -26,8 +26,8 @@
 
 - *What is a vibrating-wire piezometer and how is it installed in a borehole?*
 - *Give me the slope-stability instrumentation checklist from the FHWA manual.*
-- *How does the RSTAR Affinity mesh-network backhaul work?*
-- *Which RST instrument would I use to monitor lateral movement in a 30 m deep excavated retaining wall?*
+- *How does the wireless mesh-network backhaul work?*
+- *Which instrument would I use to monitor lateral movement in a 30 m deep excavated retaining wall?*
 
 ## How it works
 

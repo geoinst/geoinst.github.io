@@ -60,19 +60,19 @@ Monitor ground movement around tunnel excavation, convergence of linings, and po
 
 ## Typical Instrument Array for Tunnel Instrumentation
 
-| Instrument | Purpose | Dunnicliff Chapter | RST Instruments Product |
+| Instrument | Purpose | Dunnicliff Chapter | Representative Instrument |
 |------------|---------|-------------------|------------------------|
 | **Convergence arrays / tape extensometers** | Monitor tunnel cross-section closure | Ch 12, 23 | Tape extensometers, convergence arrays |
-| **Multi-point borehole extensometers (MPBX)** | Rock mass displacement above crown | Ch 12, 23 | MPBX extensometers, RSTAR wireless |
+| **Multi-point borehole extensometers (MPBX)** | Rock mass displacement above crown | Ch 12, 23 | MPBX extensometers, wireless |
 | **Inclinometers (surface/portal)** | Detect surface settlement trough | Ch 12, 23 | MEMS inclinometers, IPI arrays |
-| **Piezometers** | Dewatering pressures near tunnel face | Ch 9, 23 | VW piezometers, RSTAR wireless |
+| **Piezometers** | Dewatering pressures near tunnel face | Ch 9, 23 | VW piezometers, wireless |
 | **Rock bolt load cells** | Anchor/bolt load monitoring | Ch 13, 23 | VW load cells, strain gages |
-| **Convergence meters** | Real-time lining convergence | Ch 12, 23 | Convergence meters, RSTAR wireless |
-| **Rock bolt strain gages** | Bolt load monitoring | Ch 13 | VW strain gages, RSTAR wireless |
+| **Convergence meters** | Real-time lining convergence | Ch 12, 23 | Convergence meters, wireless |
+| **Rock bolt strain gages** | Bolt load monitoring | Ch 13 | VW strain gages, wireless |
 | **Pressure cells (NATM)** | Ground pressure on lining | Ch 10, 23 | VW pressure cells |
 | **Crackmeters / jointmeters** | Segment joint opening | Ch 12, 23 | Crackmeters, jointmeters |
 | **Inclinometer (TBM shield)** | TBM articulation/alignment | Ch 12 | MEMS tilt sensors |
-| **RSTAR mesh radio** | Data from tunnel to surface gateway | Ch 8, 18 | RSTAR mesh + surface gateway |
+| **wireless mesh radio** | Data from tunnel to surface gateway | Ch 8, 18 | wireless mesh + surface gateway |
 
 ---
 
@@ -114,24 +114,20 @@ Monitor ground movement around tunnel excavation, convergence of linings, and po
 
 ## Automated Monitoring for Tunnels (Dunnicliff Ch 18, Ch 23)
 
-| System | Function | RST Implementation |
+| System | Function | Implementation |
 |--------|----------|-------------------|
-| **Real-time convergence** | Continuous crown/springline monitoring | RSTAR wireless convergence sensors |
-| **Face pressure monitoring** | TBM shield pressure, dewatering | RSTAR wireless piezometers |
+| **Real-time convergence** | Continuous crown/springline monitoring | wireless convergence sensors |
+| **Face pressure monitoring** | TBM shield pressure, dewatering | wireless piezometers |
 | **Rock bolt monitoring** | Bolt load + strain | VW load cells + strain gages |
 | **Automated alarms** | Threshold exceedance | Terra Insights Cloud |
-| **TBM data integration** | Shield pressure, articulation | RSTAR mesh + TBM interface |
+| **TBM data integration** | Shield pressure, articulation | wireless mesh + TBM interface |
 
 ---
 
 ## Related Pages
-- [RST Extensometers](../rst-instruments/extensometers.md)
-- [RST Inclinometers](../rst-instruments/inclinometers.md)
-- [RST Piezometers](../rst-instruments/piezometers.md)
-- [RSTAR Affinity Platform](../rst-instruments/rstar-affinity.md)
 - [Dunnicliff Chapter 23](../reference-manuals/dunnicliff.md#chapter-23)
 - [GTI Doctor — Ask about tunnel monitoring](../gti-doctor.md)
 
 ---
 
-*Source: Compiled from Dunnicliff (616 chunks), Das Foundation (817 pp), Das Geotechnical (683 pp), Murthy (821 pp), Benerjee & Butterfield (394 pp), Field Methods (405 pp), Encyclopedia (952 pp), NCHRP Synthesis 89, and RST Instruments official support articles.*
+*Source: Compiled from Dunnicliff (616 chunks), Das Foundation (817 pp), Das Geotechnical (683 pp), Murthy (821 pp), Benerjee & Butterfield (394 pp), Field Methods (405 pp), Encyclopedia (952 pp), NCHRP Synthesis 89, and field reference manuals.*

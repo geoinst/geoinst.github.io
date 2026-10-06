@@ -32,7 +32,7 @@ Experience an interactive visual model of geotechnical instrumentation systems, 
         <div><span style="display:inline-block; width:10px; height:10px; background:#00e5ff; border-radius:50%; margin-right:4px;"></span> Piezometer (VWP)</div>
         <div><span style="display:inline-block; width:10px; height:10px; background:#ff4081; border-radius:50%; margin-right:4px;"></span> Inclinometer (IPI/MEMS)</div>
         <div><span style="display:inline-block; width:10px; height:10px; background:#ffea00; border-radius:50%; margin-right:4px;"></span> Extensometer / Settlement</div>
-        <div><span style="display:inline-block; width:10px; height:10px; background:#00e676; border-radius:50%; margin-right:4px;"></span> RSTAR Affinity Node</div>
+        <div><span style="display:inline-block; width:10px; height:10px; background:#00e676; border-radius:50%; margin-right:4px;"></span> Wireless Node</div>
       </div>
     </div>
 
@@ -63,7 +63,7 @@ Experience an interactive visual model of geotechnical instrumentation systems, 
         </div>
 
         <div style="font-size: 11px; color: #aaa; line-height: 1.5;">
-          <div>📡 <strong>Telemetry:</strong> RSTAR LoRaWAN 915 MHz</div>
+          <div>📡 <strong>Telemetry:</strong> LoRaWAN 915 MHz</div>
           <div>🔋 <strong>Hub Battery:</strong> 3.65V (SAFT LSH20)</div>
           <div>📶 <strong>RSSI:</strong> -42 dBm (Excellent)</div>
           <div>⏱️ <strong>Interval:</strong> 15 mins (Continuous)</div>
@@ -163,7 +163,7 @@ function renderScene() {
       <rect x="260" y="85" width="20" height="15" fill="#00e676" rx="2" />
       <line x1="270" y1="85" x2="270" y2="70" stroke="#00e676" stroke-width="2" />
       <circle cx="270" cy="70" r="3" fill="#00e676" />
-      <text x="290" y="82" fill="#00e676" font-size="11">RSTAR Affinity Hub</text>
+      <text x="290" y="82" fill="#00e676" font-size="11">Wireless Hub</text>
     `;
   } else if (currentScenario === 'excavation') {
     const wallDeflect = disp * 4;
@@ -221,7 +221,7 @@ switchScenario('dam');
 
 ## 🏗️ End-to-End ADAS Telemetry Architecture
 
-The diagram below illustrates how field sensors feed into the RSTAR Affinity cloud intelligence architecture:
+The diagram below illustrates how field sensors feed into the wireless cloud intelligence architecture:
 
 ```mermaid
 graph TD
@@ -234,10 +234,10 @@ graph TD
     end
 
     subgraph Field_Logging_Telemetry["2. Autonomous Field Nodes & ADAS"]
-        DT["RST DT Loggers<br/>(DT2011B / DT2055B / DT2485)"]
-        L900["RSTAR Wireless Nodes<br/>(900 MHz / 2.4 GHz Mesh)"]
+        DT["DT Loggers<br/>(DT2011B / DT2055B / DT2485)"]
+        L900["Wireless Nodes<br/>(900 MHz / 2.4 GHz Mesh)"]
         CR6["Campbell Scientific ADAS<br/>(CR6 / AM16/32B Multiplexers)"]
-        HUB["RSTAR Affinity Gateway<br/>(Cellular / Satellite / LoRaWAN)"]
+        HUB["Wireless Gateway<br/>(Cellular / Satellite / LoRaWAN)"]
     end
 
     subgraph Cloud_Intelligence["3. Cloud Platform & Real-Time Analytics"]

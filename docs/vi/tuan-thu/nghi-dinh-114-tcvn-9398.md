@@ -363,7 +363,7 @@ flowchart LR
     - Các quy định về an toàn đập **đang được sửa đổi**; luôn kiểm tra hiệu lực của văn bản và các văn bản thay thế tại thời điểm áp dụng.
     - Các khuyến nghị về chu kỳ lấy mẫu ADAQS là **đề xuất kỹ thuật**, không phải quy định pháp lý.
 
-    *Biên soạn và cập nhật: Cơ sở Tri thức Địa kỹ thuật Việt Nam — RST Affinity.*
+    *Biên soạn và cập nhật: Cơ sở Tri thức Địa kỹ thuật Việt Nam.*
 
 ---
 

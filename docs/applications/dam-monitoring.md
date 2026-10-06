@@ -64,9 +64,9 @@ Detect seepage changes, internal erosion, and deformation in embankment / concre
 
 ## Typical Instrument Array for Dam Monitoring
 
-| Instrument | Purpose | Dunnicliff Chapter | RST Instruments Product |
+| Instrument | Purpose | Dunnicliff Chapter | Representative Instrument |
 |------------|---------|-------------------|------------------------|
-| **Multi-level piezometers** | Profile pore pressure through embankment | Ch 9, 21 | VW piezometer strings, RSTAR wireless |
+| **Multi-level piezometers** | Profile pore pressure through embankment | Ch 9, 21 | VW piezometer strings, wireless |
 | **Standpipe / open-well piezometers** | Redundant pore pressure measurement | Ch 9, 21 | Standpipe piezometers |
 | **V-notch weirs / seepage meters** | Quantify downstream seepage flow | Ch 21 | Flow measurement |
 | **Extensometers (rod/magnetic)** | Internal deformation of embankment | Ch 12, 21 | Rod extensometers, magnetic extensometers |
@@ -77,8 +77,8 @@ Detect seepage changes, internal erosion, and deformation in embankment / concre
 | **Pendulums (concrete dams)** | Crest displacement relative to foundation | Ch 21 | Inverted/reverse pendulums |
 | **Seepage weirs / flumes** | Quantify seepage discharge | Ch 21 | V-notch weirs |
 | **Temperature sensors** | Concrete hydration, freeze-thaw | Ch 14 | Thermistors, RTDs |
-| **RSTAR Affinity mesh** | Wireless data from all sensors | Ch 8, 18, 21 | RSTAR Affinity mesh + cellular/satellite backhaul |
-| **ADAS (Automated Data Acquisition)** | Real-time alarms, automated reporting | Ch 18.1.2, 21 | RSTAR Affinity + Terra Insights |
+| **wireless mesh** | Wireless data from all sensors | Ch 8, 18, 21 | wireless mesh + cellular/satellite backhaul |
+| **ADAS (Automated Data Acquisition)** | Real-time alarms, automated reporting | Ch 18.1.2, 21 | wireless + Terra Insights |
 
 ---
 
@@ -117,9 +117,9 @@ Detect seepage changes, internal erosion, and deformation in embankment / concre
 
 ## Automated Monitoring (Dunnicliff Ch 18.1.2, Ch 21)
 
-| System | Function | RST Implementation |
+| System | Function | Implementation |
 |--------|----------|-------------------|
-| **ADAS** | Automated data acquisition | RSTAR Affinity + DT Link |
+| **ADAS** | Automated data acquisition | wireless + DT Link |
 | **Alarm thresholds** | Configurable per parameter | Terra Insights dashboard |
 | **Data validation** | Automated QA/QC | Built-in QA/QC |
 | **Reporting** | Scheduled reports | Terra Insights scheduled reports |
@@ -128,13 +128,9 @@ Detect seepage changes, internal erosion, and deformation in embankment / concre
 ---
 
 ## Related Pages
-- [RST Piezometers](../rst-instruments/piezometers.md)
-- [RST Extensometers](../rst-instruments/extensometers.md)
-- [RST Inclinometers](../rst-instruments/inclinometers.md)
-- [RSTAR Affinity Platform](../rst-instruments/rstar-affinity.md)
 - [Dunnicliff Chapter 21](../reference-manuals/dunnicliff.md#chapter-21)
 - [GTI Doctor — Ask about dam monitoring](../gti-doctor.md)
 
 ---
 
-*Source: Compiled from Dunnicliff (616 chunks), Das Foundation (817 pp), Das Geotechnical (683 pp), Murthy (821 pp), Benerjee & Butterfield (394 pp), Field Methods (405 pp), Encyclopedia (952 pp), NCHRP Synthesis 89, and RST Instruments official support articles.*
+*Source: Compiled from Dunnicliff (616 chunks), Das Foundation (817 pp), Das Geotechnical (683 pp), Murthy (821 pp), Benerjee & Butterfield (394 pp), Field Methods (405 pp), Encyclopedia (952 pp), NCHRP Synthesis 89, and field reference manuals.*

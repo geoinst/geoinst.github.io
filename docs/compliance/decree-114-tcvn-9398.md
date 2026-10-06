@@ -363,7 +363,7 @@ flowchart LR
     - Dam-safety provisions **are being amended**; always check the currency of the instrument and of any replacement at the time of use.
     - The suggested ADAQS sampling intervals are **technical recommendations**, not legal requirements.
 
-    *Compiled and maintained by: Vietnam Geotechnical Knowledge Base — RST Affinity.*
+    *Compiled and maintained by: Vietnam Geotechnical Knowledge Base.*
 
 ---
 
