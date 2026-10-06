@@ -79,32 +79,73 @@ lang_alt: glossary/
 ### Cảm biến dây rung (Vibrating Wire)
 
 * **Phương trình tần số dao động cơ bản**: Tần số tự nhiên $f$ của sợi dây thép hai đầu ngàm chịu kéo $\sigma$:
-    $$f = \frac{1}{2L} \sqrt{\frac{\sigma}{\rho}} = \frac{1}{2L} \sqrt{\frac{E \cdot \varepsilon}{\rho}}$$
+
+    $$
+    f = \frac{1}{2L} \sqrt{\frac{\sigma}{\rho}} = \frac{1}{2L} \sqrt{\frac{E \cdot \varepsilon}{\rho}}
+    $$
+
     Trong đó $L$ là chiều dài dây, $\rho$ là khối lượng riêng, $E$ là mô-đun đàn hồi, và $\varepsilon$ là độ biến dạng tương đối của dây.
+
 * **Đơn vị Digits (Số đọc tuyến tính)**:
-    $$\text{Digits} = \frac{f^2}{1000}$$
+
+    $$
+    \text{Digits} = \frac{f^2}{1000}
+    $$
+
 * **Phương trình hiệu chuẩn tuyến tính**:
-    $$P = G \cdot (R_0 - R)$$
+
+    $$
+    P = G \cdot (R_0 - R)
+    $$
+
     Trong đó $G$ là hệ số hiệu chuẩn (gage factor), $R_0$ là số đọc ban đầu (digits), và $R$ là số đọc hiện tại.
+
 * **Phương trình hiệu chuẩn đa thức bậc 2**:
-    $$P = A \cdot R^2 + B \cdot R + C$$
-* **Hiệu chỉnh nhiệt độ ($K_T$)**:
-    $$P_{corr} = P_{raw} + K_T \cdot (T - T_0)$$
+
+    $$
+    P = A \cdot R^2 + B \cdot R + C
+    $$
+
+* **Hiệu chỉnh nhiệt độ** ($K_T$):
+
+    $$
+    P_{corr} = P_{raw} + K_T \cdot (T - T_0)
+    $$
+
     Bù trừ sự chênh lệch giãn nở nhiệt giữa sợi dây thép và vỏ thân cảm biến bằng thép không gỉ.
+
 * **Hiệu chỉnh áp suất khí quyển (Barometric Compensation)**:
-    $$P_{net} = P_{do} - (B - B_0)$$
+
+    $$
+    P_{net} = P_{do} - (B - B_0)
+    $$
+
     Bắt buộc áp dụng cho các piezometer màng kín để loại bỏ sự thay đổi áp suất khí quyển của thời tiết ra khỏi áp lực nước ngầm thực tế.
 
 ### Xử lý số liệu Inclinometer
 
-* **Độ lệch phân đoạn ($\delta_i$)**:
-    $$\delta_i = L \cdot \sin(\theta_i) = C \cdot (A_0 - A_{180})$$
+* **Độ lệch phân đoạn** ($\delta_i$):
+
+    $$
+    \delta_i = L \cdot \sin(\theta_i) = C \cdot (A_0 - A_{180})
+    $$
+
     Trong đó $L$ là chiều dài cơ sở đầu đo (thường 500 mm), $\theta_i$ là góc nghiêng, $A_0$ và $A_{180}$ là hai lần đo đảo ngược $180^\circ$.
+
 * **Tổng kiểm tra (Check Sum)**:
-    $$\text{Check Sum} = A_0 + A_{180}$$
+
+    $$
+    \text{Check Sum} = A_0 + A_{180}
+    $$
+
     Giá trị Check Sum phải gần như không đổi ở mọi độ sâu, chứng minh cảm biến hoạt động chính xác và bánh xe không bị kẹt bụi bẩn.
-* **Chuyển vị tích lũy ($D_k$)**:
-    $$D_k = \sum_{i=1}^k \delta_i$$
+
+* **Chuyển vị tích lũy** ($D_k$):
+
+    $$
+    D_k = \sum_{i=1}^k \delta_i
+    $$
+
     Tích lũy chuyển vị tính từ đáy lỗ khoan (điểm mốc ngàm cố định) lên dần đến miệng lỗ khoan.
 
 ---

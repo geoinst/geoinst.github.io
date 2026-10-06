@@ -79,33 +79,75 @@ lang_alt: vi/thuat-ngu/
 ### Vibrating Wire Reductions
 
 * **Natural Frequency Equation**: The fundamental resonant frequency $f$ of a clamped wire under tension $\sigma$:
-    $$f = \frac{1}{2L} \sqrt{\frac{\sigma}{\rho}} = \frac{1}{2L} \sqrt{\frac{E \cdot \varepsilon}{\rho}}$$
+
+    $$
+    f = \frac{1}{2L} \sqrt{\frac{\sigma}{\rho}} = \frac{1}{2L} \sqrt{\frac{E \cdot \varepsilon}{\rho}}
+    $$
+
     Where $L$ is wire length, $\rho$ is density, $E$ is Young's modulus, and $\varepsilon$ is wire strain.
+
 * **Digits (Linear Period Units)**: A linearizing parameter directly proportional to wire strain:
-    $$\text{Digits} = \frac{f^2}{1000}$$
+
+    $$
+    \text{Digits} = \frac{f^2}{1000}
+    $$
+
 * **Linear Calibration Equation**:
-    $$P = G \cdot (R_0 - R)$$
+
+    $$
+    P = G \cdot (R_0 - R)
+    $$
+
     Where $G$ is the gauge factor (calibrated linear coefficient), $R_0$ is baseline reading in digits, and $R$ is current reading.
+
 * **Polynomial Calibration Equation (Second-Order)**:
-    $$P = A \cdot R^2 + B \cdot R + C$$
+
+    $$
+    P = A \cdot R^2 + B \cdot R + C
+    $$
+
     Provides higher measurement precision over broad pressure ranges.
-* **Thermal Compensation ($K_T$)**:
-    $$P_{corr} = P_{raw} + K_T \cdot (T - T_0)$$
+
+* **Thermal Compensation** ($K_T$):
+
+    $$
+    P_{corr} = P_{raw} + K_T \cdot (T - T_0)
+    $$
+
     Corrects for differential thermal expansion between the vibrating wire and the stainless steel sensor body.
+
 * **Barometric Compensation**:
-    $$P_{net} = P_{measured} - (B - B_0)$$
+
+    $$
+    P_{net} = P_{measured} - (B - B_0)
+    $$
+
     Essential for sealed piezometers to isolate genuine groundwater changes from ambient atmospheric barometric swings.
 
 ### Inclinometer Data Reduction
 
-* **Deflection Increment ($\delta_i$)**:
-    $$\delta_i = L \cdot \sin(\theta_i) = C \cdot (A_0 - A_{180})$$
+* **Deflection Increment** ($\delta_i$):
+
+    $$
+    \delta_i = L \cdot \sin(\theta_i) = C \cdot (A_0 - A_{180})
+    $$
+
     Where $L$ is probe wheelbase (typically 500 mm), $\theta_i$ is tilt angle, and $A_0, A_{180}$ are conjugate runs.
+
 * **Check Sum (Zero Offset Error)**:
-    $$\text{Check Sum} = A_0 + A_{180}$$
+
+    $$
+    \text{Check Sum} = A_0 + A_{180}
+    $$
+
     A constant value across all depths confirming instrument stability and absence of mechanical contamination in wheels.
-* **Cumulative Displacement**:
-    $$D_k = \sum_{i=1}^k \delta_i$$
+
+* **Cumulative Displacement** ($D_k$):
+
+    $$
+    D_k = \sum_{i=1}^k \delta_i
+    $$
+
     Summation of incremental displacements calculated from the stable bottom anchor upwards to the surface collar.
 
 ---
