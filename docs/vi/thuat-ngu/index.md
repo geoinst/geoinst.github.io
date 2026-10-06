@@ -173,4 +173,76 @@ lang_alt: glossary/
 
 ---
 
+## 6. Cơ sở Lưu giữ Bùn thải & An toàn Đập bùn thải
+
+* **Bùn thải (Tailings)**: Chất thải rắn dạng hạt mịn còn lại sau khi tách kim loại/khoáng sản khỏi quặng, được vận chuyển và thải dưới dạng huyền phù (bùn).
+* **Cơ sở lưu giữ bùn thải - TSF (Tailings Storage Facility)**: Toàn bộ hệ thống lưu giữ gồm đập/đê chắn, khối bùn thải lắng đọng, hồ nước bề mặt, hệ thống xả tràn và công trình thu hồi nước.
+* **Đập bùn thải (Tailings Dam)**: Đập/đê nhân tạo chắn giữ khối bùn thải; thường được nâng cao dần theo tuổi mỏ và nhiều khi được đắp từ chính bùn thải.
+* **Đợt đắp cao (Embankment Raise / Dam Raise)**: Mỗi lần nâng cao đập bùn thải, đắp theo phương pháp thượng nguồn, tim tuyến hoặc hạ lưu.
+* **Phương pháp đắp hạ lưu (Downstream Method)**: Mỗi đợt nâng được đắp lùi về phía hạ lưu so với đợt trước, phần lớn thân đập tựa trên nền móng — phương pháp an toàn nhất.
+* **Phương pháp đắp tim tuyến (Centerline Method)**: Các đợt nâng đắp trên tim tuyến ban đầu; mức rủi ro trung bình.
+* **Phương pháp đắp thượng nguồn (Upstream Method)**: Mỗi đợt nâng đắp về phía thượng nguồn, thân đập tựa trên bùn thải lỏng, bão hòa — rủi ro cao nhất, dễ hóa lỏng.
+* **Bãi bùn (Beach)**: Mặt dốc thoải của khối bùn thải lắng đọng giữa điểm xả bùn và hồ nước bề mặt.
+* **Hình học bãi bùn (Beach Geometry)**: Độ dốc và chiều dài bãi bùn, quyết định vị trí mặt nước thấm và chiều cao an toàn được duy trì.
+* **Hồ nước bề mặt (Supernatant Pond)**: Khối nước trong phía trên khối bùn lắng, được thu hồi hoặc xả tràn.
+* **Hệ thống xả tràn - Decant (Decant Tower / Decant System)**: Kết cấu và đường ống dùng để tháo nước bề mặt, kiểm soát mực hồ và chiều cao an toàn.
+* **Chiều cao an toàn - Freeboard (Freeboard)**: Khoảng cách thẳng đứng giữa mặt hồ và điểm thấp nhất của đỉnh đập; biện pháp bảo vệ chính chống tràn qua đỉnh.
+* **Phân phối bùn (Spigotting / Deposition)**: Xả bùn từ đỉnh đập để tạo bãi bùn bằng phương pháp lắng đọng thủy lực.
+* **Bùn thải cô đặc / hồ dẻo / lọc ép (Thickened / Paste / Filtered Tailings)**: Bùn thải đã khử nước (hàm lượng rắn tăng dần), giảm nước tự do và giảm nguy cơ hóa lỏng.
+* **Lưu giữ trong hố khai thác / bãi vành khuyên (In-Pit / Paddock Storage)**: Lưu giữ bùn thải trong hố mỏ đã khai thác hoặc bãi đê vành khuyên thay vì đập chắn thung lũng.
+* **Hóa lỏng (Liquefaction)**: Mất sức kháng cắt khi đất bão hòa, rời (co ngót thể tích) bị gia tải hoặc rung động và áp lực nước lỗ rỗng tăng đến mức ứng suất hiệu dụng gần bằng không.
+* **Hóa lỏng tĩnh (Static Liquefaction)**: Hóa lỏng do tải trọng tĩnh (đợt nâng cao, mực hồ dâng nhanh, hoặc nền yếu) chứ không do động đất — cơ chế thảm khốc chủ đạo của phá hoại đập bùn thải.
+* **Hóa lỏng do động đất (Seismic Liquefaction)**: Hóa lỏng do rung động lặp của động đất.
+* **Tỷ số áp lực lỗ rỗng ($r_u$)**: Tỷ số giữa áp lực nước lỗ rỗng đo được và ứng suất hiệu dụng thẳng đứng ban đầu ($r_u = u / \sigma'_v$); giá trị tăng báo hiệu nguy cơ hóa lỏng.
+* **Áp lực lỗ rỗng dư (Excess Pore Pressure)**: Áp lực nước lỗ rỗng vượt giá trị ổn định (thủy tĩnh), sinh ra do gia tải, thi công hoặc rung động.
+* **Phá hoại dòng chảy / tầm xa (Flow Failure / Run-out)**: Khối đất đã hóa lỏng chảy nhanh và đi xa, gây thiệt hại nghiêm trọng ở hạ lưu.
+* **Tầng thoát nước chân đập (Toe Drain)**: Đới thấm hoặc rãnh thoát ở chân hạ lưu để thu và kiểm soát dòng thấm, giữ mặt nước thấm ở mức thấp.
+* **Thấm đục (Turbid Seepage)**: Dòng thấm mang theo hạt đất mịn (nước đục) — dấu hiệu cảnh báo xói mòn trong (piping).
+* **Cấp hậu quả (Consequence Category)**: Phân loại cơ sở theo mức ảnh hưởng tiềm ẩn ở hạ lưu khi phá hoại (thường A/B/C), quyết định cường độ giám sát và kiểm tra.
+* **Đóng cửa mỏ (Closure / Mine Closure)**: Giai đoạn sau khai thác, cơ sở được ngừng vận hành và làm an toàn, đòi hỏi giám sát tiếp tục cho đến khi đạt trạng thái ổn định lâu dài.
+* **InSAR / A-DInSAR (Giao thoa radar vệ tinh)**: Kỹ thuật viễn thám dùng các lần vệ tinh radar lặp lại để đo chuyển vị mặt đất cỡ milimét trên toàn cơ sở mà không cần thiết bị tại chỗ.
+
+---
+
+## 7. Giám sát Hiệu năng Đập (phạm vi ASCE MOP-135)
+
+* **Hiệu năng đập (Dam Performance)**: Ứng xử quan sát được của đập, nền và công trình phụ trợ so với ứng xử mong đợi.
+* **Ứng xử mong đợi so với đo được (Expected vs. Measured Behavior)**: Phép so sánh cốt lõi của quan trắc; khác biệt lớn, không giải thích được hoặc có xu hướng là một bất thường.
+* **Tín hiệu hiệu năng (Performance Signal)**: Chênh lệch giữa ứng xử đo được và mong đợi, dùng để đánh giá đập có vận hành chấp nhận được hay không.
+* **Mode phá hoại tiềm ẩn (Potential Failure Mode)**: Một cách phá hoại khả dĩ của đập (tràn qua đỉnh, xói mòn trong, mất ổn định mái dốc, thấm nền); cơ sở để lựa chọn thiết bị quan trắc.
+* **Áp lực đẩy nổi - Uplift (Uplift)**: Áp lực nước hướng lên tác dụng lên đáy đập bê tông hoặc trong nền, làm giảm ổn định.
+* **Công trình phụ trợ (Appurtenant Structures)**: Các công trình hỗ trợ như tràn xả lũ, công trình lấy nước và hệ thống xả tràn.
+* **Lún / chuyển vị đỉnh đập (Crest Settlement / Displacement)**: Chuyển động thẳng đứng hoặc ngang của đỉnh đập — chỉ báo biến dạng chính.
+* **Kế hoạch giám sát (Surveillance Plan)**: Chương trình được lập thành văn bản nêu rõ giám sát cái gì (trực quan và bằng thiết bị), tần suất nào, và cách ứng phó với từng bất thường.
+* **Kiểm tra độc lập (Independent Review)**: Định kỳ rà soát dữ liệu và chương trình quan trắc bởi một bên độc lập với đội vận hành, nhằm phát hiện các xu hướng bị "bình thường hóa".
+
+---
+
+## 8. Lập kế hoạch Chương trình Quan trắc & Độ tin cậy (Dunnicliff)
+
+* **Thiết bị quan trắc địa kỹ thuật (Geotechnical Instrumentation)**: Việc đo ứng xử của đất, đá, nền và kết cấu nhằm xác nhận hiệu năng và phát hiện thay đổi.
+* **Tiếp cận lập kế hoạch có hệ thống (Systematic Planning Approach)**: Quy trình có cấu trúc của Dunnicliff (trọng tâm của cuốn sách): xác định câu hỏi địa kỹ thuật trước, rồi mới chọn thông số, thiết bị, vị trí và tần suất.
+* **Câu hỏi địa kỹ thuật (Geotechnical Question)**: Câu hỏi cụ thể mà việc quan trắc phải trả lời (ví dụ: "tường có vượt chuyển vị cho phép không?"), quyết định đo cái gì và hỗ trợ quyết định nào.
+* **Chuỗi 25 mắt xích (The Chain of 25 Links)**: Ẩn dụ của Dunnicliff: thành công của quan trắc là một chuỗi từ xác định nhu cầu dự án đến số đọc phục vụ quyết định; đứt bất kỳ mắt xích nào, cả chuỗi thất bại.
+* **Công thức cho sự tin cậy (Recipe for Reliability)**: Tập hợp các "thành phần" (lựa chọn, mua sắm, lắp đặt, hiệu chuẩn, đọc số, bảo trì, xử lý dữ liệu, con người) tạo nên sự tin cậy của quan trắc.
+* **Phương pháp quan sát (Observational Method)**: Cách tiếp cận thiết kế được tinh chỉnh trong quá trình thi công dựa trên hiệu năng quan trắc được.
+* **Cảm biến biến đổi (Transducer)**: Thiết bị chuyển đổi một đại lượng vật lý (áp lực, chuyển vị, tải) thành tín hiệu điện hoặc khí nén.
+* **Độ chính xác so với độ đúng đắn (Accuracy vs. Precision)**: Độ chính xác là mức gần với giá trị thật; độ đúng đắn (độ lặp lại) là mức gần nhau của các số đọc lặp. Riêng một yếu tố không đảm bảo phép đo tốt.
+* **Hiện tượng trễ (Hysteresis)**: Sự phụ thuộc của đầu ra thiết bị vào chiều thay đổi (tăng tải so với giảm tải).
+* **Ngân sách sai số (Error Budget)**: Tổng hợp ảnh hưởng của mọi nguồn không đảm bảo riêng lẻ (cảm biến, cáp, thiết bị đọc, môi trường), giới hạn tổng độ không đảm bảo của phép đo.
+* **Hệ số hiệu chuẩn / Điểm không / Dải đo (Calibration Factor / Zero / Span)**: Độ dốc của quan hệ đầu vào–đầu ra (hệ số hiệu chuẩn), số đọc khi đầu vào bằng không (điểm không) và toàn dải đo (dải đo).
+* **Số đọc cơ sở (Baseline Reading)**: (Các) số đọc tham chiếu lấy sau khi lắp đặt và ổn định, dùng làm mốc so sánh cho mọi thay đổi về sau.
+* **Cột áp piezometric (Piezometric Head)**: Cao độ mặt nước tương đương ứng với một áp lực nước lỗ rỗng đo được.
+* **Độ trễ thủy lực (Hydraulic Time Lag)**: Độ trễ phản hồi của piezometer trước thay đổi áp lực nước lỗ rỗng, phụ thuộc tính thấm và hình học của đất xung quanh và màng lọc.
+* **Bão hòa / Khử khí (Saturation / De-airing)**: Quy trình loại bỏ không khí khỏi màng lọc và ống nối của piezometer để nó phản hồi đúng áp lực nước lỗ rỗng; bước lắp đặt quan trọng, hay bị bỏ qua.
+* **Hội tụ (Convergence)**: Sự co ngắn (khép) khoảng cách giữa các điểm trong hầm hoặc hố đào, biểu thị chuyển động của đất.
+* **Telltale (Thiết bị báo chuyển vị)**: Thiết bị đơn giản chỉ thị chuyển động tương đối bắc qua một khe nối hoặc tiết diện.
+* **Thanh sister bar (Sister Bar)**: Đầu đo biến dạng dây rung gắn song song với thanh thép (rebar) để đo biến dạng của thanh khi đúc trong bê tông.
+* **Khoan giải ứng suất (Overcoring)**: Kỹ thuật giải phóng ứng suất, trong đó thiết bị trong lỗ khoan được giải phóng bằng khoan bao quanh để tính ngược trạng thái ứng suất nguyên sinh của đá.
+* **Kích nạp phẳng (Flat Jack)**: Kích thủy lực mỏng đặt vào rãnh cắt trên đá để đo giải phóng ứng suất và ước lượng ứng suất nguyên sinh.
+* **Tế bào áp lực hố khoan - BPC (Borehole Pressure Cell)**: Thiết bị bơm vữa cố định trong lỗ khoan để theo dõi thay đổi ứng suất đá quanh đường hầm/hố đào.
+* **Tế bào ứng suất tiếp xúc (Contact Stress Cell)**: Tế bào áp lực đặt áp sát mặt tiếp xúc đất–kết cấu để đo ứng suất tiếp xúc.
+
+---
+
 *Xem thêm: [English Technical Glossary](../../glossary/index.md) · [Ma trận Tuân thủ Nghị định 114 & TCVN 9398](../tuan-thu/nghi-dinh-114-tcvn-9398.md) · [Môi trường thử nghiệm tương tác](../visualizer.md)*
