@@ -1,6 +1,6 @@
 ---
 lang: en
-lang_alt: vi/reference-manuals/index/
+lang_alt: vi/reference-manuals/
 ---
 # Reference Manuals
 

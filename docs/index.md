@@ -1,6 +1,6 @@
 ---
 lang: en
-lang_alt: vi/index/
+lang_alt: vi/
 ---
 # Geotechnical Instrumentation Knowledge Base
 

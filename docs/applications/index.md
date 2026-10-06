@@ -1,6 +1,6 @@
 ---
 lang: en
-lang_alt: vi/applications/index/
+lang_alt: vi/applications/
 ---
 # Applications
 

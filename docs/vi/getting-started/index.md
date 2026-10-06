@@ -1,6 +1,6 @@
 ---
 lang: vi
-lang_alt: getting-started/index/
+lang_alt: getting-started/
 ---
 
 # Bắt đầu

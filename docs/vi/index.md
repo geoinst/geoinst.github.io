@@ -1,6 +1,6 @@
 ---
 lang: vi
-lang_alt: index/
+lang_alt: 
 ---
 # Cơ sở Tri thức Địa kỹ thuật Việt Nam
 

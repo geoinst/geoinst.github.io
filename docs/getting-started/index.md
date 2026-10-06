@@ -1,6 +1,6 @@
 ---
 lang: en
-lang_alt: vi/getting-started/index/
+lang_alt: vi/getting-started/
 ---
 # Getting Started
 

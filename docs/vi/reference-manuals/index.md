@@ -1,6 +1,6 @@
 ---
 lang: vi
-lang_alt: reference-manuals/index/
+lang_alt: reference-manuals/
 ---
 
 # Tài liệu tham khảo
