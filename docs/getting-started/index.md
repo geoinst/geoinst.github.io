@@ -1,3 +1,7 @@
+---
+lang: en
+lang_alt: vi/getting-started/index/
+---
 # Getting Started
 
 Welcome to the Geotechnical Instrumentation Knowledge Base. This site is an **intranet-style reference** for engineers, researchers, and field technicians working with geotechnical instrumentation.

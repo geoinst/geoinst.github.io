@@ -1,3 +1,7 @@
+---
+lang: en
+lang_alt: vi/getting-started/how-to-use/
+---
 # How to Use This Site
 
 This is a curated **intranet** for the geotechnical instrumentation community, organized around the instrument portfolio.

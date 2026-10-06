@@ -1,3 +1,7 @@
+---
+lang: en
+lang_alt: vi/reference-manuals/dunnicliff/
+---
 # Dunnicliff — Geotechnical Instrumentation for Monitoring Field Performance
 
 **Author**: John Dunnicliff  

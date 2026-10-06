@@ -3,6 +3,8 @@ title: Neat Grout vs. Bentonite Grout
 category: Other Frequently Asked Questions
 modified: Mon, 27 Jun, 2022 at  1:22 PM
 article_id: 63000272895
+lang: en
+lang_alt: vi/field-notes/neat-grout-vs-bentonite-grout/
 ---
 
 # Neat Grout vs. Bentonite Grout

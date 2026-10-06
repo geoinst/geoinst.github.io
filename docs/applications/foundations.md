@@ -1,3 +1,7 @@
+---
+lang: en
+lang_alt: vi/applications/foundations/
+---
 # Foundation & Deep Excavation Monitoring
 
 ## Objective

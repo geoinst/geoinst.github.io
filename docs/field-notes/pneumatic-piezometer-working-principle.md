@@ -3,6 +3,8 @@ title: Pneumatic Piezometer - Working principle
 category: PIEZOMETERS
 modified: Thu, 18 Mar, 2021 at  2:38 PM
 article_id: 63000261684
+lang: en
+lang_alt: vi/field-notes/pneumatic-piezometer-working-principle/
 ---
 
 # Pneumatic Piezometer - Working principle

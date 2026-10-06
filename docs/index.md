@@ -1,3 +1,7 @@
+---
+lang: en
+lang_alt: vi/index/
+---
 # Geotechnical Instrumentation Knowledge Base
 
 > **An internal intranet for the geotechnical instrumentation community — built around the instrument portfolio and the field manuals engineers rely on every day.**

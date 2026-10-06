@@ -1,3 +1,7 @@
+---
+lang: en
+lang_alt: vi/reference-manuals/fhwa/
+---
 # FHWA Geotechnical Instrumentation Reference Manual
 
 **Source**: Federal Highway Administration (FHWA)

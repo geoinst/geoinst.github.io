@@ -1,3 +1,7 @@
+---
+lang: vi
+lang_alt: index/
+---
 # Cơ sở Tri thức Địa kỹ thuật Việt Nam
 
 > **Tài liệu kỹ thuật tiếng Việt về quan trắc địa kỹ thuật, hệ thống thu thập dữ liệu tự động (ADAQS) và tuân thủ tiêu chuẩn — dành cho kỹ sư, chủ đầu tư và đơn vị tư vấn tại Việt Nam.**

@@ -1,3 +1,7 @@
+---
+lang: en
+lang_alt: vi/applications/slope-stability/
+---
 # Slope Stability Monitoring
 
 ## Objective

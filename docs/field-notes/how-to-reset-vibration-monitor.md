@@ -3,6 +3,8 @@ title: How to reset vibration monitor
 category: VIBRATION AND OVERPRESSURE
 modified: Thu, 28 Oct, 2021 at  3:10 PM
 article_id: 63000267709
+lang: en
+lang_alt: vi/field-notes/how-to-reset-vibration-monitor/
 ---
 
 # How to reset vibration monitor

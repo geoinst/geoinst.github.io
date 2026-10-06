@@ -86,11 +86,44 @@ nav:
   - Home: index.md
   - "Tiếng Việt (VI)":
       - Trang chủ: vi/index.md
-      - Tuân thủ pháp lý:
+      - "Bắt đầu":
+          - Tổng quan: vi/getting-started/index.md
+          - Các loại thiết bị: vi/getting-started/categories.md
+          - Cách sử dụng trang này: vi/getting-started/how-to-use.md
+      - "Ghi chú thực địa":
+          - Sự cố kết nối Tiltmeter kỹ thuật số: vi/field-notes/digital-tilmeter-connection-issue.md
+          - Tài liệu cấu hình TDR (ES): vi/field-notes/documento-de-configuraci-n-de-tdr.md
+          - Nguyên lý hoạt động của Piezometer khí nén: vi/field-notes/how-do-pneumatic-piezometer-works.md
+          - Cách tìm tài nguyên SAA: vi/field-notes/how-to-find-saa-resources.md
+          - Lập trình bộ hẹn giờ Aerator khí nén: vi/field-notes/how-to-program-the-timer-on-a-pneumatic-aerator.md
+          - Xả khí khỏi Aerator khí nén: vi/field-notes/how-to-purge-air-out-of-a-pneumatic-aerator.md
+          - Đặt lại Máy giám sát rung động: vi/field-notes/how-to-reset-vibration-monitor.md
+          - Thiết lập cảm biến TDR & Bộ ghi dữ liệu: vi/field-notes/how-to-setup-a-tdr-sensor-and-data-logger.md
+          - Inclinalysis — Thay đổi giá trị trục X: vi/field-notes/inclinalysis-changing-values-on-the-x-axis.md
+          - Vữa Neat so với Vữa Bentonite: vi/field-notes/neat-grout-vs-bentonite-grout.md
+          - Piezometer khí nén — Nguyên lý làm việc: vi/field-notes/pneumatic-piezometer-working-principle.md
+          - TDR với phần mềm PC-TDR: vi/field-notes/tdr-setting-up-a-tdr-using-pc-tdr-software.md
+          - Tài liệu thiết lập TDR: vi/field-notes/tdr-setup-document.md
+          - Tính toán kPa/MPa Piezometer VW: vi/field-notes/vw-piezometer-kpa-mpa-calculation-spreadsheet.md
+      - "Ứng dụng":
+          - Tổng quan: vi/applications/index.md
+          - Ổn định sườn dốc: vi/applications/slope-stability.md
+          - Quan trắc đập: vi/applications/dam-monitoring.md
+          - Thiết bị hầm: vi/applications/tunnels.md
+          - Móng & Đào đất: vi/applications/foundations.md
+      - "Sổ tay tham khảo":
+          - Mục lục: vi/reference-manuals/index.md
+          - Dunnicliff (Quan trắc hiện trường): vi/reference-manuals/dunnicliff.md
+          - Sổ tay tham khảo FHWA: vi/reference-manuals/fhwa.md
+          - Das (Kỹ thuật móng): vi/reference-manuals/das-foundation.md
+          - Das (Kỹ thuật địa kỹ thuật): vi/reference-manuals/das-geotech.md
+      - "Môi trường thử nghiệm tương tác": vi/visualizer.md
+      - "Bác sĩ GTI (AI)": vi/gti-doctor.md
+      - "Tuân thủ pháp lý":
           - Tổng quan: vi/tuan-thu/index.md
           - Ma trận Nghị định 114 & TCVN 9398: vi/tuan-thu/nghi-dinh-114-tcvn-9398.md
-      - Hệ thống ADAQS: vi/adaqs/index.md
-      - Thuật ngữ Anh – Việt: vi/thuat-ngu/index.md
+      - "Hệ thống ADAQS": vi/adaqs/index.md
+      - "Thuật ngữ Anh – Việt": vi/thuat-ngu/index.md
   - "Compliance (EN)":
       - Decree 114 / TCVN 9398 Matrix: compliance/decree-114-tcvn-9398.md
   - Getting Started:

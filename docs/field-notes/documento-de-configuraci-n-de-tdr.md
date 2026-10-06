@@ -3,6 +3,8 @@ title: Documento de configuración de TDR
 category: DATA LOGGERS
 modified: Wed, 13 Jul, 2022 at  9:42 AM
 article_id: 63000273225
+lang: en
+lang_alt: vi/field-notes/documento-de-configuraci-n-de-tdr/
 ---
 
 # Documento de configuración de TDR

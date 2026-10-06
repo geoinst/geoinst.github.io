@@ -3,6 +3,8 @@ title: How to setup a TDR Sensor and TDR logger Datalogger
 category: DATA LOGGERS
 modified: Mon, 11 Jul, 2022 at 10:14 AM
 article_id: 63000273146
+lang: en
+lang_alt: vi/field-notes/how-to-setup-a-tdr-sensor-and-data-logger/
 ---
 
 # How to setup a TDR Sensor and TDR logger Datalogger

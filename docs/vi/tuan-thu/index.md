@@ -1,3 +1,6 @@
+---
+lang: vi
+---
 # Tuân thủ pháp lý trong quan trắc địa kỹ thuật
 
 Khu vực này tập hợp các tài liệu giúp **chuyển yêu cầu pháp luật và tiêu chuẩn Việt Nam thành yêu cầu kỹ thuật cụ thể** cho hệ thống quan trắc.

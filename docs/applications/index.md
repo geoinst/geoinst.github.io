@@ -1,3 +1,7 @@
+---
+lang: en
+lang_alt: vi/applications/index/
+---
 # Applications
 
 Geotechnical instrumentation programs are usually designed around a project's primary monitoring objective. The main application areas featured on this site:

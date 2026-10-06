@@ -1,3 +1,7 @@
+---
+lang: en
+lang_alt: vi/reference-manuals/index/
+---
 # Reference Manuals
 
 This section catalogs the **18 reference PDFs** (472 MB) that form this knowledge base's corpus. Each entry below resolves to a per-manual chapter with extracted text, key concepts, and cross-links.

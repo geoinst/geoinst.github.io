@@ -1,3 +1,7 @@
+---
+lang: en
+lang_alt: vi/visualizer/
+---
 # 📊 Interactive Geotechnical Monitoring Visualizer
 
 Experience an interactive visual model of geotechnical instrumentation systems, sensor physics, automated data acquisition topologies, and real-time displacement profiles.

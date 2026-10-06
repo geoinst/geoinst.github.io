@@ -1,3 +1,7 @@
+---
+lang: en
+lang_alt: vi/reference-manuals/das-geotech/
+---
 # Principles of Geotechnical Engineering — Braja M. Das (7th edition)
 
 Companion to Das's foundation text. Covers:

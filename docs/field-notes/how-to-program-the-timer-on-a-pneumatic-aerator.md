@@ -3,6 +3,8 @@ title: How to program the timer on a D’Aerator
 category: VIBRATING WIRE LIQUID SETTLEMENT SYSTEM
 modified: Mon, 1 Nov, 2021 at  8:46 AM
 article_id: 63000267781
+lang: en
+lang_alt: vi/field-notes/how-to-program-the-timer-on-a-pneumatic-aerator/
 ---
 
 # How to program the timer on a D’Aerator

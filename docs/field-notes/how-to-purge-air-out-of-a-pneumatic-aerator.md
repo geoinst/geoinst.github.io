@@ -3,6 +3,8 @@ title: How to purge air out of a D&#39;Aerator
 category: VIBRATING WIRE LIQUID SETTLEMENT SYSTEM
 modified: Mon, 1 Nov, 2021 at  1:17 PM
 article_id: 63000262585
+lang: en
+lang_alt: vi/field-notes/how-to-purge-air-out-of-a-pneumatic-aerator/
 ---
 
 # How to purge air out of a D&#39;Aerator

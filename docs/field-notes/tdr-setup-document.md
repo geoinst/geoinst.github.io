@@ -3,6 +3,8 @@ title: TDR logger Setup Document
 category: DATA LOGGERS
 modified: Wed, 13 Jul, 2022 at 10:53 AM
 article_id: 63000273248
+lang: en
+lang_alt: vi/field-notes/tdr-setup-document/
 ---
 
 # TDR logger Setup Document

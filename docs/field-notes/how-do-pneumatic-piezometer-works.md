@@ -3,6 +3,8 @@ title: How do Pneumatic Piezometer works?
 category: PIEZOMETERS
 modified: Thu, 14 Oct, 2021 at 12:12 PM
 article_id: 63000267419
+lang: en
+lang_alt: vi/field-notes/how-do-pneumatic-piezometer-works/
 ---
 
 # How do Pneumatic Piezometer works?

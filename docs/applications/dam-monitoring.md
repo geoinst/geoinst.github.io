@@ -1,3 +1,7 @@
+---
+lang: en
+lang_alt: vi/applications/dam-monitoring/
+---
 # Dam Monitoring
 
 ## Objective

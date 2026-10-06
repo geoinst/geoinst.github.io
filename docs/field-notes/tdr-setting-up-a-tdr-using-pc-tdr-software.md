@@ -3,6 +3,8 @@ title: TDR logger – Setting up a TDR using PC-TDR software
 category: DATA LOGGERS
 modified: Tue, 20 Aug, 2024 at  1:33 PM
 article_id: 63000283904
+lang: en
+lang_alt: vi/field-notes/tdr-setting-up-a-tdr-using-pc-tdr-software/
 ---
 
 # TDR logger – Setting up a TDR using PC-TDR software

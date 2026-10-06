@@ -1,3 +1,6 @@
+---
+lang: vi
+---
 # Hệ thống thu thập dữ liệu tự động (ADAQS)
 
 > **ADAQS — Automatic Data Acquisition System** là lớp nằm giữa cảm biến và người ra quyết định: nó biến tín hiệu điện thành dữ liệu, biến dữ liệu thành thông tin, và biến thông tin thành cảnh báo kịp thời.

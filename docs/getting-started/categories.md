@@ -1,3 +1,7 @@
+---
+lang: en
+lang_alt: vi/getting-started/categories/
+---
 # Instrument Categories
 
 Geotechnical instruments are grouped by **what they measure**. The four foundational categories below cover the vast majority of field-monitoring programs.

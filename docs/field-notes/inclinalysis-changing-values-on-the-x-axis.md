@@ -3,6 +3,8 @@ title: Inclinalysis - Changing Values on the X Axis
 category: INCLINALYSIS DIGITAL INCLINOMETER SOFTWARE
 modified: Mon, 11 Jul, 2022 at  9:35 AM
 article_id: 63000273144
+lang: en
+lang_alt: vi/field-notes/inclinalysis-changing-values-on-the-x-axis/
 ---
 
 # Inclinalysis - Changing Values on the X Axis

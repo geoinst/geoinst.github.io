@@ -1,3 +1,6 @@
+---
+lang: vi
+---
 # Thuật ngữ Anh – Việt — Quan trắc địa kỹ thuật
 
 > Từ điển thuật ngữ chuyên ngành quan trắc địa kỹ thuật và tự động hoá thu thập dữ liệu. Dùng để thống nhất cách dịch trong hồ sơ thiết kế, biên bản nghiệm thu và tài liệu kỹ thuật.

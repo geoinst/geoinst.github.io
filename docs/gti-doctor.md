@@ -1,3 +1,7 @@
+---
+lang: en
+lang_alt: vi/gti-doctor/
+---
 # GTI Doctor — AI Assistant
 
 > 🤖 **The GTI Doctor AI assistant is now LIVE.** Ask it questions about geotechnical instrumentation — sensor specifications, installation procedures, application checklists — and it answers using grounded citations from the 18 reference manuals in this knowledge base (5,032 indexed chunks, 12.5 MB of text).

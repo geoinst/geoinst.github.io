@@ -1,3 +1,7 @@
+---
+lang: en
+lang_alt: vi/reference-manuals/das-foundation/
+---
 # Principles of Foundation Engineering — Braja M. Das (7th edition)
 
 The Das textbook is the academic backbone for foundation engineering courses worldwide. Chapters cover:
