@@ -212,6 +212,14 @@ nav:
           - "Ch.10 Thuỷ lực công trình": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-10-hydraulics.md
           - "Ch.11 Động đất với công trình xây dựng": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-11-earthquakes.md
           - "Ch.12 Công nghệ thông tin trong địa kỹ thuật": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-12-geo-informatics.md
+      - "GeoVadis: Tương lai của Kỹ thuật Địa kỹ thuật (Tập 1)":
+          - Tổng quan: vi/reference-manuals/geovadis/index.md
+          - "Ch.1 Báo cáo toàn thể: Nền móng & Địa nhiệt": vi/reference-manuals/geovadis/chapter-01-plenary-advances.md
+          - "Ch.2 Trí tuệ nhân tạo (AI) & Cơ học tính toán": vi/reference-manuals/geovadis/chapter-02-ai-computational-geomechanics.md
+          - "Ch.3 Địa kỹ thuật vùng lạnh & Môi trường": vi/reference-manuals/geovadis/chapter-03-cold-coastal-environmental.md
+          - "Ch.4 Kỹ thuật địa chấn & Động lực học đất": vi/reference-manuals/geovadis/chapter-04-earthquake-soil-dynamics.md
+          - "Ch.5 Móng sâu & Hố đào sâu": vi/reference-manuals/geovadis/chapter-05-foundations-deep-excavation.md
+          - "Ch.6 Vật liệu tổng hợp & Đất có cốt": vi/reference-manuals/geovadis/chapter-06-geosynthetic-engineering.md
       - "Môi trường thử nghiệm tương tác": vi/visualizer.md
       - "Bác sĩ GTI (AI)": vi/gti-doctor.md
       - "Tuân thủ pháp lý":
@@ -343,6 +351,14 @@ nav:
           - "Ch.10 Engineering Hydraulics": reference-manuals/geotechnical-engineers-handbook/chapter-10-hydraulics.md
           - "Ch.11 Earthquakes and Construction Works": reference-manuals/geotechnical-engineers-handbook/chapter-11-earthquakes.md
           - "Ch.12 Geoinformatics in Geotechnics": reference-manuals/geotechnical-engineers-handbook/chapter-12-geo-informatics.md
+      - "GeoVadis: The Future of Geotechnical Engineering (Vol. 1)":
+          - Overview: reference-manuals/geovadis/index.md
+          - "Ch.1 Plenary Advances: Ground Engineering & Energy": reference-manuals/geovadis/chapter-01-plenary-advances.md
+          - "Ch.2 AI and Computational Geomechanics": reference-manuals/geovadis/chapter-02-ai-computational-geomechanics.md
+          - "Ch.3 Cold, Coastal and Environmental Geotechnics": reference-manuals/geovadis/chapter-03-cold-coastal-environmental.md
+          - "Ch.4 Earthquake Engineering & Soil Dynamics": reference-manuals/geovadis/chapter-04-earthquake-soil-dynamics.md
+          - "Ch.5 Foundations & Deep Excavations": reference-manuals/geovadis/chapter-05-foundations-deep-excavation.md
+          - "Ch.6 Geosynthetics & Ground Reinforcement": reference-manuals/geovadis/chapter-06-geosynthetic-engineering.md
   - Interactive Sandbox: visualizer.md
   - GTI Doctor (AI): gti-doctor.md
   - Glossary: glossary/index.md

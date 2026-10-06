@@ -17,12 +17,38 @@ safety.
 
 ## 7.1 Classifying slope movements
 
+Two things decide whether a slope stands: the **angle of the slope** and the **strength
+of the material on it**. Both are then modified by water and by the orientation of any
+planes of weakness — bedding, foliation or joints — relative to the slope face. Where
+those planes are **parallel** to the slope, the slope is at its most unstable; where they
+are **perpendicular**, it is at its most stable.
+
+![Figure: geology-slope-bedding-stability](../../assets/figures/geology/slope-bedding-stability.jpg)
+
+**Figure.** Relative stability of slopes as a function of the orientation of weaknesses
+(here bedding planes) relative to the slope. A and B — bedding nearly perpendicular to the
+slope — are stable; D — bedding nearly parallel to the slope — is unstable; C is
+intermediate.
+*© Steven Earle, CC BY 4.0 — Physical Geology, 2nd ed., Fig. 15.1.2.*
+
 ### 7.1.1 Movement of natural slopes
 ### 7.1.2 Movement of man-made slopes
 
 ## 7.2 The main movement types
 
 ### 7.2.1 Rockfall — rolling and falling of rock blocks
+
+Rockfall is driven by **frost wedging and unloading** in steep, jointed rock. The
+weathered debris accumulates as a **talus** cone at the toe — a loose, poorly sorted and
+often metastable deposit, and itself a hazard if it is later cut or loaded.
+
+![Figure: geology-talus-rockfall](../../assets/figures/geology/talus-rockfall.jpg)
+
+**Figure.** Left: a talus slope near Keremeos, B.C. Right: the result of a rock fall onto a
+highway west of Keremeos in December 2014 — the hazard rockfall monitoring is designed to
+catch.
+*© Steven Earle, CC BY 4.0 — Physical Geology, 2nd ed., Fig. 15.2.2.*
+
 ### 7.2.2 Sliding
 
 Sliding is sub-divided by the shape of the failure surface:

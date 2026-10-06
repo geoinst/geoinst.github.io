@@ -34,15 +34,38 @@ with the straight-line distance — it reduces the effective flow through a medi
 The **degree of voiding** (mức độ rỗng) and the associated parameters (void ratio $e$,
 porosity $n$) quantify how much of the medium is void.
 
+![Figure: geology-porosity](../../assets/figures/geology/porosity.png)
+
+**Figure.** Typical porosity ranges for unconsolidated materials (red) and rocks (blue).
+Note that silt and clay are the *most* porous — yet, as the next figure shows, the least
+permeable.
+*© Steven Earle, CC BY 4.0 — Physical Geology, 2nd ed., Fig. 14.1.1.*
+
 ### 3.1.4 Degree of permeability
 
 **Permeability** (mức độ thấm) is the capacity of the medium to transmit water. It is
 the single most important property for seepage, drainage and consolidation problems.
 
+![Figure: geology-hydraulic-conductivity](../../assets/figures/geology/hydraulic-conductivity.png)
+
+**Figure.** Hydraulic conductivity $K$ (m/s) for unconsolidated materials (red) and rocks
+(blue) — a range of some twelve orders of magnitude. **Clay is porous but nearly
+impermeable**, because almost all of its water is held as bound water on the grain
+surfaces and cannot flow.
+*© Steven Earle, CC BY 4.0 — Physical Geology, 2nd ed., Fig. 14.1.2.*
+
 ### 3.1.5 Moisture content and degree of saturation
 
 **Moisture content** (độ ẩm) and **degree of saturation** (độ bão hoà) describe how
 much of the void space is filled with water.
+
+![Figure: geology-sand-dry-moist-saturated](../../assets/figures/geology/sand-dry-moist-saturated.png)
+
+**Figure.** Dry, moist and saturated sand. Surface tension between grains makes **moist**
+sand the strongest of the three; **saturated** sand is the weakest, because water under
+pressure pushes the grains apart and reduces friction. This is the mechanism behind
+liquefaction (Chapter 11).
+*© Steven Earle, CC BY 4.0 — Physical Geology, 2nd ed., Fig. 15.1.4.*
 
 ### 3.1.6 Surface tension
 
@@ -74,6 +97,22 @@ foundations, tunnels and dam abutments in Vietnam's limestone regions.
 
 Where the medium is uniformly permeable, groundwater distribution can be described
 analytically — the basis for the flow-net and seepage calculations in Chapter 10.
+
+### 3.2.4 Aquifers, aquitards and confining layers
+
+A body of ground that transmits water usefully is an **aquifer** (tầng chứa nước); one
+that does not is an **aquitard** or **confining layer** (tầng cách nước). An aquifer
+open to the surface is **unconfined** (không áp); one capped by a lower-permeability
+layer is **confined** (có áp) — and the pore pressure in a confined aquifer is what
+makes piezometers read above the level of the aquifer itself.
+
+![Figure: geology-aquifers-confining](../../assets/figures/geology/aquifers-confining.png)
+
+**Figure.** A cross-section of aquifers and confining layers, with relative permeabilities
+given as hydraulic conductivity $K$ (m/s). The grey layer ($K = 10^{-4}$) confines the
+yellow aquifer ($K = 10^{-1}$) beneath it; the granite at the base ($K = 10^{-10}$) is
+the regional aquitard.
+*© Steven Earle, CC BY 4.0 — Physical Geology, 2nd ed., Fig. 14.1.4.*
 
 ## 3.3 Terminology
 
