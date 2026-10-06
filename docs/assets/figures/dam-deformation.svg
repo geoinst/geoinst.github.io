@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 380" font-family="Inter, Arial, sans-serif">
+  <rect width="780" height="380" fill="#ffffff"/>
+  <text x="390" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Deformation monitoring — survey and internal</text>
+
+  <!-- foundation -->
+  <rect x="20" y="300" width="740" height="40" fill="#b8b0a2"/>
+  <!-- reservoir -->
+  <polygon points="20,180 285,180 190,300 20,300" fill="#9ec9ec"/>
+  <!-- embankment -->
+  <polygon points="190,300 330,100 450,100 650,300" fill="#c79a5b"/>
+  <!-- core -->
+  <polygon points="360,100 410,100 490,300 310,300" fill="#8a7f5f"/>
+
+  <!-- crest survey monuments -->
+  <g fill="#333">
+    <polygon points="324,100 336,100 330,86"/>
+    <polygon points="384,100 396,100 390,86"/>
+    <polygon points="444,100 456,100 450,86"/>
+  </g>
+
+  <!-- settlement arrow -->
+  <g stroke="#e53935" stroke-width="2" fill="#e53935">
+    <line x1="390" y1="70" x2="390" y2="98"/>
+    <polygon points="390,98 385,88 395,88"/>
+  </g>
+  <text x="470" y="72" text-anchor="middle" font-size="12" fill="#e53935">Settlement</text>
+
+  <!-- downstream movement arrow -->
+  <g stroke="#1565c0" stroke-width="2" fill="#1565c0">
+    <line x1="500" y1="150" x2="545" y2="150"/>
+    <polygon points="545,150 535,146 535,154"/>
+  </g>
+  <text x="560" y="140" text-anchor="middle" font-size="12" fill="#1565c0">Downstream movement</text>
+
+  <!-- inclinometer in downstream shoulder -->
+  <rect x="524" y="150" width="8" height="150" fill="#f0ad4e"/>
+  <rect x="518" y="228" width="20" height="14" fill="#e08e2e"/>
+
+  <!-- total station on right bank -->
+  <g stroke="#555" stroke-width="2">
+    <line x1="716" y1="300" x2="700" y2="272"/>
+    <line x1="716" y1="300" x2="732" y2="272"/>
+    <line x1="716" y1="300" x2="716" y2="268"/>
+  </g>
+  <rect x="708" y="262" width="16" height="10" fill="#555"/>
+  <line x1="716" y1="266" x2="600" y2="150" stroke="#999" stroke-width="1" stroke-dasharray="3 3"/>
+
+  <!-- labels -->
+  <g font-size="12" fill="#222">
+    <text x="390" y="66" text-anchor="middle" font-size="11">Crest survey monuments</text>
+    <text x="95" y="240" text-anchor="middle">Reservoir</text>
+    <text x="640" y="230" text-anchor="middle" fill="#e08e2e">Inclinometer</text>
+    <text x="716" y="320" text-anchor="middle" font-size="11" fill="#555">Total station</text>
+  </g>
+  <text x="390" y="372" text-anchor="middle" font-size="11" fill="#999">Schematic adapted from ASCE MOP-135 scope. Not to scale.</text>
+</svg>

@@ -51,6 +51,14 @@ combination.
     credible, pair surface monitoring with borehole instruments along that
     surface.
 
+![Figure: dunnicliff-inclinometer](../../assets/figures/dunnicliff-inclinometer.svg)
+
+**Figure.** Inclinometer. A probe (or in-place array) in a casing measures lateral displacement with depth and locates the shear plane (Dunnicliff, Ch. 12).
+
+![Figure: dunnicliff-extensometer](../../assets/figures/dunnicliff-extensometer.svg)
+
+**Figure.** Multi-point borehole extensometer (MPBX). Anchors at several depths and rods to a reference head reveal settlement or separation at depth (Dunnicliff, Ch. 12).
+
 ## 8.6 Key takeaways
 
 - Deformation is the usual pre-failure signal; measure it surface and deep.

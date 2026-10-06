@@ -50,6 +50,10 @@ referenced to a verified zero.
     strain and pore-pressure data. Measure temperature wherever thermal effects
     are plausible.
 
+![Figure: dunnicliff-load-cell-strain-gage](../../assets/figures/dunnicliff-load-cell-strain-gage.svg)
+
+**Figure.** Load cells and strain gages. A center-hole load cell measures anchor or strut force; a sister-bar gage measures strain in a rebar (Dunnicliff, Ch. 13).
+
 ## 9.6 Key takeaways
 
 - Load cells and strain gages confirm structural members behave as designed.

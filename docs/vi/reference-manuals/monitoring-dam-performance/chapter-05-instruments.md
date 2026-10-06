@@ -62,6 +62,10 @@ Sự lựa chọn tuân theo bước lập kế hoạch: ghép thiết bị vớ
 tại các vị trí quan trọng nhất là thận trọng — nếu piezometer duy nhất bảo vệ một
 hình thức hư hỏng bị hỏng, chương trình sẽ có một điểm mù.
 
+![Figure: dam-monitoring-layout](../../../assets/figures/dam-monitoring-layout.svg)
+
+**Hình.** Bố trí thiết bị điển hình trên đập đắp: khảo sát đỉnh đập, piezometer, extensometer, inclinometer, tầng thoát nước chân và trạm đo thấm (phạm vi ASCE MOP-135).
+
 ## 5.7 Các điểm chính cần nhớ
 
 - Thiết bị thuộc về các họ mực nước, áp lực lỗ rỗng, thấm, biến dạng, kết cấu và môi trường.

@@ -57,6 +57,10 @@ dam moved; an inclinometer shows *at what depth*; piezometers show *why*
     Embankments settle as they consolidate; the first years define the normal
     settlement rate. Later acceleration stands out clearly against that baseline.
 
+![Figure: dam-deformation](../../assets/figures/dam-deformation.svg)
+
+**Figure.** Deformation monitoring: crest survey monuments (settlement, downstream movement) plus an inclinometer for internal shear (ASCE MOP-135 scope).
+
 ## 8.7 Key takeaways
 
 - Deformation is the most direct distress signal; monitor it inside and out.

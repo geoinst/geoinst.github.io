@@ -48,6 +48,10 @@ reliably than as absolute values, and correlate with deformation (Chapter 8).
     under-reads. Match the cell to the medium, or interpret with that bias in
     mind.
 
+![Figure: dunnicliff-earth-pressure-cell](../../assets/figures/dunnicliff-earth-pressure-cell.svg)
+
+**Figure.** Earth pressure cells. A contact-stress cell measures pressure against a structure; a total-stress cell is buried in fill. Match cell stiffness to the ground (Dunnicliff, Ch. 10).
+
 ## 7.5 Key takeaways
 
 - Total stress in soil and stress change in rock need different instruments.

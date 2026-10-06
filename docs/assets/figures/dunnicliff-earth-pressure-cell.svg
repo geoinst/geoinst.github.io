@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 360" font-family="Inter, Arial, sans-serif">
+  <rect width="780" height="360" fill="#ffffff"/>
+  <text x="390" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Earth pressure cells — total and contact stress</text>
+
+  <!-- Panel A: contact stress cell against a wall -->
+  <g>
+    <text x="195" y="52" text-anchor="middle" font-size="13" font-weight="700" fill="#222">Contact stress cell (wall)</text>
+    <rect x="60" y="80" width="30" height="230" fill="#9a9a9a"/>
+    <rect x="90" y="80" width="230" height="230" fill="#e8d9b0"/>
+    <line x1="90" y1="80" x2="320" y2="80" stroke="#8a7f5f" stroke-width="2"/>
+    <!-- cell flush with wall face -->
+    <rect x="92" y="170" width="10" height="46" fill="#8e44ad"/>
+    <line x1="102" y1="193" x2="250" y2="193" stroke="#8e44ad" stroke-width="1.5" stroke-dasharray="5 4"/>
+    <text x="215" y="210" text-anchor="middle" font-size="11" fill="#8e44ad">Cell flush with face</text>
+    <text x="45" y="200" text-anchor="middle" font-size="11" fill="#444" transform="rotate(-90 45 200)">Wall</text>
+    <text x="205" y="140" text-anchor="middle" font-size="11" fill="#444">Soil</text>
+  </g>
+
+  <!-- Panel B: total stress cell buried in fill -->
+  <g>
+    <text x="585" y="52" text-anchor="middle" font-size="13" font-weight="700" fill="#222">Total stress cell (in fill)</text>
+    <rect x="430" y="80" width="300" height="230" fill="#e8d9b0"/>
+    <!-- embankment over fill -->
+    <polygon points="430,80 585,30 740,80" fill="#c79a5b"/>
+    <!-- buried cell -->
+    <rect x="560" y="170" width="52" height="10" fill="#8e44ad"/>
+    <line x1="586" y1="180" x2="586" y2="250" stroke="#8e44ad" stroke-width="1.5" stroke-dasharray="5 4"/>
+    <text x="586" y="266" text-anchor="middle" font-size="11" fill="#8e44ad">Cell in fill</text>
+    <text x="585" y="130" text-anchor="middle" font-size="11" fill="#444">Embankment load</text>
+  </g>
+
+  <text x="390" y="340" text-anchor="middle" font-size="11" fill="#999">Match cell stiffness to the ground: a cell much stiffer over-reads; much softer under-reads. Adapted from Dunnicliff, Ch. 10.</text>
+</svg>

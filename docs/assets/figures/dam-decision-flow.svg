@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 340" font-family="Inter, Arial, sans-serif">
+  <rect width="780" height="340" fill="#ffffff"/>
+  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">From reading to decision</text>
+
+  <!-- boxes -->
+  <g font-size="12" fill="#fff" text-anchor="middle">
+    <rect x="30" y="150" width="120" height="54" rx="8" fill="#1565c0"/><text x="90" y="182">Data reading</text>
+    <rect x="185" y="150" width="140" height="54" rx="8" fill="#1565c0"/><text x="255" y="182">Validate vs baseline</text>
+    <rect x="360" y="150" width="150" height="54" rx="8" fill="#1565c0"/><text x="435" y="182">Compare to expected</text>
+  </g>
+
+  <!-- arrows -->
+  <g stroke="#555" stroke-width="2" fill="#555">
+    <line x1="150" y1="177" x2="185" y2="177"/><polygon points="185,177 175,172 175,182"/>
+    <line x1="325" y1="177" x2="360" y2="177"/><polygon points="360,177 350,172 350,182"/>
+  </g>
+
+  <!-- decision branches -->
+  <g font-size="12" text-anchor="middle">
+    <rect x="560" y="70" width="190" height="54" rx="8" fill="#4caf50"/><text x="655" y="102" fill="#fff">Within expected</text>
+    <rect x="560" y="216" width="190" height="54" rx="8" fill="#e53935"/><text x="655" y="248" fill="#fff">Anomaly — evaluate &amp; act</text>
+  </g>
+  <g stroke="#555" stroke-width="2" fill="#555">
+    <line x1="510" y1="168" x2="560" y2="110"/><polygon points="560,110 549,113 555,121"/>
+    <line x1="510" y1="186" x2="560" y2="240"/><polygon points="560,240 555,229 549,237"/>
+  </g>
+  <text x="540" y="120" font-size="11" fill="#2e7d32">Yes</text>
+  <text x="540" y="230" font-size="11" fill="#b71c1c">No</text>
+
+  <!-- follow-on for anomaly -->
+  <rect x="560" y="290" width="190" height="40" rx="8" fill="#8e44ad"/>
+  <text x="655" y="315" font-size="12" fill="#fff" text-anchor="middle">Trigger / action / emergency</text>
+  <line x1="655" y1="270" x2="655" y2="290" stroke="#555" stroke-width="2"/>
+  <polygon points="655,290 650,280 660,280" fill="#555"/>
+
+  <text x="360" y="315" text-anchor="middle" font-size="11" fill="#999">Monitoring supports — never replaces — engineering judgment.</text>
+</svg>

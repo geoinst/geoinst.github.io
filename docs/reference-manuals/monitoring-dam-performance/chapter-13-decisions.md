@@ -55,6 +55,10 @@ A good program learns. Each anomaly, whether benign or serious, updates the
 baseline, the thresholds, and the plan. Over the dam's life, the monitoring
 program itself improves.
 
+![Figure: dam-decision-flow](../../assets/figures/dam-decision-flow.svg)
+
+**Figure.** From reading to decision: validate against the baseline, compare to expected behavior, then act (ASCE MOP-135 scope).
+
 ## 13.7 Key takeaways
 
 - Monitoring's purpose is a defensible decision: what should we do?

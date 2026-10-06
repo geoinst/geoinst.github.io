@@ -80,6 +80,10 @@ For each credible PFM, the engineer defines:
 
 This mapping is the bridge from Chapter 2 to Chapter 4.
 
+![Figure: dam-failure-modes](../../assets/figures/dam-failure-modes.svg)
+
+**Figure.** Potential failure modes of an embankment dam: overtopping, internal erosion (piping), slope instability, and foundation seepage (ASCE MOP-135 scope).
+
 ## 2.7 Key takeaways
 
 - Plan monitoring from credible failure modes, not from a catalog of instruments.

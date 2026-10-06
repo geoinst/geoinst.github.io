@@ -54,6 +54,10 @@ cho mỗi điểm đo. Một điểm tách lên khỏi dải lịch sử của n
 — đặc biệt đi kèm với độ đục — là một bất thường đòi hỏi đánh giá
 ([Chương 12](chapter-12-evaluation.md)).
 
+![Figure: dam-phreatic-seepage](../../../assets/figures/dam-phreatic-seepage.svg)
+
+**Hình.** Thấm và mặt nước thấm qua đập đắp, với tầng thoát nước chân đập và trạm đo thấm (phạm vi ASCE MOP-135).
+
 ## 7.8 Điểm mấu chốt
 
 - Giám sát thấm *lượng* và *chất lượng*; độ đục thường quan trọng hơn thể tích.

@@ -53,6 +53,10 @@ evaluation, not panic — and acceleration is the earliest warning.
     A pore-pressure time-series alone is hard to read; plotted against reservoir
     or rainfall level, the relationship — and any anomaly — becomes obvious.
 
+![Figure: dunnicliff-data-timeline](../../assets/figures/dunnicliff-data-timeline.svg)
+
+**Figure.** From baseline to operation. Judge change against the baseline and plot readings against the driving variable (Dunnicliff, Ch. 18).
+
 ## 13.7 Key takeaways
 
 - Establish baseline readings; judge change against them.

@@ -49,6 +49,10 @@ defensibility over the instrument's life.
     trends until someone notices a physically impossible reading. Schedule
     verification; don't wait for the impossible number.
 
+![Figure: dunnicliff-calibration](../../assets/figures/dunnicliff-calibration.svg)
+
+**Figure.** Calibration. The input-output relationship (slope = calibration factor), with zero, span, and hysteresis (Dunnicliff, Ch. 7 and 16).
+
 ## 11.6 Key takeaways
 
 - Calibration ties output to physical quantity; verify it in the field.

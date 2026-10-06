@@ -42,6 +42,10 @@ Khối đá nứt nẻ và công trình ngầm đòi hỏi các phương pháp �
 - **Phương pháp kích phẳng (Flat Jacks)**: Cắt một khe hẹp trên vách đá hầm để giải phóng ứng suất (hai mốc biến dạng co lại), sau đó chèn kích phẳng thủy lực và bơm dầu cho đến khi hai mốc dãn về vị trí ban đầu. Áp lực dầu lúc này tương đương với ứng suất ban đầu của vách đá.
 - **Phương pháp khoan giải ứng suất (Overcoring Technique)**: Dán đầu đo biến dạng đa trục (USBM gauge hoặc CSIR/CSIRO hollow inclusion cell) vào đáy một hố khoan nhỏ, sau đó dùng mũi khoan lấy lõi đường kính lớn hơn khoan bao xung quanh để giải phóng hoàn toàn khối đá lõi khỏi trường ứng suất. Dựa trên biến dạng đàn hồi hồi phục, kỹ sư tính toán ngược lại tenxơ ứng suất nguyên sinh 3D của khối đá.
 
+![Figure: dunnicliff-earth-pressure-cell](../../../assets/figures/dunnicliff-earth-pressure-cell.svg)
+
+**Hình.** Tế bào áp lực đất. Tế bào ứng suất tiếp xúc đo áp lực lên kết cấu; tế bào ứng suất toàn phần được chôn trong đất đắp. Cần khớp độ cứng tế bào với nền đất (Dunnicliff, Ch. 10).
+
 ## 7.5 Các điểm then chốt cần ghi nhớ
 
 - Đo ứng suất đất khó hơn đo biến dạng hay đo áp lực nước vì sự bất đồng nhất của độ cứng vật liệu.

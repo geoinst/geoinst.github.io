@@ -55,6 +55,10 @@ for each measurement point. A point that departs upward from its historical band
 — especially with turbidity — is an anomaly demanding evaluation
 ([Chapter 12](chapter-12-evaluation.md)).
 
+![Figure: dam-phreatic-seepage](../../assets/figures/dam-phreatic-seepage.svg)
+
+**Figure.** Seepage and the phreatic surface through an embankment dam, with a toe drain and measuring weir (ASCE MOP-135 scope).
+
 ## 7.8 Key takeaways
 
 - Monitor seepage *quantity* and *quality*; turbidity often matters more than volume.

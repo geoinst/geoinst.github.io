@@ -33,6 +33,10 @@ Thiết bị đọc cầm tay phải được kiểm định định kỳ hàng 
 - **Mùa đông / Vùng lạnh**: Thiết bị chứa chất lỏng thủy lực phải pha dung dịch chống đông (ethylene glycol hoặc cồn); bảo vệ cáp không bị giòn nứt do nhiệt độ âm.
 - **Mùa mưa lũ / Vùng nhiệt đới**: Đảm bảo các tủ điện và hộp nối cáp được nâng cao hơn mực nước ngập lịch sử tối thiểu 1 m; gia cố chống chuột và côn trùng cắn phá cáp tín hiệu.
 
+![Figure: dunnicliff-calibration](../../../assets/figures/dunnicliff-calibration.svg)
+
+**Hình.** Hiệu chuẩn. Quan hệ đầu vào-đầu ra (độ dốc = hệ số hiệu chuẩn), với điểm không, dải đo và hiện tượng trễ (Dunnicliff, Ch. 7 và 16).
+
 ## 11.6 Các điểm then chốt cần ghi nhớ
 
 - Hiệu chuẩn là nền tảng để chuyển đổi tín hiệu cảm biến thành giá trị kỹ thuật thực tế.

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 420" font-family="Inter, Arial, sans-serif">
+  <rect width="780" height="420" fill="#ffffff"/>
+  <text x="390" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Embankment dam — potential failure modes</text>
+
+  <!-- foundation -->
+  <rect x="20" y="310" width="740" height="40" fill="#b8b0a2"/>
+  <!-- reservoir water -->
+  <polygon points="20,180 277,180 180,310 20,310" fill="#9ec9ec"/>
+  <!-- embankment -->
+  <polygon points="180,310 330,110 450,110 640,310" fill="#c79a5b"/>
+
+  <!-- overtopping -->
+  <path d="M330,108 q60,-22 130,10" stroke="#2b6cb0" stroke-width="3" fill="none"/>
+  <polygon points="470,120 458,116 460,126" fill="#2b6cb0"/>
+  <text x="470" y="86" text-anchor="middle" font-size="12" fill="#2b6cb0">Overtopping</text>
+
+  <!-- piping / internal erosion -->
+  <polyline points="250,300 360,296 470,300 600,298 645,300" stroke="#e53935" stroke-width="2.5" stroke-dasharray="6 4" fill="none"/>
+  <text x="470" y="272" text-anchor="middle" font-size="12" fill="#e53935">Internal erosion (piping)</text>
+
+  <!-- slope instability -->
+  <path d="M450,150 A180,180 0 0 1 640,308" stroke="#8e44ad" stroke-width="2.5" fill="none" stroke-dasharray="7 5"/>
+  <polygon points="600,296 590,286 604,284" fill="#8e44ad"/>
+  <text x="660" y="200" text-anchor="middle" font-size="12" fill="#8e44ad">Slope</text>
+  <text x="660" y="216" text-anchor="middle" font-size="12" fill="#8e44ad">instability</text>
+
+  <!-- foundation seepage / uplift -->
+  <g stroke="#1565c0" stroke-width="1.8" fill="#1565c0">
+    <line x1="240" y1="332" x2="300" y2="332"/><polygon points="300,332 290,328 290,336"/>
+    <line x1="400" y1="332" x2="460" y2="332"/><polygon points="460,332 450,328 450,336"/>
+  </g>
+  <text x="390" y="368" text-anchor="middle" font-size="12" fill="#1565c0">Foundation seepage / uplift</text>
+
+  <!-- labels -->
+  <text x="95" y="250" text-anchor="middle" font-size="12" fill="#222">Reservoir</text>
+  <text x="560" y="205" text-anchor="middle" font-size="12" fill="#222">Embankment</text>
+  <text x="390" y="410" text-anchor="middle" font-size="11" fill="#999">Schematic adapted from ASCE MOP-135 scope. Not to scale.</text>
+</svg>

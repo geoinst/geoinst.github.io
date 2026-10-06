@@ -62,6 +62,10 @@ location, available power, accessibility, expected life, and data system. Redund
 at the most critical locations is prudent — if the one piezometer that guards a
 failure mode fails, the program has a blind spot.
 
+![Figure: dam-monitoring-layout](../../assets/figures/dam-monitoring-layout.svg)
+
+**Figure.** Typical instrument layout on an embankment dam: crest survey, piezometers, extensometer, inclinometer, toe drain, and seepage weir (ASCE MOP-135 scope).
+
 ## 5.7 Key takeaways
 
 - Instruments fall into water level, pore pressure, seepage, deformation,
