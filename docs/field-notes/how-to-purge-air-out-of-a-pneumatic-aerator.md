@@ -37,4 +37,4 @@ Step 13: NEVER LET THE MAKE-UP RESERVOIR GO DRY! ALWAYS TOP IT UP AS REQUIRED!!!
 
 Step 14: Once done that cell, turn the D’aerator off and disconnect the lines and repeat the process with the next cell.
 
-How to Purge air out of a D'Aerator
+How to Purge air out of a pneumatic aerator

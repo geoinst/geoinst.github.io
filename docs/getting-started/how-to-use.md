@@ -4,7 +4,7 @@ This is a curated **intranet** for the geotechnical instrumentation community, o
 
 ## Navigation
 
-- **Top tabs** organize content into main sections: Getting Started, Reference Manuals, Applications, Manufacturers, and GTI Doctor.
+- **Top tabs** organize content into main sections: Getting Started, Reference Manuals, Applications, and GTI Doctor.
 - **Sidebar** expands the section you're currently in.
 - **Search** (top of page) indexes the full text of every manual and product page — use it to find an instrument by part name, a parameter by unit (e.g., "kPa pore pressure"), or an application by project type.
 
@@ -32,6 +32,5 @@ If you spot a missing reference or a broken cross-link, contact the project main
 ## Source materials
 
 - PDFs in `C:\Users\Henry\Downloads\Geotech books\` (18 files, 472 MB) — see the [Reference Manuals](../reference-manuals/index.md) page for the catalog
-- Vendor archives at [DGSI](https://durhamgeo.com/), [GEO-Instruments](https://www.geo-instruments.com/), [Geocomp](https://www.geocomp.com/technical-resources/)
 
 > **Note**: All reference-manual content is reproduced or summarized for internal educational use. For the original textbook material, consult the publishers.

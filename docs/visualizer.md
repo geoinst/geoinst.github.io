@@ -230,18 +230,18 @@ graph TD
         IPI["In-Place Inclinometers<br/>(MEMS / Digital Bus)"]
         MPBX["Multi-Point Extensometers<br/>(Rod / Magnetic)"]
         LC["Load Cells & Strain Gauges<br/>(VW Load Cells / VWSG)"]
-        SAA["ShapeArray (Measurand)<br/>(SAA3D Deformations)"]
+        SAA["Shape array<br/>(SAA3D deformations)"]
     end
 
     subgraph Field_Logging_Telemetry["2. Autonomous Field Nodes & ADAS"]
         DT["DT Loggers<br/>(DT2011B / DT2055B / DT2485)"]
         L900["Wireless Nodes<br/>(900 MHz / 2.4 GHz Mesh)"]
-        CR6["Campbell Scientific ADAS<br/>(CR6 / AM16/32B Multiplexers)"]
+        CR6["Data acquisition logger<br/>(multiplexed inputs)"]
         HUB["Wireless Gateway<br/>(Cellular / Satellite / LoRaWAN)"]
     end
 
     subgraph Cloud_Intelligence["3. Cloud Platform & Real-Time Analytics"]
-        GEO["GeoExplorerIQ Platform<br/>(Terra Insights Cloud)"]
+        GEO["Cloud platform<br/>(web dashboard)"]
         CALC["Displacement & Velocity Vectors<br/>(Trend Lines / Spiral Corrections)"]
         TARP["Trigger Action Response Plans<br/>(Automated Alarms & Static Reports)"]
         GTI["GTI Doctor AI<br/>(Corpus-Grounded Assistant)"]

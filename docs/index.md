@@ -7,7 +7,6 @@ Welcome to a curated, searchable knowledge base covering:
 - **instrument portfolio** — piezometers, extensometers, inclinometers, and the wireless wireless data mesh
 - **Reference manuals** — Dunnicliff's *Geotechnical Instrumentation for Monitoring Field Performance*, the FHWA *Geotechnical Instrumentation Reference Manual*, Das's foundation and geotechnical engineering texts
 - **Field applications** — slope stability, dam seepage, tunnel linings, deep excavations, and embankment consolidation
-- **Industry manufacturers** — Durham Geo Slope Indicator (DGSI), GEO-Instruments, Geocomp
 
 ---
 
@@ -20,7 +19,6 @@ Welcome to a curated, searchable knowledge base covering:
 | Learn about instrument types and platforms | [Instrument Categories →](getting-started/categories.md) |
 | Look up a specific reference manual | [Reference Manuals →](reference-manuals/index.md) |
 | See instruments grouped by project application | [Applications →](applications/index.md) |
-| Compare industry suppliers | [Manufacturers →](manufacturers/index.md) |
 
 ---
 

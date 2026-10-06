@@ -1,23 +1,23 @@
 ---
-title: TDR200 – Setting up a TDR using PC-TDR software
+title: TDR logger – Setting up a TDR using PC-TDR software
 category: DATA LOGGERS
 modified: Tue, 20 Aug, 2024 at  1:33 PM
 article_id: 63000283904
 ---
 
-# TDR200 – Setting up a TDR using PC-TDR software
+# TDR logger – Setting up a TDR using PC-TDR software
 
-When using PC-TDR software to connect to a TDR via a TDR200 interface. Start the software and connect the TDR200 using the Micro-USB cable to the USB port on the computer. Under View, select Set Default Layout to use the full screen.
+When using PC-TDR software to connect to a TDR via a TDR logger interface. Start the software and connect the TDR logger using the Micro-USB cable to the USB port on the computer. Under View, select Set Default Layout to use the full screen.
 
 To add a add a new configuration and TDR, from the drop-down menu above, click New.
 
-Click on the TDR200 box to set the com port through which the TDR will be connected. The operator will be prompted to choose the com port and install the drivers.
+Click on the TDR logger box to set the com port through which the TDR will be connected. The operator will be prompted to choose the com port and install the drivers.
 
-When the TDR200 is connected to the computer with the micro-USB communication cable, the device will be powered.is connected. Check the ‘Device Manager’ com ports to identify the port that the TDR is connected to. The TDR200 should show up as a TDR200 in device manager, but it may not identify the same in the com port options in the PC-TDR software. In the example below, the port identified as a DT series data logger, but the port number is the important thing. If the TDR200 does not show up in the device manager, then the drivers have not been installed correctly.
+When the TDR logger is connected to the computer with the micro-USB communication cable, the device will be powered.is connected. Check the ‘Device Manager’ com ports to identify the port that the TDR is connected to. The TDR logger should show up as a TDR logger in device manager, but it may not identify the same in the com port options in the PC-TDR software. In the example below, the port identified as a DT series data logger, but the port number is the important thing. If the TDR logger does not show up in the device manager, then the drivers have not been installed correctly.
 
-Under Ports, the TDR200 is connected to port 29.
+Under Ports, the TDR logger is connected to port 29.
 
-The SDM address is only changed when multiple SDMX850 or SDMX50 multiplexors are used when connected to a single Campbell Scientific data logger.
+The SDM address is only changed when multiple SDMX850 or SDMX50 multiplexors are used when connected to a single data logger.
 
 When adding devices, use the green + button and choose ‘Coaxial’.
 

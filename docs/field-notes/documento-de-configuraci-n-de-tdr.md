@@ -7,9 +7,8 @@ article_id: 63000273225
 
 # Documento de configuración de TDR
 
-https://s.campbellsci.com/documents/ca/manuals/tdr200_man.pdf
 
-Conecte el cable coaxial a la conexión coaxial del TDR200.
+Conecte el cable coaxial a la conexión coaxial del TDR logger.
 
 Conecte un cable de micro USB a USB.
 

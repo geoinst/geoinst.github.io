@@ -5,7 +5,7 @@ Welcome to the Geotechnical Instrumentation Knowledge Base. This site is an **in
 ## Three ways to use this site
 
 1. **By instrument type** — start at [Instrument Categories](categories.md) to find what you need by the parameter you're measuring (lateral movement, pore pressure, settlement, load).
-2. **By manufacturer** — start at [Manufacturers](../manufacturers/index.md) to compare DGSI, GEO-Instruments, and Geocomp.
+2. **By instrument family** — start at [Instrument Categories](categories.md) to browse by what each instrument measures.
 3. **By application** — start at [Applications](../applications/index.md) to see instrument arrays grouped by project type (slope, dam, tunnel, foundation).
 
 ## What's inside

@@ -1,15 +1,14 @@
 ---
-title: TDR200 Setup Document
+title: TDR logger Setup Document
 category: DATA LOGGERS
 modified: Wed, 13 Jul, 2022 at 10:53 AM
 article_id: 63000273248
 ---
 
-# TDR200 Setup Document
+# TDR logger Setup Document
 
-https://s.campbellsci.com/documents/ca/manuals/tdr200_man.pdf
 
-3. Start the PC-TDR software and on the Network tab on the main page select the computer serial port you will be using to connect to the TDR200. On the ‘Selected Device Properties’ section. If required, the driver can be installed, but it is usually installed when the PC-TDR software is installed on the computer. The serial port is selected by clicking … and using the drop down to select the USB port that the TDR200 is connected to on the computer. None of the other settings have to be changed.
+3. Start the PC-TDR software and on the Network tab on the main page select the computer serial port you will be using to connect to the TDR logger. On the ‘Selected Device Properties’ section. If required, the driver can be installed, but it is usually installed when the PC-TDR software is installed on the computer. The serial port is selected by clicking … and using the drop down to select the USB port that the TDR logger is connected to on the computer. None of the other settings have to be changed.
 
 Click on and Drag the "Coaxial" under the probe selection menu. If using a multiplexer, select the appropriate Multiplexer. 4. Assign a name to each TDR cable.
 
@@ -29,7 +28,7 @@ Click on and Drag the "Coaxial" under the probe selection menu. If using a multi
 
 12. Saving the data.
 
-Connect the coaxial cable to the coaxial port on the TDR200.
+Connect the coaxial cable to the coaxial port on the TDR logger.
 
 Connect the micro USB to USB cable to the TDR 200 and the computer.
 

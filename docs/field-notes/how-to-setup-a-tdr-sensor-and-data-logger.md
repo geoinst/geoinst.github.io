@@ -1,13 +1,12 @@
 ---
-title: How to setup a TDR Sensor and TDR200 Datalogger
+title: How to setup a TDR Sensor and TDR logger Datalogger
 category: DATA LOGGERS
 modified: Mon, 11 Jul, 2022 at 10:14 AM
 article_id: 63000273146
 ---
 
-# How to setup a TDR Sensor and TDR200 Datalogger
+# How to setup a TDR Sensor and TDR logger Datalogger
 
-https://s.campbellsci.com/documents/ca/manuals/tdr200_man.pdf
 
 Click on and drag the "Coaxial" under the probe selection menu. If using a multiplexer, select the appropriate Multiplexer.Assign a name to each TDR cable.Set the Vp to 0.88 (Velocity of Propagation).Averages are set at 4The Points are set at 2000 to create 2000 measurement points over the length of the cable.The ‘Cable Length’ is the length of the cable above the ground surface.The ‘Window Length’ is the length of the cable that is installed in the borehole.
 
@@ -17,11 +16,11 @@ In the screenshot below, the thin blue line shows the baseline measurement; the 
 
 For more information on using the software, choose PC-TDR Help under Help on the top menu.
 
-Connect the coaxial cable to the coaxial port on the TDR200.
+Connect the coaxial cable to the coaxial port on the TDR logger.
 
 Connect the micro USB to USB cable to the TDR 200 and the computer.
 
-Start the PC-TDR software and on the Network tab on the main page select the computer serial port you will be using to connect to the TDR200. On the ‘Selected Device Properties’ section. If required, the driver can be installed, but it is usually installed when the PC-TDR software is installed on the computer. The serial port is selected by clicking … and using the drop down to select the USB port that the TDR200 is connected to on the computer. None of the other settings have to be changed.
+Start the PC-TDR software and on the Network tab on the main page select the computer serial port you will be using to connect to the TDR logger. On the ‘Selected Device Properties’ section. If required, the driver can be installed, but it is usually installed when the PC-TDR software is installed on the computer. The serial port is selected by clicking … and using the drop down to select the USB port that the TDR logger is connected to on the computer. None of the other settings have to be changed.
 
 Assign a name to each TDR cable.
 

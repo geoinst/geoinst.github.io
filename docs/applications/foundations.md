@@ -157,7 +157,7 @@ Verify design assumptions about load-settlement behavior, validate deep foundati
 | **Wall deflection** | Inclinometer + AMTS | MEMS IPI + AMTS |
 | **Groundwater monitoring** | Inside/outside piezometers | wireless piezometers |
 | **Surface settlement** | AMTS + GNSS | AMTS + Locator One |
-| **Automated alarms** | Threshold exceedance | Terra Insights Cloud |
+| **Automated alarms** | Threshold exceedance | cloud platform |
 | **Adjacent building monitoring** | Tilt + settlement | Tiltmeters + settlement plates + AMTS |
 
 ---

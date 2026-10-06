@@ -119,7 +119,7 @@ Monitor ground movement around tunnel excavation, convergence of linings, and po
 | **Real-time convergence** | Continuous crown/springline monitoring | wireless convergence sensors |
 | **Face pressure monitoring** | TBM shield pressure, dewatering | wireless piezometers |
 | **Rock bolt monitoring** | Bolt load + strain | VW load cells + strain gages |
-| **Automated alarms** | Threshold exceedance | Terra Insights Cloud |
+| **Automated alarms** | Threshold exceedance | cloud platform |
 | **TBM data integration** | Shield pressure, articulation | wireless mesh + TBM interface |
 
 ---

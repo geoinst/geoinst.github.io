@@ -78,7 +78,7 @@ Detect seepage changes, internal erosion, and deformation in embankment / concre
 | **Seepage weirs / flumes** | Quantify seepage discharge | Ch 21 | V-notch weirs |
 | **Temperature sensors** | Concrete hydration, freeze-thaw | Ch 14 | Thermistors, RTDs |
 | **wireless mesh** | Wireless data from all sensors | Ch 8, 18, 21 | wireless mesh + cellular/satellite backhaul |
-| **ADAS (Automated Data Acquisition)** | Real-time alarms, automated reporting | Ch 18.1.2, 21 | wireless + Terra Insights |
+| **ADAS (Automated Data Acquisition)** | Real-time alarms, automated reporting | Ch 18.1.2, 21 | wireless + cloud platform |
 
 ---
 
@@ -120,10 +120,10 @@ Detect seepage changes, internal erosion, and deformation in embankment / concre
 | System | Function | Implementation |
 |--------|----------|-------------------|
 | **ADAS** | Automated data acquisition | wireless + DT Link |
-| **Alarm thresholds** | Configurable per parameter | Terra Insights dashboard |
+| **Alarm thresholds** | Configurable per parameter | cloud dashboard |
 | **Data validation** | Automated QA/QC | Built-in QA/QC |
-| **Reporting** | Scheduled reports | Terra Insights scheduled reports |
-| **Remote access** | Web-based dashboard | Terra Insights Cloud |
+| **Reporting** | Scheduled reports | scheduled reports |
+| **Remote access** | Web-based dashboard | cloud platform |
 
 ---
 

@@ -2,9 +2,9 @@ site_name: Geotechnical Instrumentation Knowledge Base
 site_description: >-
   Geotechnical instrumentation knowledge base — field monitoring guides,
   instrument principles, and reference manuals for engineers.
-site_url: https://rstaffinity.github.io/geoinst/
-repo_url: https://github.com/rstaffinity/geoinst
-repo_name: rstaffinity/geoinst
+site_url: https://geoinst.github.io/
+repo_url: https://github.com/geoinst/geoinst.github.io
+repo_name: geoinst/geoinst.github.io
 edit_uri: ""
 
 theme:
@@ -101,16 +101,16 @@ nav:
       - Digital Tiltmeter Connection Issue: field-notes/digital-tilmeter-connection-issue.md
       - TDR Configuration Document (ES): field-notes/documento-de-configuraci-n-de-tdr.md
       - How Pneumatic Piezometers Work: field-notes/how-do-pneumatic-piezometer-works.md
-      - How to Find SAAV Resources: field-notes/how-to-find-saav-resources.md
-      - Programming the D'Aerator Timer: field-notes/how-to-program-the-timer-on-a-d-aerator.md
-      - Purging Air from a D'Aerator: field-notes/how-to-purge-air-out-of-a-d-39-aerator.md
-      - Resetting the Instantel Micromate: field-notes/how-to-reset-instantel-micromate.md
-      - TDR Sensor & TDR200 Setup: field-notes/how-to-setup-a-tdr-sensor-and-tdr200-datalogger.md
+      - How to Find SAA Resources: field-notes/how-to-find-saa-resources.md
+      - Programming the Pneumatic Aerator Timer: field-notes/how-to-program-the-timer-on-a-pneumatic-aerator.md
+      - Purging Air from a Pneumatic Aerator: field-notes/how-to-purge-air-out-of-a-pneumatic-aerator.md
+      - Resetting the Vibration Monitor: field-notes/how-to-reset-vibration-monitor.md
+      - TDR Sensor & Data Logger Setup: field-notes/how-to-setup-a-tdr-sensor-and-data-logger.md
       - Inclinalysis — Changing X-Axis Values: field-notes/inclinalysis-changing-values-on-the-x-axis.md
       - Neat Grout vs. Bentonite Grout: field-notes/neat-grout-vs-bentonite-grout.md
       - Pneumatic Piezometer — Working Principle: field-notes/pneumatic-piezometer-working-principle.md
-      - TDR200 with PC-TDR Software: field-notes/tdr200-setting-up-a-tdr-using-pc-tdr-software.md
-      - TDR200 Setup Document: field-notes/tdr200-setup-document.md
+      - TDR with PC-TDR Software: field-notes/tdr-setting-up-a-tdr-using-pc-tdr-software.md
+      - TDR Setup Document: field-notes/tdr-setup-document.md
       - VW Piezometer kPa/MPa Calculation: field-notes/vw-piezometer-kpa-mpa-calculation-spreadsheet.md
   - Applications:
       - Index: applications/index.md
@@ -118,11 +118,6 @@ nav:
       - Dam Monitoring: applications/dam-monitoring.md
       - Tunnel Instrumentation: applications/tunnels.md
       - Foundation & Excavation: applications/foundations.md
-  - Manufacturers:
-      - Index: manufacturers/index.md
-      - Durham Geo Slope Indicator: manufacturers/dgsi.md
-      - GEO-Instruments: manufacturers/geo-instruments.md
-      - Geocomp: manufacturers/geocomp.md
   - Reference Manuals:
       - Catalog Index: reference-manuals/index.md
       - Dunnicliff (Field Monitoring): reference-manuals/dunnicliff.md
