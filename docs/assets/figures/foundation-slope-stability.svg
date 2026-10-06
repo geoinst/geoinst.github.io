@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 420" font-family="Inter, Arial, sans-serif">
+  <rect width="780" height="420" fill="#ffffff"/>
+  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Slope stability — method of slices</text>
+
+  <!-- slope body -->
+  <polygon points="60,150 300,150 620,380 60,380" fill="#efe6cf" stroke="#b9a878" stroke-width="1.5"/>
+  <line x1="60" y1="150" x2="300" y2="150" stroke="#8a7f5f" stroke-width="2"/>
+
+  <!-- slip circle -->
+  <path d="M180,150 A230,230 0 0 1 620,380" fill="none" stroke="#c53030" stroke-width="2.5"/>
+  <circle cx="400" cy="150" r="4" fill="#c53030"/>
+  <text x="400" y="142" text-anchor="middle" font-size="11" fill="#9b2c2c">Centre of rotation</text>
+
+  <!-- slices -->
+  <g stroke="#9aa4b0" stroke-width="1.2" stroke-dasharray="4 3">
+    <line x1="250" y1="150" x2="250" y2="290"/>
+    <line x1="310" y1="150" x2="310" y2="320"/>
+    <line x1="370" y1="150" x2="370" y2="345"/>
+    <line x1="430" y1="150" x2="430" y2="362"/>
+    <line x1="490" y1="150" x2="490" y2="372"/>
+  </g>
+  <text x="300" y="200" font-size="11" fill="#666">Slices</text>
+
+  <!-- driving vs resisting -->
+  <line x1="370" y1="250" x2="410" y2="270" stroke="#c53030" stroke-width="2.5"/>
+  <polygon points="412,271 400,270 405,261" fill="#c53030"/>
+  <text x="430" y="262" font-size="11" fill="#9b2c2c">Driving (W sinα)</text>
+
+  <line x1="370" y1="250" x2="335" y2="232" stroke="#2f855a" stroke-width="2.5"/>
+  <polygon points="333,231 345,232 340,241" fill="#2f855a"/>
+  <text x="250" y="222" text-anchor="end" font-size="11" fill="#1e5c3a">Resisting (τ·L)</text>
+
+  <!-- water table -->
+  <path d="M60,230 Q300,230 620,330" fill="none" stroke="#1565c0" stroke-width="2" stroke-dasharray="7 5"/>
+  <text x="150" y="222" font-size="11" fill="#1565c0">Phreatic surface</text>
+
+  <text x="390" y="412" text-anchor="middle" font-size="11" fill="#999">Schematic after USACE EM 1110-2-1902. Not to scale.</text>
+</svg>

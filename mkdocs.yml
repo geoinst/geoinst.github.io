@@ -134,8 +134,38 @@ nav:
               - "Ch.12 Hiệu chuẩn, Bảo trì & Lắp đặt": vi/reference-manuals/fhwa/chapter-12-calibration-installation.md
               - "Ch.13 Thu thập, Diễn giải & Báo cáo dữ liệu": vi/reference-manuals/fhwa/chapter-13-data-interpretation.md
               - "Ch.14 Tài liệu tham khảo & Phụ lục": vi/reference-manuals/fhwa/chapter-14-references-appendices.md
-          - Das (Kỹ thuật móng): vi/reference-manuals/das-foundation.md
-          - Das (Kỹ thuật địa kỹ thuật): vi/reference-manuals/das-geotech.md
+          - "Kỹ thuật móng (phạm vi công cộng)":
+              - Tổng quan: vi/reference-manuals/foundation-engineering/index.md
+              - "Ch.1 Giới thiệu & Nguồn tài liệu": vi/reference-manuals/foundation-engineering/chapter-01-introduction.md
+              - "Ch.2 Khảo sát dưới bề mặt & Mô tả khu đất": vi/reference-manuals/foundation-engineering/chapter-02-site-exploration.md
+              - "Ch.3 Móng nông: Sức chịu tải": vi/reference-manuals/foundation-engineering/chapter-03-bearing-capacity.md
+              - "Ch.4 Móng nông: Lún": vi/reference-manuals/foundation-engineering/chapter-04-settlement.md
+              - "Ch.5 Móng đơn & Móng bè": vi/reference-manuals/foundation-engineering/chapter-05-spread-footings.md
+              - "Ch.6 Móng sâu: Các loại cọc & Truyền tải": vi/reference-manuals/foundation-engineering/chapter-06-pile-types.md
+              - "Ch.7 Móng sâu: Sức chịu tải dọc trục": vi/reference-manuals/foundation-engineering/chapter-07-axial-capacity.md
+              - "Ch.8 Móng sâu: Tải ngang, Nhóm cọc & Lún": vi/reference-manuals/foundation-engineering/chapter-08-lateral-groups.md
+              - "Ch.9 Cọc khoan nhồi & Giếng chìm": vi/reference-manuals/foundation-engineering/chapter-09-drilled-shafts.md
+              - "Ch.10 Áp lực đất ngang": vi/reference-manuals/foundation-engineering/chapter-10-lateral-earth-pressure.md
+              - "Ch.11 Tường chắn & Tường đất có cốt (MSE)": vi/reference-manuals/foundation-engineering/chapter-11-retaining-walls.md
+              - "Ch.12 Tường cừ & Hố đào chống đỡ": vi/reference-manuals/foundation-engineering/chapter-12-sheet-piles.md
+              - "Ch.13 Ổn định mái dốc": vi/reference-manuals/foundation-engineering/chapter-13-slope-stability.md
+              - "Ch.14 Gia cố nền & Quan trắc móng": vi/reference-manuals/foundation-engineering/chapter-14-ground-improvement.md
+          - "Cơ học đất (phạm vi công cộng)":
+              - Tổng quan: vi/reference-manuals/soil-mechanics/index.md
+              - "Ch.1 Giới thiệu & Nguồn tài liệu": vi/reference-manuals/soil-mechanics/chapter-01-introduction.md
+              - "Ch.2 Thành phần & Chỉ tiêu cơ lý": vi/reference-manuals/soil-mechanics/chapter-02-composition-index.md
+              - "Ch.3 Phân loại đất": vi/reference-manuals/soil-mechanics/chapter-03-classification.md
+              - "Ch.4 Đầm chặt": vi/reference-manuals/soil-mechanics/chapter-04-compaction.md
+              - "Ch.5 Tính thấm": vi/reference-manuals/soil-mechanics/chapter-05-permeability.md
+              - "Ch.6 Thấm & Lưới thấm": vi/reference-manuals/soil-mechanics/chapter-06-seepage.md
+              - "Ch.7 Ứng suất hữu hiệu & Áp lực nước lỗ rỗng": vi/reference-manuals/soil-mechanics/chapter-07-effective-stress.md
+              - "Ch.8 Phân bố ứng suất trong đất": vi/reference-manuals/soil-mechanics/chapter-08-stress-distribution.md
+              - "Ch.9 Cố kết": vi/reference-manuals/soil-mechanics/chapter-09-consolidation.md
+              - "Ch.10 Sức kháng cắt": vi/reference-manuals/soil-mechanics/chapter-10-shear-strength.md
+              - "Ch.11 Độ cứng & Ứng suất–Biến dạng": vi/reference-manuals/soil-mechanics/chapter-11-stiffness.md
+              - "Ch.12 Thí nghiệm tại chỗ & Chọn thông số": vi/reference-manuals/soil-mechanics/chapter-12-in-situ-testing.md
+              - "Ch.13 Đất có vấn đề": vi/reference-manuals/soil-mechanics/chapter-13-problem-soils.md
+              - "Ch.14 Chương trình thí nghiệm phòng & hiện trường": vi/reference-manuals/soil-mechanics/chapter-14-testing-program.md
       - "Giám sát hiệu năng đập (ASCE MOP-135)":
           - Tổng quan: vi/reference-manuals/monitoring-dam-performance/index.md
           - "Ch.1 Mục đích, Phạm vi & Tổ chức": vi/reference-manuals/monitoring-dam-performance/chapter-01-introduction.md
@@ -221,8 +251,38 @@ nav:
           - "Ch.12 Calibration, Maintenance & Installation": reference-manuals/fhwa/chapter-12-calibration-installation.md
           - "Ch.13 Data Collection, Interpretation & Reporting": reference-manuals/fhwa/chapter-13-data-interpretation.md
           - "Ch.14 References & Appendices": reference-manuals/fhwa/chapter-14-references-appendices.md
-      - Das (Foundation Engineering): reference-manuals/das-foundation.md
-      - Das (Geotechnical Engineering): reference-manuals/das-geotech.md
+      - "Foundation Engineering (public domain)":
+          - Overview: reference-manuals/foundation-engineering/index.md
+          - "Ch.1 Introduction & Sources": reference-manuals/foundation-engineering/chapter-01-introduction.md
+          - "Ch.2 Subsurface Exploration & Site Characterization": reference-manuals/foundation-engineering/chapter-02-site-exploration.md
+          - "Ch.3 Shallow Foundations: Bearing Capacity": reference-manuals/foundation-engineering/chapter-03-bearing-capacity.md
+          - "Ch.4 Shallow Foundations: Settlement": reference-manuals/foundation-engineering/chapter-04-settlement.md
+          - "Ch.5 Spread Footings & Mats": reference-manuals/foundation-engineering/chapter-05-spread-footings.md
+          - "Ch.6 Deep Foundations: Types & Load Transfer": reference-manuals/foundation-engineering/chapter-06-pile-types.md
+          - "Ch.7 Deep Foundations: Axial Capacity": reference-manuals/foundation-engineering/chapter-07-axial-capacity.md
+          - "Ch.8 Deep Foundations: Lateral Loads, Groups & Settlement": reference-manuals/foundation-engineering/chapter-08-lateral-groups.md
+          - "Ch.9 Drilled Shafts & Caissons": reference-manuals/foundation-engineering/chapter-09-drilled-shafts.md
+          - "Ch.10 Lateral Earth Pressure": reference-manuals/foundation-engineering/chapter-10-lateral-earth-pressure.md
+          - "Ch.11 Retaining Walls & MSE Walls": reference-manuals/foundation-engineering/chapter-11-retaining-walls.md
+          - "Ch.12 Sheet Pile Walls & Braced Excavations": reference-manuals/foundation-engineering/chapter-12-sheet-piles.md
+          - "Ch.13 Slope Stability": reference-manuals/foundation-engineering/chapter-13-slope-stability.md
+          - "Ch.14 Ground Improvement & Foundation Instrumentation": reference-manuals/foundation-engineering/chapter-14-ground-improvement.md
+      - "Soil Mechanics (public domain)":
+          - Overview: reference-manuals/soil-mechanics/index.md
+          - "Ch.1 Introduction & Sources": reference-manuals/soil-mechanics/chapter-01-introduction.md
+          - "Ch.2 Soil Composition & Index Properties": reference-manuals/soil-mechanics/chapter-02-composition-index.md
+          - "Ch.3 Soil Classification": reference-manuals/soil-mechanics/chapter-03-classification.md
+          - "Ch.4 Compaction": reference-manuals/soil-mechanics/chapter-04-compaction.md
+          - "Ch.5 Permeability": reference-manuals/soil-mechanics/chapter-05-permeability.md
+          - "Ch.6 Seepage & Flow Nets": reference-manuals/soil-mechanics/chapter-06-seepage.md
+          - "Ch.7 Effective Stress & Pore Pressure": reference-manuals/soil-mechanics/chapter-07-effective-stress.md
+          - "Ch.8 Stress Distribution in Soil": reference-manuals/soil-mechanics/chapter-08-stress-distribution.md
+          - "Ch.9 Consolidation": reference-manuals/soil-mechanics/chapter-09-consolidation.md
+          - "Ch.10 Shear Strength": reference-manuals/soil-mechanics/chapter-10-shear-strength.md
+          - "Ch.11 Stiffness & Stress–Strain": reference-manuals/soil-mechanics/chapter-11-stiffness.md
+          - "Ch.12 In-Situ Testing & Parameter Selection": reference-manuals/soil-mechanics/chapter-12-in-situ-testing.md
+          - "Ch.13 Problem Soils": reference-manuals/soil-mechanics/chapter-13-problem-soils.md
+          - "Ch.14 Laboratory & Field Testing Program": reference-manuals/soil-mechanics/chapter-14-testing-program.md
       - "Monitoring Dam Performance (ASCE MOP-135)":
           - Overview: reference-manuals/monitoring-dam-performance/index.md
           - "Ch.1 Purpose, Scope & Organization": reference-manuals/monitoring-dam-performance/chapter-01-introduction.md

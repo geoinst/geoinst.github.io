@@ -28,20 +28,22 @@ Detect seepage changes, internal erosion, and deformation in embankment / concre
 | **Ch 18** | Collection, Processing, Presentation, Interpretation | Automated data acquisition (Ch 18.1.2), alarm thresholds |
 | **Ch 21** | **Embankment Dams** | **Primary chapter for dams** — pore pressure, deformation, seepage, ADAS |
 
-### From Das — Principles of Foundation Engineering (7th Ed)
+### From Foundation Engineering: A Public-Domain Reference (USACE / FHWA)
 | Chapter | Application |
 |---------|-------------|
-| **Ch 15** | Slope Stability — upstream/downstream slope stability |
-| **Ch 12** | Shear Strength — effective stress analysis for dam cores |
-| **Ch 9** | In Situ Stresses — foundation stress state |
+| **Ch 13** | Slope Stability — upstream/downstream slope stability |
+| **Ch 10** | Lateral Earth Pressure — foundation stress state |
+| **Ch 14** | Ground Improvement & Foundation Instrumentation — seepage and deformation control |
 
-### From Das — Principles of Geotechnical Engineering (7th Ed)
+### From Soil Mechanics & Geotechnical Engineering: A Public-Domain Reference (USACE / FHWA)
 | Chapter | Application |
 |---------|-------------|
-| **Ch 15** | Slope Stability — upstream/downstream, seismic |
-| **Ch 12** | Shear Strength — effective stress parameters for cores |
-| **Ch 7** | Permeability — seepage analysis, filter design |
-| **Ch 10** | Stresses in Soil Mass — embankment stress distribution |
+| **Ch 5** | Permeability — seepage analysis, filter design |
+| **Ch 6** | Seepage & Flow Nets — phreatic surface, uplift |
+| **Ch 7** | Effective Stress & Pore Pressure — pore pressure in dam cores |
+| **Ch 8** | Stress Distribution in Soil — embankment stress distribution |
+| **Ch 9** | Consolidation — settlement of embankment foundations |
+| **Ch 10** | Shear Strength — effective stress parameters for cores |
 
 ### From Murthy — Advanced Foundation Engineering
 | Topic | Application |
@@ -137,4 +139,4 @@ Detect seepage changes, internal erosion, and deformation in embankment / concre
 
 ---
 
-*Source: Compiled from Dunnicliff (616 chunks), Das Foundation (817 pp), Das Geotechnical (683 pp), Murthy (821 pp), Benerjee & Butterfield (394 pp), Field Methods (405 pp), Encyclopedia (952 pp), NCHRP Synthesis 89, and field reference manuals.*
+*Source: Compiled from Dunnicliff (616 chunks), Foundation Engineering (USACE/FHWA, public domain), Soil Mechanics (USACE/FHWA, public domain), Murthy (821 pp), Benerjee & Butterfield (394 pp), Field Methods (405 pp), Encyclopedia (952 pp), NCHRP Synthesis 89, and field reference manuals.*

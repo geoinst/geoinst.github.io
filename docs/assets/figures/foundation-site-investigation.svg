@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 420" font-family="Inter, Arial, sans-serif">
+  <rect width="780" height="420" fill="#ffffff"/>
+  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Subsurface exploration and the design profile</text>
+
+  <!-- ground layers -->
+  <rect x="40" y="90" width="700" height="90" fill="#efe6cf"/>
+  <rect x="40" y="180" width="700" height="110" fill="#e3d3a6"/>
+  <rect x="40" y="290" width="700" height="100" fill="#cbbd8f"/>
+  <line x1="40" y1="90" x2="740" y2="90" stroke="#8a7f5f" stroke-width="2"/>
+  <g font-size="11" fill="#6b5d33">
+    <text x="60" y="128">Fill / topsoil</text>
+    <text x="60" y="228">Soft clay</text>
+    <text x="60" y="336">Dense sand / bearing stratum</text>
+  </g>
+
+  <!-- borehole 1: SPT -->
+  <rect x="200" y="90" width="8" height="300" fill="#ffffff" stroke="#9aa4b0"/>
+  <rect x="193" y="150" width="22" height="30" fill="#f0ad4e" stroke="#b9791f"/>
+  <text x="204" y="82" text-anchor="middle" font-size="11" fill="#333">Borehole + SPT</text>
+  <text x="232" y="170" font-size="10" fill="#666">N = 6</text>
+
+  <!-- borehole 2: SPT deeper -->
+  <rect x="380" y="90" width="8" height="300" fill="#ffffff" stroke="#9aa4b0"/>
+  <rect x="373" y="200" width="22" height="30" fill="#f0ad4e" stroke="#b9791f"/>
+  <rect x="373" y="290" width="22" height="30" fill="#f0ad4e" stroke="#b9791f"/>
+  <text x="404" y="220" font-size="10" fill="#666">N = 9</text>
+  <text x="404" y="310" font-size="10" fill="#666">N = 28</text>
+
+  <!-- CPT -->
+  <rect x="560" y="90" width="6" height="290" fill="#c53030"/>
+  <polygon points="557,380 569,380 563,398" fill="#c53030"/>
+  <text x="563" y="82" text-anchor="middle" font-size="11" fill="#c53030">CPT</text>
+
+  <!-- piezometer -->
+  <rect x="660" y="90" width="8" height="300" fill="#2b6cb0"/>
+  <circle cx="664" cy="360" r="8" fill="#2b6cb0"/>
+  <text x="664" y="82" text-anchor="middle" font-size="11" fill="#2b6cb0">Piezometer</text>
+
+  <!-- water table -->
+  <line x1="40" y1="240" x2="740" y2="240" stroke="#1565c0" stroke-width="2" stroke-dasharray="8 5"/>
+  <text x="700" y="234" text-anchor="end" font-size="11" fill="#1565c0">Water table</text>
+
+  <text x="390" y="412" text-anchor="middle" font-size="11" fill="#999">Schematic after USACE EM 1110-1-1905 / FHWA guidance. Not to scale.</text>
+</svg>

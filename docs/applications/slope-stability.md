@@ -26,20 +26,21 @@ Detect the onset of slope movement before failure, identify the shear surface, a
 | **Ch 19** | Braced Excavations | Strut loads, wall deflection, ground movement, groundwater |
 | **Ch 22** | **Excavated and Natural Slopes** | **Primary chapter for slopes** — inclinometers, piezometers, tiltmeters, surface survey |
 
-### From Das — Principles of Foundation Engineering (7th Ed)
+### From Foundation Engineering: A Public-Domain Reference (USACE / FHWA)
 | Chapter | Title | Application |
 |---------|-------|-------------|
-| **Ch 15** | Slope Stability | Infinite/finite slopes, Bishop/Spencer methods, factor of safety |
-| **Ch 13** | Lateral Earth Pressure | Rankine/Coulomb, active/passive pressures on slopes |
-| **Ch 12** | Shear Strength of Soil | Mohr-Coulomb, effective/total stress, pore pressure effects |
-| **Ch 9** | In Situ Stresses | K0, stress distribution in slopes |
+| **Ch 13** | Slope Stability | Infinite/finite slopes, method of slices, factor of safety |
+| **Ch 10** | Lateral Earth Pressure | Rankine/Coulomb, active/passive pressures on slopes |
+| **Ch 11** | Retaining Walls & MSE Walls | Stabilizing structures at slope toes |
+| **Ch 12** | Sheet Pile Walls & Braced Excavations | Excavation support on slopes |
 
-### From Das — Principles of Geotechnical Engineering (7th Ed)
+### From Soil Mechanics & Geotechnical Engineering: A Public-Domain Reference (USACE / FHWA)
 | Chapter | Title | Application |
 |---------|-------|-------------|
-| **Ch 15** | Slope Stability | Infinite/finite slopes, methods of slices, seismic analysis |
-| **Ch 12** | Shear Strength of Soil | Triaxial tests, CU/CD, pore pressure parameters |
-| **Ch 9** | In Situ Stresses | K0 determination, stress history |
+| **Ch 6** | Seepage & Flow Nets | Seepage forces, slope drainage |
+| **Ch 7** | Effective Stress & Pore Pressure | Pore pressure effects on effective stress |
+| **Ch 10** | Shear Strength | Mohr-Coulomb, triaxial tests, CU/CD, pore pressure parameters |
+| **Ch 13** | Problem Soils | Expansive and collapsible soils on slopes |
 
 ### From Murthy — Advanced Foundation Engineering
 | Chapter | Application |
@@ -114,4 +115,4 @@ Detect the onset of slope movement before failure, identify the shear surface, a
 
 ---
 
-*Source: Compiled from Dunnicliff (616 chunks), Das Foundation (817 pp), Das Geotechnical (683 pp), Murthy (821 pp), Benerjee & Butterfield (394 pp), Field Methods (405 pp), Encyclopedia (952 pp), NCHRP Synthesis 89, and field reference manuals.*
+*Source: Compiled from Dunnicliff (616 chunks), Foundation Engineering (USACE/FHWA, public domain), Soil Mechanics (USACE/FHWA, public domain), Murthy (821 pp), Benerjee & Butterfield (394 pp), Field Methods (405 pp), Encyclopedia (952 pp), NCHRP Synthesis 89, and field reference manuals.*

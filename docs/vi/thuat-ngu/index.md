@@ -273,6 +273,51 @@ lang_alt: glossary/
 * **Đồ thị nhân–quả (Cause-and-Effect Plot)**: Đồ thị của thay đổi đo được so với một yếu tố ảnh hưởng (tải, mưa, chiều cao đắp) để bộc lộ quan hệ.
 * **Triển khai (Implementation – mắt xích cuối)**: Hành động theo dữ liệu đã diễn giải — bước làm cho công tác quan trắc trở nên có ý nghĩa.
 
+## 10. Kỹ thuật móng & Cơ học đất (phạm vi công khai USACE / FHWA)
+
+* **Ứng suất hữu hiệu ($\sigma'$)**: Ứng suất do khung cốt đất chịu — ứng suất tổng trừ áp lực nước lỗ rỗng; đây là ứng suất thực sự chi phối cường độ và biến dạng.
+* **Áp lực nước lỗ rỗng ($u$)**: Áp lực của nước trong lỗ rỗng; dương dưới mực nước ngầm và âm (lực mao dẫn) phía trên mực nước ngầm.
+* **Ứng suất tổng ($\sigma$)**: Ứng suất do khung cốt đất và nước lỗ rỗng cùng chịu; $\sigma = \sigma' + u$.
+* **Tỷ số rỗng ($e$)**: Thể tích lỗ rỗng trên một đơn vị thể tích hạt rắn.
+* **Độ rỗng ($n$)**: Thể tích lỗ rỗng trên một đơn vị tổng thể tích.
+* **Độ bão hòa ($S$)**: Phần thể tích lỗ rỗng chứa đầy nước.
+* **Giới hạn Atterberg ($LL$, $PL$, $SL$)**: Các độ ẩm đánh dấu chuyển tiếp giữa trạng thái rắn, dẻo và lỏng của đất hạt mịn.
+* **Chỉ số dẻo ($PI$)**: Khoảng độ ẩm mà đất ở trạng thái dẻo; $PI = LL - PL$.
+* **USCS (Hệ thống phân loại đất thống nhất)**: Phân loại đất kỹ thuật bằng hai chữ cái (ví dụ CL, SP, GW) dựa trên thành phần hạt và tính dẻo.
+* **Đường cong đầm chặt**: Đồ thị dung trọng khô theo độ ẩm; đỉnh của nó xác định độ ẩm tối ưu.
+* **Độ ẩm tối ưu (OMC)**: Độ ẩm mà tại đó một công đầm nén nhất định cho dung trọng khô lớn nhất.
+* **Thí nghiệm Proctor (Tiêu chuẩn / Cải tiến)**: Thí nghiệm đầm chặt trong phòng xác định quan hệ độ ẩm–dung trọng dùng cho kiểm soát hiện trường.
+* **Định luật Darcy**: Quan hệ tuyến tính giữa vận tốc thấm và gradient thủy lực, $v = ki$.
+* **Hệ số thấm ($k$)**: Hằng số liên hệ vận tốc dòng với gradient thủy lực của một loại đất.
+* **Lưới thấm**: Lời giải đồ thị của phương trình Laplace, gồm các đường dòng và đường đẳng thế trực giao.
+* **Gradient tại cửa ra**: Gradient thủy lực tại mặt hạ lưu; nếu vượt giá trị tới hạn thì bắt đầu hiện tượng xói ngầm.
+* **Cát chảy / Xói ngầm (Quick condition / Piping)**: Trạng thái khi dòng thấm hướng lên làm ứng suất hữu hiệu giảm về không và đất bị "sôi".
+* **Cố kết**: Quá trình nén theo thời gian của đất bão hòa khi nước lỗ rỗng thoát ra và ứng suất hữu hiệu tăng.
+* **Hệ số cố kết ($c_v$)**: Thông số chi phối tốc độ cố kết sơ cấp.
+* **Chỉ số nén ($C_c$)**: Độ dốc của phần nguyên sơ trên đường cong $e$–$\log\sigma'$.
+* **Áp lực tiền cố kết ($\sigma'_p$)**: Ứng suất hữu hiệu lớn nhất mà đất từng chịu trong quá khứ.
+* **Tỷ số cố kết trước ($OCR$)**: Áp lực tiền cố kết chia cho ứng suất hữu hiệu hiện tại; $OCR = 1$ là cố kết thường.
+* **Tiêu chuẩn Mohr–Coulomb**: Phá hoại khi ứng suất cắt đạt $\tau = c' + \sigma'\tan\phi'$.
+* **Lực dính ($c'$)**: Tung độ giao của đường bao phá hoại với trục ứng suất pháp hữu hiệu bằng không.
+* **Góc ma sát trong ($\phi'$)**: Độ dốc của đường bao Mohr–Coulomb, phản ánh ma sát và sự cài móc giữa các hạt.
+* **Sức kháng cắt không thoát nước ($c_u$ / $s_u$)**: Sức kháng cắt của sét bão hòa đo trong điều kiện không thoát nước.
+* **Sức chịu tải ($q_{ult}$)**: Áp lực lớn nhất mà đất nền có thể chịu trước khi phá hoại cắt.
+* **Sức chịu tải cho phép ($q_{all}$)**: Áp lực thiết kế sau khi áp dụng hệ số an toàn và giới hạn lún.
+* **Lún**: Chuyển vị thẳng đứng hướng xuống của móng dưới tải trọng.
+* **Lún lệch**: Chênh lệch lún giữa các điểm của kết cấu; chi phối biến dạng và hư hại.
+* **Ma sát thành**: Sức kháng cắt phát triển dọc theo thân cọc hoặc cọc khoan nhồi.
+* **Sức kháng mũi**: Sức kháng huy động tại mũi của móng sâu.
+* **Ma sát âm (Downdrag)**: Lực kéo xuống tác dụng lên cọc khi đất xung quanh lún tương đối so với cọc.
+* **Hiệu suất nhóm cọc**: Tỷ số giữa sức chịu tải của nhóm cọc và tổng sức chịu tải của các cọc đơn.
+* **Áp lực đất ngang (Tĩnh / Chủ động / Bị động)**: Ứng suất ngang mà đất tác dụng lên kết cấu chắn — nhỏ nhất khi tường dịch chuyển (chủ động) và lớn nhất khi tường bị đẩy vào đất (bị động).
+* **Hệ số áp lực đất ngang ($K_0$, $K_a$, $K_p$)**: Tỷ số giữa ứng suất hữu hiệu ngang và thẳng đứng ở trạng thái tĩnh, chủ động và bị động.
+* **Hệ số an toàn (mái dốc)**: Tỷ số giữa sức kháng cắt sẵn có và ứng suất cắt cần thiết để cân bằng.
+* **Thí nghiệm xuyên tiêu chuẩn ($SPT$, trị $N$)**: Thí nghiệm ống chẻ đóng; số búa đếm được đặc trưng cho mật độ và cường độ đất.
+* **Thí nghiệm xuyên tĩnh ($CPT$)**: Mũi xuyên ép liên tục cho sức kháng mũi và ma sát thành theo độ sâu.
+* **Hóa lỏng**: Mất cường độ của cát rời bão hòa dưới tải trọng chu kỳ khi áp lực lỗ rỗng tiến tới ứng suất tổng.
+* **Đất trương nở**: Sét nở ra khi ngấm nước và co lại khi khô, gây trương và nứt.
+* **Đất sụt (Collapsible soil)**: Đất bị giảm thể tích đột ngột khi ngấm nước dưới tải trọng không đổi.
+
 ---
 
 *Xem thêm: [English Technical Glossary](../../glossary/index.md) · [Ma trận Tuân thủ Nghị định 114 & TCVN 9398](../tuan-thu/nghi-dinh-114-tcvn-9398.md) · [Môi trường thử nghiệm tương tác](../visualizer.md)*

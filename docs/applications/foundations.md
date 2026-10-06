@@ -34,37 +34,34 @@ Verify design assumptions about load-settlement behavior, validate deep foundati
 | **Ch 25** | Drilled Shafts | Load tests, integrity, downdrag |
 | **Ch 26** | The Key to Success | 25-link chain for foundation/excavation success |
 
-### From Das — Principles of Foundation Engineering (7th Ed, 817 pp)
+### From Foundation Engineering: A Public-Domain Reference (USACE / FHWA)
 | Chapter | Title | Application |
 |---------|-------|-------------|
-| **Ch 1** | Geotechnical Properties of Soil | Soil characterization for foundations |
-| **Ch 2** | Natural Soil Deposits & Subsoil Exploration | Site investigation for foundations |
-| **Ch 3** | Shallow Foundations: Ultimate Bearing Capacity | Bearing capacity theories |
-| **Ch 4** | Ultimate Bearing Capacity: Special Cases | Eccentric, inclined, layered soils |
-| **Ch 5** | Shallow Foundations: Allowable Bearing Capacity & Settlement | Settlement analysis, allowable capacity |
-| **Ch 6** | Mat Foundations | Raft foundations, combined footings |
-| **Ch 7** | Lateral Earth Pressure | Active/passive, braced cuts |
-| **Ch 8** | Retaining Walls | Cantilever, counterfort, gravity |
-| **Ch 9** | Sheet Pile Walls | Cantilever, anchored, cofferdams |
-| **Ch 10** | Braced Cuts | Strut design, wall deflection |
-| **Ch 11** | **Pile Foundations** | **Primary** — types, capacity, load tests, groups |
-| **Ch 12** | **Drilled-Shaft Foundations** | **Primary** — construction, capacity, load tests |
-| **Ch 13** | Foundations on Difficult Soils | Collapsible, expansive, organic soils |
-| **Ch 14** | Soil Improvement & Ground Modification | Preloading, stone columns, grouting |
+| **Ch 2** | Subsurface Exploration & Site Characterization | Site investigation for foundations |
+| **Ch 3** | Shallow Foundations: Bearing Capacity | Bearing capacity theories |
+| **Ch 4** | Shallow Foundations: Settlement | Settlement analysis, allowable capacity |
+| **Ch 5** | Spread Footings & Mats | Raft foundations, combined footings |
+| **Ch 6** | Deep Foundations: Types & Load Transfer | **Primary** — pile classification, load transfer |
+| **Ch 7** | **Deep Foundations: Axial Capacity** | **Primary** — capacity, end bearing, skin friction, load tests |
+| **Ch 8** | Deep Foundations: Lateral Loads, Groups & Settlement | Group effects, downdrag, settlement |
+| **Ch 9** | **Drilled Shafts & Caissons** | **Primary** — construction, capacity, load tests |
+| **Ch 10** | Lateral Earth Pressure | Active/passive, braced cuts |
+| **Ch 11** | Retaining Walls & MSE Walls | Cantilever, counterfort, gravity, MSE |
+| **Ch 12** | Sheet Pile Walls & Braced Excavations | Cantilever, anchored, cofferdams; strut design |
+| **Ch 13** | Slope Stability | Excavation slopes, method of slices |
+| **Ch 14** | Ground Improvement & Foundation Instrumentation | Preloading, stone columns, grouting |
 
-### From Das — Principles of Geotechnical Engineering (7th Ed, 683 pp)
+### From Soil Mechanics & Geotechnical Engineering: A Public-Domain Reference (USACE / FHWA)
 | Chapter | Application |
 |---------|-------------|
-| **Ch 5** | Classification — soil classification for foundations |
-| **Ch 6** | Compaction — foundation bed preparation |
-| **Ch 7** | Permeability — seepage under foundations |
-| **Ch 9** | In Situ Stresses — K0, stress distribution |
-| **Ch 10** | Stresses in Soil Mass — Boussinesq, Westergaard |
-| **Ch 11** | Compressibility — consolidation, settlement |
-| **Ch 12** | Shear Strength — effective/total stress, pile capacity |
-| **Ch 15** | Slope Stability — excavation slopes |
-| **Ch 16** | Bearing Capacity — shallow foundations |
-| **Ch 18** | Subsoil Exploration — boring, sampling, testing |
+| **Ch 3** | Classification — soil classification for foundations |
+| **Ch 4** | Compaction — foundation bed preparation |
+| **Ch 5** | Permeability — seepage under foundations |
+| **Ch 7** | Effective Stress & Pore Pressure — K0, stress state |
+| **Ch 8** | Stress Distribution in Soil — Boussinesq, influence charts |
+| **Ch 9** | Consolidation — compressibility, settlement |
+| **Ch 10** | Shear Strength — effective/total stress, pile capacity |
+| **Ch 12** | In-Situ Testing & Parameter Selection — boring, sampling, SPT, CPT |
 
 ### From Murthy — Advanced Foundation Engineering (821 pp)
 | Topic | Application |
@@ -174,4 +171,4 @@ Verify design assumptions about load-settlement behavior, validate deep foundati
 
 ---
 
-*Source: Compiled from Dunnicliff (616 chunks), Das Foundation (817 pp), Das Geotechnical (683 pp), Murthy (821 pp), Benerjee & Butterfield (394 pp), Field Methods (405 pp), Encyclopedia (952 pp), NCHRP Synthesis 89, and field reference manuals.*
+*Source: Compiled from Dunnicliff (616 chunks), Foundation Engineering (USACE/FHWA, public domain), Soil Mechanics (USACE/FHWA, public domain), Murthy (821 pp), Benerjee & Butterfield (394 pp), Field Methods (405 pp), Encyclopedia (952 pp), NCHRP Synthesis 89, and field reference manuals.*

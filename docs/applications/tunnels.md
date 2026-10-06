@@ -27,17 +27,19 @@ Monitor ground movement around tunnel excavation, convergence of linings, and po
 | **Ch 18** | Collection, Processing, Presentation, Interpretation | Real-time convergence monitoring, alarm systems |
 | **Ch 23** | **Underground Excavations** | **Primary chapter for tunnels** — convergence, rock bolts, groundwater, face pressure |
 
-### From Das — Principles of Foundation Engineering (7th Ed)
+### From Foundation Engineering: A Public-Domain Reference (USACE / FHWA)
 | Chapter | Application |
 |---------|-------------|
-| **Ch 13** | Lateral Earth Pressure — tunnel lining design |
-| **Ch 15** | Slope Stability — portal slopes, surface settlement |
+| **Ch 10** | Lateral Earth Pressure — tunnel lining design |
+| **Ch 12** | Sheet Pile Walls & Braced Excavations — portal and cut-and-cover support |
+| **Ch 13** | Slope Stability — portal slopes, surface settlement |
 
-### From Das — Principles of Geotechnical Engineering (7th Ed)
+### From Soil Mechanics & Geotechnical Engineering: A Public-Domain Reference (USACE / FHWA)
 | Chapter | Application |
 |---------|-------------|
-| **Ch 12** | Shear Strength — rock mass strength parameters |
-| **Ch 15** | Slope Stability — portal stability, surface settlement trough |
+| **Ch 6** | Seepage & Flow Nets — groundwater inflow, face pressure |
+| **Ch 7** | Effective Stress & Pore Pressure — ground response around openings |
+| **Ch 10** | Shear Strength — rock mass and soil strength parameters |
 
 ### From Murthy — Advanced Foundation Engineering
 | Topic | Application |
@@ -134,4 +136,4 @@ Monitor ground movement around tunnel excavation, convergence of linings, and po
 
 ---
 
-*Source: Compiled from Dunnicliff (616 chunks), Das Foundation (817 pp), Das Geotechnical (683 pp), Murthy (821 pp), Benerjee & Butterfield (394 pp), Field Methods (405 pp), Encyclopedia (952 pp), NCHRP Synthesis 89, and field reference manuals.*
+*Source: Compiled from Dunnicliff (616 chunks), Foundation Engineering (USACE/FHWA, public domain), Soil Mechanics (USACE/FHWA, public domain), Murthy (821 pp), Benerjee & Butterfield (394 pp), Field Methods (405 pp), Encyclopedia (952 pp), NCHRP Synthesis 89, and field reference manuals.*

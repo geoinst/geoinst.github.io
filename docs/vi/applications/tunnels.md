@@ -28,17 +28,19 @@ Quan trắc chuyển động đất xung quanh đào hầm, sự hội tụ củ
 | **Ch 18** | Thu thập, xử lý, trình bày, diễn giải | Quan trắc hội tụ thời gian thực, hệ thống cảnh báo |
 | **Ch 23** | **Đào ngầm** | **Chương chính cho hầm** — hội tụ, bulông đá, nước ngầm, áp lực mặt hầm |
 
-### Từ Das — Principles of Foundation Engineering (7th Ed)
+### Từ Kỹ thuật móng: Tài liệu tham khảo thuộc phạm vi công cộng (USACE / FHWA)
 | Chapter | Application |
 |---------|-------------|
-| **Ch 13** | Áp lực đất ngang — thiết kế lót hầm |
-| **Ch 15** | Ổn định sườn dốc — sườn dốc cửa hầm, lún bề mặt |
+| **Ch 10** | Áp lực đất ngang — thiết kế lót hầm |
+| **Ch 12** | Tường cừ & Hố đào chống đỡ — chống đỡ cửa hầm và đào hở |
+| **Ch 13** | Ổn định mái dốc — sườn dốc cửa hầm, lún bề mặt |
 
-### Từ Das — Principles of Geotechnical Engineering (7th Ed)
+### Từ Cơ học đất & Địa kỹ thuật: Tài liệu tham khảo thuộc phạm vi công cộng (USACE / FHWA)
 | Chapter | Application |
 |---------|-------------|
-| **Ch 12** | Sức kháng cắt — thông số cường độ khối đá |
-| **Ch 15** | Ổn định sườn dốc — ổn định cửa hầm, rãnh lún bề mặt |
+| **Ch 6** | Thấm & Lưới thấm — dòng nước ngầm, áp lực gương hầm |
+| **Ch 7** | Ứng suất hữu hiệu & Áp lực nước lỗ rỗng — phản ứng đất quanh hầm |
+| **Ch 10** | Sức kháng cắt — thông số cường độ khối đá và đất |
 
 ### Từ Murthy — Advanced Foundation Engineering
 | Topic | Application |
@@ -135,4 +137,4 @@ Quan trắc chuyển động đất xung quanh đào hầm, sự hội tụ củ
 
 ---
 
-*Nguồn: Tổng hợp từ Dunnicliff (616 chunks), Das Foundation (817 pp), Das Geotechnical (683 pp), Murthy (821 pp), Benerjee & Butterfield (394 pp), Field Methods (405 pp), Encyclopedia (952 pp), NCHRP Synthesis 89, và các tài liệu tham khảo hiện trường.*
+*Nguồn: Tổng hợp từ Dunnicliff (616 chunks), Foundation Engineering (USACE/FHWA, phạm vi công cộng), Soil Mechanics (USACE/FHWA, phạm vi công cộng), Murthy (821 pp), Benerjee & Butterfield (394 pp), Field Methods (405 pp), Encyclopedia (952 pp), NCHRP Synthesis 89, và các tài liệu tham khảo hiện trường.*

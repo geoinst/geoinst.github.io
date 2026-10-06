@@ -4,18 +4,20 @@ lang_alt: vi/reference-manuals/
 ---
 # Reference Manuals
 
-This section catalogs the **18 reference PDFs** (472 MB) that form this knowledge base's corpus. Each entry below resolves to a per-manual chapter with extracted text, key concepts, and cross-links.
+This section catalogs the reference corpus behind this knowledge base. Each entry below resolves to a per-manual or per-book chapter with extracted text, key concepts, and cross-links. Entries marked *public domain* are **U.S. Government works** (USACE Engineering Manuals, FHWA/NHI manuals) that may be reproduced and adapted freely.
 
 ## Catalog
 
-| Title | Author / Source | Local PDF (basename only) | Page |
+| Title | Author / Source | Source documents | Page |
 | --- | --- | --- | --- |
 | Geotechnical Instrumentation for Monitoring Field Performance | John Dunnicliff | GEOTECHNICAL INSTRUMENTATION...pdf | [→](dunnicliff/index.md) |
 | Geotechnical Instrumentation Reference Manual | FHWA (J. Dunnicliff) | FHWA-HI-98-034 (public domain) | [→](fhwa/index.md) |
-| Principles of Foundation Engineering | Braja M. Das | Principles of Foundation Engineering 7th-Braja-Das.pdf | [→](das-foundation.md) |
-| Principles of Geotechnical Engineering | Braja M. Das | Principles of Geotechnical Engineering 7th Edition.pdf | [→](das-geotech.md) |
+| Foundation Engineering: A Public-Domain Reference | USACE / FHWA (public domain) | USACE EM 1110-1-1905, EM 1110-1-1904, EM 1110-2-2906, EM 1110-2-2502, EM 1110-2-2504, EM 1110-2-1902; FHWA NHI-16-009/-010 (GEC-12), NHI-10-024/-025 (GEC-11), NHI-14-007 (GEC-7), FHWA-IF-99-025 | [→](foundation-engineering/index.md) |
+| Soil Mechanics & Geotechnical Engineering: A Public-Domain Reference | USACE / FHWA (public domain) | FHWA-NHI-06-088 (Vol. I), FHWA-NHI-01-031 (GEC-5); USACE EM 1110-2-1906, EM 1110-1-1904, EM 1110-2-1902 | [→](soil-mechanics/index.md) |
 
-The remaining 14 PDFs (Advanced Geotech, GATE study guides, geological methods, hydrology, mining glossary, geotechnical engineering textbooks, field methods) will be listed here as their per-manual pages are written.
+The remaining source PDFs (Advanced Geotech, GATE study guides, geological methods, hydrology, mining glossary, field methods) will be listed here as their per-manual pages are written.
+
+> **Copyright note.** This catalog lists only material the site may lawfully reproduce. The two copyrighted *Principles of … Engineering* textbooks that previously appeared here have been **removed** and replaced with the public-domain references above.
 
 ## GTI Doctor
 

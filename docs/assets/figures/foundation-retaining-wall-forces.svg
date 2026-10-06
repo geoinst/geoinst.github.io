@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 420" font-family="Inter, Arial, sans-serif">
+  <rect width="780" height="420" fill="#ffffff"/>
+  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Forces on a cantilever retaining wall</text>
+
+  <!-- retained soil (left) -->
+  <rect x="40" y="90" width="300" height="200" fill="#efe6cf"/>
+  <line x1="40" y1="90" x2="340" y2="90" stroke="#8a7f5f" stroke-width="2"/>
+  <!-- foundation soil (below base) -->
+  <rect x="40" y="320" width="700" height="70" fill="#e3d3a6"/>
+
+  <!-- wall stem -->
+  <rect x="330" y="90" width="20" height="200" fill="#b0b8c2" stroke="#6b7480"/>
+  <!-- wall base -->
+  <rect x="250" y="290" width="220" height="30" fill="#b0b8c2" stroke="#6b7480"/>
+
+  <!-- active thrust (Pa) -->
+  <line x1="300" y1="200" x2="332" y2="200" stroke="#c53030" stroke-width="3"/>
+  <polygon points="332,200 322,194 322,206" fill="#c53030"/>
+  <text x="300" y="188" text-anchor="end" font-size="11" fill="#9b2c2c">Active thrust Pₐ</text>
+
+  <!-- water pressure -->
+  <polygon points="332,140 332,290 300,290" fill="#9ec9ec" opacity="0.55"/>
+  <text x="318" y="270" text-anchor="end" font-size="10" fill="#1565c0">Water</text>
+
+  <!-- weight W -->
+  <line x1="300" y1="250" x2="300" y2="290" stroke="#2f855a" stroke-width="3"/>
+  <polygon points="300,292 294,280 306,280" fill="#2f855a"/>
+  <text x="270" y="256" text-anchor="end" font-size="11" fill="#1e5c3a">Weight W</text>
+
+  <!-- base friction -->
+  <line x1="470" y1="305" x2="530" y2="305" stroke="#2b6cb0" stroke-width="3"/>
+  <polygon points="470,305 480,299 480,311" fill="#2b6cb0"/>
+  <text x="540" y="309" font-size="11" fill="#1565c0">Base friction</text>
+
+  <!-- passive pressure at toe -->
+  <line x1="470" y1="330" x2="430" y2="330" stroke="#c07a1f" stroke-width="3"/>
+  <polygon points="430,330 440,324 440,336" fill="#c07a1f"/>
+  <text x="480" y="345" font-size="11" fill="#8a5510">Passive Pₚ</text>
+
+  <!-- bearing pressure under base -->
+  <polygon points="250,350 470,350 470,368 250,368" fill="#d98a8a" opacity="0.6"/>
+  <text x="600" y="362" font-size="11" fill="#9b2c2c">Base bearing pressure</text>
+
+  <text x="390" y="412" text-anchor="middle" font-size="11" fill="#999">Schematic after USACE EM 1110-2-2502. Not to scale.</text>
+</svg>

@@ -29,20 +29,22 @@ Phát hiện thay đổi thấm, xói mòn nội bộ, và biến dạng trong �
 | **Ch 18** | Thu thập, xử lý, trình bày, diễn giải | Thu thập dữ liệu tự động (Ch 18.1.2), ngưỡng cảnh báo |
 | **Ch 21** | **Đập đắp** | **Chương chính cho đập** — áp lực lỗ rỗng, biến dạng, thấm, ADAS |
 
-### Từ Das — Principles of Foundation Engineering (7th Ed)
+### Từ Kỹ thuật móng: Tài liệu tham khảo thuộc phạm vi công cộng (USACE / FHWA)
 | Chapter | Application |
 |---------|-------------|
-| **Ch 15** | Ổn định sườn dốc — sườn dốc thượng lưu/hạ lưu |
-| **Ch 12** | Sức kháng cắt — phân tích ứng suất hữu hiệu cho lõi đập |
-| **Ch 9** | Ứng suất tại chỗ — trạng thái ứng suất nền móng |
+| **Ch 13** | Ổn định mái dốc — sườn dốc thượng lưu/hạ lưu |
+| **Ch 10** | Áp lực đất ngang — trạng thái ứng suất nền móng |
+| **Ch 14** | Gia cố nền & Quan trắc móng — kiểm soát thấm và biến dạng |
 
-### Từ Das — Principles of Geotechnical Engineering (7th Ed)
+### Từ Cơ học đất & Địa kỹ thuật: Tài liệu tham khảo thuộc phạm vi công cộng (USACE / FHWA)
 | Chapter | Application |
 |---------|-------------|
-| **Ch 15** | Ổn định sườn dốc — thượng lưu/hạ lưu, động đất |
-| **Ch 12** | Sức kháng cắt — thông số ứng suất hữu hiệu cho lõi |
-| **Ch 7** | Thấm — phân tích thấm, thiết kế bộ lọc |
-| **Ch 10** | Ứng suất trong khối đất — phân bố ứng suất thân đập |
+| **Ch 5** | Tính thấm — phân tích thấm, thiết kế bộ lọc |
+| **Ch 6** | Thấm & Lưới thấm — mặt nước thấm, áp lực đẩy nổi |
+| **Ch 7** | Ứng suất hữu hiệu & Áp lực nước lỗ rỗng — áp lực lỗ rỗng trong lõi đập |
+| **Ch 8** | Phân bố ứng suất trong đất — phân bố ứng suất thân đập |
+| **Ch 9** | Cố kết — lún của nền đắp |
+| **Ch 10** | Sức kháng cắt — thông số ứng suất hữu hiệu cho lõi |
 
 ### Từ Murthy — Advanced Foundation Engineering
 | Topic | Application |
@@ -138,4 +140,4 @@ Phát hiện thay đổi thấm, xói mòn nội bộ, và biến dạng trong �
 
 ---
 
-*Nguồn: Tổng hợp từ Dunnicliff (616 chunks), Das Foundation (817 pp), Das Geotechnical (683 pp), Murthy (821 pp), Benerjee & Butterfield (394 pp), Field Methods (405 pp), Encyclopedia (952 pp), NCHRP Synthesis 89, và các tài liệu tham khảo hiện trường.*
+*Nguồn: Tổng hợp từ Dunnicliff (616 chunks), Foundation Engineering (USACE/FHWA, phạm vi công cộng), Soil Mechanics (USACE/FHWA, phạm vi công cộng), Murthy (821 pp), Benerjee & Butterfield (394 pp), Field Methods (405 pp), Encyclopedia (952 pp), NCHRP Synthesis 89, và các tài liệu tham khảo hiện trường.*

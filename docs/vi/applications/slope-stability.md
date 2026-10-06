@@ -27,20 +27,21 @@ Phát hiện sự khởi phát của chuyển động sườn dốc trước khi
 | **Ch 19** | Hố móng có chống giữ | Tải trọng thanh chống, biến dạng tường, chuyển động đất, nước ngầm |
 | **Ch 22** | **Sườn dốc đào và tự nhiên** | **Chương chính cho sườn dốc** — inclinometer, piezometer, tiltmeter, khảo sát bề mặt |
 
-### Từ Das — Principles of Foundation Engineering (7th Ed)
+### Từ Kỹ thuật móng: Tài liệu tham khảo thuộc phạm vi công cộng (USACE / FHWA)
 | Chapter | Title | Application |
 |---------|-------|-------------|
-| **Ch 15** | Ổn định sườn dốc | Sườn dốc vô hạn/hữu hạn, phương pháp Bishop/Spencer, hệ số an toàn |
-| **Ch 13** | Áp lực đất ngang | Rankine/Coulomb, áp lực chủ động/bị động lên sườn dốc |
-| **Ch 12** | Sức kháng cắt của đất | Mohr-Coulomb, ứng suất hữu hiệu/tổng, ảnh hưởng áp lực lỗ rỗng |
-| **Ch 9** | Ứng suất tại chỗ | K0, phân bố ứng suất trong sườn dốc |
+| **Ch 13** | Ổn định mái dốc | Sườn dốc vô hạn/hữu hạn, phương pháp lát cắt, hệ số an toàn |
+| **Ch 10** | Áp lực đất ngang | Rankine/Coulomb, áp lực chủ động/bị động lên sườn dốc |
+| **Ch 11** | Tường chắn & Tường đất có cốt (MSE) | Kết cấu ổn định tại chân mái dốc |
+| **Ch 12** | Tường cừ & Hố đào chống đỡ | Chống đỡ hố đào trên mái dốc |
 
-### Từ Das — Principles of Geotechnical Engineering (7th Ed)
+### Từ Cơ học đất & Địa kỹ thuật: Tài liệu tham khảo thuộc phạm vi công cộng (USACE / FHWA)
 | Chapter | Title | Application |
 |---------|-------|-------------|
-| **Ch 15** | Ổn định sườn dốc | Sườn dốc vô hạn/hữu hạn, phương pháp lát cắt, phân tích động đất |
-| **Ch 12** | Sức kháng cắt của đất | Thí nghiệm ba trục, CU/CD, thông số áp lực lỗ rỗng |
-| **Ch 9** | Ứng suất tại chỗ | Xác định K0, lịch sử ứng suất |
+| **Ch 6** | Thấm & Lưới thấm | Lực thấm, tiêu thoát nước mái dốc |
+| **Ch 7** | Ứng suất hữu hiệu & Áp lực nước lỗ rỗng | Ảnh hưởng áp lực lỗ rỗng lên ứng suất hữu hiệu |
+| **Ch 10** | Sức kháng cắt | Mohr-Coulomb, thí nghiệm ba trục, CU/CD, thông số áp lực lỗ rỗng |
+| **Ch 13** | Đất có vấn đề | Đất trương nở và đất sụt trên mái dốc |
 
 ### Từ Murthy — Advanced Foundation Engineering
 | Chapter | Application |
@@ -115,4 +116,4 @@ Phát hiện sự khởi phát của chuyển động sườn dốc trước khi
 
 ---
 
-*Nguồn: Tổng hợp từ Dunnicliff (616 chunks), Das Foundation (817 pp), Das Geotechnical (683 pp), Murthy (821 pp), Benerjee & Butterfield (394 pp), Field Methods (405 pp), Encyclopedia (952 pp), NCHRP Synthesis 89, và các tài liệu tham khảo hiện trường.*
+*Nguồn: Tổng hợp từ Dunnicliff (616 chunks), Foundation Engineering (USACE/FHWA, phạm vi công cộng), Soil Mechanics (USACE/FHWA, phạm vi công cộng), Murthy (821 pp), Benerjee & Butterfield (394 pp), Field Methods (405 pp), Encyclopedia (952 pp), NCHRP Synthesis 89, và các tài liệu tham khảo hiện trường.*

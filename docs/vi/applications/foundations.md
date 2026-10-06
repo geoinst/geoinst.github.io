@@ -35,37 +35,34 @@ Kiểm chứng các giả định thiết kế về ứng xử tải-lún, xác 
 | **Ch 25** | Trụ khoan | Thử tải, tính toàn khối, tải trọng trôi xuống |
 | **Ch 26** | Chìa khóa thành công | Chuỗi 25 mắt xích cho thành công móng/hố móng |
 
-### Từ Das — Principles of Foundation Engineering (7th Ed, 817 pp)
+### Từ Kỹ thuật móng: Tài liệu tham khảo thuộc phạm vi công cộng (USACE / FHWA)
 | Chapter | Title | Application |
 |---------|-------|-------------|
-| **Ch 1** | Tính chất địa kỹ thuật của đất | Đặc trưng hóa đất cho móng |
-| **Ch 2** | Trầm tích đất tự nhiên & thăm dò dưới nền | Khảo sát địa chất công trình cho móng |
-| **Ch 3** | Móng nông: Sức chịu tải giới hạn | Các thuyết sức chịu tải |
-| **Ch 4** | Sức chịu tải giới hạn: Trường hợp đặc biệt | Lệch tâm, nghiêng, đất phân lớp |
-| **Ch 5** | Móng nông: Sức chịu tải cho phép & lún | Phân tích lún, sức chịu tải cho phép |
-| **Ch 6** | Móng bản | Móng bè, đài móng kết hợp |
-| **Ch 7** | Áp lực đất ngang | Chủ động/bị động, hố móng chống giữ |
-| **Ch 8** | Tường chắn | Cantilever, counterfort, trọng lực |
-| **Ch 9** | Tường cọc ván thép | Cantilever, có neo, cofferdam |
-| **Ch 10** | Hố móng chống giữ | Thiết kế thanh chống, biến dạng tường |
-| **Ch 11** | **Móng cọc** | **Chính** — loại, sức chịu tải, thử tải, nhóm cọc |
-| **Ch 12** | **Móng trụ khoan** | **Chính** — thi công, sức chịu tải, thử tải |
-| **Ch 13** | Móng trên đất khó | Đất sụt, đất trương nở, đất hữu cơ |
-| **Ch 14** | Cải tạo đất & biến đổi nền | Tiền chất tải, cột đá, bơm vữa |
+| **Ch 2** | Khảo sát dưới bề mặt & Mô tả khu đất | Khảo sát địa chất công trình cho móng |
+| **Ch 3** | Móng nông: Sức chịu tải | Các thuyết sức chịu tải |
+| **Ch 4** | Móng nông: Lún | Phân tích lún, sức chịu tải cho phép |
+| **Ch 5** | Móng đơn & Móng bè | Móng bè, đài móng kết hợp |
+| **Ch 6** | Móng sâu: Các loại cọc & Truyền tải | **Chính** — phân loại cọc, truyền tải |
+| **Ch 7** | **Móng sâu: Sức chịu tải dọc trục** | **Chính** — sức chịu tải, mũi cọc, ma sát thành, thử tải |
+| **Ch 8** | Móng sâu: Tải ngang, Nhóm cọc & Lún | Hiệu ứng nhóm, ma sát âm, lún |
+| **Ch 9** | **Cọc khoan nhồi & Giếng chìm** | **Chính** — thi công, sức chịu tải, thử tải |
+| **Ch 10** | Áp lực đất ngang | Chủ động/bị động, hố móng chống giữ |
+| **Ch 11** | Tường chắn & Tường đất có cốt (MSE) | Cantilever, counterfort, trọng lực, MSE |
+| **Ch 12** | Tường cừ & Hố đào chống đỡ | Cantilever, có neo, cofferdam; thiết kế thanh chống |
+| **Ch 13** | Ổn định mái dốc | Sườn dốc hố móng, phương pháp lát cắt |
+| **Ch 14** | Gia cố nền & Quan trắc móng | Tiền chất tải, cột đá, bơm vữa |
 
-### Từ Das — Principles of Geotechnical Engineering (7th Ed, 683 pp)
+### Từ Cơ học đất & Địa kỹ thuật: Tài liệu tham khảo thuộc phạm vi công cộng (USACE / FHWA)
 | Chapter | Application |
 |---------|-------------|
-| **Ch 5** | Phân loại — phân loại đất cho móng |
-| **Ch 6** | Đầm chặt — chuẩn bị nền móng |
-| **Ch 7** | Thấm — thấm dưới móng |
-| **Ch 9** | Ứng suất tại chỗ — K0, phân bố ứng suất |
-| **Ch 10** | Ứng suất trong khối đất — Boussinesq, Westergaard |
-| **Ch 11** | Tính nén — cố kết, lún |
-| **Ch 12** | Sức kháng cắt — ứng suất hữu hiệu/tổng, sức chịu tải cọc |
-| **Ch 15** | Ổn định sườn dốc — sườn dốc hố móng |
-| **Ch 16** | Sức chịu tải — móng nông |
-| **Ch 18** | Thăm dò dưới nền — khoan, lấy mẫu, thử nghiệm |
+| **Ch 3** | Phân loại — phân loại đất cho móng |
+| **Ch 4** | Đầm chặt — chuẩn bị nền móng |
+| **Ch 5** | Tính thấm — thấm dưới móng |
+| **Ch 7** | Ứng suất hữu hiệu & Áp lực nước lỗ rỗng — K0, trạng thái ứng suất |
+| **Ch 8** | Phân bố ứng suất trong đất — Boussinesq, biểu đồ ảnh hưởng |
+| **Ch 9** | Cố kết — tính nén, lún |
+| **Ch 10** | Sức kháng cắt — ứng suất hữu hiệu/tổng, sức chịu tải cọc |
+| **Ch 12** | Thí nghiệm tại chỗ & Chọn thông số — khoan, lấy mẫu, SPT, CPT |
 
 ### Từ Murthy — Advanced Foundation Engineering (821 pp)
 | Topic | Application |
@@ -175,4 +172,4 @@ Kiểm chứng các giả định thiết kế về ứng xử tải-lún, xác 
 
 ---
 
-*Nguồn: Tổng hợp từ Dunnicliff (616 chunks), Das Foundation (817 pp), Das Geotechnical (683 pp), Murthy (821 pp), Benerjee & Butterfield (394 pp), Field Methods (405 pp), Encyclopedia (952 pp), NCHRP Synthesis 89, và các tài liệu tham khảo hiện trường.*
+*Nguồn: Tổng hợp từ Dunnicliff (616 chunks), Foundation Engineering (USACE/FHWA, phạm vi công cộng), Soil Mechanics (USACE/FHWA, phạm vi công cộng), Murthy (821 pp), Benerjee & Butterfield (394 pp), Field Methods (405 pp), Encyclopedia (952 pp), NCHRP Synthesis 89, và các tài liệu tham khảo hiện trường.*

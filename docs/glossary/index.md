@@ -276,6 +276,51 @@ lang_alt: vi/thuat-ngu/
 * **Cause-and-Effect Plot**: A plot of measured change against an influencing factor (load, rainfall, fill height) to reveal relationships.
 * **Implementation (final link)**: Acting on the interpreted data — the step that makes monitoring worthwhile.
 
+## 10. Foundation Engineering & Soil Mechanics (USACE / FHWA public-domain scope)
+
+* **Effective Stress ($\sigma'$)**: The stress carried by the soil skeleton — total stress minus pore-water pressure; the stress that actually controls strength and deformation.
+* **Pore-Water Pressure ($u$)**: The pressure of water in the voids; positive below the water table and negative (suction) above it.
+* **Total Stress ($\sigma$)**: The stress carried by the soil skeleton and the pore water together; $\sigma = \sigma' + u$.
+* **Void Ratio ($e$)**: The volume of voids per unit volume of solids.
+* **Porosity ($n$)**: The volume of voids per unit total volume.
+* **Degree of Saturation ($S$)**: The fraction of the void volume filled with water.
+* **Atterberg Limits ($LL$, $PL$, $SL$)**: The water contents marking the transitions between the solid, plastic, and liquid states of a fine-grained soil.
+* **Plasticity Index ($PI$)**: The range of water content over which a soil is plastic; $PI = LL - PL$.
+* **USCS (Unified Soil Classification System)**: The two-letter engineering classification of soils (e.g. CL, SP, GW) based on gradation and plasticity.
+* **Compaction Curve**: The plot of dry unit weight against water content; its peak defines the optimum water content.
+* **Optimum Water Content (OMC)**: The water content at which a given compactive effort produces the maximum dry unit weight.
+* **Proctor Test (Standard / Modified)**: The laboratory compaction test that defines the moisture–density relationship used for field control.
+* **Darcy's Law**: The linear relation between seepage velocity and hydraulic gradient, $v = ki$.
+* **Coefficient of Permeability ($k$)**: The constant linking flow velocity to hydraulic gradient for a given soil.
+* **Flow Net**: A graphical solution of Laplace's equation, drawn as orthogonal flow lines and equipotential lines.
+* **Exit Gradient**: The hydraulic gradient at the downstream surface; if it exceeds the critical value, piping begins.
+* **Quick Condition / Piping**: The state in which upward seepage reduces effective stress to zero and the soil boils.
+* **Consolidation**: The time-dependent compression of a saturated soil as pore water drains and effective stress rises.
+* **Coefficient of Consolidation ($c_v$)**: The parameter governing the rate of primary consolidation.
+* **Compression Index ($C_c$)**: The slope of the virgin portion of the $e$–$\log\sigma'$ curve.
+* **Preconsolidation Pressure ($\sigma'_p$)**: The maximum effective stress a soil has ever sustained.
+* **Overconsolidation Ratio ($OCR$)**: The preconsolidation pressure divided by the present effective stress; $OCR = 1$ is normally consolidated.
+* **Mohr–Coulomb Criterion**: Failure when the shear stress reaches $\tau = c' + \sigma'\tan\phi'$.
+* **Cohesion ($c'$)**: The shear-strength intercept of the failure envelope at zero effective normal stress.
+* **Angle of Internal Friction ($\phi'$)**: The slope of the Mohr–Coulomb envelope, reflecting interparticle friction and interlocking.
+* **Undrained Shear Strength ($c_u$ / $s_u$)**: The shear strength of a saturated clay measured without drainage.
+* **Bearing Capacity ($q_{ult}$)**: The maximum pressure a foundation soil can carry before shear failure.
+* **Allowable Bearing Pressure ($q_{all}$)**: The design pressure obtained after applying a factor of safety and settlement limits.
+* **Settlement**: The vertical downward movement of a foundation under load.
+* **Differential Settlement**: The difference in settlement between points of a structure; it governs distortion and damage.
+* **Skin Friction**: The shear resistance developed along the shaft of a pile or drilled shaft.
+* **End Bearing**: The resistance mobilised at the base of a deep foundation.
+* **Negative Skin Friction (Downdrag)**: Down-drag on a pile when the surrounding soil settles relative to the pile.
+* **Pile Group Efficiency**: The ratio of the capacity of a pile group to the sum of the single-pile capacities.
+* **Lateral Earth Pressure (At-Rest / Active / Passive)**: The horizontal stress a soil exerts on a retaining structure — least when the wall yields (active) and greatest when the wall is pushed into the soil (passive).
+* **Coefficient of Lateral Earth Pressure ($K_0$, $K_a$, $K_p$)**: The ratio of horizontal to vertical effective stress in the at-rest, active, and passive states.
+* **Factor of Safety (slope)**: The ratio of available shear strength to the shear stress required for equilibrium.
+* **Standard Penetration Test ($SPT$, $N$-value)**: A driven split-spoon test whose blow count indexes soil density and strength.
+* **Cone Penetration Test ($CPT$)**: A pushed cone giving continuous tip resistance and sleeve friction with depth.
+* **Liquefaction**: Loss of strength in saturated loose sand under cyclic loading when pore pressure approaches the total stress.
+* **Expansive Soil**: Clay that swells on wetting and shrinks on drying, causing heave and cracking.
+* **Collapsible Soil**: Soil that undergoes sudden volume reduction on wetting at constant load.
+
 ---
 
 *See also: [Thuật ngữ Anh – Việt (Vietnamese Glossary)](../vi/thuat-ngu/index.md) · [Compliance Matrix (Decree 114 / TCVN 9398)](../compliance/decree-114-tcvn-9398.md) · [Interactive Sandbox](../visualizer.md)*

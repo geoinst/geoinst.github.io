@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 420" font-family="Inter, Arial, sans-serif">
+  <rect width="780" height="420" fill="#ffffff"/>
+  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">The soil phase diagram</text>
+
+  <!-- volume block -->
+  <rect x="150" y="70" width="200" height="280" fill="none" stroke="#333" stroke-width="1.5"/>
+  <!-- air -->
+  <rect x="150" y="70" width="200" height="90" fill="#eef4fb"/>
+  <text x="250" y="120" text-anchor="middle" font-size="12" fill="#2b6cb0">Air</text>
+  <!-- water -->
+  <rect x="150" y="160" width="200" height="110" fill="#9ec9ec"/>
+  <text x="250" y="222" text-anchor="middle" font-size="12" fill="#1565c0">Water</text>
+  <!-- solids -->
+  <rect x="150" y="270" width="200" height="80" fill="#cbbd8f"/>
+  <text x="250" y="316" text-anchor="middle" font-size="12" fill="#6b5d33">Solids</text>
+
+  <!-- weight block -->
+  <rect x="470" y="70" width="160" height="280" fill="none" stroke="#333" stroke-width="1.5"/>
+  <rect x="470" y="160" width="160" height="110" fill="#eef4fb"/>
+  <text x="550" y="222" text-anchor="middle" font-size="12" fill="#1565c0">W_w</text>
+  <rect x="470" y="270" width="160" height="80" fill="#f6f1e6"/>
+  <text x="550" y="316" text-anchor="middle" font-size="12" fill="#6b5d33">W_s</text>
+
+  <!-- braces -->
+  <g stroke="#666" stroke-width="1">
+    <line x1="130" y1="70" x2="130" y2="360"/>
+    <line x1="350" y1="70" x2="350" y2="360"/>
+  </g>
+  <text x="140" y="66" font-size="11" fill="#666">Volume</text>
+  <text x="460" y="66" font-size="11" fill="#666">Weight</text>
+
+  <!-- relationships -->
+  <g font-size="12" fill="#222">
+    <text x="390" y="396" text-anchor="middle">e = V_v / V_s &#160;&#160;·&#160;&#160; n = V_v / V &#160;&#160;·&#160;&#160; S = V_w / V_v &#160;&#160;·&#160;&#160; w = W_w / W_s</text>
+  </g>
+  <text x="390" y="414" text-anchor="middle" font-size="11" fill="#999">Schematic after FHWA-NHI-06-088. Not to scale.</text>
+</svg>

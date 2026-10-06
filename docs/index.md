@@ -9,7 +9,7 @@ lang_alt: vi/
 Welcome to a curated, searchable knowledge base covering:
 
 - **instrument portfolio** — piezometers, extensometers, inclinometers, and the wireless wireless data mesh
-- **Reference manuals** — Dunnicliff's *Geotechnical Instrumentation for Monitoring Field Performance*, the FHWA *Geotechnical Instrumentation Reference Manual*, Das's foundation and geotechnical engineering texts
+- **Reference manuals** — Dunnicliff's *Geotechnical Instrumentation for Monitoring Field Performance*, the FHWA *Geotechnical Instrumentation Reference Manual*, and public-domain references on foundation engineering and soil mechanics (USACE / FHWA)
 - **Field applications** — slope stability, dam seepage, tunnel linings, deep excavations, and embankment consolidation
 
 ---

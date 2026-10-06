@@ -5,18 +5,20 @@ lang_alt: reference-manuals/
 
 # Tài liệu tham khảo
 
-Phần này lập danh mục **18 tài liệu PDF tham khảo** (472 MB) tạo thành kho tư liệu của cơ sở tri thức này. Mỗi mục dưới đây dẫn đến một chương riêng cho từng tài liệu, với văn bản được trích xuất, các khái niệm chính và liên kết chéo.
+Phần này lập danh mục kho tư liệu tham khảo của cơ sở tri thức này. Mỗi mục dưới đây dẫn đến một chương riêng cho từng tài liệu hoặc từng cuốn sách, với văn bản được trích xuất, các khái niệm chính và liên kết chéo. Các mục ghi *phạm vi công cộng* là **công trình của chính phủ Hoa Kỳ** (Sổ tay Kỹ thuật USACE, sổ tay FHWA/NHI) được phép sao chép và phóng tác tự do.
 
 ## Mục lục
 
-| Tiêu đề | Tác giả / Nguồn | PDF cục bộ (chỉ tên file) | Trang |
+| Tiêu đề | Tác giả / Nguồn | Tài liệu nguồn | Trang |
 | --- | --- | --- | --- |
 | Geotechnical Instrumentation for Monitoring Field Performance (Thiết bị quan trắc địa kỹ thuật để giám sát hiệu năng hiện trường) | John Dunnicliff | GEOTECHNICAL INSTRUMENTATION...pdf | [→](dunnicliff/index.md) |
 | Geotechnical Instrumentation Reference Manual (Sổ tay thiết bị quan trắc địa kỹ thuật) | FHWA (J. Dunnicliff) | FHWA-HI-98-034 (phạm vi công cộng) | [→](fhwa/index.md) |
-| Principles of Foundation Engineering (Nguyên lý kỹ thuật móng) | Braja M. Das | Principles of Foundation Engineering 7th-Braja-Das.pdf | [→](das-foundation.md) |
-| Principles of Geotechnical Engineering (Nguyên lý kỹ thuật địa kỹ thuật) | Braja M. Das | Principles of Geotechnical Engineering 7th Edition.pdf | [→](das-geotech.md) |
+| Kỹ thuật móng: Tài liệu tham khảo thuộc phạm vi công cộng | USACE / FHWA (phạm vi công cộng) | USACE EM 1110-1-1905, EM 1110-1-1904, EM 1110-2-2906, EM 1110-2-2502, EM 1110-2-2504, EM 1110-2-1902; FHWA NHI-16-009/-010 (GEC-12), NHI-10-024/-025 (GEC-11), NHI-14-007 (GEC-7), FHWA-IF-99-025 | [→](foundation-engineering/index.md) |
+| Cơ học đất & Địa kỹ thuật: Tài liệu tham khảo thuộc phạm vi công cộng | USACE / FHWA (phạm vi công cộng) | FHWA-NHI-06-088 (Tập I), FHWA-NHI-01-031 (GEC-5); USACE EM 1110-2-1906, EM 1110-1-1904, EM 1110-2-1902 | [→](soil-mechanics/index.md) |
 
-14 tài liệu PDF còn lại (Advanced Geotech, cẩm nang ôn thi GATE, phương pháp địa chất, thủy văn, bảng thuật ngữ khai khoáng, giáo trình kỹ thuật địa kỹ thuật, phương pháp hiện trường) sẽ được liệt kê tại đây khi các trang riêng cho từng tài liệu được hoàn thiện.
+Các tài liệu nguồn còn lại (Advanced Geotech, cẩm nang ôn thi GATE, phương pháp địa chất, thủy văn, bảng thuật ngữ khai khoáng, phương pháp hiện trường) sẽ được liệt kê tại đây khi các trang riêng cho từng tài liệu được hoàn thiện.
+
+> **Lưu ý bản quyền.** Danh mục này chỉ liệt kê tài liệu mà trang web được phép sao chép hợp pháp. Hai giáo trình *Principles of … Engineering* có bản quyền trước đây đã được **gỡ bỏ** và thay bằng các tài liệu tham khảo thuộc phạm vi công cộng ở trên.
 
 ## GTI Doctor
 

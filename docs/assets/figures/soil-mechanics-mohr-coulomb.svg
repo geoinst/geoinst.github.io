@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 420" font-family="Inter, Arial, sans-serif">
+  <rect width="780" height="420" fill="#ffffff"/>
+  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Mohr&#8211;Coulomb failure envelope</text>
+
+  <!-- grid -->
+  <g stroke="#ececec" stroke-width="1">
+    <line x1="130" y1="70"  x2="700" y2="70"/>
+    <line x1="130" y1="130" x2="700" y2="130"/>
+    <line x1="130" y1="190" x2="700" y2="190"/>
+    <line x1="130" y1="250" x2="700" y2="250"/>
+    <line x1="130" y1="310" x2="700" y2="310"/>
+  </g>
+
+  <!-- axes -->
+  <g stroke="#333" stroke-width="1.5">
+    <line x1="130" y1="70" x2="130" y2="310"/>
+    <line x1="130" y1="310" x2="700" y2="310"/>
+  </g>
+
+  <!-- failure envelope -->
+  <line x1="130" y1="285" x2="500" y2="70" stroke="#c0392b" stroke-width="2.5"/>
+
+  <!-- phi' angle -->
+  <line x1="130" y1="285" x2="250" y2="285" stroke="#666" stroke-width="1" stroke-dasharray="4 4"/>
+  <path d="M 178,285 A 48,48 0 0 0 164,262" fill="none" stroke="#666" stroke-width="1.2"/>
+  <text x="196" y="279" font-size="12" fill="#666">&#966;&#8242;</text>
+
+  <!-- c' intercept -->
+  <circle cx="130" cy="285" r="3.5" fill="#c0392b"/>
+  <text x="112" y="278" font-size="12" fill="#c0392b" text-anchor="end">c&#8242;</text>
+
+  <!-- Mohr circle -->
+  <circle cx="220" cy="310" r="67" fill="none" stroke="#2b6cb0" stroke-width="2.5"/>
+  <circle cx="220" cy="310" r="3.5" fill="#2b6cb0"/>
+  <!-- tangent point -->
+  <circle cx="187" cy="252" r="4.5" fill="#fff" stroke="#2b6cb0" stroke-width="2"/>
+  <text x="150" y="240" font-size="11" fill="#2b6cb0">Failure point</text>
+
+  <!-- principal stress markers -->
+  <line x1="153" y1="304" x2="153" y2="316" stroke="#333" stroke-width="1.5"/>
+  <line x1="287" y1="304" x2="287" y2="316" stroke="#333" stroke-width="1.5"/>
+  <text x="153" y="332" font-size="11.5" fill="#333" text-anchor="middle">&#963;&#8242;<tspan baseline-shift="sub" font-size="8">3</tspan></text>
+  <text x="287" y="332" font-size="11.5" fill="#333" text-anchor="middle">&#963;&#8242;<tspan baseline-shift="sub" font-size="8">1</tspan></text>
+
+  <!-- criterion -->
+  <text x="690" y="150" font-size="13" fill="#222" text-anchor="end">&#964;<tspan baseline-shift="sub" font-size="9">f</tspan> = c&#8242; + &#963;&#8242; tan &#966;&#8242;</text>
+
+  <!-- legend -->
+  <g font-size="11.5" fill="#333">
+    <line x1="470" y1="196" x2="510" y2="196" stroke="#c0392b" stroke-width="2.5"/>
+    <text x="516" y="200">Failure envelope</text>
+    <line x1="470" y1="216" x2="510" y2="216" stroke="#2b6cb0" stroke-width="2.5"/>
+    <text x="516" y="220">Mohr circle at failure</text>
+  </g>
+
+  <!-- axis titles -->
+  <text x="74" y="195" font-size="12" fill="#333" text-anchor="middle" transform="rotate(-90 74 195)">Shear stress, &#964;</text>
+  <text x="415" y="352" font-size="12" fill="#333" text-anchor="middle">Effective normal stress, &#963;&#8242;</text>
+
+  <text x="390" y="404" text-anchor="middle" font-size="11" fill="#999">Schematic after FHWA-NHI-06-088. Not to scale.</text>
+</svg>
