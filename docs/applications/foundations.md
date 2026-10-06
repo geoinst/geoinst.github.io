@@ -63,31 +63,6 @@ Verify design assumptions about load-settlement behavior, validate deep foundati
 | **Ch 10** | Shear Strength — effective/total stress, pile capacity |
 | **Ch 12** | In-Situ Testing & Parameter Selection — boring, sampling, SPT, CPT |
 
-### From Murthy — Advanced Foundation Engineering (821 pp)
-| Topic | Application |
-|-------|-------------|
-| Advanced pile analysis | Group effects, settlement, downdrag |
-| Raft foundations | Rigid/elastic analysis, soil-structure interaction |
-| Ground improvement | Preloading, vertical drains, stone columns |
-| Seismic foundation design | Liquefaction, dynamic analysis |
-
-### From Benerjee & Butterfield — Advanced Geotechnical Analyses
-| Topic | Application |
-|-------|-------------|
-| Elastic analysis | Mindlin, Boussinesq solutions for foundations |
-| Pile group interaction | Interaction factors, settlement |
-| Raft analysis | Finite element, beam on elastic foundation |
-
-### From Field Methods for Geologists and Hydrologists
-| Topic | Application |
-|-------|-------------|
-| Subsurface exploration | Boring, CPT, SPT, geophysics |
-
-### From Encyclopedia of Field and General Geology
-| Topic | Application |
-|-------|-------------|
-| Foundation geology | Bearing strata, settlement potential |
-
 ---
 
 ## Typical Instrument Array for Foundation & Deep Excavation
@@ -171,4 +146,4 @@ Verify design assumptions about load-settlement behavior, validate deep foundati
 
 ---
 
-*Source: Compiled from Dunnicliff (616 chunks), Foundation Engineering (USACE/FHWA, public domain), Soil Mechanics (USACE/FHWA, public domain), Murthy (821 pp), Benerjee & Butterfield (394 pp), Field Methods (405 pp), Encyclopedia (952 pp), NCHRP Synthesis 89, and field reference manuals.*
+*Source: Compiled from Dunnicliff (616 chunks), Foundation Engineering (USACE/FHWA, public domain), Soil Mechanics (USACE/FHWA, public domain), NCHRP Synthesis 89, and field reference manuals.*

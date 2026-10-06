@@ -41,27 +41,6 @@ Monitor ground movement around tunnel excavation, convergence of linings, and po
 | **Ch 7** | Effective Stress & Pore Pressure — ground response around openings |
 | **Ch 10** | Shear Strength — rock mass and soil strength parameters |
 
-### From Murthy — Advanced Foundation Engineering
-| Topic | Application |
-|-------|-------------|
-| Tunnel linings | Segmental lining design, segment joints |
-| TBM monitoring | Shield pressure, articulation, articulation |
-
-### From Benerjee & Butterfield — Advanced Geotechnical Analyses
-| Topic | Application |
-|-------|-------------|
-| Numerical modeling | FEM/DEM for tunnel excavation sequence |
-
-### From Field Methods for Geologists and Hydrologists
-| Topic | Application |
-|-------|-------------|
-| Structural geology | Discontinuity mapping, rock mass classification |
-
-### From Encyclopedia of Field and General Geology
-| Topic | Application |
-|-------|-------------|
-| Tunneling methods | Drill & blast, TBM, NATM, sequential excavation |
-
 ---
 
 ## Typical Instrument Array for Tunnel Instrumentation
@@ -136,4 +115,4 @@ Monitor ground movement around tunnel excavation, convergence of linings, and po
 
 ---
 
-*Source: Compiled from Dunnicliff (616 chunks), Foundation Engineering (USACE/FHWA, public domain), Soil Mechanics (USACE/FHWA, public domain), Murthy (821 pp), Benerjee & Butterfield (394 pp), Field Methods (405 pp), Encyclopedia (952 pp), NCHRP Synthesis 89, and field reference manuals.*
+*Source: Compiled from Dunnicliff (616 chunks), Foundation Engineering (USACE/FHWA, public domain), Soil Mechanics (USACE/FHWA, public domain), NCHRP Synthesis 89, and field reference manuals.*

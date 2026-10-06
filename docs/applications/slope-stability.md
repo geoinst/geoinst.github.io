@@ -42,26 +42,6 @@ Detect the onset of slope movement before failure, identify the shear surface, a
 | **Ch 10** | Shear Strength | Mohr-Coulomb, triaxial tests, CU/CD, pore pressure parameters |
 | **Ch 13** | Problem Soils | Expansive and collapsible soils on slopes |
 
-### From Murthy — Advanced Foundation Engineering
-| Chapter | Application |
-|---------|-------------|
-| Slope stability chapters | Advanced methods, seismic slope stability, reinforced slopes |
-
-### From Benerjee & Butterfield — Advanced Geotechnical Analyses
-| Chapter | Application |
-|---------|-------------|
-| Numerical methods | Finite element analysis of slopes, PLAXIS, FLAC applications |
-
-### From Field Methods for Geologists and Hydrologists
-| Chapter | Application |
-|---------|-------------|
-| Field mapping | Structural geology, discontinuity mapping, kinematic analysis |
-
-### From Encyclopedia of Field and General Geology
-| Topic | Application |
-|-------|-------------|
-| Mass wasting | Landslide classification, mechanisms, monitoring |
-
 ---
 
 ## Typical Instrument Array for Slope Stability
@@ -115,4 +95,4 @@ Detect the onset of slope movement before failure, identify the shear surface, a
 
 ---
 
-*Source: Compiled from Dunnicliff (616 chunks), Foundation Engineering (USACE/FHWA, public domain), Soil Mechanics (USACE/FHWA, public domain), Murthy (821 pp), Benerjee & Butterfield (394 pp), Field Methods (405 pp), Encyclopedia (952 pp), NCHRP Synthesis 89, and field reference manuals.*
+*Source: Compiled from Dunnicliff (616 chunks), Foundation Engineering (USACE/FHWA, public domain), Soil Mechanics (USACE/FHWA, public domain), NCHRP Synthesis 89, and field reference manuals.*

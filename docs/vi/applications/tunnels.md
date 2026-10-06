@@ -42,27 +42,6 @@ Quan trắc chuyển động đất xung quanh đào hầm, sự hội tụ củ
 | **Ch 7** | Ứng suất hữu hiệu & Áp lực nước lỗ rỗng — phản ứng đất quanh hầm |
 | **Ch 10** | Sức kháng cắt — thông số cường độ khối đá và đất |
 
-### Từ Murthy — Advanced Foundation Engineering
-| Topic | Application |
-|-------|-------------|
-| Lớp lót hầm | Thiết kế lót phân đoạn, mối nối phân đoạn |
-| Quan trắc TBM | Áp lực khiên, khớp nối, khớp nối |
-
-### Từ Benerjee & Butterfield — Advanced Geotechnical Analyses
-| Topic | Application |
-|-------|-------------|
-| Mô hình hóa số | FEM/DEM cho trình tự đào hầm |
-
-### Từ Field Methods for Geologists and Hydrologists
-| Topic | Application |
-|-------|-------------|
-| Địa chất cấu trúc | Lập bản đồ bất liên tục, phân loại khối đá |
-
-### Từ Encyclopedia of Field and General Geology
-| Topic | Application |
-|-------|-------------|
-| Phương pháp đào hầm | Khoan-nổ, TBM, NATM, đào tuần tự |
-
 ---
 
 ## Mảng thiết bị điển hình cho thiết bị quan trắc hầm
@@ -137,4 +116,4 @@ Quan trắc chuyển động đất xung quanh đào hầm, sự hội tụ củ
 
 ---
 
-*Nguồn: Tổng hợp từ Dunnicliff (616 chunks), Foundation Engineering (USACE/FHWA, phạm vi công cộng), Soil Mechanics (USACE/FHWA, phạm vi công cộng), Murthy (821 pp), Benerjee & Butterfield (394 pp), Field Methods (405 pp), Encyclopedia (952 pp), NCHRP Synthesis 89, và các tài liệu tham khảo hiện trường.*
+*Nguồn: Tổng hợp từ Dunnicliff (616 chunks), Foundation Engineering (USACE/FHWA, phạm vi công cộng), Soil Mechanics (USACE/FHWA, phạm vi công cộng), NCHRP Synthesis 89, và các tài liệu tham khảo hiện trường.*

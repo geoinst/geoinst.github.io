@@ -46,22 +46,6 @@ Phát hiện thay đổi thấm, xói mòn nội bộ, và biến dạng trong �
 | **Ch 9** | Cố kết — lún của nền đắp |
 | **Ch 10** | Sức kháng cắt — thông số ứng suất hữu hiệu cho lõi |
 
-### Từ Murthy — Advanced Foundation Engineering
-| Topic | Application |
-|-------|-------------|
-| Phân tích thấm | Lưới dòng, đường phreatic, thiết kế bộ lọc |
-| Ổn định đập | Ổn định thượng lưu/hạ lưu, động đất |
-
-### Từ Field Methods for Geologists and Hydrologists
-| Topic | Application |
-|-------|-------------|
-| Thủy địa chất | Thử nghiệm tầng chứa nước, hạ mực nước, đo thấm |
-
-### Từ Encyclopedia of Field and General Geology
-| Topic | Application |
-|-------|-------------|
-| Địa chất đập | Địa chất nền móng, ổn định bờ abutment, ổn định vành hồ chứa |
-
 ### NCHRP Synthesis 89
 | Topic | Application |
 |-------|-------------|
@@ -140,4 +124,4 @@ Phát hiện thay đổi thấm, xói mòn nội bộ, và biến dạng trong �
 
 ---
 
-*Nguồn: Tổng hợp từ Dunnicliff (616 chunks), Foundation Engineering (USACE/FHWA, phạm vi công cộng), Soil Mechanics (USACE/FHWA, phạm vi công cộng), Murthy (821 pp), Benerjee & Butterfield (394 pp), Field Methods (405 pp), Encyclopedia (952 pp), NCHRP Synthesis 89, và các tài liệu tham khảo hiện trường.*
+*Nguồn: Tổng hợp từ Dunnicliff (616 chunks), Foundation Engineering (USACE/FHWA, phạm vi công cộng), Soil Mechanics (USACE/FHWA, phạm vi công cộng), NCHRP Synthesis 89, và các tài liệu tham khảo hiện trường.*

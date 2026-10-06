@@ -45,22 +45,6 @@ Detect seepage changes, internal erosion, and deformation in embankment / concre
 | **Ch 9** | Consolidation — settlement of embankment foundations |
 | **Ch 10** | Shear Strength — effective stress parameters for cores |
 
-### From Murthy — Advanced Foundation Engineering
-| Topic | Application |
-|-------|-------------|
-| Seepage analysis | Flow nets, phreatic line, filter design |
-| Dam stability | Upstream/downstream stability, seismic |
-
-### From Field Methods for Geologists and Hydrologists
-| Topic | Application |
-|-------|-------------|
-| Hydrogeology | Aquifer testing, dewatering, seepage measurement |
-
-### From Encyclopedia of Field and General Geology
-| Topic | Application |
-|-------|-------------|
-| Dam geology | Foundation geology, abutment stability, reservoir rim stability |
-
 ### NCHRP Synthesis 89
 | Topic | Application |
 |-------|-------------|
@@ -139,4 +123,4 @@ Detect seepage changes, internal erosion, and deformation in embankment / concre
 
 ---
 
-*Source: Compiled from Dunnicliff (616 chunks), Foundation Engineering (USACE/FHWA, public domain), Soil Mechanics (USACE/FHWA, public domain), Murthy (821 pp), Benerjee & Butterfield (394 pp), Field Methods (405 pp), Encyclopedia (952 pp), NCHRP Synthesis 89, and field reference manuals.*
+*Source: Compiled from Dunnicliff (616 chunks), Foundation Engineering (USACE/FHWA, public domain), Soil Mechanics (USACE/FHWA, public domain), NCHRP Synthesis 89, and field reference manuals.*

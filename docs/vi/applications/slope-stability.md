@@ -43,26 +43,6 @@ Phát hiện sự khởi phát của chuyển động sườn dốc trước khi
 | **Ch 10** | Sức kháng cắt | Mohr-Coulomb, thí nghiệm ba trục, CU/CD, thông số áp lực lỗ rỗng |
 | **Ch 13** | Đất có vấn đề | Đất trương nở và đất sụt trên mái dốc |
 
-### Từ Murthy — Advanced Foundation Engineering
-| Chapter | Application |
-|---------|-------------|
-| Các chương ổn định sườn dốc | Phương pháp nâng cao, ổn định sườn dốc chịu động đất, sườn dốc gia cố |
-
-### Từ Benerjee & Butterfield — Advanced Geotechnical Analyses
-| Chapter | Application |
-|---------|-------------|
-| Phương pháp số | Phân tích phần tử hữu hạn sườn dốc, ứng dụng PLAXIS, FLAC |
-
-### Từ Field Methods for Geologists and Hydrologists
-| Chapter | Application |
-|---------|-------------|
-| Lập bản đồ hiện trường | Địa chất cấu trúc, lập bản đồ bất liên tục, phân tích động học |
-
-### Từ Encyclopedia of Field and General Geology
-| Topic | Application |
-|-------|-------------|
-| Sự trôi dạt khối (mass wasting) | Phân loại sạt lở, cơ chế, quan trắc |
-
 ---
 
 ## Mảng thiết bị điển hình cho ổn định sườn dốc
@@ -116,4 +96,4 @@ Phát hiện sự khởi phát của chuyển động sườn dốc trước khi
 
 ---
 
-*Nguồn: Tổng hợp từ Dunnicliff (616 chunks), Foundation Engineering (USACE/FHWA, phạm vi công cộng), Soil Mechanics (USACE/FHWA, phạm vi công cộng), Murthy (821 pp), Benerjee & Butterfield (394 pp), Field Methods (405 pp), Encyclopedia (952 pp), NCHRP Synthesis 89, và các tài liệu tham khảo hiện trường.*
+*Nguồn: Tổng hợp từ Dunnicliff (616 chunks), Foundation Engineering (USACE/FHWA, phạm vi công cộng), Soil Mechanics (USACE/FHWA, phạm vi công cộng), NCHRP Synthesis 89, và các tài liệu tham khảo hiện trường.*

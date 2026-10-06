@@ -64,31 +64,6 @@ Kiểm chứng các giả định thiết kế về ứng xử tải-lún, xác 
 | **Ch 10** | Sức kháng cắt — ứng suất hữu hiệu/tổng, sức chịu tải cọc |
 | **Ch 12** | Thí nghiệm tại chỗ & Chọn thông số — khoan, lấy mẫu, SPT, CPT |
 
-### Từ Murthy — Advanced Foundation Engineering (821 pp)
-| Topic | Application |
-|-------|-------------|
-| Phân tích cọc nâng cao | Hiệu ứng nhóm, lún, tải trọng trôi xuống |
-| Móng bè | Phân tích cứng/đàn hồi, tương tác đất-kết cấu |
-| Cải tạo nền | Tiền chất tải, mương thoát dọc, cột đá |
-| Thiết kế móng chịu động đất | Hóa lỏng, phân tích động |
-
-### Từ Benerjee & Butterfield — Advanced Geotechnical Analyses
-| Topic | Application |
-|-------|-------------|
-| Phân tích đàn hồi | Nghiệm Mindlin, Boussinesq cho móng |
-| Tương tác nhóm cọc | Hệ số tương tác, lún |
-| Phân tích bè | Phần tử hữu hạn, dầm trên nền đàn hồi |
-
-### Từ Field Methods for Geologists and Hydrologists
-| Topic | Application |
-|-------|-------------|
-| Thăm dò dưới bề mặt | Khoan, CPT, SPT, địa vật lý |
-
-### Từ Encyclopedia of Field and General Geology
-| Topic | Application |
-|-------|-------------|
-| Địa chất móng | Tầng đệm chịu lực, tiềm năng lún |
-
 ---
 
 ## Mảng thiết bị điển hình cho móng & đào hố móng sâu
@@ -113,26 +88,26 @@ Kiểm chứng các giả định thiết kế về ứng xử tải-lún, xác 
 ## Hướng dẫn lắp đặt (từ Dunnicliff Ch 9, 12, 13, 17, 19, 24, 25)
 
 ### Thiết bị thử tải cọc
-- **Load cell**: Tại đầu cọc, đã hiệu chuẩn
-- **Telltale**: Nhiều tại các độ sâu khác nhau
-- **Điện trở biến dạng**: Dọc theo chiều dài cọc (phương pháp sister bar)
-- **Mốc tham chiếu**: Ổn định, ngoài vùng ảnh hưởng
+- **Load cell (Đầu đo tải trọng)**: Tại đầu cọc, đã hiệu chuẩn
+- **Thanh truyền chuyển vị (Telltale)**: Bố trí tại các độ sâu khác nhau dọc thân cọc
+- **Đầu đo biến dạng (Strain Gauge)**: Dọc theo chiều dài cọc bằng thanh thép đo biến dạng phụ (sister bar)
+- **Mốc tham chiếu**: Ổn định, nằm ngoài vùng ảnh hưởng của tải trọng
 
-### Thiết bị trụ khoan
-- **Load cell đáy**: Tại mũi trụ
-- **Cắt bên**: Điện trở biến dạng trên lồng thép
-- **Đo siêu âm xuyên lỗ**: Thử tính toàn khối
-- **Telltale**: Cho phân bố truyền tải trọng
+### Thiết bị cọc khoan nhồi / trụ khoan
+- **Load cell đáy**: Đặt tại mũi cọc / đáy trụ
+- **Sức kháng bên**: Đầu đo biến dạng / sister bar buộc trên lồng thép
+- **Đo siêu âm xuyên lỗ (CSL)**: Thử tính toàn khối cọc
+- **Thanh truyền chuyển vị (Telltale)**: Xác định quy luật phân bố truyền tải trọng
 
 ### Quan trắc hố móng chống giữ
 - **Tải trọng thanh chống**: Load cell tại mỗi cấp thanh chống
-- **Biến dạng tường**: Inclinometer phía sau tường
-- **Nước ngầm**: Piezometer trong/ngoài
-- **Lún bề mặt**: Tấm lún, AMTS
-- **Công trình lân cận**: Tiltmeter, tấm lún, AMTS
+- **Biến dạng tường**: Thiết bị đo nghiêng (Inclinometer) phía sau tường vây / tường cừ
+- **Nước ngầm**: Áp kế (Piezometer) bên trong và ngoài hố móng
+- **Lún bề mặt**: Mốc đo lún, trạm toàn đạc tự động AMTS
+- **Công trình lân cận**: Cảm biến đo nghiêng (Tiltmeter), mốc đo lún, AMTS
 
 ### Quan trắc hạ mực nước
-- **Mảng piezometer**: Trong và ngoài hố móng
+- **Mảng áp kế (Piezometer)**: Bên trong và bên ngoài hố móng
 - **Đo lưu lượng**: Lưu lượng bơm hố ga
 - **Quan trắc hạ mực**: Giếng quan trắc
 
@@ -172,4 +147,4 @@ Kiểm chứng các giả định thiết kế về ứng xử tải-lún, xác 
 
 ---
 
-*Nguồn: Tổng hợp từ Dunnicliff (616 chunks), Foundation Engineering (USACE/FHWA, phạm vi công cộng), Soil Mechanics (USACE/FHWA, phạm vi công cộng), Murthy (821 pp), Benerjee & Butterfield (394 pp), Field Methods (405 pp), Encyclopedia (952 pp), NCHRP Synthesis 89, và các tài liệu tham khảo hiện trường.*
+*Nguồn: Tổng hợp từ Dunnicliff (616 chunks), Foundation Engineering (USACE/FHWA, phạm vi công cộng), Soil Mechanics (USACE/FHWA, phạm vi công cộng), NCHRP Synthesis 89, và các tài liệu tham khảo hiện trường.*
