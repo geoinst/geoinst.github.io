@@ -198,6 +198,20 @@ nav:
           - "Ch.12 Đánh giá & Diễn giải dữ liệu": vi/reference-manuals/tailings-dam-safety/chapter-12-evaluation.md
           - "Ch.13 Hiệu năng & Quyết định": vi/reference-manuals/tailings-dam-safety/chapter-13-decisions.md
           - "Ch.14 Các trường hợp lịch sử": vi/reference-manuals/tailings-dam-safety/chapter-14-case-histories.md
+      - "Cẩm nang dùng cho kỹ sư địa kỹ thuật (Trần Văn Việt)":
+          - Tổng quan: vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/index.md
+          - "Ch.1 Khái quát địa chất – đất đá": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-01-geology-soil-rock.md
+          - "Ch.2 Tính chất xây dựng của đất nền": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-02-soil-properties.md
+          - "Ch.3 Nước dưới đất": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-03-groundwater.md
+          - "Ch.4 Khảo sát – thăm dò – thí nghiệm": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-04-investigation-testing.md
+          - "Ch.5 Phân tích móng nông": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-05-shallow-foundations.md
+          - "Ch.6 Phân tích móng sâu": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-06-deep-foundations.md
+          - "Ch.7 Phân tích ổn định mái dốc": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-07-slope-stability.md
+          - "Ch.8 Phân tích tường chắn": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-08-retaining-walls.md
+          - "Ch.9 Đất đắp trên nền đất yếu": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-09-embankment-soft-ground.md
+          - "Ch.10 Thuỷ lực công trình": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-10-hydraulics.md
+          - "Ch.11 Động đất với công trình xây dựng": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-11-earthquakes.md
+          - "Ch.12 Công nghệ thông tin trong địa kỹ thuật": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-12-geo-informatics.md
       - "Môi trường thử nghiệm tương tác": vi/visualizer.md
       - "Bác sĩ GTI (AI)": vi/gti-doctor.md
       - "Tuân thủ pháp lý":
@@ -315,6 +329,20 @@ nav:
           - "Ch.12 Data Evaluation & Interpretation": reference-manuals/tailings-dam-safety/chapter-12-evaluation.md
           - "Ch.13 Performance & Decisions": reference-manuals/tailings-dam-safety/chapter-13-decisions.md
           - "Ch.14 Case Histories": reference-manuals/tailings-dam-safety/chapter-14-case-histories.md
+      - "Geotechnical Engineer's Handbook (Trần Văn Việt)":
+          - Overview: reference-manuals/geotechnical-engineers-handbook/index.md
+          - "Ch.1 Geology: Soil and Rock": reference-manuals/geotechnical-engineers-handbook/chapter-01-geology-soil-rock.md
+          - "Ch.2 Engineering Properties of Foundation Soils": reference-manuals/geotechnical-engineers-handbook/chapter-02-soil-properties.md
+          - "Ch.3 Groundwater": reference-manuals/geotechnical-engineers-handbook/chapter-03-groundwater.md
+          - "Ch.4 Investigation, Exploration and Testing": reference-manuals/geotechnical-engineers-handbook/chapter-04-investigation-testing.md
+          - "Ch.5 Shallow Foundation Analysis": reference-manuals/geotechnical-engineers-handbook/chapter-05-shallow-foundations.md
+          - "Ch.6 Deep Foundation Analysis": reference-manuals/geotechnical-engineers-handbook/chapter-06-deep-foundations.md
+          - "Ch.7 Slope Stability Analysis": reference-manuals/geotechnical-engineers-handbook/chapter-07-slope-stability.md
+          - "Ch.8 Retaining Wall Analysis": reference-manuals/geotechnical-engineers-handbook/chapter-08-retaining-walls.md
+          - "Ch.9 Embankments on Soft Ground": reference-manuals/geotechnical-engineers-handbook/chapter-09-embankment-soft-ground.md
+          - "Ch.10 Engineering Hydraulics": reference-manuals/geotechnical-engineers-handbook/chapter-10-hydraulics.md
+          - "Ch.11 Earthquakes and Construction Works": reference-manuals/geotechnical-engineers-handbook/chapter-11-earthquakes.md
+          - "Ch.12 Geoinformatics in Geotechnics": reference-manuals/geotechnical-engineers-handbook/chapter-12-geo-informatics.md
   - Interactive Sandbox: visualizer.md
   - GTI Doctor (AI): gti-doctor.md
   - Glossary: glossary/index.md
