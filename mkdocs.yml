@@ -121,6 +121,22 @@ nav:
           - Sổ tay tham khảo FHWA: vi/reference-manuals/fhwa.md
           - Das (Kỹ thuật móng): vi/reference-manuals/das-foundation.md
           - Das (Kỹ thuật địa kỹ thuật): vi/reference-manuals/das-geotech.md
+      - "Giám sát hiệu năng đập (ASCE MOP-135)":
+          - Tổng quan: vi/reference-manuals/monitoring-dam-performance/index.md
+          - "Ch.1 Mục đích, Phạm vi & Tổ chức": vi/reference-manuals/monitoring-dam-performance/chapter-01-introduction.md
+          - "Ch.2 Hiệu năng đập & Chế độ hỏng": vi/reference-manuals/monitoring-dam-performance/chapter-02-failure-modes.md
+          - "Ch.3 Triết lý giám sát": vi/reference-manuals/monitoring-dam-performance/chapter-03-philosophy.md
+          - "Ch.4 Lập kế hoạch giám sát": vi/reference-manuals/monitoring-dam-performance/chapter-04-planning.md
+          - "Ch.5 Họ dụng cụ đo": vi/reference-manuals/monitoring-dam-performance/chapter-05-instruments.md
+          - "Ch.6 Piezometer & Áp lực nước lỗ rỗng": vi/reference-manuals/monitoring-dam-performance/chapter-06-piezometers.md
+          - "Ch.7 Thấm & Mặt nước thấm": vi/reference-manuals/monitoring-dam-performance/chapter-07-seepage.md
+          - "Ch.8 Giám sát biến dạng": vi/reference-manuals/monitoring-dam-performance/chapter-08-deformation.md
+          - "Ch.9 Hệ thống tự động & từ xa": vi/reference-manuals/monitoring-dam-performance/chapter-09-automated.md
+          - "Ch.10 Lắp đặt, Vận hành & Bảo trì": vi/reference-manuals/monitoring-dam-performance/chapter-10-iom.md
+          - "Ch.11 Thu thập & Quản lý dữ liệu": vi/reference-manuals/monitoring-dam-performance/chapter-11-data-management.md
+          - "Ch.12 Đánh giá & Diễn giải": vi/reference-manuals/monitoring-dam-performance/chapter-12-evaluation.md
+          - "Ch.13 Hiệu năng & Quyết định": vi/reference-manuals/monitoring-dam-performance/chapter-13-decisions.md
+          - "Ch.14 Các trường hợp lịch sử": vi/reference-manuals/monitoring-dam-performance/chapter-14-case-histories.md
       - "Môi trường thử nghiệm tương tác": vi/visualizer.md
       - "Bác sĩ GTI (AI)": vi/gti-doctor.md
       - "Tuân thủ pháp lý":
@@ -161,6 +177,22 @@ nav:
       - FHWA Reference Manual: reference-manuals/fhwa.md
       - Das (Foundation Engineering): reference-manuals/das-foundation.md
       - Das (Geotechnical Engineering): reference-manuals/das-geotech.md
+      - "Monitoring Dam Performance (ASCE MOP-135)":
+          - Overview: reference-manuals/monitoring-dam-performance/index.md
+          - "Ch.1 Purpose, Scope & Organization": reference-manuals/monitoring-dam-performance/chapter-01-introduction.md
+          - "Ch.2 Dam Performance & Failure Modes": reference-manuals/monitoring-dam-performance/chapter-02-failure-modes.md
+          - "Ch.3 Monitoring Philosophy": reference-manuals/monitoring-dam-performance/chapter-03-philosophy.md
+          - "Ch.4 Planning a Monitoring Program": reference-manuals/monitoring-dam-performance/chapter-04-planning.md
+          - "Ch.5 Instrument Families": reference-manuals/monitoring-dam-performance/chapter-05-instruments.md
+          - "Ch.6 Piezometers & Pore Pressure": reference-manuals/monitoring-dam-performance/chapter-06-piezometers.md
+          - "Ch.7 Seepage & Phreatic Surface": reference-manuals/monitoring-dam-performance/chapter-07-seepage.md
+          - "Ch.8 Deformation Monitoring": reference-manuals/monitoring-dam-performance/chapter-08-deformation.md
+          - "Ch.9 Automated & Remote Systems": reference-manuals/monitoring-dam-performance/chapter-09-automated.md
+          - "Ch.10 Installation, O&M": reference-manuals/monitoring-dam-performance/chapter-10-iom.md
+          - "Ch.11 Data Acquisition & Management": reference-manuals/monitoring-dam-performance/chapter-11-data-management.md
+          - "Ch.12 Evaluation & Interpretation": reference-manuals/monitoring-dam-performance/chapter-12-evaluation.md
+          - "Ch.13 Performance & Decisions": reference-manuals/monitoring-dam-performance/chapter-13-decisions.md
+          - "Ch.14 Case Histories": reference-manuals/monitoring-dam-performance/chapter-14-case-histories.md
   - Interactive Sandbox: visualizer.md
   - GTI Doctor (AI): gti-doctor.md
   - Glossary: glossary/index.md
