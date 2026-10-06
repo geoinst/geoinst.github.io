@@ -17,6 +17,7 @@ Phần này lập danh mục kho tư liệu tham khảo của cơ sở tri thứ
 | Cơ học đất & Địa kỹ thuật: Tài liệu tham khảo thuộc phạm vi công cộng | USACE / FHWA (phạm vi công cộng) | FHWA-NHI-06-088 (Tập I), FHWA-NHI-01-031 (GEC-5); USACE EM 1110-2-1906, EM 1110-1-1904, EM 1110-2-1902 | [→](soil-mechanics/index.md) |
 | Cẩm nang dùng cho kỹ sư địa kỹ thuật | Trần Văn Việt (NXB Xây dựng) | *Cẩm nang dùng cho kỹ sư địa kỹ thuật* — có bản quyền; bản tổng hợp độc lập, không sao chép nguyên văn | [→](cam-nang-ky-su-dia-ky-thuat/index.md) |
 | GeoVadis: Tương lai của Kỹ thuật Địa kỹ thuật (Tập 1) | Ashish Juneja, Anil Joseph, Dasaka S. Murty (CRC Press) | Kỷ yếu GAIC 2025 (Truy cập mở CC BY-NC-ND 4.0, DOI: 10.1201/9781003645917) | [→](geovadis/index.md) |
+| GeoVadis: Tương lai của Kỹ thuật Địa kỹ thuật (Tập 2) | Ashish Juneja, Anil Joseph, Dasaka S. Murty (CRC Press) | Kỷ yếu GAIC 2025 (Truy cập mở CC BY-NC-ND 4.0, DOI: 10.1201/9781003645931) | [→](geovadis-vol2/index.md) |
 
 Các tài liệu nguồn còn lại (Advanced Geotech, cẩm nang ôn thi GATE, phương pháp địa chất, thủy văn, bảng thuật ngữ khai khoáng, phương pháp hiện trường) sẽ được liệt kê tại đây khi các trang riêng cho từng tài liệu được hoàn thiện.
 

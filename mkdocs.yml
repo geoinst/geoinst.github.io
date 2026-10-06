@@ -220,6 +220,13 @@ nav:
           - "Ch.4 Kỹ thuật địa chấn & Động lực học đất": vi/reference-manuals/geovadis/chapter-04-earthquake-soil-dynamics.md
           - "Ch.5 Móng sâu & Hố đào sâu": vi/reference-manuals/geovadis/chapter-05-foundations-deep-excavation.md
           - "Ch.6 Vật liệu tổng hợp & Đất có cốt": vi/reference-manuals/geovadis/chapter-06-geosynthetic-engineering.md
+      - "GeoVadis: Tương lai của Kỹ thuật Địa kỹ thuật (Tập 2)":
+          - Tổng quan: vi/reference-manuals/geovadis-vol2/index.md
+          - "Ch.1 Cải tạo nền & Ổn định hóa học": vi/reference-manuals/geovadis-vol2/chapter-01-ground-improvement-stabilisation.md
+          - "Ch.2 Thực hành & Khảo sát hiện trường": vi/reference-manuals/geovadis-vol2/chapter-02-practice-risk-site-characterisation.md
+          - "Ch.3 Cơ học đá & Công trình ngầm": vi/reference-manuals/geovadis-vol2/chapter-03-rock-mechanics-tunnelling.md
+          - "Ch.4 Ổn định mái dốc & Cảnh báo sớm": vi/reference-manuals/geovadis-vol2/chapter-04-slope-stability-landslides.md
+          - "Ch.5 Địa kỹ thuật giao thông": vi/reference-manuals/geovadis-vol2/chapter-05-transportation-geotechnics.md
       - "Môi trường thử nghiệm tương tác": vi/visualizer.md
       - "Bác sĩ GTI (AI)": vi/gti-doctor.md
       - "Tuân thủ pháp lý":
@@ -359,6 +366,13 @@ nav:
           - "Ch.4 Earthquake Engineering & Soil Dynamics": reference-manuals/geovadis/chapter-04-earthquake-soil-dynamics.md
           - "Ch.5 Foundations & Deep Excavations": reference-manuals/geovadis/chapter-05-foundations-deep-excavation.md
           - "Ch.6 Geosynthetics & Ground Reinforcement": reference-manuals/geovadis/chapter-06-geosynthetic-engineering.md
+      - "GeoVadis: The Future of Geotechnical Engineering (Vol. 2)":
+          - Overview: reference-manuals/geovadis-vol2/index.md
+          - "Ch.1 Ground Improvement and Stabilisation": reference-manuals/geovadis-vol2/chapter-01-ground-improvement-stabilisation.md
+          - "Ch.2 Practice, Risk and Site Characterisation": reference-manuals/geovadis-vol2/chapter-02-practice-risk-site-characterisation.md
+          - "Ch.3 Rock Mechanics and Tunnelling Engineering": reference-manuals/geovadis-vol2/chapter-03-rock-mechanics-tunnelling.md
+          - "Ch.4 Slope Stability, Landslides and Early Warning": reference-manuals/geovadis-vol2/chapter-04-slope-stability-landslides.md
+          - "Ch.5 Transportation Geotechnics": reference-manuals/geovadis-vol2/chapter-05-transportation-geotechnics.md
   - Interactive Sandbox: visualizer.md
   - GTI Doctor (AI): gti-doctor.md
   - Glossary: glossary/index.md

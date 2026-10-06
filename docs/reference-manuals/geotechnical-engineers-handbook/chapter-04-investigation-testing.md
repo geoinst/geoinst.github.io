@@ -26,12 +26,32 @@ representative.
 
 ### 4.1.2 Recognising and describing soil
 
-Field identification by visual and manual means — the basis of every borehole log.
+Field identification by visual and manual means — the basis of every borehole log. The
+engineer reads **grain size, sorting, rounding, colour and consistency** off the sample
+and the exposure, and that description is what later selects the tests and the empirical
+correlations.
+
+![Figure: geology-glacial-till-outwash](../../assets/figures/geology/glacial-till-outwash.jpg)
+
+**Figure.** Two deposits that must be described differently. Left: glacial outwash at
+Point Grey, Vancouver — a dark lower layer of sand, silt and clay beneath a light,
+**well-sorted** sand. Right: glacial **till** on Quadra Island, B.C. — unsorted, compressed
+under ice, and strong enough to stand in a near-vertical cut. Sorting and grading, not
+grain size alone, separate them.
+*© Steven Earle, CC BY 4.0 — Physical Geology, 2nd ed., Fig. 15.1.3.*
 
 ### 4.1.3 Rock-mass classification for construction
 
 Rock is classified as a **mass** (khối đá), not as a specimen: degree of weathering,
 spacing and orientation of discontinuities, and intact strength all enter.
+
+![Figure: geology-fault-offset](../../assets/figures/geology/fault-offset.png)
+
+**Figure.** A discontinuity that must be recorded on the rock-mass description: a fault
+(white dashed line) in intrusive rock on Quadra Island, B.C., with about 10 cm of
+right-lateral offset on a dyke. **Faults, joints and bedding are structural features of the
+mass**, not properties of the intact rock.
+*© Steven Earle, CC BY 4.0 — Physical Geology, 2nd ed., Fig. 12.3.4.*
 
 ### 4.1.4 Recognising and describing rock
 
@@ -62,7 +82,25 @@ Disturbed and undisturbed sampling; core recovery and quality.
 
 ### 4.3.3 Geophysical methods
 
-Surface and downhole geophysics used to interpolate between boreholes.
+Surface and downhole geophysics used to interpolate between boreholes. The **seismic
+methods** (seismic refraction, down-hole and cross-hole) rest on one simple idea: send an
+elastic wave into the ground and time its arrival.
+
+![Figure: geology-seismic-hammer](../../assets/figures/geology/seismic-hammer.png)
+
+**Figure.** The principle of every seismic method: a hammer blow (or a borehole source)
+sends elastic waves into the ground; the arrival times of the P and S waves at a receiver
+give the wave velocity of the material between them.
+*© Steven Earle, CC BY 4.0 — Physical Geology, 2nd ed., Fig. 9.1.1.*
+
+![Figure: geology-wave-velocities](../../assets/figures/geology/wave-velocities.png)
+
+**Figure.** Typical P-wave (red) and S-wave (blue) velocities in sediments and in solid
+crustal rock. The large contrast between **soft sediment** and **rock** is what makes
+seismic refraction a reliable way to find depth to bedrock — and the S-wave velocity is
+what feeds the dynamic soil properties used in seismic design.
+*© Steven Earle, CC BY 4.0, after the US Environmental Protection Agency (public domain)
+— Physical Geology, 2nd ed., Fig. 9.1.3.*
 
 ## 4.4 Test methods
 

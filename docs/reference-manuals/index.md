@@ -16,6 +16,7 @@ This section catalogs the reference corpus behind this knowledge base. Each entr
 | Soil Mechanics & Geotechnical Engineering: A Public-Domain Reference | USACE / FHWA (public domain) | FHWA-NHI-06-088 (Vol. I), FHWA-NHI-01-031 (GEC-5); USACE EM 1110-2-1906, EM 1110-1-1904, EM 1110-2-1902 | [→](soil-mechanics/index.md) |
 | Geotechnical Engineer's Handbook | Trần Văn Việt (Nhà xuất bản Xây dựng) | *Cẩm nang dùng cho kỹ sư địa kỹ thuật* — copyrighted; independent digest, not a reproduction | [→](geotechnical-engineers-handbook/index.md) |
 | GeoVadis: The Future of Geotechnical Engineering (Vol. 1) | Ashish Juneja, Anil Joseph, Dasaka S. Murty (CRC Press) | GAIC 2025 Proceedings (Open Access CC BY-NC-ND 4.0, DOI: 10.1201/9781003645917) | [→](geovadis/index.md) |
+| GeoVadis: The Future of Geotechnical Engineering (Vol. 2) | Ashish Juneja, Anil Joseph, Dasaka S. Murty (CRC Press) | GAIC 2025 Proceedings (Open Access CC BY-NC-ND 4.0, DOI: 10.1201/9781003645931) | [→](geovadis-vol2/index.md) |
 
 The remaining source PDFs (Advanced Geotech, GATE study guides, geological methods, hydrology, mining glossary, field methods) will be listed here as their per-manual pages are written.
 

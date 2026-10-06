@@ -34,14 +34,34 @@ khác nhau.
 **Mức độ rỗng** và các thông số đi kèm (hệ số rỗng $e$, độ rỗng $n$) định lượng phần
 thể tích bị chiếm bởi lỗ rỗng.
 
+![Hình: geology-porosity](../../../assets/figures/geology/porosity.png)
+
+**Hình.** Khoảng độ rỗng điển hình của vật liệu rời (đỏ) và đá (xanh). Lưu ý bụi và sét
+là loại **rỗng nhất** — nhưng, như hình sau cho thấy, lại **kém thấm nhất**.
+*© Steven Earle, CC BY 4.0 — Physical Geology, 2nd ed., Hình 14.1.1.*
+
 ### 3.1.4 Mức độ thấm
 
 **Mức độ thấm (tính thấm)** là khả năng truyền nước của môi trường. Đây là tính chất
 quan trọng nhất đối với các bài toán thấm, tiêu thoát nước và cố kết.
 
+![Hình: geology-hydraulic-conductivity](../../../assets/figures/geology/hydraulic-conductivity.png)
+
+**Hình.** Hệ số thấm $K$ (m/s) của vật liệu rời (đỏ) và đá (xanh) — trải trên khoảng mười
+hai bậc độ lớn. **Sét rỗng nhưng gần như không thấm**, vì hầu hết nước trong sét bị giữ
+thành nước liên kết trên bề mặt hạt và không thể chảy.
+*© Steven Earle, CC BY 4.0 — Physical Geology, 2nd ed., Hình 14.1.2.*
+
 ### 3.1.5 Độ ẩm – Độ bão hoà
 
 **Độ ẩm** và **độ bão hoà** mô tả phần thể tích lỗ rỗng được nước chiếm chỗ.
+
+![Hình: geology-sand-dry-moist-saturated](../../../assets/figures/geology/sand-dry-moist-saturated.png)
+
+**Hình.** Cát khô, cát ẩm và cát bão hoà. Sức căng bề mặt giữa các hạt làm cho cát **ẩm**
+là khoẻ nhất trong ba trạng thái; cát **bão hoà** là yếu nhất, vì nước dưới áp lực đẩy
+các hạt tách nhau và làm giảm ma sát. Đây chính là cơ chế dẫn tới hoá lỏng (Chương 11).
+*© Steven Earle, CC BY 4.0 — Physical Geology, 2nd ed., Hình 15.1.4.*
 
 ### 3.1.6 Sức căng bề mặt
 
@@ -74,6 +94,20 @@ móng, hầm và vai đập ở các vùng đá vôi Việt Nam.
 Khi môi trường thấm đồng nhất, phân bố nước dưới đất có thể mô tả bằng giải tích — cơ
 sở cho các tính toán mạng dòng chảy và thấm ở Chương 10.
 
+### 3.2.4 Tầng chứa nước, tầng cách nước
+
+Khối đất đá truyền nước hữu ích gọi là **tầng chứa nước**; khối không truyền được gọi là
+**tầng cách nước**. Tầng chứa nước hở ra mặt đất là **không áp**; tầng bị một lớp kém
+thấm hơn phủ lên là **có áp** — và chính áp lực nước lỗ rỗng trong tầng có áp khiến áp
+kế đọc được cao hơn cả cao độ của tầng đó.
+
+![Hình: geology-aquifers-confining](../../../assets/figures/geology/aquifers-confining.png)
+
+**Hình.** Mặt cắt các tầng chứa nước và tầng cách nước, với độ thấm tương đối biểu thị
+bằng hệ số thấm $K$ (m/s). Lớp xám ($K = 10^{-4}$) cách nước cho tầng vàng
+($K = 10^{-1}$) nằm dưới; granit ở đáy ($K = 10^{-10}$) là tầng cách nước khu vực.
+*© Steven Earle, CC BY 4.0 — Physical Geology, 2nd ed., Hình 14.1.4.*
+
 ## 3.3 Thuật ngữ
 
 | Tiếng Anh | Tiếng Việt (sách dùng) |
@@ -90,11 +124,15 @@ sở cho các tính toán mạng dòng chảy và thấm ở Chương 10.
 | capillary action | hiện tượng mao dẫn |
 | groundwater | nước dưới đất |
 | karst water | nước các-tơ |
+| aquifer | tầng chứa nước |
+| aquitard / confining layer | tầng cách nước |
+| unconfined / confined | không áp / có áp |
 
 ## 3.4 Các điểm then chốt
 
 - **Khe rỗng giữa hạt** và **khoáng rỗng kiến tạo** là hai hệ khác nhau, phải mô tả
   riêng.
 - **Tính thấm** là tính chất chi phối thấm, tiêu thoát nước và cố kết.
+- **Sét rỗng mà không thấm** — độ rỗng và tính thấm là hai chuyện khác nhau.
 - **Đới mao dẫn** làm thay đổi ứng suất hữu hiệu dù không bão hoà.
 - **Nước các-tơ** rất không đồng nhất và là mối nguy lớn ở vùng đá vôi.

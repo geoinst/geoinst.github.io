@@ -63,7 +63,59 @@ Sliding is sub-divided by the shape of the failure surface:
 ### 7.2.6 Fill slopes on compressible soft ground
 ### 7.2.7 Stability beneath a retaining wall
 
+### 7.2.8 Creep and debris flow
+
+**Creep** (trượt từ từ) is the slow, imperceptible downslope movement of soil and rock
+debris. It does not fail suddenly, but it is cumulative, and it is **readable in the
+vegetation**: trunks that are tilted and then turn upward again — *pistol-butt* trees —
+record years of creep on the slope.
+
+A **debris flow** (dòng bùn đá) is the opposite — fast, water-charged and destructive. It
+travels in a steep channel as a slurry of water, mud, rock and vegetation, and it is the
+mechanism that turns a modest slope failure into a hazard to anything downslope.
+
+![Figure: geology-creep-pistol-butt](../../assets/figures/geology/creep-pistol-butt.jpg)
+
+**Figure.** Pistol-butt shaped trees on a slope experiencing creep — a natural
+inclinometer. Vegetation tilt is one of the cheapest indicators a walk-over survey can
+read.
+*© Steven Earle, CC BY 4.0 — Physical Geology, 2nd ed., Fig. 15.2.7.*
+
+![Figure: geology-debris-flow](../../assets/figures/geology/debris-flow.jpg)
+
+**Figure.** The lower part of a debris flow within a steep stream channel near Buttle Lake,
+B.C., November 2006.
+*© Steven Earle, CC BY 4.0 — Physical Geology, 2nd ed., Fig. 15.2.11.*
+
+### 7.2.9 Two case examples
+
+![Figure: geology-porteau-cove-slide](../../assets/figures/geology/porteau-cove-slide.jpg)
+
+**Figure.** Site of the 2008 rock slide at Porteau Cove, B.C. — a rock slope in a
+transport corridor, where the consequence of failure is direct and immediate.
+*© Steven Earle, CC BY 4.0 — Physical Geology, 2nd ed., Fig. 15.2.4.*
+
+![Figure: geology-meager-rock-avalanche](../../assets/figures/geology/meager-rock-avalanche.jpg)
+
+**Figure.** The August 2010 Mount Meager rock avalanche. A volcano flank collapsed and ran
+out down a steep narrow valley — the extreme end of the slope-failure spectrum, and a
+reminder that slope stability is not only a soil-mechanics problem.
+*"2010 Mt. Meager rock avalanche" © Isaac Earle, CC BY 4.0 — Physical Geology, 2nd ed., Fig. 15.2.5.*
+
 ## 7.3 Slope stability analysis
+
+Every stability analysis comes down to the same comparison. Gravity pulls a block
+vertically down; that force resolves into a **shear force** pushing the block *down the
+slope* and a **normal force** pushing it *into the slope*. The slope holds if the
+available **shear strength** along the failure surface exceeds the shear force.
+
+![Figure: geology-shear-normal-forces](../../assets/figures/geology/shear-normal-forces.jpg)
+
+**Figure.** Shear and normal components of gravity on slopes of increasing steepness. The
+gravitational force is the same in all three cases; only its resolution changes. (a)
+shear force $\ll$ shear strength — stable; (b) the two are about equal — marginal; (c)
+shear force $\gg$ shear strength — failure.
+*© Steven Earle, CC BY 4.0 — Physical Geology, 2nd ed., Fig. 15.1.1.*
 
 ### 7.3.1 Analysis of plane sliding
 ### 7.3.2 Simple solutions
