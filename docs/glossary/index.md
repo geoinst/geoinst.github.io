@@ -246,6 +246,36 @@ lang_alt: vi/thuat-ngu/
 * **Borehole Pressure Cell (BPC)**: A device grouted into a borehole to monitor changes in rock stress around an opening.
 * **Contact Stress Cell**: A pressure cell placed flush against a soil–structure interface to measure contact stress.
 
+## 9. FHWA Highway Instrumentation (FHWA-HI-98-034 scope)
+
+* **Golden Rule (instrumentation)**: Every instrument must be selected and placed to answer a specific geotechnical question — if there is no question, there should be no instrumentation.
+* **Chain of 31 Links**: The 21 planning links plus 10 execution links that must all hold for a monitoring program to succeed; one weak link can break it.
+* **Embedment Earth Pressure Cell**: A flat, fluid-filled cell embedded in soil to measure the total stress normal to its face.
+* **Aspect Ratio (cell)**: The diameter-to-thickness ratio of an earth pressure cell; a high ratio reduces measurement error.
+* **Soil/Cell Stiffness Ratio**: The ratio that governs how much an earth pressure cell redistributes local stress, and thus its measurement error.
+* **Observation Well**: An open pipe with no subsurface seal; it creates a vertical connection between strata and is rarely suitable for performance monitoring.
+* **Open Standpipe (Casagrande) Piezometer**: A filter-tipped riser pipe; reliable but with a long hydrodynamic time lag.
+* **Pneumatic Piezometer**: A diaphragm balanced by gas pressure through twin tubes; short lag, no freezing, but operator-dependent.
+* **Vibrating-Wire (VW) Piezometer**: A stiff-diaphragm instrument read by the change in wire frequency; short lag and datalogger-ready.
+* **Multipoint Piezometer**: A single borehole containing several sensors to profile pressure with depth.
+* **Settlement Platform**: A surface plate (often with a riser) recording fill settlement as an embankment is built.
+* **Subsurface Settlement Point**: An anchor at depth (driven/grouted or Borros) recording settlement of a buried layer.
+* **Liquid-Level Gage**: A liquid-filled tube and cell that measures settlement or heave from the change in pressure or liquid level.
+* **Series Extensometer**: A stack of anchors in one borehole that resolves deformation into increments between adjacent anchors.
+* **Horizontal Inclinometer**: An inclinometer traversing a horizontal casing to give a settlement profile.
+* **In-Place (Fixed) Inclinometer**: A string of sensors left in casing for continuous, automated monitoring.
+* **Shear-Plane Indicator**: A device that detects the depth at which inclinometer casing shears.
+* **Acoustic Emission (AE) Monitoring**: Detecting the high-frequency sound from grain slip and breakage as early warning of developing instability.
+* **Demec Gage**: A mechanical surface strain gage measuring the change in distance between two reference discs.
+* **Calibrated Hydraulic Jack**: A center-hole jack used to apply and measure load in tensioning; it must be calibrated because fluid-pressure readings carry friction error.
+* **Contact Earth Pressure Cell**: A cell measuring stress or load at a soil–structure interface, at a pile toe, or at a shaft base.
+* **Load Transfer (deep foundations)**: The distribution of axial load between shaft friction and end bearing, resolved from strain gages, sister bars, and telltales.
+* **Ground Improvement**: In-situ modification of ground properties — by grouting, densification, or drainage — to make it suitable for construction.
+* **Acceptance Test (pre-/post-installation)**: A test confirming an instrument meets specification before installation and survived installation afterwards.
+* **Installation Record Sheet**: The as-built record of position, depth, seal, and the calibration values in force — the permanent record that makes data interpretable.
+* **Cause-and-Effect Plot**: A plot of measured change against an influencing factor (load, rainfall, fill height) to reveal relationships.
+* **Implementation (final link)**: Acting on the interpreted data — the step that makes monitoring worthwhile.
+
 ---
 
 *See also: [Thuật ngữ Anh – Việt (Vietnamese Glossary)](../vi/thuat-ngu/index.md) · [Compliance Matrix (Decree 114 / TCVN 9398)](../compliance/decree-114-tcvn-9398.md) · [Interactive Sandbox](../visualizer.md)*

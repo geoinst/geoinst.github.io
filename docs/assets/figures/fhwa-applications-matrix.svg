@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 400" font-family="Inter, Arial, sans-serif">
+  <rect width="780" height="400" fill="#ffffff"/>
+  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Instrument selection by construction type</text>
+
+  <!-- header row -->
+  <rect x="270" y="60" width="480" height="46" fill="#eef2f7"/>
+  <g font-size="10.5" fill="#1a4b7a" text-anchor="middle" font-weight="700">
+    <text x="318" y="80">Piezo-</text><text x="318" y="94">meters</text>
+    <text x="414" y="80">Inclino /</text><text x="414" y="94">Extenso</text>
+    <text x="510" y="80">Load /</text><text x="510" y="94">Strain</text>
+    <text x="606" y="80">Pressure</text><text x="606" y="94">cells</text>
+    <text x="702" y="80">Survey /</text><text x="702" y="94">movement</text>
+  </g>
+
+  <!-- rows -->
+  <g font-size="12" fill="#222">
+    <rect x="30" y="106" width="720" height="46" fill="#fafafa"/>
+    <text x="44" y="134" font-weight="600">Soil slopes &amp; embankments</text>
+    <rect x="30" y="152" width="720" height="46" fill="#ffffff"/>
+    <text x="44" y="180" font-weight="600">Deep foundations</text>
+    <rect x="30" y="198" width="720" height="46" fill="#fafafa"/>
+    <text x="44" y="226" font-weight="600">Earth retaining structures</text>
+    <rect x="30" y="244" width="720" height="46" fill="#ffffff"/>
+    <text x="44" y="272" font-weight="600">Ground improvement</text>
+    <rect x="30" y="290" width="720" height="46" fill="#fafafa"/>
+    <text x="44" y="318" font-weight="600">Rock slopes</text>
+  </g>
+
+  <!-- grid lines -->
+  <g stroke="#d7dee6" stroke-width="1">
+    <line x1="270" y1="106" x2="270" y2="336"/>
+    <line x1="366" y1="106" x2="366" y2="336"/>
+    <line x1="462" y1="106" x2="462" y2="336"/>
+    <line x1="558" y1="106" x2="558" y2="336"/>
+    <line x1="654" y1="106" x2="654" y2="336"/>
+    <line x1="750" y1="106" x2="750" y2="336"/>
+  </g>
+
+  <!-- marks: filled = primary, hollow = secondary -->
+  <g>
+    <!-- soil slopes -->
+    <circle cx="318" cy="129" r="7" fill="#2b6cb0"/>
+    <circle cx="414" cy="129" r="7" fill="#2b6cb0"/>
+    <circle cx="510" cy="129" r="7" fill="#fff" stroke="#2b6cb0" stroke-width="2"/>
+    <circle cx="606" cy="129" r="7" fill="#fff" stroke="#2b6cb0" stroke-width="2"/>
+    <circle cx="702" cy="129" r="7" fill="#2b6cb0"/>
+    <!-- deep foundations -->
+    <circle cx="318" cy="175" r="7" fill="#fff" stroke="#2b6cb0" stroke-width="2"/>
+    <circle cx="414" cy="175" r="7" fill="#2b6cb0"/>
+    <circle cx="510" cy="175" r="7" fill="#2b6cb0"/>
+    <circle cx="606" cy="175" r="7" fill="#2b6cb0"/>
+    <circle cx="702" cy="175" r="7" fill="#2b6cb0"/>
+    <!-- retaining structures -->
+    <circle cx="318" cy="221" r="7" fill="#2b6cb0"/>
+    <circle cx="414" cy="221" r="7" fill="#2b6cb0"/>
+    <circle cx="510" cy="221" r="7" fill="#2b6cb0"/>
+    <circle cx="606" cy="221" r="7" fill="#2b6cb0"/>
+    <circle cx="702" cy="221" r="7" fill="#2b6cb0"/>
+    <!-- ground improvement -->
+    <circle cx="318" cy="267" r="7" fill="#2b6cb0"/>
+    <circle cx="414" cy="267" r="7" fill="#2b6cb0"/>
+    <circle cx="510" cy="267" r="7" fill="#fff" stroke="#2b6cb0" stroke-width="2"/>
+    <circle cx="606" cy="267" r="7" fill="#fff" stroke="#2b6cb0" stroke-width="2"/>
+    <circle cx="702" cy="267" r="7" fill="#2b6cb0"/>
+    <!-- rock slopes -->
+    <circle cx="318" cy="313" r="7" fill="#2b6cb0"/>
+    <circle cx="414" cy="313" r="7" fill="#2b6cb0"/>
+    <circle cx="510" cy="313" r="7" fill="#2b6cb0"/>
+    <circle cx="606" cy="313" r="7" fill="#fff" stroke="#2b6cb0" stroke-width="2"/>
+    <circle cx="702" cy="313" r="7" fill="#2b6cb0"/>
+  </g>
+
+  <!-- legend -->
+  <circle cx="300" cy="356" r="6" fill="#2b6cb0"/>
+  <text x="312" y="360" font-size="11" fill="#444">primary instrument</text>
+  <circle cx="452" cy="356" r="6" fill="#fff" stroke="#2b6cb0" stroke-width="2"/>
+  <text x="464" y="360" font-size="11" fill="#444">secondary / selective use</text>
+
+  <text x="390" y="384" text-anchor="middle" font-size="11" fill="#999">Schematic adapted from FHWA-HI-98-034, Ch. 7–11. Not to scale.</text>
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 420" font-family="Inter, Arial, sans-serif">
+  <rect width="780" height="420" fill="#ffffff"/>
+  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Instrumentation for a braced excavation</text>
+
+  <!-- retained soil (full) -->
+  <rect x="30" y="90" width="720" height="300" fill="#efe6cf"/>
+  <!-- excavation cut-out -->
+  <rect x="300" y="90" width="260" height="240" fill="#ffffff"/>
+  <rect x="300" y="330" width="260" height="60" fill="#e3d3a6"/>
+  <text x="430" y="368" text-anchor="middle" font-size="12" fill="#7a6a3a">Excavation</text>
+
+  <!-- retaining walls -->
+  <rect x="296" y="90" width="10" height="250" fill="#8a8a8a"/>
+  <rect x="554" y="90" width="10" height="250" fill="#8a8a8a"/>
+
+  <!-- struts + load cells -->
+  <g>
+    <line x1="306" y1="150" x2="554" y2="150" stroke="#555" stroke-width="6"/>
+    <line x1="306" y1="215" x2="554" y2="215" stroke="#555" stroke-width="6"/>
+    <line x1="306" y1="280" x2="554" y2="280" stroke="#555" stroke-width="6"/>
+    <rect x="330" y="142" width="18" height="16" fill="#f0ad4e" stroke="#b9791f"/>
+    <rect x="330" y="207" width="18" height="16" fill="#f0ad4e" stroke="#b9791f"/>
+    <rect x="330" y="272" width="18" height="16" fill="#f0ad4e" stroke="#b9791f"/>
+  </g>
+  <text x="430" y="140" text-anchor="middle" font-size="11" fill="#333">Struts</text>
+
+  <!-- inclinometer behind wall -->
+  <rect x="244" y="90" width="9" height="290" fill="#f0ad4e"/>
+  <circle cx="248" cy="90" r="6" fill="#e08e2e"/>
+  <text x="200" y="80" text-anchor="middle" font-size="11" fill="#a05a12">Inclinometer</text>
+
+  <!-- pressure cell at toe of wall -->
+  <rect x="270" y="326" width="26" height="14" rx="2" fill="#2f855a" stroke="#1e5c3a"/>
+  <text x="150" y="336" text-anchor="middle" font-size="11" fill="#1e5c3a">Pressure cell</text>
+  <line x1="196" y1="332" x2="268" y2="332" stroke="#1e5c3a" stroke-width="1" stroke-dasharray="3 3"/>
+
+  <!-- settlement points on adjacent ground -->
+  <g fill="#1565c0">
+    <polygon points="90,90 83,78 97,78"/>
+    <polygon points="160,90 153,78 167,78"/>
+  </g>
+  <text x="120" y="70" text-anchor="middle" font-size="11" fill="#1565c0">Settlement points</text>
+
+  <!-- load cell callout -->
+  <text x="470" y="196" font-size="11" fill="#b9791f">Load cells on struts</text>
+  <line x1="430" y1="200" x2="348" y2="213" stroke="#b9791f" stroke-width="1" stroke-dasharray="3 3"/>
+
+  <text x="390" y="412" text-anchor="middle" font-size="11" fill="#999">Schematic adapted from FHWA-HI-98-034, Ch. 9. Not to scale.</text>
+</svg>

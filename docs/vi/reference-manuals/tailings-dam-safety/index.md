@@ -61,7 +61,7 @@ sau:
   căn cứ rủi ro là nền tảng của mọi chương trình giám sát bùn thải vững chắc.
 - **Liên kết với phần còn lại của kho kiến thức.** Chương [Các họ thiết
   bị](chapter-05-instruments.md) tham chiếu chéo các tài liệu [Dunnicliff](../dunnicliff/index.md)
-  và [FHWA](../fhwa.md) để biết quy trình lắp đặt chi tiết.
+  và [FHWA](../fhwa/index.md) để biết quy trình lắp đặt chi tiết.
 - **Hãy hỏi [GTI Doctor](../../gti-doctor.md).** Trợ lý AI có thể trả lời các
   câu hỏi giám sát từ kho ngữ liệu rộng hơn.
 

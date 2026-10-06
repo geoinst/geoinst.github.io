@@ -8,7 +8,7 @@ lang_alt: reference-manuals/monitoring-dam-performance/chapter-05-instruments/
 
 Chương này khảo sát các họ thiết bị dùng để giám sát đập. Các chương sau đi sâu
 hơn vào những họ quan trọng nhất đối với an toàn. Đối với các quy trình lắp đặt
-chi tiết, xem các tài liệu [Dunnicliff](../dunnicliff/index.md) và [FHWA](../fhwa.md)
+chi tiết, xem các tài liệu [Dunnicliff](../dunnicliff/index.md) và [FHWA](../fhwa/index.md)
 trong kho kiến thức này.
 
 ## 5.2 Các hạng mục đo lường

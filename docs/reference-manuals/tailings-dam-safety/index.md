@@ -60,7 +60,7 @@ following chapters:
   are the foundation of every sound tailings surveillance program.
 - **Link to the rest of the knowledge base.** The [Instrument
   Families](chapter-05-instruments.md) chapter cross-references the
-  [Dunnicliff](../dunnicliff/index.md) and [FHWA](../fhwa.md) manuals for detailed
+  [Dunnicliff](../dunnicliff/index.md) and [FHWA](../fhwa/index.md) manuals for detailed
   installation procedures.
 - **Ask the [GTI Doctor](../../gti-doctor.md).** The AI assistant can answer
   monitoring questions from the wider corpus.

@@ -118,7 +118,22 @@ nav:
               - "Ch.12 Lắp đặt thiết bị": vi/reference-manuals/dunnicliff/chapter-12-installation.md
               - "Ch.13 Thu thập & Diễn giải dữ liệu": vi/reference-manuals/dunnicliff/chapter-13-data.md
               - "Ch.14 Ứng dụng & Chuỗi 25 mắt xích": vi/reference-manuals/dunnicliff/chapter-14-applications.md
-          - Sổ tay tham khảo FHWA: vi/reference-manuals/fhwa.md
+          - "FHWA — Sổ tay thiết bị quan trắc địa kỹ thuật":
+              - Tổng quan: vi/reference-manuals/fhwa/index.md
+              - "Ch.1 Giới thiệu & Chìa khóa thành công": vi/reference-manuals/fhwa/chapter-01-introduction.md
+              - "Ch.2 Áp lực nước ngầm": vi/reference-manuals/fhwa/chapter-02-groundwater-pressure.md
+              - "Ch.3 Biến dạng": vi/reference-manuals/fhwa/chapter-03-deformation.md
+              - "Ch.4 Ứng suất tổng trong đất": vi/reference-manuals/fhwa/chapter-04-total-stress.md
+              - "Ch.5 Tải, Ứng biến & Nhiệt độ": vi/reference-manuals/fhwa/chapter-05-load-strain.md
+              - "Ch.6 Tiếp cận có hệ thống để lập kế hoạch": vi/reference-manuals/fhwa/chapter-06-planning.md
+              - "Ch.7 Mái dốc đất & Nền đắp": vi/reference-manuals/fhwa/chapter-07-soil-slopes-embankments.md
+              - "Ch.8 Móng sâu": vi/reference-manuals/fhwa/chapter-08-deep-foundations.md
+              - "Ch.9 Kết cấu chắn đất": vi/reference-manuals/fhwa/chapter-09-earth-retaining.md
+              - "Ch.10 Gia cố nền & Nhiệt độ": vi/reference-manuals/fhwa/chapter-10-ground-improvement.md
+              - "Ch.11 Mái dốc đá": vi/reference-manuals/fhwa/chapter-11-rock-slopes.md
+              - "Ch.12 Hiệu chuẩn, Bảo trì & Lắp đặt": vi/reference-manuals/fhwa/chapter-12-calibration-installation.md
+              - "Ch.13 Thu thập, Diễn giải & Báo cáo dữ liệu": vi/reference-manuals/fhwa/chapter-13-data-interpretation.md
+              - "Ch.14 Tài liệu tham khảo & Phụ lục": vi/reference-manuals/fhwa/chapter-14-references-appendices.md
           - Das (Kỹ thuật móng): vi/reference-manuals/das-foundation.md
           - Das (Kỹ thuật địa kỹ thuật): vi/reference-manuals/das-geotech.md
       - "Giám sát hiệu năng đập (ASCE MOP-135)":
@@ -190,7 +205,22 @@ nav:
           - "Ch.12 Installation of Instruments": reference-manuals/dunnicliff/chapter-12-installation.md
           - "Ch.13 Data Collection & Interpretation": reference-manuals/dunnicliff/chapter-13-data.md
           - "Ch.14 Applications & The Chain of Success": reference-manuals/dunnicliff/chapter-14-applications.md
-      - FHWA Reference Manual: reference-manuals/fhwa.md
+      - "FHWA — Geotechnical Instrumentation Reference Manual":
+          - Overview: reference-manuals/fhwa/index.md
+          - "Ch.1 Introduction & The Key to Success": reference-manuals/fhwa/chapter-01-introduction.md
+          - "Ch.2 Groundwater Pressure": reference-manuals/fhwa/chapter-02-groundwater-pressure.md
+          - "Ch.3 Deformation": reference-manuals/fhwa/chapter-03-deformation.md
+          - "Ch.4 Total Stress in Soil": reference-manuals/fhwa/chapter-04-total-stress.md
+          - "Ch.5 Load, Strain & Temperature": reference-manuals/fhwa/chapter-05-load-strain.md
+          - "Ch.6 Systematic Approach to Planning": reference-manuals/fhwa/chapter-06-planning.md
+          - "Ch.7 Soil Slopes & Embankments": reference-manuals/fhwa/chapter-07-soil-slopes-embankments.md
+          - "Ch.8 Deep Foundations": reference-manuals/fhwa/chapter-08-deep-foundations.md
+          - "Ch.9 Earth Retaining Structures": reference-manuals/fhwa/chapter-09-earth-retaining.md
+          - "Ch.10 Ground Improvement & Temperature": reference-manuals/fhwa/chapter-10-ground-improvement.md
+          - "Ch.11 Rock Slopes": reference-manuals/fhwa/chapter-11-rock-slopes.md
+          - "Ch.12 Calibration, Maintenance & Installation": reference-manuals/fhwa/chapter-12-calibration-installation.md
+          - "Ch.13 Data Collection, Interpretation & Reporting": reference-manuals/fhwa/chapter-13-data-interpretation.md
+          - "Ch.14 References & Appendices": reference-manuals/fhwa/chapter-14-references-appendices.md
       - Das (Foundation Engineering): reference-manuals/das-foundation.md
       - Das (Geotechnical Engineering): reference-manuals/das-geotech.md
       - "Monitoring Dam Performance (ASCE MOP-135)":

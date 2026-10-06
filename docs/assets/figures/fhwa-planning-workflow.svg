@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 400" font-family="Inter, Arial, sans-serif">
+  <rect width="780" height="400" fill="#ffffff"/>
+  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Systematic approach to planning a monitoring program</text>
+
+  <!-- column 1 -->
+  <g>
+    <rect x="46" y="60" width="300" height="52" rx="8" fill="#e8f1fb" stroke="#2b6cb0" stroke-width="1.5"/>
+    <text x="62" y="82" font-size="13" font-weight="700" fill="#1a4b7a">1. Define project conditions</text>
+    <text x="62" y="99" font-size="11" fill="#444">geometry, stratigraphy, groundwater, loading</text>
+
+    <rect x="46" y="132" width="300" height="52" rx="8" fill="#e8f1fb" stroke="#2b6cb0" stroke-width="1.5"/>
+    <text x="62" y="154" font-size="13" font-weight="700" fill="#1a4b7a">2. Predict mechanisms</text>
+    <text x="62" y="171" font-size="11" fill="#444">processes that control behavior</text>
+
+    <rect x="46" y="204" width="300" height="52" rx="8" fill="#e8f1fb" stroke="#2b6cb0" stroke-width="1.5"/>
+    <text x="62" y="226" font-size="13" font-weight="700" fill="#1a4b7a">3. Define the geotechnical questions</text>
+    <text x="62" y="243" font-size="11" fill="#444">what must be answered?</text>
+
+    <rect x="46" y="276" width="300" height="52" rx="8" fill="#e8f1fb" stroke="#2b6cb0" stroke-width="1.5"/>
+    <text x="62" y="298" font-size="13" font-weight="700" fill="#1a4b7a">4. Select parameters to monitor</text>
+    <text x="62" y="315" font-size="11" fill="#444">the quantities that answer the questions</text>
+  </g>
+
+  <!-- column 2 -->
+  <g>
+    <rect x="434" y="60" width="300" height="52" rx="8" fill="#eaf6ee" stroke="#2f855a" stroke-width="1.5"/>
+    <text x="450" y="82" font-size="13" font-weight="700" fill="#1e5c3a">5. Select instruments &amp; locations</text>
+    <text x="450" y="99" font-size="11" fill="#444">matched to parameter and ground</text>
+
+    <rect x="434" y="132" width="300" height="52" rx="8" fill="#eaf6ee" stroke="#2f855a" stroke-width="1.5"/>
+    <text x="450" y="154" font-size="13" font-weight="700" fill="#1e5c3a">6. Budget &amp; specifications</text>
+    <text x="450" y="171" font-size="11" fill="#444">procurement, contracting, unit prices</text>
+
+    <rect x="434" y="204" width="300" height="52" rx="8" fill="#fdf3e3" stroke="#c07a1f" stroke-width="1.5"/>
+    <text x="450" y="226" font-size="13" font-weight="700" fill="#8a5510">7. Install, calibrate &amp; maintain</text>
+    <text x="450" y="243" font-size="11" fill="#444">acceptance tests and records</text>
+
+    <rect x="434" y="276" width="300" height="52" rx="8" fill="#fdecec" stroke="#c53030" stroke-width="1.5"/>
+    <text x="450" y="298" font-size="13" font-weight="700" fill="#9b2c2c">8. Collect, interpret &amp; implement</text>
+    <text x="450" y="315" font-size="11" fill="#444">data become decisions and action</text>
+  </g>
+
+  <!-- arrows down col1 -->
+  <g stroke="#2b6cb0" stroke-width="2" fill="none">
+    <line x1="196" y1="112" x2="196" y2="132"/><polygon points="196,132 191,124 201,124" fill="#2b6cb0"/>
+    <line x1="196" y1="184" x2="196" y2="204"/><polygon points="196,204 191,196 201,196" fill="#2b6cb0"/>
+    <line x1="196" y1="256" x2="196" y2="276"/><polygon points="196,276 191,268 201,268" fill="#2b6cb0"/>
+  </g>
+  <!-- bridge col1 -> col2 -->
+  <g stroke="#666" stroke-width="2" fill="none">
+    <line x1="346" y1="302" x2="390" y2="302"/>
+    <line x1="390" y1="302" x2="390" y2="86"/>
+    <line x1="390" y1="86" x2="434" y2="86"/><polygon points="434,86 426,81 426,91" fill="#666"/>
+  </g>
+  <!-- arrows down col2 -->
+  <g stroke="#2f855a" stroke-width="2" fill="none">
+    <line x1="584" y1="112" x2="584" y2="132"/><polygon points="584,132 579,124 589,124" fill="#2f855a"/>
+    <line x1="584" y1="184" x2="584" y2="204"/><polygon points="584,204 579,196 589,196" fill="#2f855a"/>
+    <line x1="584" y1="256" x2="584" y2="276"/><polygon points="584,276 579,268 589,268" fill="#2f855a"/>
+  </g>
+
+  <text x="390" y="356" text-anchor="middle" font-size="11" fill="#666">The golden rule — every instrument answers a specific question — is applied at step 3 and step 4.</text>
+  <text x="390" y="380" text-anchor="middle" font-size="11" fill="#999">Schematic adapted from FHWA-HI-98-034, Ch. 6. Not to scale.</text>
+</svg>

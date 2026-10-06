@@ -7,7 +7,7 @@ lang_alt: reference-manuals/tailings-dam-safety/chapter-05-instruments/
 ## 5.1 Bộ công cụ trong nháy mắt
 
 Giám sát bùn thải vận dụng bốn họ thiết bị. Các liên kết dưới đây trỏ đến tài liệu
-[Dunnicliff](../dunnicliff/index.md) và [FHWA](../fhwa.md) để biết quy trình lắp đặt
+[Dunnicliff](../dunnicliff/index.md) và [FHWA](../fhwa/index.md) để biết quy trình lắp đặt
 chi tiết.
 
 | Họ | Đo cái gì | Thiết bị đại diện |
@@ -59,7 +59,7 @@ tra.
 Việc lựa chọn cân nhắc độ chính xác, dải đo, độ bền, nguồn, viễn truyền và chi phí
 so với mode phá hoại và quyết định mà dữ liệu hỗ trợ. Các đánh đổi chi tiết nằm
 trong các chương thiết bị [Dunnicliff](../dunnicliff/index.md) và tài liệu
-[FHWA](../fhwa.md).
+[FHWA](../fhwa/index.md).
 
 ## 5.7 Điểm mấu chốt
 

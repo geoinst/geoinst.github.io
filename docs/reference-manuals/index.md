@@ -11,7 +11,7 @@ This section catalogs the **18 reference PDFs** (472 MB) that form this knowledg
 | Title | Author / Source | Local PDF (basename only) | Page |
 | --- | --- | --- | --- |
 | Geotechnical Instrumentation for Monitoring Field Performance | John Dunnicliff | GEOTECHNICAL INSTRUMENTATION...pdf | [→](dunnicliff/index.md) |
-| Geotechnical Instrumentation Reference Manual | FHWA | (FHWA manual) | [→](fhwa.md) |
+| Geotechnical Instrumentation Reference Manual | FHWA (J. Dunnicliff) | FHWA-HI-98-034 (public domain) | [→](fhwa/index.md) |
 | Principles of Foundation Engineering | Braja M. Das | Principles of Foundation Engineering 7th-Braja-Das.pdf | [→](das-foundation.md) |
 | Principles of Geotechnical Engineering | Braja M. Das | Principles of Geotechnical Engineering 7th Edition.pdf | [→](das-geotech.md) |
 

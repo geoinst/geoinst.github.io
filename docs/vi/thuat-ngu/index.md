@@ -243,6 +243,36 @@ lang_alt: glossary/
 * **Tế bào áp lực hố khoan - BPC (Borehole Pressure Cell)**: Thiết bị bơm vữa cố định trong lỗ khoan để theo dõi thay đổi ứng suất đá quanh đường hầm/hố đào.
 * **Tế bào ứng suất tiếp xúc (Contact Stress Cell)**: Tế bào áp lực đặt áp sát mặt tiếp xúc đất–kết cấu để đo ứng suất tiếp xúc.
 
+## 9. Thiết bị quan trắc đường bộ FHWA (phạm vi FHWA-HI-98-034)
+
+* **Quy tắc vàng (quan trắc)**: Mỗi thiết bị phải được chọn và đặt để trả lời một câu hỏi địa kỹ thuật cụ thể — nếu không có câu hỏi, thì không nên có thiết bị.
+* **Chuỗi 31 mắt xích (Chain of 31 Links)**: 21 mắt xích lập kế hoạch cộng 10 mắt xích thực thi; tất cả phải đứng vững để chương trình quan trắc thành công — chỉ một mắt xích yếu có thể làm đứt cả chuỗi.
+* **Tế bào áp lực đất chôn (Embedment Earth Pressure Cell)**: Tế bào dẹt chứa chất lỏng, chôn trong đất để đo ứng suất tổng vuông góc với mặt của nó.
+* **Tỷ số kích thước (Aspect Ratio – tế bào)**: Tỷ số đường kính trên chiều dày của tế bào áp lực đất; tỷ số cao giúp giảm sai số đo.
+* **Tỷ số độ cứng đất/tế bào (Soil/Cell Stiffness Ratio)**: Tỷ số quyết định mức độ tế bào áp lực đất phân phối lại ứng suất cục bộ, và do đó quyết định sai số đo.
+* **Giếng quan sát (Observation Well)**: Ống hở không có lớp bịt dưới bề mặt; tạo kết nối thẳng đứng giữa các tầng nên hiếm khi phù hợp để quan trắc hiệu năng.
+* **Piezometer ống đứng hở – Casagrande (Open Standpipe Piezometer)**: Ống dẫn có đầu lọc; đáng tin cậy nhưng có độ trễ thủy lực dài.
+* **Piezometer khí nén (Pneumatic Piezometer)**: Màng cân bằng bởi áp lực khí qua hai ống; độ trễ ngắn, không đóng băng, nhưng phụ thuộc người vận hành.
+* **Piezometer dây rung – VW (Vibrating-Wire Piezometer)**: Thiết bị màng cứng đọc theo sự thay đổi tần số dây; độ trễ ngắn và kết nối sẵn sàng với bộ ghi dữ liệu.
+* **Piezometer nhiều điểm (Multipoint Piezometer)**: Một hố khoan chứa nhiều cảm biến để mô tả áp lực theo độ sâu.
+* **Bàn lún (Settlement Platform)**: Bản mặt (thường có ống dẫn) ghi lún của nền đắp trong quá trình thi công.
+* **Điểm lún dưới bề mặt (Subsurface Settlement Point)**: Neo đặt ở độ sâu (đóng/gắn vữa hoặc Borros) ghi lún của một tầng bị chôn.
+* **Đo mực nước dạng ống (Liquid-Level Gage)**: Ống chứa chất lỏng nối với một tế bào, đo lún hoặc trương nở qua thay đổi áp lực hoặc mực chất lỏng.
+* **Extensometer chuỗi (Series Extensometer)**: Một chồng neo trong một hố khoan, phân giải biến dạng thành gia số giữa các neo kề nhau.
+* **Inclinometer ngang (Horizontal Inclinometer)**: Inclinometer di chuyển dọc ống vách nằm ngang để cho profile lún.
+* **Inclinometer tại chỗ – cố định (In-Place Inclinometer)**: Một chuỗi cảm biến để lại trong ống vách để quan trắc liên tục, tự động.
+* **Chỉ báo mặt trượt (Shear-Plane Indicator)**: Thiết bị phát hiện độ sâu mà ống vách inclinometer bị cắt.
+* **Quan trắc phát xạ âm – AE (Acoustic Emission Monitoring)**: Phát hiện âm tần số cao sinh ra khi hạt đất/đá trượt và vỡ, làm cảnh báo sớm mất ổn định đang phát triển.
+* **Tenzo Demec (Demec Gage)**: Tenzo cơ học gắn trên bề mặt, đo sự thay đổi khoảng cách giữa hai đĩa chuẩn.
+* **Kích thủy lực đã hiệu chuẩn (Calibrated Hydraulic Jack)**: Kích có lỗ xuyên tâm dùng để căng và đo tải; phải được hiệu chuẩn vì số đọc áp lực chất lỏng mang sai số ma sát.
+* **Tế bào áp lực đất tiếp xúc (Contact Earth Pressure Cell)**: Tế bào đo ứng suất hoặc tải tại mặt tiếp giáp đất–kết cấu, tại mũi cọc hoặc đáy cọc khoan.
+* **Truyền tải (Load Transfer – móng sâu)**: Phân bố tải dọc trục giữa ma sát thành bên và sức kháng mũi, xác định từ tenzo, thanh chị em và telltale.
+* **Gia cố nền (Ground Improvement)**: Cải tạo tính chất nền tại chỗ — bằng phụt vữa, đầm chặt hoặc thoát nước — để nền phù hợp cho xây dựng.
+* **Nghiệm thu trước/sau lắp đặt (Acceptance Test)**: Phép kiểm xác nhận thiết bị đạt thông số kỹ thuật trước khi lắp và sống sót qua lắp đặt sau đó.
+* **Biên bản lắp đặt (Installation Record Sheet)**: Hồ sơ hoàn công ghi vị trí, độ sâu, lớp bịt và các giá trị hiệu chuẩn đang áp dụng — hồ sơ vĩnh viễn giúp dữ liệu còn diễn giải được.
+* **Đồ thị nhân–quả (Cause-and-Effect Plot)**: Đồ thị của thay đổi đo được so với một yếu tố ảnh hưởng (tải, mưa, chiều cao đắp) để bộc lộ quan hệ.
+* **Triển khai (Implementation – mắt xích cuối)**: Hành động theo dữ liệu đã diễn giải — bước làm cho công tác quan trắc trở nên có ý nghĩa.
+
 ---
 
 *Xem thêm: [English Technical Glossary](../../glossary/index.md) · [Ma trận Tuân thủ Nghị định 114 & TCVN 9398](../tuan-thu/nghi-dinh-114-tcvn-9398.md) · [Môi trường thử nghiệm tương tác](../visualizer.md)*

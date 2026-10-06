@@ -7,7 +7,7 @@ lang_alt: vi/reference-manuals/tailings-dam-safety/chapter-05-instruments/
 ## 5.1 The toolkit at a glance
 
 Tailings surveillance draws on four instrument families. The links below point to
-the [Dunnicliff](../dunnicliff/index.md) and [FHWA](../fhwa.md) manuals for detailed
+the [Dunnicliff](../dunnicliff/index.md) and [FHWA](../fhwa/index.md) manuals for detailed
 installation procedures.
 
 | Family | What it measures | Representative instruments |
@@ -60,7 +60,7 @@ does not replace — point instruments and inspection.
 Selection weighs accuracy, range, durability, power, telemetry, and cost against
 the failure mode and the decision the data supports. The detailed trade-offs live
 in the [Dunnicliff](../dunnicliff/index.md) instrument chapters and
-[FHWA](../fhwa.md) manual.
+[FHWA](../fhwa/index.md) manual.
 
 ## 5.7 Key takeaways
 

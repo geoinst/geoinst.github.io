@@ -8,7 +8,7 @@ lang_alt: vi/reference-manuals/monitoring-dam-performance/chapter-05-instruments
 
 This chapter surveys the instrument families used to monitor dams. Later chapters
 go deeper on the most safety-critical ones. For detailed installation procedures,
-see the [Dunnicliff](../dunnicliff/index.md) and [FHWA](../fhwa.md) manuals in this
+see the [Dunnicliff](../dunnicliff/index.md) and [FHWA](../fhwa/index.md) manuals in this
 knowledge base.
 
 ## 5.2 Measurement categories
