@@ -53,6 +53,10 @@ operating team may have normalized.
     upon. Predefined action levels exist precisely to force a response before a
     threshold is crossed.
 
+![Figure: tailings-trigger-levels](../../assets/figures/tailings-trigger-levels.svg)
+
+**Figure.** Trigger, action, and alarm levels. The monitored signal crosses thresholds; acceleration often precedes the crossing (ICOLD Bulletin 194 / facility surveillance practice).
+
 ## 13.6 Key takeaways
 
 - Define trigger/action/alarm levels in advance, per parameter and location.

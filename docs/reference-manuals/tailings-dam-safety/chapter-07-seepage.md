@@ -52,6 +52,10 @@ Piping is insidious because it can develop inside the embankment. Warning signs:
 - **Visual surveillance** for location, clarity, and turbidity ([Chapter 3](chapter-03-philosophy.md)).
 - **Decant monitoring** to confirm pond level and freeboard.
 
+![Figure: tailings-seepage](../../assets/figures/tailings-seepage.svg)
+
+**Figure.** Seepage, phreatic surface, and piping (internal erosion). Turbid seepage at the downstream toe is a warning sign (ICOLD Bulletin 194).
+
 ## 7.6 Key takeaways
 
 - Quantify seepage and watch for change, especially turbidity.

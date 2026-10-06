@@ -46,6 +46,10 @@ Việc lựa chọn thiết bị quan trắc phụ thuộc chặt chẽ vào cơ
 
 Tài liệu này hệ thống hóa các nguyên lý lập kế hoạch, các họ thiết bị đo, quy trình thực thi hiện trường và phương pháp phân tích số liệu cho đập đất, sườn dốc, hố đào sâu, công trình ngầm và móng cọc.
 
+![Figure: dunnicliff-instrument-cross-section](../../../assets/figures/dunnicliff-instrument-cross-section.svg)
+
+**Hình.** Đập đất có trang bị thiết bị quan trắc điển hình: mốc khảo sát, extensometer (MPBX), inclinometer có đầu dò, piezometer, tế bào áp lực đất và trạm đo thấm, cùng mặt nước thấm (Dunnicliff, Ch. 1 và 8).
+
 ## 1.6 Các điểm then chốt cần ghi nhớ
 
 - Quan trắc địa kỹ thuật biến những biến dạng ngầm vô hình thành số liệu đo đạc định lượng được theo thời gian.

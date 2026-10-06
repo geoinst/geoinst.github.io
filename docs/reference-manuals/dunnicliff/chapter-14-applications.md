@@ -54,6 +54,10 @@ span planning, procurement, installation, calibration, reading, maintenance, dat
 handling, and people. **Break any link and the chain fails.** The recipe
 (Chapter 10) is the chain made operational.
 
+![Figure: dunnicliff-chain-25](../../assets/figures/dunnicliff-chain-25.svg)
+
+**Figure.** Dunnicliff's chain of 25 links - from defining the project need to a reading that informs a decision. Break any link and the chain fails (Dunnicliff, Ch. 10 and 14).
+
 ## 14.9 Key takeaways
 
 - Instruments combine differently for each project type.

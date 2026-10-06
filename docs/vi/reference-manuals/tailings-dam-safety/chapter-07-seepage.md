@@ -53,6 +53,10 @@ cảnh báo:
 - **Giám sát trực quan** cho vị trí, độ trong và độ đục ([Chương 3](chapter-03-philosophy.md)).
 - **Giám sát xả tràn** để xác nhận mực hồ và freeboard.
 
+![Figure: tailings-seepage](../../../assets/figures/tailings-seepage.svg)
+
+**Hình.** Thấm, mặt nước thấm và piping (xói mòn trong). Thấm đục tại chân hạ lưu là dấu hiệu cảnh báo (ICOLD Bulletin 194).
+
 ## 7.6 Điểm mấu chốt
 
 - Định lượng thấm và theo dõi sự thay đổi, đặc biệt độ đục.

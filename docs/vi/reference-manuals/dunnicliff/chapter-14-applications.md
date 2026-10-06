@@ -116,6 +116,10 @@ Hình tượng bất hủ của John Dunnicliff: Toàn bộ quá trình quan tr�
 
 ---
 
+![Figure: dunnicliff-chain-25](../../../assets/figures/dunnicliff-chain-25.svg)
+
+**Hình.** Chuỗi 25 mắt xích của Dunnicliff - từ xác định nhu cầu dự án đến số đọc phục vụ quyết định. Đứt một mắt xích, cả chuỗi thất bại (Dunnicliff, Ch. 10 và 14).
+
 ## 14.9 Các điểm then chốt cần ghi nhớ
 
 - Mỗi loại hình công trình (hố đào, đập, đắp đất, sườn dốc, hầm, cọc) có một cấu hình tổ hợp thiết bị đặc thù.

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 400" font-family="Inter, Arial, sans-serif">
+  <rect width="780" height="400" fill="#ffffff"/>
+  <text x="390" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Instrumented earth embankment — typical layout</text>
+
+  <!-- foundation -->
+  <rect x="20" y="320" width="740" height="40" fill="#b8b0a2"/>
+  <!-- embankment -->
+  <polygon points="130,320 310,110 430,110 630,320" fill="#c79a5b"/>
+  <!-- central core (light) -->
+  <polygon points="350,110 410,110 480,320 370,320" fill="#d8c08a"/>
+  <!-- phreatic surface -->
+  <polyline points="130,308 260,225 310,160 430,185 560,260 630,308" stroke="#2b6cb0" stroke-width="2" stroke-dasharray="7 5" fill="none"/>
+
+  <!-- survey monument -->
+  <polygon points="362,110 378,110 370,90" fill="#333"/>
+  <line x1="370" y1="90" x2="370" y2="74" stroke="#333" stroke-width="2"/>
+
+  <!-- extensometer (MPBX) vertical at center -->
+  <line x1="380" y1="120" x2="380" y2="300" stroke="#5bc0de" stroke-width="2.5"/>
+  <g fill="#5bc0de">
+    <circle cx="380" cy="150" r="3.5"/><circle cx="380" cy="190" r="3.5"/><circle cx="380" cy="230" r="3.5"/><circle cx="380" cy="270" r="3.5"/>
+  </g>
+  <rect x="372" y="110" width="16" height="10" fill="#5bc0de"/>
+
+  <!-- inclinometer vertical on downstream -->
+  <rect x="476" y="110" width="8" height="212" fill="#f0ad4e"/>
+  <rect x="470" y="196" width="20" height="14" fill="#e08e2e"/>
+  <line x1="480" y1="110" x2="480" y2="74" stroke="#f0ad4e" stroke-width="2"/>
+
+  <!-- piezometer (VW) downstream -->
+  <circle cx="540" cy="250" r="7" fill="#d9534f"/>
+  <line x1="540" y1="250" x2="540" y2="110" stroke="#d9534f" stroke-width="2.5"/>
+
+  <!-- earth pressure cell at base downstream -->
+  <rect x="548" y="312" width="18" height="8" fill="#8e44ad"/>
+
+  <!-- seepage weir at downstream toe -->
+  <rect x="624" y="306" width="22" height="14" fill="#2c7c4d"/>
+
+  <!-- labels -->
+  <g font-size="12" fill="#222">
+    <text x="370" y="66" text-anchor="middle">Survey monument</text>
+    <text x="60" y="172" text-anchor="start" fill="#2b6cb0">Phreatic surface</text>
+    <text x="60" y="250" text-anchor="start" fill="#5bc0de">Extensometer (MPBX)</text>
+    <text x="710" y="150" text-anchor="end" fill="#e08e2e">Inclinometer + probe</text>
+    <text x="710" y="252" text-anchor="end" fill="#d9534f">Piezometer (VW)</text>
+    <text x="710" y="312" text-anchor="end" fill="#8e44ad">Earth pressure cell</text>
+    <text x="710" y="344" text-anchor="end" fill="#2c7c4d">Seepage weir</text>
+  </g>
+  <text x="390" y="386" text-anchor="middle" font-size="11" fill="#666">Schematic adapted from Dunnicliff, Geotechnical Instrumentation for Monitoring Field Performance. Not to scale.</text>
+</svg>

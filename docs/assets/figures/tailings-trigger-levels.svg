@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 380" font-family="Inter, Arial, sans-serif">
+  <rect width="780" height="380" fill="#ffffff"/>
+  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Trigger, action, and alarm levels</text>
+
+  <!-- axes -->
+  <line x1="70" y1="40" x2="70" y2="320" stroke="#333" stroke-width="2"/>
+  <line x1="70" y1="320" x2="740" y2="320" stroke="#333" stroke-width="2"/>
+  <text x="24" y="180" text-anchor="middle" font-size="13" fill="#222" transform="rotate(-90 24 180)">Measured value (e.g. pore pressure / movement)</text>
+  <text x="405" y="352" text-anchor="middle" font-size="13" fill="#222">Time</text>
+
+  <!-- threshold lines -->
+  <g stroke-width="2" stroke-dasharray="8 4">
+    <line x1="70" y1="250" x2="740" y2="250" stroke="#4caf50"/>
+    <line x1="70" y1="190" x2="740" y2="190" stroke="#f0ad4e"/>
+    <line x1="70" y1="130" x2="740" y2="130" stroke="#e53935"/>
+  </g>
+  <g font-size="12" fill="#222">
+    <text x="730" y="245" text-anchor="end" fill="#2e7d32">Normal (green)</text>
+    <text x="730" y="185" text-anchor="end" fill="#c77700">Alert / Action (yellow–orange)</text>
+    <text x="730" y="125" text-anchor="end" fill="#b71c1c">Alarm (red)</text>
+  </g>
+
+  <!-- monitored signal crossing thresholds -->
+  <polyline points="80,300 200,292 320,270 440,215 540,150 600,140 700,138" fill="none" stroke="#1565c0" stroke-width="3"/>
+  <!-- crossing markers -->
+  <circle cx="440" cy="215" r="4" fill="#1565c0"/>
+  <circle cx="540" cy="150" r="4" fill="#1565c0"/>
+
+  <!-- annotation: acceleration -->
+  <path d="M320,270 Q430,250 540,150" stroke="#999" stroke-width="1" stroke-dasharray="3 3" fill="none"/>
+  <text x="380" y="300" font-size="11" fill="#666">Acceleration precedes crossing</text>
+
+  <text x="390" y="372" text-anchor="middle" font-size="11" fill="#666">Thresholds are set per parameter and location from design and failure-mode analysis.</text>
+</svg>

@@ -51,6 +51,10 @@ geotechnical monitoring for slopes, embankments, dams, tunnels, foundations, and
 excavations. It is original, educational content adapted from Dunnicliff's scope;
 it is not a reproduction of the copyrighted text.
 
+![Figure: dunnicliff-instrument-cross-section](../../assets/figures/dunnicliff-instrument-cross-section.svg)
+
+**Figure.** A typical instrumented earth embankment: survey monument, extensometer (MPBX), inclinometer with probe, piezometer, earth pressure cell, and seepage weir, with the phreatic surface (Dunnicliff, Ch. 1 and 8).
+
 ## 1.6 Key takeaways
 
 - Instrumentation makes the hidden subsurface observable and measurable.

@@ -42,6 +42,10 @@ Dunnicliff đánh giá cao **Phương pháp bơm vữa chèn toàn phần (Fully
 - Toàn bộ hố khoan từ đáy lên miệng hố được bơm chèn bằng hỗn hợp vữa xi măng - bentonite có độ thấm tương đương hoặc thấp hơn độ thấm của tầng đất ($k_{\text{vữa}} \le 10^{-6}\text{ cm/s}$).
 - Do biến dạng thể tích của màng VW cực nhỏ, áp lực nước lỗ rỗng từ địa tầng sẽ truyền xuyên qua lớp vữa mỏng tác dụng trực tiếp lên màng đo mà không gây sai số áp lực, đồng thời triệt tiêu hoàn toàn nguy cơ rò rỉ nước giữa các tầng ngậm nước khác nhau.
 
+![Figure: dunnicliff-piezometer-types](../../../assets/figures/dunnicliff-piezometer-types.svg)
+
+**Hình.** Bốn loại piezometer phổ biến: dây rung, khí nén, ống chờ hở và thủy lực hai ống (Dunnicliff, Ch. 9).
+
 ## 6.6 Các điểm then chốt cần ghi nhớ
 
 - Áp lực nước lỗ rỗng chi phối trực tiếp sức chống cắt của đất thông qua nguyên lý ứng suất hữu hiệu.

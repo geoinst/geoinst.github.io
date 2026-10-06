@@ -70,6 +70,14 @@ exists to break that chain — by revealing the predisposing condition early.
 | Slope instability | Movement, cracking | Survey, inclinometers, extensometers |
 | Foundation failure | Differential settlement, tilt | Survey, piezometers, tiltmeters |
 
+![Figure: tailings-construction-methods](../../assets/figures/tailings-construction-methods.svg)
+
+**Figure.** Tailings embankment construction methods. Downstream, centerline, and upstream raises - only the downstream method rests on the foundation; the upstream method sits on loose, saturated tailings and carries the highest risk (ICOLD Bulletin 194).
+
+![Figure: tailings-facility](../../assets/figures/tailings-facility.svg)
+
+**Figure.** Principal components of a tailings storage facility: embankment, beach, supernatant pond, decant tower, phreatic surface, and freeboard (ICOLD Bulletin 194).
+
 ## 2.5 Key takeaways
 
 - Construction method governs inherent risk; upstream is highest.

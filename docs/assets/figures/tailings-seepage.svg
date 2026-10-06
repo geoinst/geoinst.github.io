@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 380" font-family="Inter, Arial, sans-serif">
+  <rect width="780" height="380" fill="#ffffff"/>
+  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Seepage, phreatic surface, and piping</text>
+
+  <!-- foundation -->
+  <rect x="20" y="305" width="740" height="40" fill="#b8b0a2"/>
+  <!-- pond -->
+  <polygon points="20,275 175,275 175,305 20,305" fill="#9ec9ec"/>
+  <!-- tailings beach -->
+  <polygon points="175,275 500,150 500,305 175,305" fill="#e8d9b0"/>
+  <!-- embankment -->
+  <polygon points="480,305 500,135 560,135 700,305" fill="#c79a5b"/>
+  <!-- phreatic surface -->
+  <polyline points="175,285 500,160" stroke="#2b6cb0" stroke-width="2" stroke-dasharray="7 5" fill="none"/>
+
+  <!-- piping (internal erosion) channel -->
+  <polyline points="175,288 290,294 410,286 540,295 700,292" stroke="#e53935" stroke-width="2.5" stroke-dasharray="6 4" fill="none"/>
+  <!-- seepage flow arrows along channel -->
+  <g stroke="#e53935" stroke-width="1.5" fill="#e53935">
+    <polygon points="360,289 350,285 350,293"/>
+    <polygon points="620,294 610,290 610,298"/>
+  </g>
+  <!-- turbid seepage at downstream toe -->
+  <polygon points="700,292 742,292 742,305 700,305" fill="#8a9b6e"/>
+  <text x="721" y="330" text-anchor="middle" font-size="11" fill="#5b6b3e">Turbid</text>
+  <text x="721" y="344" text-anchor="middle" font-size="11" fill="#5b6b3e">seepage</text>
+
+  <!-- labels -->
+  <g font-size="12" fill="#222">
+    <text x="95" y="262" text-anchor="middle">Pond</text>
+    <text x="330" y="240" text-anchor="middle">Tailings beach</text>
+    <text x="600" y="205" text-anchor="middle">Embankment</text>
+    <text x="360" y="170" fill="#2b6cb0">Phreatic surface</text>
+    <text x="430" y="320" fill="#e53935">Internal erosion (piping) channel</text>
+    <text x="721" y="358" text-anchor="middle" fill="#5b6b3e">Seepage at toe</text>
+  </g>
+  <text x="390" y="372" text-anchor="middle" font-size="11" fill="#666">Schematic adapted from ICOLD Bulletin 194. Not to scale.</text>
+</svg>

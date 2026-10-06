@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 430" font-family="Inter, Arial, sans-serif">
+  <rect width="780" height="430" fill="#ffffff"/>
+  <text x="390" y="28" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Tailings embankment construction methods</text>
+
+  <!-- ============ Panel A: Downstream ============ -->
+  <g>
+    <text x="150" y="58" text-anchor="middle" font-size="14" font-weight="700" fill="#222">Downstream method</text>
+    <!-- foundation -->
+    <rect x="20" y="330" width="260" height="22" fill="#b8b0a2"/>
+    <!-- tailings deposit (left/upstream) -->
+    <polygon points="20,330 20,250 70,330" fill="#e8d9b0"/>
+    <!-- pond -->
+    <polygon points="20,272 70,272 70,330 20,330" fill="#9ec9ec"/>
+    <!-- embankment triangle resting on foundation -->
+    <polygon points="70,330 70,210 250,330" fill="#c79a5b"/>
+    <!-- raise steps -->
+    <line x1="70" y1="260" x2="160" y2="260" stroke="#a07a3e" stroke-width="1.5"/>
+    <line x1="70" y1="295" x2="210" y2="295" stroke="#a07a3e" stroke-width="1.5"/>
+    <!-- support band on foundation (good) -->
+    <rect x="70" y="322" width="180" height="8" fill="#4caf50"/>
+    <text x="150" y="372" text-anchor="middle" font-size="12" fill="#4caf50">Rests on foundation</text>
+    <text x="150" y="390" text-anchor="middle" font-size="12" font-weight="700" fill="#2e7d32">Lowest risk</text>
+  </g>
+
+  <!-- ============ Panel B: Centerline ============ -->
+  <g>
+    <text x="410" y="58" text-anchor="middle" font-size="14" font-weight="700" fill="#222">Centerline method</text>
+    <rect x="280" y="330" width="260" height="22" fill="#b8b0a2"/>
+    <polygon points="280,330 280,250 330,330" fill="#e8d9b0"/>
+    <polygon points="280,272 330,272 330,330 280,330" fill="#9ec9ec"/>
+    <!-- centerline embankment: lower on foundation, upper on tailings -->
+    <polygon points="330,330 330,300 410,210 490,300 490,330" fill="#c79a5b"/>
+    <line x1="330" y1="300" x2="490" y2="300" stroke="#a07a3e" stroke-width="1.5"/>
+    <rect x="330" y="322" width="60" height="8" fill="#4caf50"/>
+    <rect x="390" y="322" width="100" height="8" fill="#f0ad4e"/>
+    <text x="410" y="372" text-anchor="middle" font-size="12" fill="#e08e2e">Partial foundation support</text>
+    <text x="410" y="390" text-anchor="middle" font-size="12" font-weight="700" fill="#c77700">Intermediate risk</text>
+  </g>
+
+  <!-- ============ Panel C: Upstream ============ -->
+  <g>
+    <text x="670" y="58" text-anchor="middle" font-size="14" font-weight="700" fill="#222">Upstream method</text>
+    <rect x="540" y="330" width="260" height="22" fill="#b8b0a2"/>
+    <!-- large tailings beach (deposit) on which embankment sits -->
+    <polygon points="540,330 540,250 700,330" fill="#e8d9b0"/>
+    <polygon points="540,272 700,272 700,330 540,330" fill="#9ec9ec"/>
+    <!-- upstream embankment sits ON the tailings beach (loose, saturated) -->
+    <polygon points="620,330 620,210 760,330" fill="#c79a5b"/>
+    <line x1="620" y1="255" x2="690" y2="255" stroke="#a07a3e" stroke-width="1.5"/>
+    <line x1="620" y1="295" x2="740" y2="295" stroke="#a07a3e" stroke-width="1.5"/>
+    <!-- support band on tailings (bad) -->
+    <rect x="620" y="322" width="140" height="8" fill="#e53935"/>
+    <text x="670" y="372" text-anchor="middle" font-size="12" fill="#e53935">Rests on loose tailings</text>
+    <text x="670" y="390" text-anchor="middle" font-size="12" font-weight="700" fill="#b71c1c">Highest risk</text>
+  </g>
+
+  <text x="390" y="418" text-anchor="middle" font-size="11" fill="#666">Schematic adapted from ICOLD Bulletin 194 and mining-industry guidance. Not to scale.</text>
+</svg>

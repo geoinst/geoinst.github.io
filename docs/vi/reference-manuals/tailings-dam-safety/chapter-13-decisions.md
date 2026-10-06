@@ -52,6 +52,10 @@ coi là bình thường.
     hành động. Các mức hành động định trước tồn tại chính xác để buộc một phản ứng
     trước khi một ngưỡng bị vượt qua.
 
+![Figure: tailings-trigger-levels](../../../assets/figures/tailings-trigger-levels.svg)
+
+**Hình.** Mức kích hoạt, hành động và báo động. Tín hiệu giám sát vượt ngưỡng; gia tốc thường đi trước sự vượt ngưỡng (ICOLD Bulletin 194).
+
 ## 13.6 Điểm mấu chốt
 
 - Định nghĩa mức kích hoạt/hành động/báo động từ trước, cho mỗi tham số và vị trí.

@@ -53,6 +53,10 @@ Readings convert to **piezometric head**. Interpret against:
     sensors provides an independent, foolproof check that the automated data is
     physically sensible.
 
+![Figure: dunnicliff-piezometer-types](../../assets/figures/dunnicliff-piezometer-types.svg)
+
+**Figure.** Four common piezometer types: vibrating-wire, pneumatic, open standpipe, and twin-tube hydraulic (Dunnicliff, Ch. 9).
+
 ## 6.7 Key takeaways
 
 - Pore pressure governs effective stress and stability.
