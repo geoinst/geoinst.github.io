@@ -5,12 +5,17 @@ lang_alt: reference-manuals/
 
 # Tài liệu tham khảo
 
+!!! tip "Tầm nhìn Tổng thể & Khung Kỹ thuật Tích hợp"
+    Khám phá mối liên kết hữu cơ giữa toàn bộ 11 bộ tài liệu tham khảo—từ cấu trúc kiến tạo vỏ Trái Đất, cơ học đất, nền móng công trình đến quan trắc đập an toàn sinh mạng và hệ thống thu thập dữ liệu tự động **ADAQS**:  
+    👉 **[Đọc Tầm nhìn Tổng thể & Khung Tích hợp →](overarching-vision.md)**
+
 Phần này lập danh mục kho tư liệu tham khảo của cơ sở tri thức này. Mỗi mục dưới đây dẫn đến một chương riêng cho từng tài liệu hoặc từng cuốn sách, với văn bản được trích xuất, các khái niệm chính và liên kết chéo. Các mục ghi *phạm vi công cộng* là **công trình của chính phủ Hoa Kỳ** (Sổ tay Kỹ thuật USACE, sổ tay FHWA/NHI) được phép sao chép và phóng tác tự do. Các mục ghi **CC BY** là tác phẩm có giấy phép mở, cũng được phép dùng lại miễn ghi nguồn.
 
 ## Mục lục
 
 | Tiêu đề | Tác giả / Nguồn | Tài liệu nguồn | Trang |
 | --- | --- | --- | --- |
+| **Tầm nhìn Tổng thể: Khung Tích hợp** | Tổng hợp Nền tảng Geoinst | Toàn bộ Kho Tri thức & Hệ thống ADAQS | [→](overarching-vision.md) |
 | Geotechnical Instrumentation for Monitoring Field Performance (Thiết bị quan trắc địa kỹ thuật để giám sát hiệu năng hiện trường) | John Dunnicliff | GEOTECHNICAL INSTRUMENTATION...pdf | [→](dunnicliff/index.md) |
 | Geotechnical Instrumentation Reference Manual (Sổ tay thiết bị quan trắc địa kỹ thuật) | FHWA (J. Dunnicliff) | FHWA-HI-98-034 (phạm vi công cộng) | [→](fhwa/index.md) |
 | Kỹ thuật móng: Tài liệu tham khảo thuộc phạm vi công cộng | USACE / FHWA (phạm vi công cộng) | USACE EM 1110-1-1905, EM 1110-1-1904, EM 1110-2-2906, EM 1110-2-2502, EM 1110-2-2504, EM 1110-2-1902; FHWA NHI-16-009/-010 (GEC-12), NHI-10-024/-025 (GEC-11), NHI-14-007 (GEC-7), FHWA-IF-99-025 | [→](foundation-engineering/index.md) |

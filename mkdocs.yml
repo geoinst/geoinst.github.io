@@ -102,6 +102,7 @@ nav:
           - Móng & Đào đất: vi/applications/foundations.md
       - "Sổ tay tham khảo":
           - Mục lục: vi/reference-manuals/index.md
+          - "Tầm nhìn Tổng thể & Khung Tích hợp": vi/reference-manuals/overarching-vision.md
           - "Dunnicliff — Thiết bị quan trắc địa kỹ thuật":
               - Tổng quan: vi/reference-manuals/dunnicliff/index.md
               - "Ch.1 Giới thiệu: Tổng quan": vi/reference-manuals/dunnicliff/chapter-01-overview.md
@@ -269,6 +270,7 @@ nav:
       - Foundation & Excavation: applications/foundations.md
   - Reference Manuals:
       - Catalog Index: reference-manuals/index.md
+      - "The Grand Vision & Integrated Framework": reference-manuals/overarching-vision.md
       - "Dunnicliff — Geotechnical Instrumentation":
           - Overview: reference-manuals/dunnicliff/index.md
           - "Ch.1 Introduction: An Overview": reference-manuals/dunnicliff/chapter-01-overview.md

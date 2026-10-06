@@ -4,12 +4,17 @@ lang_alt: vi/reference-manuals/
 ---
 # Reference Manuals
 
+!!! tip "Grand Vision & Overarching Framework"
+    Discover how all 11 reference manuals interconnect—from deep geological crustal processes and soil mechanics to structural foundations, life-safety dam monitoring, and automated **ADAQS** sensor telemetry:  
+    👉 **[Read the Grand Vision & Integrated Framework →](overarching-vision.md)**
+
 This section catalogs the reference corpus behind this knowledge base. Each entry below resolves to a per-manual or per-book chapter with extracted text, key concepts, and cross-links. Entries marked *public domain* are **U.S. Government works** (USACE Engineering Manuals, FHWA/NHI manuals) that may be reproduced and adapted freely. Entries marked **CC BY** are openly licensed works that may likewise be reused with attribution.
 
 ## Catalog
 
 | Title | Author / Source | Source documents | Page |
 | --- | --- | --- | --- |
+| **The Grand Vision: Integrated Framework** | Geoinst Platform Synthesis | Full Geotechnical Corpus & ADAQS Integration | [→](overarching-vision.md) |
 | Geotechnical Instrumentation for Monitoring Field Performance | John Dunnicliff | GEOTECHNICAL INSTRUMENTATION...pdf | [→](dunnicliff/index.md) |
 | Geotechnical Instrumentation Reference Manual | FHWA (J. Dunnicliff) | FHWA-HI-98-034 (public domain) | [→](fhwa/index.md) |
 | Foundation Engineering: A Public-Domain Reference | USACE / FHWA (public domain) | USACE EM 1110-1-1905, EM 1110-1-1904, EM 1110-2-2906, EM 1110-2-2502, EM 1110-2-2504, EM 1110-2-1902; FHWA NHI-16-009/-010 (GEC-12), NHI-10-024/-025 (GEC-11), NHI-14-007 (GEC-7), FHWA-IF-99-025 | [→](foundation-engineering/index.md) |
