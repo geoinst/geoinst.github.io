@@ -212,6 +212,19 @@ nav:
           - "Ch.10 Thuỷ lực công trình": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-10-hydraulics.md
           - "Ch.11 Động đất với công trình xây dựng": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-11-earthquakes.md
           - "Ch.12 Công nghệ thông tin trong địa kỹ thuật": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-12-geo-informatics.md
+      - "Địa chất vật lý (giáo trình mở, CC BY)":
+          - Tổng quan: vi/reference-manuals/dia-chat-vat-ly/index.md
+          - "Ch.1 Nhập môn địa chất": vi/reference-manuals/dia-chat-vat-ly/chapter-01-introduction-to-geology.md
+          - "Ch.2 Khoáng vật": vi/reference-manuals/dia-chat-vat-ly/chapter-02-minerals.md
+          - "Ch.3 Đá magma xâm nhập": vi/reference-manuals/dia-chat-vat-ly/chapter-03-igneous-rocks.md
+          - "Ch.5 Phong hoá và đất": vi/reference-manuals/dia-chat-vat-ly/chapter-05-weathering-and-soil.md
+          - "Ch.6 Trầm tích và đá trầm tích": vi/reference-manuals/dia-chat-vat-ly/chapter-06-sedimentary-rocks.md
+          - "Ch.7 Biến chất và đá biến chất": vi/reference-manuals/dia-chat-vat-ly/chapter-07-metamorphic-rocks.md
+          - "Ch.9 Nội bộ Quả Đất và địa chấn học": vi/reference-manuals/dia-chat-vat-ly/chapter-09-earths-interior.md
+          - "Ch.11 Động đất": vi/reference-manuals/dia-chat-vat-ly/chapter-11-earthquakes.md
+          - "Ch.12 Cấu trúc địa chất": vi/reference-manuals/dia-chat-vat-ly/chapter-12-geological-structures.md
+          - "Ch.14 Nước dưới đất": vi/reference-manuals/dia-chat-vat-ly/chapter-14-groundwater.md
+          - "Ch.15 Dịch chuyển khối": vi/reference-manuals/dia-chat-vat-ly/chapter-15-mass-wasting.md
       - "GeoVadis: Tương lai của Kỹ thuật Địa kỹ thuật (Tập 1)":
           - Tổng quan: vi/reference-manuals/geovadis/index.md
           - "Ch.1 Báo cáo toàn thể: Nền móng & Địa nhiệt": vi/reference-manuals/geovadis/chapter-01-plenary-advances.md
@@ -227,6 +240,14 @@ nav:
           - "Ch.3 Cơ học đá & Công trình ngầm": vi/reference-manuals/geovadis-vol2/chapter-03-rock-mechanics-tunnelling.md
           - "Ch.4 Ổn định mái dốc & Cảnh báo sớm": vi/reference-manuals/geovadis-vol2/chapter-04-slope-stability-landslides.md
           - "Ch.5 Địa kỹ thuật giao thông": vi/reference-manuals/geovadis-vol2/chapter-05-transportation-geotechnics.md
+      - "GeoVadis: Tương lai của Kỹ thuật Địa kỹ thuật (Tập 3)":
+          - Tổng quan: vi/reference-manuals/geovadis-vol3/index.md
+          - "Ch.1 Báo cáo toàn thể & Bài giảng đầu ngành": vi/reference-manuals/geovadis-vol3/chapter-01-plenary-lectures.md
+          - "Ch.2 AI & Địa kỹ thuật môi trường": vi/reference-manuals/geovadis-vol3/chapter-02-ai-computational-environmental.md
+          - "Ch.3 Kỹ thuật địa chấn & Động lực học đất": vi/reference-manuals/geovadis-vol3/chapter-03-earthquake-soil-dynamics.md
+          - "Ch.4 Nền móng, Hố đào sâu & Kết cấu chắn": vi/reference-manuals/geovadis-vol3/chapter-04-foundations-deep-excavation.md
+          - "Ch.5 Vật liệu tổng hợp & Cải tạo nền": vi/reference-manuals/geovadis-vol3/chapter-05-geosynthetics-ground-improvement.md
+          - "Ch.6 Cơ học đá, Mái dốc & Giao thông": vi/reference-manuals/geovadis-vol3/chapter-06-rock-slopes-transportation.md
       - "Môi trường thử nghiệm tương tác": vi/visualizer.md
       - "Bác sĩ GTI (AI)": vi/gti-doctor.md
       - "Tuân thủ pháp lý":
@@ -358,6 +379,19 @@ nav:
           - "Ch.10 Engineering Hydraulics": reference-manuals/geotechnical-engineers-handbook/chapter-10-hydraulics.md
           - "Ch.11 Earthquakes and Construction Works": reference-manuals/geotechnical-engineers-handbook/chapter-11-earthquakes.md
           - "Ch.12 Geoinformatics in Geotechnics": reference-manuals/geotechnical-engineers-handbook/chapter-12-geo-informatics.md
+      - "Physical Geology (open textbook, CC BY)":
+          - Overview: reference-manuals/physical-geology/index.md
+          - "Ch.1 Introduction to Geology": reference-manuals/physical-geology/chapter-01-introduction-to-geology.md
+          - "Ch.2 Minerals": reference-manuals/physical-geology/chapter-02-minerals.md
+          - "Ch.3 Intrusive Igneous Rocks": reference-manuals/physical-geology/chapter-03-igneous-rocks.md
+          - "Ch.5 Weathering and Soil": reference-manuals/physical-geology/chapter-05-weathering-and-soil.md
+          - "Ch.6 Sediments and Sedimentary Rocks": reference-manuals/physical-geology/chapter-06-sedimentary-rocks.md
+          - "Ch.7 Metamorphism and Metamorphic Rocks": reference-manuals/physical-geology/chapter-07-metamorphic-rocks.md
+          - "Ch.9 Earth's Interior and Seismology": reference-manuals/physical-geology/chapter-09-earths-interior.md
+          - "Ch.11 Earthquakes": reference-manuals/physical-geology/chapter-11-earthquakes.md
+          - "Ch.12 Geological Structures": reference-manuals/physical-geology/chapter-12-geological-structures.md
+          - "Ch.14 Groundwater": reference-manuals/physical-geology/chapter-14-groundwater.md
+          - "Ch.15 Mass Wasting": reference-manuals/physical-geology/chapter-15-mass-wasting.md
       - "GeoVadis: The Future of Geotechnical Engineering (Vol. 1)":
           - Overview: reference-manuals/geovadis/index.md
           - "Ch.1 Plenary Advances: Ground Engineering & Energy": reference-manuals/geovadis/chapter-01-plenary-advances.md
@@ -373,6 +407,14 @@ nav:
           - "Ch.3 Rock Mechanics and Tunnelling Engineering": reference-manuals/geovadis-vol2/chapter-03-rock-mechanics-tunnelling.md
           - "Ch.4 Slope Stability, Landslides and Early Warning": reference-manuals/geovadis-vol2/chapter-04-slope-stability-landslides.md
           - "Ch.5 Transportation Geotechnics": reference-manuals/geovadis-vol2/chapter-05-transportation-geotechnics.md
+      - "GeoVadis: The Future of Geotechnical Engineering (Vol. 3)":
+          - Overview: reference-manuals/geovadis-vol3/index.md
+          - "Ch.1 Plenary Keynotes & State-of-the-Art": reference-manuals/geovadis-vol3/chapter-01-plenary-lectures.md
+          - "Ch.2 AI, Computational & Environmental Geotechnics": reference-manuals/geovadis-vol3/chapter-02-ai-computational-environmental.md
+          - "Ch.3 Earthquake Engineering & Soil Dynamics": reference-manuals/geovadis-vol3/chapter-03-earthquake-soil-dynamics.md
+          - "Ch.4 Foundations, Deep Excavations & Retaining": reference-manuals/geovadis-vol3/chapter-04-foundations-deep-excavation.md
+          - "Ch.5 Geosynthetics & Ground Improvement": reference-manuals/geovadis-vol3/chapter-05-geosynthetics-ground-improvement.md
+          - "Ch.6 Rock Mechanics, Slopes & Transportation": reference-manuals/geovadis-vol3/chapter-06-rock-slopes-transportation.md
   - Interactive Sandbox: visualizer.md
   - GTI Doctor (AI): gti-doctor.md
   - Glossary: glossary/index.md

@@ -26,13 +26,32 @@ thiết kế biết thí nghiệm nào phù hợp và thông số nào là đạ
 ### 4.1.2 Nhận biết và mô tả đất cho xây dựng
 
 Nhận dạng ngoài hiện trường bằng quan sát và thao tác tay — cơ sở của mọi nhật ký hố
-khoan.
+khoan. Kỹ sư đọc **cỡ hạt, độ chọn lọc, độ mài tròn, màu sắc và trạng thái** trên mẫu và
+trên mặt lộ; chính bản mô tả đó về sau quyết định chọn thí nghiệm nào và tương quan kinh
+nghiệm nào.
+
+![Hình: geology-glacial-till-outwash](../../../assets/figures/geology/glacial-till-outwash.jpg)
+
+**Hình.** Hai loại trầm tích phải được mô tả khác nhau. Trái: trầm tích ngoài băng tại
+Point Grey, Vancouver — lớp dưới sẫm là cát, bụi và sét, dưới lớp cát **chọn lọc tốt** ở
+trên. Phải: **till băng** trên đảo Quadra, B.C. — không chọn lọc, bị nén dưới băng, đủ
+khoẻ để đứng thành mái gần thẳng đứng. Chính độ chọn lọc và cấp phối, chứ không chỉ cỡ
+hạt, phân biệt hai loại này.
+*© Steven Earle, CC BY 4.0 — Physical Geology, 2nd ed., Hình 15.1.3.*
 
 ### 4.1.3 Phân loại đá khối cho mục đích xây dựng
 
 Đá được phân loại như một **khối đá**, không phải một mẫu đá đơn lẻ: mức độ phong hoá,
 khoảng cách và phương của các mặt gián đoạn, và sức kháng của đá nguyên thể đều tham
 gia.
+
+![Hình: geology-fault-offset](../../../assets/figures/geology/fault-offset.png)
+
+**Hình.** Một mặt gián đoạn phải được ghi vào bản mô tả khối đá: đứt gãy (đường nét đứt
+trắng) trong đá xâm nhập ở đảo Quadra, B.C., dịch chuyển phải khoảng 10 cm trên một mạch
+đá. **Đứt gãy, khe nứt và mặt phân lớp là đặc trưng cấu trúc của khối**, không phải tính
+chất của đá nguyên thể.
+*© Steven Earle, CC BY 4.0 — Physical Geology, 2nd ed., Hình 12.3.4.*
 
 ### 4.1.4 Nhận biết và mô tả đá cho xây dựng
 
@@ -63,7 +82,25 @@ Lấy mẫu nguyên dạng và không nguyên dạng; tỷ lệ thu hồi và ch
 
 ### 4.3.3 Phương pháp thăm dò địa vật lý
 
-Địa vật lý trên mặt và trong hố khoan dùng để ngoại suy giữa các hố khoan.
+Địa vật lý trên mặt và trong hố khoan dùng để ngoại suy giữa các hố khoan. Các **phương
+pháp địa chấn** (khúc xạ địa chấn, đo trong hố khoan, đo giữa các hố khoan) đều dựa trên
+một ý tưởng đơn giản: phát một sóng đàn hồi vào nền đất rồi đo thời gian sóng tới.
+
+![Hình: geology-seismic-hammer](../../../assets/figures/geology/seismic-hammer.png)
+
+**Hình.** Nguyên lý của mọi phương pháp địa chấn: một nhát búa (hoặc nguồn trong hố
+khoan) phát sóng đàn hồi vào nền đất; thời gian sóng P và S tới đầu thu cho biết vận tốc
+sóng của vật liệu giữa hai điểm.
+*© Steven Earle, CC BY 4.0 — Physical Geology, 2nd ed., Hình 9.1.1.*
+
+![Hình: geology-wave-velocities](../../../assets/figures/geology/wave-velocities.png)
+
+**Hình.** Vận tốc điển hình của sóng P (đỏ) và sóng S (xanh) trong trầm tích và trong đá
+vỏ nguyên thể. Tương phản lớn giữa **đất yếu** và **đá** là cơ sở để dùng khúc xạ địa
+chấn xác định chiều sâu tới đá gốc — và vận tốc sóng S là thông số đầu vào cho tính chất
+động của đất trong thiết kế kháng chấn.
+*© Steven Earle, CC BY 4.0, theo Cơ quan Bảo vệ Môi trường Hoa Kỳ (phạm vi công cộng) —
+Physical Geology, 2nd ed., Hình 9.1.3.*
 
 ## 4.4 Các phương pháp thí nghiệm
 
