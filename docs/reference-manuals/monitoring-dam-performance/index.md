@@ -53,7 +53,7 @@ and reservoirs). It is organized into the following chapters:
 - **Start with Chapter 2 and Chapter 4.** Failure modes and a structured plan are
   the foundation of every good monitoring program.
 - **Link to the rest of the knowledge base.** The [Instrument Families](chapter-05-instruments.md)
-  chapter cross-references the [Dunnicliff](../dunnicliff.md) and
+  chapter cross-references the [Dunnicliff](../dunnicliff/index.md) and
   [FHWA](../fhwa.md) manuals for detailed installation procedures.
 - **Ask the [GTI Doctor](../../gti-doctor.md).** The AI assistant can answer
   monitoring questions from the wider corpus.

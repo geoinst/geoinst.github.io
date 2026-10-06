@@ -24,7 +24,7 @@ slope failure.
     An unsaturated VW piezometer reads nonsense. The **saturation procedure** —
     removing air from the porous tip and connecting tube — must be done carefully
     at installation. A piezometer that was never properly saturated is a silent gap
-    in the program. (See [Dunnicliff Ch. 9](../dunnicliff.md).)
+    in the program. (See [Dunnicliff Ch. 9](../dunnicliff/index.md).)
 
 ## 6.3 Where to place them
 

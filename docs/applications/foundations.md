@@ -167,9 +167,9 @@ Verify design assumptions about load-settlement behavior, validate deep foundati
 ---
 
 ## Related Pages
-- [Dunnicliff Chapter 19](../reference-manuals/dunnicliff.md#chapter-19)
-- [Dunnicliff Chapter 24](../reference-manuals/dunnicliff.md#chapter-24)
-- [Dunnicliff Chapter 25](../reference-manuals/dunnicliff.md#chapter-25)
+- [Dunnicliff Chapter 19](../reference-manuals/dunnicliff/chapter-14-applications.md)
+- [Dunnicliff Chapter 24](../reference-manuals/dunnicliff/chapter-14-applications.md)
+- [Dunnicliff Chapter 25](../reference-manuals/dunnicliff/chapter-14-applications.md)
 - [GTI Doctor — Ask about foundation/excavation monitoring](../gti-doctor.md)
 
 ---

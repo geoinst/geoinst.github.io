@@ -129,7 +129,7 @@ Monitor ground movement around tunnel excavation, convergence of linings, and po
 ---
 
 ## Related Pages
-- [Dunnicliff Chapter 23](../reference-manuals/dunnicliff.md#chapter-23)
+- [Dunnicliff Chapter 23](../reference-manuals/dunnicliff/chapter-14-applications.md)
 - [GTI Doctor — Ask about tunnel monitoring](../gti-doctor.md)
 
 ---

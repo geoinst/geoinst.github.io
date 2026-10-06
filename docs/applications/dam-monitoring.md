@@ -132,7 +132,7 @@ Detect seepage changes, internal erosion, and deformation in embankment / concre
 ---
 
 ## Related Pages
-- [Dunnicliff Chapter 21](../reference-manuals/dunnicliff.md#chapter-21)
+- [Dunnicliff Chapter 21](../reference-manuals/dunnicliff/chapter-14-applications.md)
 - [GTI Doctor — Ask about dam monitoring](../gti-doctor.md)
 
 ---

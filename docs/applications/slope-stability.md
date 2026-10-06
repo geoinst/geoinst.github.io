@@ -109,7 +109,7 @@ Detect the onset of slope movement before failure, identify the shear surface, a
 ---
 
 ## Related Pages
-- [Dunnicliff Chapter 22](../reference-manuals/dunnicliff.md#chapter-22)
+- [Dunnicliff Chapter 22](../reference-manuals/dunnicliff/chapter-14-applications.md)
 - [GTI Doctor — Ask about slope monitoring](../gti-doctor.md)
 
 ---

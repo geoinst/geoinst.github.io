@@ -117,7 +117,22 @@ nav:
           - Móng & Đào đất: vi/applications/foundations.md
       - "Sổ tay tham khảo":
           - Mục lục: vi/reference-manuals/index.md
-          - Dunnicliff (Quan trắc hiện trường): vi/reference-manuals/dunnicliff.md
+          - "Dunnicliff — Thiết bị quan trắc địa kỹ thuật":
+              - Tổng quan: vi/reference-manuals/dunnicliff/index.md
+              - "Ch.1 Giới thiệu: Tổng quan": vi/reference-manuals/dunnicliff/chapter-01-overview.md
+              - "Ch.2 Lợi ích của thiết bị quan trắc": vi/reference-manuals/dunnicliff/chapter-02-benefits.md
+              - "Ch.3 Tiếp cận có hệ thống để lập kế hoạch": vi/reference-manuals/dunnicliff/chapter-03-planning.md
+              - "Ch.4 Mua sắm & Hợp đồng": vi/reference-manuals/dunnicliff/chapter-04-procurement.md
+              - "Ch.5 Độ không đảm bảo & Thu thập dữ liệu": vi/reference-manuals/dunnicliff/chapter-05-uncertainty.md
+              - "Ch.6 Đo áp lực nước ngầm (Piezometer)": vi/reference-manuals/dunnicliff/chapter-06-piezometers.md
+              - "Ch.7 Đo ứng suất": vi/reference-manuals/dunnicliff/chapter-07-stress.md
+              - "Ch.8 Đo biến dạng": vi/reference-manuals/dunnicliff/chapter-08-deformation.md
+              - "Ch.9 Tải, Biến dạng & Nhiệt độ": vi/reference-manuals/dunnicliff/chapter-09-load-strain-temp.md
+              - "Ch.10 Công thức cho sự tin cậy": vi/reference-manuals/dunnicliff/chapter-10-recipe.md
+              - "Ch.11 Hiệu chuẩn & Bảo trì": vi/reference-manuals/dunnicliff/chapter-11-calibration.md
+              - "Ch.12 Lắp đặt thiết bị": vi/reference-manuals/dunnicliff/chapter-12-installation.md
+              - "Ch.13 Thu thập & Diễn giải dữ liệu": vi/reference-manuals/dunnicliff/chapter-13-data.md
+              - "Ch.14 Ứng dụng & Chuỗi 25 mắt xích": vi/reference-manuals/dunnicliff/chapter-14-applications.md
           - Sổ tay tham khảo FHWA: vi/reference-manuals/fhwa.md
           - Das (Kỹ thuật móng): vi/reference-manuals/das-foundation.md
           - Das (Kỹ thuật địa kỹ thuật): vi/reference-manuals/das-geotech.md
@@ -137,6 +152,22 @@ nav:
           - "Ch.12 Đánh giá & Diễn giải": vi/reference-manuals/monitoring-dam-performance/chapter-12-evaluation.md
           - "Ch.13 Hiệu năng & Quyết định": vi/reference-manuals/monitoring-dam-performance/chapter-13-decisions.md
           - "Ch.14 Các trường hợp lịch sử": vi/reference-manuals/monitoring-dam-performance/chapter-14-case-histories.md
+      - "An toàn đập thải (ICOLD Bulletin 194)":
+          - Tổng quan: vi/reference-manuals/tailings-dam-safety/index.md
+          - "Ch.1 Giới thiệu, Phạm vi & Tổ chức": vi/reference-manuals/tailings-dam-safety/chapter-01-introduction.md
+          - "Ch.2 Cơ sở lưu giữ bùn thải & Cách chúng phá hoại": vi/reference-manuals/tailings-dam-safety/chapter-02-facilities-and-failures.md
+          - "Ch.3 Triết lý giám sát": vi/reference-manuals/tailings-dam-safety/chapter-03-philosophy.md
+          - "Ch.4 Lập kế hoạch giám sát": vi/reference-manuals/tailings-dam-safety/chapter-04-planning.md
+          - "Ch.5 Họ thiết bị quan trắc": vi/reference-manuals/tailings-dam-safety/chapter-05-instruments.md
+          - "Ch.6 Áp lực nước lỗ rỗng & Hóa lỏng": vi/reference-manuals/tailings-dam-safety/chapter-06-pore-pressure.md
+          - "Ch.7 Thấm & Mặt nước thấm": vi/reference-manuals/tailings-dam-safety/chapter-07-seepage.md
+          - "Ch.8 Giám sát biến dạng": vi/reference-manuals/tailings-dam-safety/chapter-08-deformation.md
+          - "Ch.9 Hệ thống tự động & Từ xa": vi/reference-manuals/tailings-dam-safety/chapter-09-automated.md
+          - "Ch.10 Lắp đặt, Vận hành & Bảo trì": vi/reference-manuals/tailings-dam-safety/chapter-10-iom.md
+          - "Ch.11 Thu thập & Quản lý dữ liệu": vi/reference-manuals/tailings-dam-safety/chapter-11-data-management.md
+          - "Ch.12 Đánh giá & Diễn giải dữ liệu": vi/reference-manuals/tailings-dam-safety/chapter-12-evaluation.md
+          - "Ch.13 Hiệu năng & Quyết định": vi/reference-manuals/tailings-dam-safety/chapter-13-decisions.md
+          - "Ch.14 Các trường hợp lịch sử": vi/reference-manuals/tailings-dam-safety/chapter-14-case-histories.md
       - "Môi trường thử nghiệm tương tác": vi/visualizer.md
       - "Bác sĩ GTI (AI)": vi/gti-doctor.md
       - "Tuân thủ pháp lý":
@@ -173,7 +204,22 @@ nav:
       - Foundation & Excavation: applications/foundations.md
   - Reference Manuals:
       - Catalog Index: reference-manuals/index.md
-      - Dunnicliff (Field Monitoring): reference-manuals/dunnicliff.md
+      - "Dunnicliff — Geotechnical Instrumentation":
+          - Overview: reference-manuals/dunnicliff/index.md
+          - "Ch.1 Introduction: An Overview": reference-manuals/dunnicliff/chapter-01-overview.md
+          - "Ch.2 Benefits of Instrumentation": reference-manuals/dunnicliff/chapter-02-benefits.md
+          - "Ch.3 Systematic Approach to Planning": reference-manuals/dunnicliff/chapter-03-planning.md
+          - "Ch.4 Procurement & Contracts": reference-manuals/dunnicliff/chapter-04-procurement.md
+          - "Ch.5 Uncertainty & Data Acquisition": reference-manuals/dunnicliff/chapter-05-uncertainty.md
+          - "Ch.6 Groundwater Pressure (Piezometers)": reference-manuals/dunnicliff/chapter-06-piezometers.md
+          - "Ch.7 Stress Measurement": reference-manuals/dunnicliff/chapter-07-stress.md
+          - "Ch.8 Deformation Measurement": reference-manuals/dunnicliff/chapter-08-deformation.md
+          - "Ch.9 Load, Strain & Temperature": reference-manuals/dunnicliff/chapter-09-load-strain-temp.md
+          - "Ch.10 A Recipe for Reliability": reference-manuals/dunnicliff/chapter-10-recipe.md
+          - "Ch.11 Calibration & Maintenance": reference-manuals/dunnicliff/chapter-11-calibration.md
+          - "Ch.12 Installation of Instruments": reference-manuals/dunnicliff/chapter-12-installation.md
+          - "Ch.13 Data Collection & Interpretation": reference-manuals/dunnicliff/chapter-13-data.md
+          - "Ch.14 Applications & The Chain of Success": reference-manuals/dunnicliff/chapter-14-applications.md
       - FHWA Reference Manual: reference-manuals/fhwa.md
       - Das (Foundation Engineering): reference-manuals/das-foundation.md
       - Das (Geotechnical Engineering): reference-manuals/das-geotech.md
@@ -193,6 +239,22 @@ nav:
           - "Ch.12 Evaluation & Interpretation": reference-manuals/monitoring-dam-performance/chapter-12-evaluation.md
           - "Ch.13 Performance & Decisions": reference-manuals/monitoring-dam-performance/chapter-13-decisions.md
           - "Ch.14 Case Histories": reference-manuals/monitoring-dam-performance/chapter-14-case-histories.md
+      - "Tailings Dam Safety (ICOLD Bulletin 194)":
+          - Overview: reference-manuals/tailings-dam-safety/index.md
+          - "Ch.1 Introduction, Scope & Organization": reference-manuals/tailings-dam-safety/chapter-01-introduction.md
+          - "Ch.2 Tailings Facilities and How They Fail": reference-manuals/tailings-dam-safety/chapter-02-facilities-and-failures.md
+          - "Ch.3 Monitoring Philosophy": reference-manuals/tailings-dam-safety/chapter-03-philosophy.md
+          - "Ch.4 Planning a Monitoring Program": reference-manuals/tailings-dam-safety/chapter-04-planning.md
+          - "Ch.5 Instrument Families": reference-manuals/tailings-dam-safety/chapter-05-instruments.md
+          - "Ch.6 Pore Pressure & Liquefaction": reference-manuals/tailings-dam-safety/chapter-06-pore-pressure.md
+          - "Ch.7 Seepage & Phreatic Surface": reference-manuals/tailings-dam-safety/chapter-07-seepage.md
+          - "Ch.8 Deformation Monitoring": reference-manuals/tailings-dam-safety/chapter-08-deformation.md
+          - "Ch.9 Automated & Remote Systems": reference-manuals/tailings-dam-safety/chapter-09-automated.md
+          - "Ch.10 Installation, Operation & Maintenance": reference-manuals/tailings-dam-safety/chapter-10-iom.md
+          - "Ch.11 Data Acquisition & Management": reference-manuals/tailings-dam-safety/chapter-11-data-management.md
+          - "Ch.12 Data Evaluation & Interpretation": reference-manuals/tailings-dam-safety/chapter-12-evaluation.md
+          - "Ch.13 Performance & Decisions": reference-manuals/tailings-dam-safety/chapter-13-decisions.md
+          - "Ch.14 Case Histories": reference-manuals/tailings-dam-safety/chapter-14-case-histories.md
   - Interactive Sandbox: visualizer.md
   - GTI Doctor (AI): gti-doctor.md
   - Glossary: glossary/index.md

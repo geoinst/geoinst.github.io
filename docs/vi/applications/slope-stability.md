@@ -110,7 +110,7 @@ Phát hiện sự khởi phát của chuyển động sườn dốc trước khi
 ---
 
 ## Trang liên quan
-- [Chương 22 Dunnicliff](../reference-manuals/dunnicliff.md#chapter-22)
+- [Chương 22 Dunnicliff](../reference-manuals/dunnicliff/chapter-14-applications.md)
 - [GTI Doctor — Hỏi về quan trắc sườn dốc](../gti-doctor.md)
 
 ---

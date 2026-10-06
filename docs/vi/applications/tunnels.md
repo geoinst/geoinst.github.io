@@ -130,7 +130,7 @@ Quan trắc chuyển động đất xung quanh đào hầm, sự hội tụ củ
 ---
 
 ## Trang liên quan
-- [Chương 23 Dunnicliff](../reference-manuals/dunnicliff.md#chapter-23)
+- [Chương 23 Dunnicliff](../reference-manuals/dunnicliff/chapter-14-applications.md)
 - [GTI Doctor — Hỏi về quan trắc hầm](../gti-doctor.md)
 
 ---

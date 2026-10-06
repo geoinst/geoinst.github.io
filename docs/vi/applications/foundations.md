@@ -168,9 +168,9 @@ Kiểm chứng các giả định thiết kế về ứng xử tải-lún, xác 
 ---
 
 ## Trang liên quan
-- [Chương 19 Dunnicliff](../reference-manuals/dunnicliff.md#chapter-19)
-- [Chương 24 Dunnicliff](../reference-manuals/dunnicliff.md#chapter-24)
-- [Chương 25 Dunnicliff](../reference-manuals/dunnicliff.md#chapter-25)
+- [Chương 19 Dunnicliff](../reference-manuals/dunnicliff/chapter-14-applications.md)
+- [Chương 24 Dunnicliff](../reference-manuals/dunnicliff/chapter-14-applications.md)
+- [Chương 25 Dunnicliff](../reference-manuals/dunnicliff/chapter-14-applications.md)
 - [GTI Doctor — Hỏi về quan trắc móng/hố móng](../gti-doctor.md)
 
 ---

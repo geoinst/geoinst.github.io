@@ -54,7 +54,7 @@ chứa của chúng). Nó được tổ chức thành các chương sau:
 - **Bắt đầu với Chương 2 và Chương 4.** Các hình thức hư hỏng và một kế hoạch có
   cấu trúc là nền tảng của mọi chương trình giám sát tốt.
 - **Liên kết với phần còn lại của kho kiến thức.** Chương [Các Họ Thiết bị](chapter-05-instruments.md)
-  tham chiếu chéo với các tài liệu [Dunnicliff](../dunnicliff.md) và
+  tham chiếu chéo với các tài liệu [Dunnicliff](../dunnicliff/index.md) và
   [FHWA](../fhwa.md) về các quy trình lắp đặt chi tiết.
 - **Hãy hỏi [GTI Doctor](../../gti-doctor.md).** Trợ lý AI có thể trả lời các câu
   hỏi giám sát từ kho ngữ liệu rộng hơn.

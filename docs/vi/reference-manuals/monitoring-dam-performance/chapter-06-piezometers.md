@@ -21,7 +21,7 @@ lang_alt: reference-manuals/monitoring-dam-performance/chapter-06-piezometers/
     Một Piezometer VW không được bão hòa sẽ cho kết quả vô nghĩa. Quy trình **bão hòa** —
     loại bỏ không khí khỏi đầu lọc xốp và ống nối — phải được thực hiện cẩn thận
     khi lắp đặt. Một Piezometer chưa bao giờ được bão hòa đúng cách là một khoảng trống
-    thầm lặng trong chương trình giám sát. (Xem [Dunnicliff Ch. 9](../dunnicliff.md).)
+    thầm lặng trong chương trình giám sát. (Xem [Dunnicliff Ch. 9](../dunnicliff/index.md).)
 
 ## 6.3 Vị trí lắp đặt
 

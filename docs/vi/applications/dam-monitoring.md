@@ -133,7 +133,7 @@ Phát hiện thay đổi thấm, xói mòn nội bộ, và biến dạng trong �
 ---
 
 ## Trang liên quan
-- [Chương 21 Dunnicliff](../reference-manuals/dunnicliff.md#chapter-21)
+- [Chương 21 Dunnicliff](../reference-manuals/dunnicliff/chapter-14-applications.md)
 - [GTI Doctor — Hỏi về quan trắc đập](../gti-doctor.md)
 
 ---
