@@ -9,44 +9,90 @@ lang_alt: glossary/
 
 ---
 
+## 📌 Bảng Quy chuẩn Thuật ngữ Địa kỹ thuật Đối chiếu (Canonical Terminology)
+
+Để đảm bảo tính nhất quán khoa học và chuẩn hóa kỹ thuật trên toàn bộ trang web tiếng Việt, mỗi thuật ngữ tiếng Anh chuyên ngành được gán tương ứng duy nhất **một thuật ngữ tiếng Việt chuẩn thức** (căn cứ theo TCVN 9398, TCVN 9360, ASTM và ISO 18674):
+
+| Thuật ngữ tiếng Anh (English Term) | Thuật ngữ tiếng Việt chuẩn thức | Ghi chú & Phạm vi áp dụng |
+| :--- | :--- | :--- |
+| **Piezometer** | **Áp kế** | Đo áp lực nước lỗ rỗng và cao trình mực nước ngầm |
+| **Pore water pressure** | **Áp lực nước lỗ rỗng** | Áp lực của nước trong lỗ rỗng đất đá |
+| **Vibrating Wire Piezometer (VWP)** | **Áp kế dây rung** | Cảm biến màng kim loại công nghệ dây rung |
+| **Standpipe Piezometer** | **Áp kế ống đứng** | Ống đo hở kiểu Casagrande |
+| **Pneumatic Piezometer** | **Áp kế khí nén** | Cảm biến màng van vận hành bằng khí nitơ |
+| **Strain Gauge** | **Cảm biến đo biến dạng** | Thay thế hoàn toàn "tenzo" hoặc "điện trở biến dạng" |
+| **Sister Bar** | **Thanh thép đo biến dạng phụ (Sister Bar)** | Đo biến dạng cốt thép cọc khoan nhồi, tường vây |
+| **Demec Gauge** | **Cảm biến đo biến dạng Demec** | Thiết bị cơ học đo khoảng cách giữa 2 điểm chuẩn |
+| **Inclinometer** | **Thiết bị đo nghiêng** | Đo biến dạng ngang và độ lệch góc |
+| **Inclinometer Casing** | **Ống đo nghiêng** | Ống chuyên dụng có 4 rãnh định hướng vuông góc |
+| **In-Place Inclinometer (IPI)** | **Thiết bị đo nghiêng cố định** | Chuỗi cảm biến treo cố định trong ống rãnh |
+| **Extensometer** | **Thiết bị đo biến dạng sâu** | Đo chuyển vị dọc trục trong lỗ khoan |
+| **Multipoint Borehole Extensometer (MPBX)** | **Thiết bị đo biến dạng sâu nhiều điểm** | Cụm neo đo lún và trồi nhiều tầng trong lỗ khoan |
+| **Settlement Plate** | **Bàn đo lún** | Bản thép theo dõi độ lún nền đắp |
+| **Load Cell** | **Cảm biến đo tải trọng** | Đo lực neo, thanh chống, đầu cọc |
+| **Earth Pressure Cell (EPC)** | **Hộp đo áp lực đất** | Đo ứng suất tổng trong đất và thân đập |
+| **Tiltmeter** | **Cảm biến đo độ nghiêng** | Gắn trên bề mặt kết cấu, trụ cầu, tường chắn |
+| **Crackmeter** | **Cảm biến đo khe nứt** | Đo sự mở rộng và trượt của vết nứt kết cấu |
+| **Jointmeter** | **Cảm biến đo khe nối** | Đo chuyển dịch tương đối tại khe co giãn |
+| **Telltale** | **Thanh truyền chuyển vị** | Thanh truyền cơ học đo chuyển vị đoạn cọc |
+| **Data Logger** | **Bộ ghi dữ liệu** | Thiết bị điện tử thu thập và lưu trữ số liệu |
+| **Multiplexer** | **Bộ ghép kênh** | Mô-đun mở rộng kênh đo cảm biến |
+| **Effective Stress** | **Ứng suất hữu hiệu** | $\sigma' = \sigma - u$, chi phối độ bền và biến dạng đất |
+| **Total Stress** | **Ứng suất tổng** | Tổng ứng suất tác dụng lên khối đất |
+| **Seepage** | **Thấm** | Dòng thấm qua thân đập và nền móng |
+| **Piping** | **Xói ngầm** | Hiện tượng xói mòn hạt mịn tạo thành ống rỗng |
+| **Phreatic Surface** | **Đường bão hòa** | Ranh giới mặt trên của dòng thấm tự do |
+| **Liquefaction** | **Hóa lỏng** | Mất sức kháng cắt khi áp lực nước lỗ rỗng tăng cao |
+| **Static Liquefaction** | **Hóa lỏng tĩnh** | Hóa lỏng do gia tải tĩnh trên bùn thải bão hòa |
+| **Consolidation** | **Cố kết** | Quá trình ép nén thoát nước lỗ rỗng theo thời gian |
+| **Settlement** | **Độ lún** | Chuyển vị thẳng đứng hướng xuống của móng và nền |
+| **Differential Settlement** | **Lún lệch** | Độ chênh lệch lún giữa các điểm kết cấu |
+| **Convergence** | **Độ hội tụ** | Sự co khép cự ly giữa các vách hầm hoặc hố đào |
+| **Flat Jack** | **Kích dẹt** | Kích thủy lực mỏng đo ứng suất nguyên sinh |
+| **Overcoring** | **Khoan giải ứng suất** | Kỹ thuật giải phóng ứng suất trong lỗ khoan |
+| **Borehole Pressure Cell (BPC)** | **Hộp áp lực lỗ khoan** | Thiết bị theo dõi ứng suất đá quanh hầm |
+
+---
+
 ## 1. Cảm biến địa kỹ thuật & Thiết bị đo ngầm
 
 ### Áp lực nước lỗ rỗng & Mực nước ngầm
 
-* **Piezometer (Đầu đo áp lực nước lỗ rỗng / Áp kế)**: Thiết bị quan trắc đặt trong đất, đá hoặc vật liệu đắp để đo áp lực nước lỗ rỗng hoặc cao trình mực nước ngầm.
-* **Vibrating Wire Piezometer - VWP (Đầu đo áp lực kiểu dây rung)**: Cảm biến có màng ngăn kim loại đàn hồi nối với một sợi dây thép căng. Áp lực nước tác dụng lên màng làm thay đổi độ căng của dây thép và làm thay đổi tần số dao động tự nhiên ($f$) của nó. Rất ổn định lâu dài và không bị suy giảm tín hiệu trên đường cáp dài.
-* **Standpipe Piezometer - Casagrande (Ống đo áp lực hở kiểu Casagrande)**: Ống đo áp lực gồm một mũi lọc bằng gốm xốp hoặc nhựa gắn ở đáy ống đứng. Đo mực nước thủy tĩnh bằng thiết bị đo mực nước cầm tay (đèn còi / dip meter).
-* **Pneumatic Piezometer (Đầu đo áp lực kiểu khí nén)**: Cảm biến màng van vận hành bằng áp lực khí (thường là nitơ). Bơm khí theo đường ống nạp đến khi cân bằng với áp lực nước lỗ rỗng làm mở van xả khí qua ống hồi. Không gây biến đổi thể tích nước, độ trễ thủy lực gần như bằng 0.
-* **Drive-In / Push-In Piezometer (Đầu đo áp lực kiểu đóng / ấn trực tiếp)**: Đầu đo có mũi côn thép chịu lực cao, được ấn trực tiếp vào các tầng sét mềm hoặc bùn mà không cần khoan tạo lỗ trước.
+* **Piezometer (Áp kế)**: Thiết bị quan trắc đặt trong đất, đá hoặc vật liệu đắp để đo áp lực nước lỗ rỗng hoặc cao trình mực nước ngầm.
+* **Vibrating Wire Piezometer - VWP (Áp kế dây rung)**: Cảm biến có màng ngăn kim loại đàn hồi nối với một sợi dây thép căng. Áp lực nước lỗ rỗng tác dụng lên màng làm thay đổi độ căng của dây thép và làm thay đổi tần số dao động tự nhiên ($f$) của nó. Rất ổn định lâu dài và không bị suy giảm tín hiệu trên đường cáp dài.
+* **Standpipe Piezometer - Casagrande (Áp kế ống đứng Casagrande)**: Ống đo áp lực gồm một mũi lọc bằng gốm xốp hoặc nhựa gắn ở đáy ống đứng. Đo mực nước thủy tĩnh bằng thiết bị đo mực nước cầm tay (đèn còi / dip meter).
+* **Pneumatic Piezometer (Áp kế khí nén)**: Cảm biến màng van vận hành bằng áp lực khí (thường là nitơ). Bơm khí theo đường ống nạp đến khi cân bằng với áp lực nước lỗ rỗng làm mở van xả khí qua ống hồi. Không gây biến đổi thể tích nước, độ trễ thủy lực gần như bằng 0.
+* **Push-In Piezometer (Áp kế ấn trực tiếp)**: Đầu đo có mũi côn thép chịu lực cao, được ấn trực tiếp vào các tầng sét mềm hoặc bùn mà không cần khoan tạo lỗ trước.
 * **Màng lọc High-Air-Entry (HAE) và Low-Air-Entry (LAE)**:
     * **HAE Ceramic (Màng lọc khí cao)**: Kích thước lỗ rỗng cực nhỏ (1–2 µm), áp lực sủi bọt cao, ngăn không cho khí lọt vào buồng đo trong điều kiện áp lực nước lỗ rỗng âm (lực hút dính matrict) ở đất chưa bão hòa.
     * **LAE Carborundum (Màng lọc khí thấp)**: Kích thước lỗ rỗng tiêu chuẩn (~50 µm), thấm nước nhanh, dùng trong điều kiện đất bão hòa nước thông thường.
-* **Multi-Level Piezometer Array (Cụm đầu đo áp lực nhiều tầng)**: Lắp đặt nhiều đầu đo VWP ở các cao trình khác nhau trong cùng một lỗ khoan để quan sát gradient thủy lực thẳng đứng và các tầng thấm kẹp.
+* **Multi-Level Piezometer Array (Cụm áp kế nhiều tầng)**: Lắp đặt nhiều áp kế VWP ở các cao trình khác nhau trong cùng một lỗ khoan để quan sát gradient thủy lực thẳng đứng và các tầng thấm kẹp.
 
 ### Thiết bị đo chuyển vị ngang & Biến dạng sườn dốc
 
-* **Inclinometer Casing (Ống đo nghiêng)**: Ống nhựa chuyên dụng (thường bằng ABS hoặc hợp kim nhôm) có 4 rãnh định hướng vuông góc bên trong, dẫn hướng cho đầu đo nghiêng di chuyển dọc theo trục chính xác.
+* **Inclinometer Casing (Ống đo nghiêng)**: Ống chuyên dụng (bằng nhựa ABS hoặc hợp kim nhôm) có 4 rãnh định hướng vuông góc bên trong, dẫn hướng cho đầu đo nghiêng di chuyển dọc theo trục chính xác.
 * **Traversing Probe Inclinometer (Thiết bị đo nghiêng luồn cáp)**: Đầu đo hình thoi có bánh xe chứa 2 cảm biến gia tốc servo hoặc MEMS vuông góc, được thả dọc theo ống rãnh bằng cáp điều khiển có vạch chia khoảng cách (0.5 m) để đo góc nghiêng tích lũy.
-* **In-Place Inclinometer - IPI (Thiết bị đo nghiêng cố định trong lỗ khoan)**: Chuỗi các đầu đo góc nghiêng liên kết với nhau bằng thanh truyền và treo cố định tại các tầng đất trọng yếu, kết nối với bộ ghi tự động để theo dõi chuyển vị ngang liên tục.
-* **ShapeArray - SAA (Mảng cảm biến hình dạng 3D linh hoạt)**: Chuỗi các đốt cảm biến MEMS 3 trục siêu nhỏ kết nối với nhau bằng khớp mềm, cho phép uốn cong theo chuyển vị đất và xuất biên dạng chuyển vị 3D thời gian thực.
+* **In-Place Inclinometer - IPI (Thiết bị đo nghiêng cố định)**: Chuỗi các đầu đo góc nghiêng liên kết với nhau bằng thanh truyền và treo cố định tại các tầng đất trọng yếu, kết nối với bộ ghi dữ liệu để theo dõi chuyển vị ngang liên tục.
+* **ShapeArray - SAA (Mảng cảm biến hình dạng 3D)**: Chuỗi các đốt cảm biến MEMS 3 trục siêu nhỏ kết nối với nhau bằng khớp mềm, cho phép uốn cong theo chuyển vị đất và xuất biên dạng chuyển vị 3D thời gian thực.
 * **Horizontal Inclinometer (Thiết bị đo nghiêng nằm ngang)**: Hệ thống ống rãnh lắp đặt theo phương ngang dưới đáy nền đắp, đập hoặc bãi chôn lấp để đo biểu đồ lún và trồi theo phương đứng.
 * **Spiral Twist Survey (Đo độ xoắn rãnh ống đo nghiêng)**: Phép đo kiểm tra độ vặn xoắn cơ học của các rãnh ống qua chiều sâu lỗ khoan lớn, dùng để hiệu chỉnh góc phương vị của chuyển vị ngang.
 
 ### Đo lún & Chuyển vị thẳng đứng
 
-* **Multipoint Borehole Extensometer - MPBX (Thiết bị đo biến dạng nhiều điểm trong lỗ khoan)**: Cụm các mỏ neo cố định tại các độ sâu khác nhau trong lỗ khoan, nối bằng thanh thép/sợi thủy tinh qua ống bảo vệ lên đầu đo tham chiếu ở miệng lỗ khoan. Đo độ giãn dài hoặc co ngắn của các tầng đất đá.
-* **Magnetic Settlement Gauge (Thiết bị đo lún kiểu từ trường)**: Gồm ống dẫn hướng bọc ngoài bởi các mỏ neo nam châm cánh nhện cắm chặt vào thành lỗ khoan. Đầu đo công tắc từ (reed switch) luồn trong ống sẽ phát tín hiệu âm thanh khi đi qua từng vòng nam châm.
-* **Liquid Level Settlement Cell (Tế bào đo lún kiểu thủy tĩnh)**: Cảm biến áp lực vi sai kết nối bằng ống chứa chất lỏng với bình chuẩn tham chiếu, đo độ chênh cao thẳng đứng của kết cấu hoặc bản móng ngầm.
-* **Settlement Plate (Bàn đo lún / Mốc đĩa đo lún)**: Bản thép đặt trên mặt đất tự nhiên trước khi đắp đất, hàn với ống đứng nối dài dần theo chiều cao đắp.
-* **Tape Extensometer (Thước thép đo hội tụ)**: Thước đo thép có đồng hồ đo vi sai và bộ phận tạo lực căng chuẩn, dùng để đo cự ly hội tụ giữa các mốc gắn trên vách hầm hoặc thanh chống hố đào.
+* **Multipoint Borehole Extensometer - MPBX (Thiết bị đo biến dạng sâu nhiều điểm)**: Cụm các mỏ neo cố định tại các độ sâu khác nhau trong lỗ khoan, nối bằng thanh thép hoặc sợi thủy tinh qua ống bảo vệ lên đầu đo tham chiếu ở miệng lỗ khoan để đo độ giãn dài hoặc co ngắn của các tầng đất đá.
+* **Magnetic Settlement Gauge (Thiết bị đo lún từ tính)**: Gồm ống dẫn hướng bọc ngoài bởi các mỏ neo nam châm cánh nhện cắm chặt vào thành lỗ khoan. Đầu đo công tắc từ (reed switch) luồn trong ống sẽ phát tín hiệu âm thanh khi đi qua từng vòng nam châm.
+* **Liquid Level Settlement Cell (Hộp đo lún thủy tĩnh)**: Cảm biến áp lực vi sai kết nối bằng ống chứa chất lỏng với bình chuẩn tham chiếu, đo độ chênh cao thẳng đứng của kết cấu hoặc bản móng ngầm.
+* **Settlement Plate (Bàn đo lún)**: Bản thép đặt trên mặt đất tự nhiên trước khi đắp đất, hàn với ống đứng nối dài dần theo chiều cao đắp.
+* **Tape Extensometer (Thước thép đo hội tụ)**: Thước đo thép có đồng hồ so và bộ phận tạo lực căng chuẩn, dùng để đo cự ly hội tụ giữa các mốc gắn trên vách hầm hoặc thanh chống hố đào.
 
 ### Tải trọng & Ứng suất kết cấu
 
-* **Anchor Load Cell (Đầu đo tải trọng neo / Load cell vòng)**: Thiết bị đặt dưới đai ốc của neo đất, neo đá hoặc đầu thanh chống để đo lực kéo hoặc lực nén dọc trục. Thường chứa từ 3 đến 6 cảm biến dây rung bố trí song song.
-* **Vibrating Wire Strain Gauge - VWSG (Cảm biến đo biến dạng dây rung)**: Cảm biến hàn lên kết cấu thép hoặc đúc trực tiếp trong bê tông (thanh đo biến dạng sister bar) để đo biến dạng vi mô ($\mu\varepsilon$).
-* **Earth Pressure Cell - EPC (Hộp đo áp lực đất / Áp lực tổng)**: Gồm hai tấm thép tròn hoặc chữ nhật hàn kín mép, ở giữa chứa dầu thủy lực không chịu nén nối với cảm biến áp lực. Đặt tại mặt tiếp xúc giữa đất và công trình hoặc trong thân đập.
-* **Tiltmeter (Đầu đo độ nghiêng kết cấu)**: Cảm biến gắn trên tường chắn, trụ cầu hoặc công trình lân cận để đo góc nghiêng xoay theo 1 hoặc 2 trục.
-* **Crackmeter / Jointmeter (Đầu đo khe nứt / Khe nối)**: Thiết bị đo khoảng cách vi sai gắn bắc qua vết nứt bê tông hoặc khe nối khối đá để theo dõi độ mở rộng, khép lại và trượt của khe.
+* **Anchor Load Cell (Cảm biến đo tải trọng neo)**: Thiết bị đặt dưới đai ốc của neo đất, neo đá hoặc đầu thanh chống để đo lực kéo hoặc lực nén dọc trục. Thường chứa từ 3 đến 6 cảm biến dây rung bố trí song song.
+* **Vibrating Wire Strain Gauge - VWSG (Cảm biến đo biến dạng dây rung)**: Cảm biến hàn lên kết cấu thép hoặc đúc trực tiếp trong bê tông (dưới dạng thanh thép đo biến dạng phụ - sister bar) để đo biến dạng vi mô ($\mu\varepsilon$).
+* **Earth Pressure Cell - EPC (Hộp đo áp lực đất)**: Gồm hai tấm thép tròn hoặc chữ nhật hàn kín mép, ở giữa chứa dầu thủy lực không chịu nén nối với cảm biến áp lực. Đặt tại mặt tiếp xúc giữa đất và công trình hoặc trong thân đập.
+* **Tiltmeter (Cảm biến đo độ nghiêng)**: Cảm biến gắn trên tường chắn, trụ cầu hoặc công trình lân cận để đo góc nghiêng xoay theo 1 hoặc 2 trục.
+* **Crackmeter (Cảm biến đo khe nứt)**: Thiết bị đo khoảng cách vi sai gắn bắc qua vết nứt bê tông để theo dõi độ mở rộng, khép lại và trượt của khe nứt.
+* **Jointmeter (Cảm biến đo khe nối)**: Thiết bị đo biến vị gắn bắc qua khe co giãn hoặc khe nối khối đá để theo dõi chuyển dịch tương đối.
 
 ---
 
@@ -64,8 +110,8 @@ lang_alt: glossary/
 
 ### Mạng truyền thông không dây & Phần cứng hiện trường
 
-* **Data Logger (Đầu ghi dữ liệu / Bộ tích lũy số liệu)**: Thiết bị điện tử cấp nguồn cho cảm biến, số hóa tín hiệu analog, tính toán theo công thức hiệu chuẩn và lưu trữ dữ liệu kèm mốc thời gian vào bộ nhớ flash.
-* **Relay Multiplexer (Bộ ghép kênh / Bộ chuyển mạch)**: Mô-đun mở rộng dùng rơ-le bán dẫn hoặc rơ-le tiếp điểm kín để tuần tự chuyển tín hiệu từ nhiều cảm biến vào một kênh đo của bộ ghi.
+* **Data Logger (Bộ ghi dữ liệu)**: Thiết bị điện tử cấp nguồn cho cảm biến, số hóa tín hiệu tương tự (analog), tính toán theo công thức hiệu chuẩn và lưu trữ dữ liệu kèm mốc thời gian vào bộ nhớ flash.
+* **Multiplexer (Bộ ghép kênh)**: Mô-đun mở rộng dùng rơ-le để tuần tự chuyển tín hiệu từ nhiều cảm biến vào một kênh đo của bộ ghi dữ liệu.
 * **LoRaWAN (Mạng diện rộng công suất thấp)**: Giao thức truyền không dây tầm xa hoạt động trên dải tần không cấp phép (868 MHz, 915 MHz, 923 MHz). Khả năng xuyên thấu cao qua địa hình đồi núi và hố móng sâu.
 * **Mạng không dây dạng lưới (Wireless Mesh Network)**: Cấu trúc mạng tự kết nối và tự phục hồi, trong đó các nút cảm biến đóng vai trò làm trạm tiếp sức chuyển tiếp gói tin về trạm gốc (Gateway).
 * **Cellular IoT (NB-IoT & LTE-M)**: Chuẩn mạng di động băng hẹp tiêu thụ ít năng lượng, truyền dữ liệu cảm biến trực tiếp lên đám mây qua trạm BTS viễn thông.
@@ -230,43 +276,45 @@ lang_alt: glossary/
 * **Độ chính xác so với độ đúng đắn (Accuracy vs. Precision)**: Độ chính xác là mức gần với giá trị thật; độ đúng đắn (độ lặp lại) là mức gần nhau của các số đọc lặp. Riêng một yếu tố không đảm bảo phép đo tốt.
 * **Hiện tượng trễ (Hysteresis)**: Sự phụ thuộc của đầu ra thiết bị vào chiều thay đổi (tăng tải so với giảm tải).
 * **Ngân sách sai số (Error Budget)**: Tổng hợp ảnh hưởng của mọi nguồn không đảm bảo riêng lẻ (cảm biến, cáp, thiết bị đọc, môi trường), giới hạn tổng độ không đảm bảo của phép đo.
-* **Hệ số hiệu chuẩn / Điểm không / Dải đo (Calibration Factor / Zero / Span)**: Độ dốc của quan hệ đầu vào–đầu ra (hệ số hiệu chuẩn), số đọc khi đầu vào bằng không (điểm không) và toàn dải đo (dải đo).
-* **Số đọc cơ sở (Baseline Reading)**: (Các) số đọc tham chiếu lấy sau khi lắp đặt và ổn định, dùng làm mốc so sánh cho mọi thay đổi về sau.
-* **Cột áp piezometric (Piezometric Head)**: Cao độ mặt nước tương đương ứng với một áp lực nước lỗ rỗng đo được.
-* **Độ trễ thủy lực (Hydraulic Time Lag)**: Độ trễ phản hồi của piezometer trước thay đổi áp lực nước lỗ rỗng, phụ thuộc tính thấm và hình học của đất xung quanh và màng lọc.
-* **Bão hòa / Khử khí (Saturation / De-airing)**: Quy trình loại bỏ không khí khỏi màng lọc và ống nối của piezometer để nó phản hồi đúng áp lực nước lỗ rỗng; bước lắp đặt quan trọng, hay bị bỏ qua.
-* **Hội tụ (Convergence)**: Sự co ngắn (khép) khoảng cách giữa các điểm trong hầm hoặc hố đào, biểu thị chuyển động của đất.
-* **Telltale (Thiết bị báo chuyển vị)**: Thiết bị đơn giản chỉ thị chuyển động tương đối bắc qua một khe nối hoặc tiết diện.
-* **Thanh sister bar (Sister Bar)**: Đầu đo biến dạng dây rung gắn song song với thanh thép (rebar) để đo biến dạng của thanh khi đúc trong bê tông.
+* **Hệ số hiệu chuẩn (Calibration Factor)**: Độ dốc của đường đặc tính quan hệ giữa đầu vào vật lý và đầu ra tín hiệu.
+* **Điểm không (Zero Reading)**: Số đọc của cảm biến khi tải trọng hoặc áp lực đầu vào bằng không.
+* **Dải đo (Span)**: Toàn bộ phạm vi đo lường định mức từ giá trị nhỏ nhất đến lớn nhất của cảm biến.
+* **Số đọc cơ sở (Baseline Reading)**: Số đọc tham chiếu ban đầu lấy sau khi cảm biến được lắp đặt và đạt trạng thái ổn định, dùng làm mốc so sánh cho mọi thay đổi về sau.
+* **Cột áp piezometer (Piezometric Head)**: Cao độ mặt nước tương đương ứng với một áp lực nước lỗ rỗng đo được.
+* **Độ trễ thủy lực (Hydraulic Time Lag)**: Thời gian trễ trong phản hồi của áp kế trước sự thay đổi áp lực nước lỗ rỗng, phụ thuộc vào hệ số thấm của đất xung quanh và diện tích màng lọc.
+* **Bão hòa (Saturation)**: Quy trình loại bỏ hoàn toàn bọt khí khỏi màng lọc và buồng đo của áp kế (piezometer) để thiết bị phản hồi chính xác áp lực nước lỗ rỗng; bước lắp đặt sống còn trong quan trắc.
+* **Độ hội tụ (Convergence)**: Sự co ngắn (khép lại) khoảng cách giữa các điểm mốc trên vách hầm hoặc hố đào, biểu thị chuyển dịch của khối đất đá.
+* **Thanh truyền chuyển vị (Telltale)**: Thiết bị cơ học đơn giản dạng thanh truyền dùng để chỉ thị chuyển vị tương đối bắc qua một khe nối hoặc tiết diện kết cấu.
+* **Thanh thép đo biến dạng phụ (Sister Bar)**: Cảm biến chuyên dụng để đo biến dạng (strain) bên trong các kết cấu bê tông cốt thép ngầm như tường vây (slurry wall / diaphragm wall), cọc khoan nhồi (bored pile), hoặc vỏ hầm. Cấu tạo là một đoạn thép ngắn (có đường kính và đặc tính cơ lý tương tự thanh cốt thép chịu lực chính của công trình), được tích hợp sẵn một cảm biến đo biến dạng dây rung (vibrating wire strain gauge) ở chính giữa. Khi thi công, thanh thép phụ này được buộc song song và áp sát vào thanh cốt thép chủ trong lồng thép trước khi đổ bê tông. Vì nằm sát thanh chính, nó cùng chịu lực và biến dạng đồng thời với cốt thép chủ, truyền dữ liệu về bộ ghi giúp kỹ sư tính toán chính xác ứng suất và tải trọng thực tế mà kết cấu ngầm đang gánh chịu.
 * **Khoan giải ứng suất (Overcoring)**: Kỹ thuật giải phóng ứng suất, trong đó thiết bị trong lỗ khoan được giải phóng bằng khoan bao quanh để tính ngược trạng thái ứng suất nguyên sinh của đá.
-* **Kích nạp phẳng (Flat Jack)**: Kích thủy lực mỏng đặt vào rãnh cắt trên đá để đo giải phóng ứng suất và ước lượng ứng suất nguyên sinh.
-* **Tế bào áp lực hố khoan - BPC (Borehole Pressure Cell)**: Thiết bị bơm vữa cố định trong lỗ khoan để theo dõi thay đổi ứng suất đá quanh đường hầm/hố đào.
-* **Tế bào ứng suất tiếp xúc (Contact Stress Cell)**: Tế bào áp lực đặt áp sát mặt tiếp xúc đất–kết cấu để đo ứng suất tiếp xúc.
+* **Kích dẹt (Flat Jack)**: Kích thủy lực bản mỏng đặt vào rãnh cắt trên đá để đo giải phóng ứng suất và ước lượng ứng suất nguyên sinh.
+* **Hộp áp lực lỗ khoan - BPC (Borehole Pressure Cell)**: Hộp đo áp lực bơm vữa cố định trong lỗ khoan để theo dõi biến đổi ứng suất đá quanh đường hầm hoặc hố đào.
+* **Hộp áp lực tiếp xúc (Contact Stress Cell)**: Hộp đo áp lực đặt áp sát mặt tiếp xúc giữa đất và kết cấu để đo ứng suất tiếp xúc.
 
 ## 9. Thiết bị quan trắc đường bộ FHWA (phạm vi FHWA-HI-98-034)
 
 * **Quy tắc vàng (quan trắc)**: Mỗi thiết bị phải được chọn và đặt để trả lời một câu hỏi địa kỹ thuật cụ thể — nếu không có câu hỏi, thì không nên có thiết bị.
 * **Chuỗi 31 mắt xích (Chain of 31 Links)**: 21 mắt xích lập kế hoạch cộng 10 mắt xích thực thi; tất cả phải đứng vững để chương trình quan trắc thành công — chỉ một mắt xích yếu có thể làm đứt cả chuỗi.
-* **Tế bào áp lực đất chôn (Embedment Earth Pressure Cell)**: Tế bào dẹt chứa chất lỏng, chôn trong đất để đo ứng suất tổng vuông góc với mặt của nó.
-* **Tỷ số kích thước (Aspect Ratio – tế bào)**: Tỷ số đường kính trên chiều dày của tế bào áp lực đất; tỷ số cao giúp giảm sai số đo.
-* **Tỷ số độ cứng đất/tế bào (Soil/Cell Stiffness Ratio)**: Tỷ số quyết định mức độ tế bào áp lực đất phân phối lại ứng suất cục bộ, và do đó quyết định sai số đo.
-* **Giếng quan sát (Observation Well)**: Ống hở không có lớp bịt dưới bề mặt; tạo kết nối thẳng đứng giữa các tầng nên hiếm khi phù hợp để quan trắc hiệu năng.
-* **Piezometer ống đứng hở – Casagrande (Open Standpipe Piezometer)**: Ống dẫn có đầu lọc; đáng tin cậy nhưng có độ trễ thủy lực dài.
-* **Piezometer khí nén (Pneumatic Piezometer)**: Màng cân bằng bởi áp lực khí qua hai ống; độ trễ ngắn, không đóng băng, nhưng phụ thuộc người vận hành.
-* **Piezometer dây rung – VW (Vibrating-Wire Piezometer)**: Thiết bị màng cứng đọc theo sự thay đổi tần số dây; độ trễ ngắn và kết nối sẵn sàng với bộ ghi dữ liệu.
-* **Piezometer nhiều điểm (Multipoint Piezometer)**: Một hố khoan chứa nhiều cảm biến để mô tả áp lực theo độ sâu.
-* **Bàn lún (Settlement Platform)**: Bản mặt (thường có ống dẫn) ghi lún của nền đắp trong quá trình thi công.
-* **Điểm lún dưới bề mặt (Subsurface Settlement Point)**: Neo đặt ở độ sâu (đóng/gắn vữa hoặc Borros) ghi lún của một tầng bị chôn.
-* **Đo mực nước dạng ống (Liquid-Level Gage)**: Ống chứa chất lỏng nối với một tế bào, đo lún hoặc trương nở qua thay đổi áp lực hoặc mực chất lỏng.
-* **Extensometer chuỗi (Series Extensometer)**: Một chồng neo trong một hố khoan, phân giải biến dạng thành gia số giữa các neo kề nhau.
-* **Inclinometer ngang (Horizontal Inclinometer)**: Inclinometer di chuyển dọc ống vách nằm ngang để cho profile lún.
-* **Inclinometer tại chỗ – cố định (In-Place Inclinometer)**: Một chuỗi cảm biến để lại trong ống vách để quan trắc liên tục, tự động.
-* **Chỉ báo mặt trượt (Shear-Plane Indicator)**: Thiết bị phát hiện độ sâu mà ống vách inclinometer bị cắt.
-* **Quan trắc phát xạ âm – AE (Acoustic Emission Monitoring)**: Phát hiện âm tần số cao sinh ra khi hạt đất/đá trượt và vỡ, làm cảnh báo sớm mất ổn định đang phát triển.
-* **Tenzo Demec (Demec Gage)**: Tenzo cơ học gắn trên bề mặt, đo sự thay đổi khoảng cách giữa hai đĩa chuẩn.
-* **Kích thủy lực đã hiệu chuẩn (Calibrated Hydraulic Jack)**: Kích có lỗ xuyên tâm dùng để căng và đo tải; phải được hiệu chuẩn vì số đọc áp lực chất lỏng mang sai số ma sát.
-* **Tế bào áp lực đất tiếp xúc (Contact Earth Pressure Cell)**: Tế bào đo ứng suất hoặc tải tại mặt tiếp giáp đất–kết cấu, tại mũi cọc hoặc đáy cọc khoan.
-* **Truyền tải (Load Transfer – móng sâu)**: Phân bố tải dọc trục giữa ma sát thành bên và sức kháng mũi, xác định từ tenzo, thanh chị em và telltale.
+* **Hộp đo áp lực đất đặt chôn (Embedment Earth Pressure Cell)**: Hộp đo dẹt chứa chất lỏng, chôn trong khối đất đắp để đo ứng suất tổng vuông góc với bề mặt tấm đo.
+* **Tỷ số kích thước (Aspect Ratio – hộp đo)**: Tỷ số đường kính trên chiều dày của hộp đo áp lực đất; tỷ số cao giúp giảm sai số đo.
+* **Tỷ số độ cứng đất/hộp đo (Soil/Cell Stiffness Ratio)**: Tỷ số quyết định mức độ hộp đo áp lực đất phân phối lại ứng suất cục bộ, và do đó quyết định sai số đo.
+* **Giếng quan sát mực nước (Observation Well)**: Ống hở không có lớp bịt dưới bề mặt; tạo kết nối thẳng đứng giữa các tầng nên hiếm khi phù hợp để quan trắc hiệu năng.
+* **Áp kế ống đứng Casagrande (Open Standpipe Piezometer)**: Ống dẫn có đầu lọc đặt trong túi cát; đáng tin cậy nhưng có độ trễ thủy lực lớn.
+* **Áp kế khí nén (Pneumatic Piezometer)**: Màng van cân bằng bởi áp lực khí qua hai đường ống; độ trễ ngắn, không bị đóng băng, nhưng phụ thuộc thao tác đo thủ công.
+* **Áp kế dây rung - VWP (Vibrating-Wire Piezometer)**: Thiết bị màng ngăn cứng đọc theo sự thay đổi tần số dao động của dây thép; độ trễ cực ngắn và kết nối sẵn sàng với bộ ghi dữ liệu.
+* **Áp kế nhiều tầng (Multipoint Piezometer)**: Cụm nhiều cảm biến áp kế đặt ở các độ sâu khác nhau trong cùng một lỗ khoan để quan sát biểu đồ áp lực nước lỗ rỗng theo phương đứng.
+* **Bàn đo lún (Settlement Platform)**: Bản thép đặt trên mặt đất tự nhiên trước khi đắp đất, hàn với ống đứng nối dài dần theo chiều cao đắp để theo dõi độ lún nền đắp.
+* **Điểm đo lún sâu (Subsurface Settlement Point)**: Mỏ neo đặt ở độ sâu cố định (đóng hoặc gắn vữa) để đo độ lún của từng tầng đất riêng biệt.
+* **Hộp đo lún thủy tĩnh (Liquid-Level Settlement Cell)**: Hệ thống ống chứa chất lỏng nối với cảm biến áp lực vi sai, đo độ lún hoặc trồi qua sự thay đổi cột áp chất lỏng.
+* **Thiết bị đo biến dạng sâu dạng chuỗi (Series Extensometer)**: Chuỗi các mỏ neo đặt liên tiếp trong một lỗ khoan, phân giải biến dạng thành gia số giữa các mỏ neo kề nhau.
+* **Thiết bị đo nghiêng nằm ngang (Horizontal Inclinometer)**: Đầu đo nghiêng di chuyển dọc ống đo nghiêng đặt nằm ngang để xác định biên dạng lún của nền đắp.
+* **Thiết bị đo nghiêng cố định - IPI (In-Place Inclinometer)**: Chuỗi cảm biến đo nghiêng đặt cố định trong ống đo nghiêng để quan trắc liên tục chuyển vị ngang tự động.
+* **Chỉ báo mặt trượt (Shear-Plane Indicator)**: Thiết bị đơn giản phát hiện độ sâu mà ống đo nghiêng bị cắt do trượt mái dốc.
+* **Quan trắc phát xạ âm – AE (Acoustic Emission Monitoring)**: Phát hiện sóng âm tần số cao sinh ra khi hạt đất/đá trượt vỡ, làm cảnh báo sớm mất ổn định sườn dốc.
+* **Cảm biến đo biến dạng Demec (Demec Gauge)**: Thiết bị đo biến dạng cơ học gắn trên bề mặt, đo sự thay đổi khoảng cách giữa hai đĩa đo chuẩn định vị trước để xác định biến dạng kết cấu hoặc vết nứt.
+* **Kích thủy lực đã hiệu chuẩn (Calibrated Hydraulic Jack)**: Kích có lỗ xuyên tâm dùng để căng kéo và đo tải trọng neo; bắt buộc phải hiệu chuẩn định kỳ để loại bỏ sai số ma sát.
+* **Hộp đo áp lực đất tiếp xúc (Contact Earth Pressure Cell)**: Hộp đo ứng suất hoặc tải trọng tại mặt tiếp giáp giữa đất và kết cấu, tại mũi cọc hoặc đáy tường vây.
+* **Truyền tải (Load Transfer – móng sâu)**: Phân bố tải trọng dọc trục giữa ma sát thành bên và sức kháng mũi, xác định từ cảm biến đo biến dạng (strain gauge), thanh thép đo biến dạng phụ (sister bar) và thanh truyền chuyển vị (telltale).
 * **Gia cố nền (Ground Improvement)**: Cải tạo tính chất nền tại chỗ — bằng phụt vữa, đầm chặt hoặc thoát nước — để nền phù hợp cho xây dựng.
 * **Nghiệm thu trước/sau lắp đặt (Acceptance Test)**: Phép kiểm xác nhận thiết bị đạt thông số kỹ thuật trước khi lắp và sống sót qua lắp đặt sau đó.
 * **Biên bản lắp đặt (Installation Record Sheet)**: Hồ sơ hoàn công ghi vị trí, độ sâu, lớp bịt và các giá trị hiệu chuẩn đang áp dụng — hồ sơ vĩnh viễn giúp dữ liệu còn diễn giải được.
@@ -291,7 +339,8 @@ lang_alt: glossary/
 * **Hệ số thấm ($k$)**: Hằng số liên hệ vận tốc dòng với gradient thủy lực của một loại đất.
 * **Lưới thấm**: Lời giải đồ thị của phương trình Laplace, gồm các đường dòng và đường đẳng thế trực giao.
 * **Gradient tại cửa ra**: Gradient thủy lực tại mặt hạ lưu; nếu vượt giá trị tới hạn thì bắt đầu hiện tượng xói ngầm.
-* **Cát chảy / Xói ngầm (Quick condition / Piping)**: Trạng thái khi dòng thấm hướng lên làm ứng suất hữu hiệu giảm về không và đất bị "sôi".
+* **Hiện tượng cát chảy (Quick Condition)**: Trạng thái khi dòng thấm hướng lên làm ứng suất hữu hiệu triệt tiêu về không và đất bị bùng sôi.
+* **Xói ngầm (Piping)**: Hiện tượng dòng thấm cuốn trôi các hạt đất mịn bên trong thân đập hoặc nền móng tạo thành các đường dẫn ngầm rỗng.
 * **Cố kết**: Quá trình nén theo thời gian của đất bão hòa khi nước lỗ rỗng thoát ra và ứng suất hữu hiệu tăng.
 * **Hệ số cố kết ($c_v$)**: Thông số chi phối tốc độ cố kết sơ cấp.
 * **Chỉ số nén ($C_c$)**: Độ dốc của phần nguyên sơ trên đường cong $e$–$\log\sigma'$.

@@ -77,39 +77,39 @@ Kiểm chứng các giả định thiết kế về ứng xử tải-lún, xác 
 | **Piezometer** | Áp lực hạ mực nước trong/ngoài | Ch 9, 19 | VW piezometers, wireless |
 | **Tiltmeter** | Nghiêng công trình lân cận | Ch 12, 19 | MEMS tiltmeters, wireless |
 | **Load cell thanh chống** | Tải trọng thanh chống/neo trong hố chống | Ch 13, 19 | VW load cells, hydraulic load cells |
-| **Telltale / crackmeter** | Lún móng, quan trắc khe nứt | Ch 12, 13, 24, 25 | Telltales, crackmeters |
-| **Điện trở biến dạng** | Biến dạng cọc/trụ, ứng suất bê tông | Ch 13, 24, 25 | VW strain gages, foil strain gages |
-| **AMTS / máy kinh vĩ** | Biến dạng bề mặt, quan trắc công trình | Ch 12, 18 | AMTS, wireless |
-| **GNSS / máy thu GNSS** | Dịch chuyển 3D công trình | Ch 12, 18 | Locator One GNSS |
-| **wireless mesh** | Dữ liệu không dây từ tất cả cảm biến | Ch 8, 18 | wireless mesh |
+| **Thanh truyền chuyển vị / Cảm biến đo khe nứt** | Lún móng, quan trắc khe nứt | Ch 12, 13, 24, 25 | Telltale, crackmeter |
+| **Cảm biến đo biến dạng** | Biến dạng cọc/trụ, ứng suất bê tông | Ch 13, 24, 25 | Cảm biến dây rung, lá điện trở |
+| **AMTS / máy kinh vĩ** | Biến dạng bề mặt, quan trắc công trình | Ch 12, 18 | AMTS, không dây |
+| **GNSS / máy thu GNSS** | Dịch chuyển 3D công trình | Ch 12, 18 | Trạm GNSS liên tục |
+| **Mạng không dây mesh** | Dữ liệu không dây từ tất cả cảm biến | Ch 8, 18 | Wireless mesh |
 
 ---
 
 ## Hướng dẫn lắp đặt (từ Dunnicliff Ch 9, 12, 13, 17, 19, 24, 25)
 
 ### Thiết bị thử tải cọc
-- **Load cell (Đầu đo tải trọng)**: Tại đầu cọc, đã hiệu chuẩn
+- **Cảm biến đo tải trọng (Load Cell)**: Tại đầu cọc, đã hiệu chuẩn
 - **Thanh truyền chuyển vị (Telltale)**: Bố trí tại các độ sâu khác nhau dọc thân cọc
-- **Đầu đo biến dạng (Strain Gauge)**: Dọc theo chiều dài cọc bằng thanh thép đo biến dạng phụ (sister bar)
-- **Mốc tham chiếu**: Ổn định, nằm ngoài vùng ảnh hưởng của tải trọng
+- **Cảm biến đo biến dạng (Strain Gauge)**: Dọc theo chiều dài cọc bằng thanh thép đo biến dạng phụ (sister bar)
+- **Mốc chuẩn tham chiếu**: Ổn định, nằm ngoài vùng ảnh hưởng của tải trọng
 
 ### Thiết bị cọc khoan nhồi / trụ khoan
-- **Load cell đáy**: Đặt tại mũi cọc / đáy trụ
-- **Sức kháng bên**: Đầu đo biến dạng / sister bar buộc trên lồng thép
+- **Cảm biến đo tải trọng mũi cọc**: Đặt tại đáy cọc / đáy trụ
+- **Sức kháng bên**: Cảm biến đo biến dạng dạng thanh thép đo biến dạng phụ (sister bar) buộc trên lồng thép
 - **Đo siêu âm xuyên lỗ (CSL)**: Thử tính toàn khối cọc
 - **Thanh truyền chuyển vị (Telltale)**: Xác định quy luật phân bố truyền tải trọng
 
 ### Quan trắc hố móng chống giữ
-- **Tải trọng thanh chống**: Load cell tại mỗi cấp thanh chống
+- **Tải trọng thanh chống**: Cảm biến đo tải trọng (Load Cell) tại mỗi cấp thanh chống
 - **Biến dạng tường**: Thiết bị đo nghiêng (Inclinometer) phía sau tường vây / tường cừ
 - **Nước ngầm**: Áp kế (Piezometer) bên trong và ngoài hố móng
-- **Lún bề mặt**: Mốc đo lún, trạm toàn đạc tự động AMTS
-- **Công trình lân cận**: Cảm biến đo nghiêng (Tiltmeter), mốc đo lún, AMTS
+- **Lún bề mặt**: Bàn đo lún, trạm toàn đạc tự động AMTS
+- **Công trình lân cận**: Cảm biến đo độ nghiêng (Tiltmeter), mốc đo lún, AMTS
 
 ### Quan trắc hạ mực nước
 - **Mảng áp kế (Piezometer)**: Bên trong và bên ngoài hố móng
 - **Đo lưu lượng**: Lưu lượng bơm hố ga
-- **Quan trắc hạ mực**: Giếng quan trắc
+- **Quan trắc hạ mực**: Giếng quan sát mực nước
 
 ---
 

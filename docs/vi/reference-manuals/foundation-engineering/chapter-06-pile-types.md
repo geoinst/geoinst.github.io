@@ -38,7 +38,7 @@ thành phần đều huy động, nhưng tỷ lệ của chúng phụ thuộc m�
 
 ![Figure: foundation-pile-load-transfer](../../../assets/figures/foundation-pile-load-transfer.svg)
 
-**Hình.** Truyền tải trong cọc: tải dọc trục giảm theo độ sâu khi ma sát thành bên và sức kháng mũi huy động; tenzo và telltale cho thấy phân bố (theo USACE EM 1110-2-2906 / FHWA GEC-12).
+**Hình.** Truyền tải trong cọc: tải dọc trục giảm theo độ sâu khi ma sát thành bên và sức kháng mũi huy động; cảm biến đo biến dạng (strain gauge) và thanh truyền chuyển vị (telltale) cho thấy phân bố (theo USACE EM 1110-2-2906 / FHWA GEC-12).
 
 ## 6.4 Ảnh hưởng của thi công
 

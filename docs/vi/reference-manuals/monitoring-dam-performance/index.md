@@ -37,7 +37,7 @@ chứa của chúng). Nó được tổ chức thành các chương sau:
 | 3 | [Triết lý Giám sát: Giám sát Trực quan và Thiết bị Quan trắc](chapter-03-philosophy.md) | Hai trụ cột của giám sát và cách chúng bổ trợ cho nhau |
 | 4 | [Lập kế hoạch Chương trình Giám sát Đập](chapter-04-planning.md) | Một quy trình có cấu trúc để xác định cái gì, ở đâu, và tại sao cần giám sát |
 | 5 | [Các Họ Thiết bị Quan trắc cho Đập](chapter-05-instruments.md) | Khảo sát, địa kỹ thuật, thủy văn và cảm biến kết cấu trong nháy mắt |
-| 6 | [Piezometer và Giám sát Áp lực Lỗ rỗng](chapter-06-piezometers.md) | Bão hòa, lắp đặt và đọc áp lực lỗ rỗng |
+| 6 | [Áp kế (Piezometer) & Giám sát Áp lực Nước Lỗ rỗng](chapter-06-piezometers.md) | Bão hòa, lắp đặt và đọc áp lực nước lỗ rỗng |
 | 7 | [Giám sát Thấm, Rò rỉ và Bề mặt Thấm (Phreatic)](chapter-07-seepage.md) | Định lượng và diễn giải sự thấm |
 | 8 | [Giám sát Biến dạng: Khảo sát và Cảm biến Địa kỹ thuật](chapter-08-deformation.md) | Mốc khảo sát, inclinometer, extensometer, tiltmeter |
 | 9 | [Hệ thống Tự động, Từ xa và Thời gian Thực](chapter-09-automated.md) | Bộ ghi dữ liệu, viễn thông, ngưỡng và báo động |

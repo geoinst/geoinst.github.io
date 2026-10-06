@@ -56,8 +56,8 @@ Phân tích tĩnh được kiểm tra và thường hiệu chuẩn theo thí ngh
 
 ## 7.6 Thử tải có lắp thiết bị
 
-Các thử tải nhiều thông tin nhất là **có lắp thiết bị**: tenzo hoặc **thanh chị em** dọc
-thân cọc và **telltale** hay **extensometer** đo phân bố tải giữa thành bên và mũi, tách
+Các thử tải nhiều thông tin nhất là **có lắp thiết bị**: cảm biến đo biến dạng (strain gauge) hoặc **thanh thép đo biến dạng phụ (sister bar)** dọc
+thân cọc và **thanh truyền chuyển vị (telltale)** hay **thiết bị đo biến dạng sâu (extensometer)** đo phân bố tải giữa thành bên và mũi, tách
 trực tiếp hai thành phần (xem tài liệu [FHWA](../fhwa/index.md), Chương 8, và ví dụ
 **Phụ lục D**).
 

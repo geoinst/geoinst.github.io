@@ -374,7 +374,7 @@ function renderScene() {
       <!-- Thân cọc khoan nhồi bê tông -->
       <rect x="270" y="${55 + pileTopSag}" width="60" height="${240 - pileTopSag}" fill="#455a64" stroke="#607d8b" stroke-width="2" />
 
-      <!-- Cảm biến biến dạng thép (Sister Bar) theo các tầng -->
+      <!-- Thanh thép đo biến dạng phụ (Sister Bar) theo các tầng -->
       <!-- Tầng 1 -->
       <rect x="275" y="90" width="10" height="4" fill="#ff6b35" />
       <rect x="315" y="90" width="10" height="4" fill="#ff6b35" />
@@ -477,16 +477,16 @@ Sơ đồ dưới đây minh họa luồng thu thập dữ liệu từ cảm bi�
 ```mermaid
 graph TD
     subgraph Subsurface_Sensors["1. Thiết bị Cảm biến Đặt ngầm"]
-        VWP["Đầu đo áp lực nước lỗ rỗng dây rung<br/>(VW2100 / VMP)"]
-        IPI["Đo nghiêng cố định IPI<br/>(MEMS / RS-485 Bus)"]
-        MPBX["Đo biến dạng nhiều điểm<br/>(Thanh neo / Cảm biến dịch vị)"]
-        LC["Load Cell & Cảm biến biến dạng<br/>(Load Cell neo / Thanh sister bar)"]
+        VWP["Áp kế dây rung<br/>(VW2100 / VMP)"]
+        IPI["Thiết bị đo nghiêng cố định IPI<br/>(MEMS / RS-485 Bus)"]
+        MPBX["Thiết bị đo biến dạng sâu nhiều điểm<br/>(MPBX nhiều neo)"]
+        LC["Cảm biến đo tải trọng & Biến dạng<br/>(Load Cell neo / Sister Bar)"]
         SAA["Mảng cảm biến hình dạng<br/>(Chuyển vị 3D SAA)"]
         EPC["Hộp đo áp lực đất tiếp xúc<br/>(Màng thủy lực / Dây rung)"]
     end
 
     subgraph Field_Logging_Telemetry["2. Trạm Tự động Thu thập & Truyền Dữ liệu (ADAQS)"]
-        DT["Bộ ghi số liệu chuyên dụng<br/>(DT2011B / DT2055B / DT2485)"]
+        DT["Bộ ghi dữ liệu chuyên dụng<br/>(DT2011B / DT2055B / DT2485)"]
         L900["Nút truyền không dây<br/>(900 MHz / 2.4 GHz Mesh)"]
         CR6["Bộ tích lũy dữ liệu trung tâm<br/>(Ghép kênh đa năng)"]
         HUB["Trạm gốc Gateway viễn thông<br/>(Cellular 4G / Vệ tinh / LoRaWAN)"]

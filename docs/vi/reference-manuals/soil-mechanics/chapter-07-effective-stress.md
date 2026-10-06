@@ -26,7 +26,7 @@ mực nước ngầm.
 
 ## 7.3 Áp lực nước lỗ rỗng
 
-Áp lực nước lỗ rỗng được đo bằng **piezometer** (xem tài liệu
+Áp lực nước lỗ rỗng được đo bằng **áp kế (piezometer)** (xem tài liệu
 [Dunnicliff](../dunnicliff/index.md) và [FHWA](../fhwa/index.md)). Hai trạng thái quan
 trọng:
 
@@ -56,7 +56,7 @@ Kết hợp hai phần trên cho **mặt cắt ứng suất hữu hiệu**. Các
 ## 7.6 Các điểm then chốt cần ghi nhớ
 
 - **$\sigma' = \sigma - u$** — nguyên lý trung tâm của cơ học đất.
-- Ứng suất tổng là **tổng trọng lượng các lớp**; áp lực nước lỗ rỗng từ **piezometer**.
+- Ứng suất tổng là **tổng trọng lượng các lớp**; áp lực nước lỗ rỗng đo từ **áp kế (piezometer)**.
 - Dưới mực nước ngầm dùng dung trọng **đẩy nổi** cho ứng suất hữu hiệu.
 - **Thấm làm thay đổi** ứng suất hữu hiệu — dòng hướng lên làm giảm.
 - Ứng suất hữu hiệu chi phối **cố kết, cường độ và hóa lỏng**.

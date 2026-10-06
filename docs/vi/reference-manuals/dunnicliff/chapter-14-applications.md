@@ -72,8 +72,8 @@ Trong thi công hầm theo phương pháp quan sát (NATM / SEM), quan trắc l�
 
 ## 14.7 Cọc đóng và cọc khoan nhồi (Driven Piles & Drilled Shafts) {#piles}
 
-- **Thí nghiệm nén tĩnh cọc (Static Load Test)**: Đo tải trọng đỉnh cọc bằng tế bào đo tải kết hợp kích thủy lực; đo chuyển vị đỉnh cọc bằng 4 đồng hồ so LVDT bắt trên dầm chuẩn độc lập.
-- **Phân tách ma sát bên và sức kháng mũi**: Bố trí các cặp cảm biến biến dạng (Strain gauges / Sister bars) hàn dọc thân cọc thép hoặc buộc vào lồng thép cọc khoan nhồi, kết hợp với thanh truyền telltale đo chuyển vị riêng của mũi cọc.
+- **Thí nghiệm nén tĩnh cọc (Static Load Test)**: Đo tải trọng đỉnh cọc bằng cảm biến đo tải trọng kết hợp kích thủy lực; đo chuyển vị đỉnh cọc bằng 4 đồng hồ so LVDT bắt trên dầm chuẩn độc lập.
+- **Phân tách ma sát bên và sức kháng mũi**: Bố trí các cặp cảm biến đo biến dạng (Strain Gauges) hàn dọc thân cọc thép hoặc thanh thép đo biến dạng phụ (Sister Bar) buộc vào lồng thép cọc khoan nhồi, kết hợp với thanh truyền chuyển vị (telltale) đo chuyển vị riêng của mũi cọc.
 - **Thí nghiệm hộp tải Osterberg (O-Cell Test)**: Thí nghiệm tự cân bằng hai chiều cho cọc khoan nhồi đường kính lớn tải trọng hàng nghìn tấn.
 - **Kiểm tra tính toàn khối cọc**: Đo siêu âm truyền qua ống vách (Cross-hole Sonic Logging - CSL) và đo biên dạng nhiệt thủy hóa (Thermal Integrity Profiling - TIP).
 

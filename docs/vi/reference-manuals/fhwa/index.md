@@ -44,8 +44,8 @@ Tài liệu bám theo cách tổ chức của sổ tay FHWA, gộp thành các c
 | 1 | [Giới thiệu và Chìa khóa thành công](chapter-01-introduction.md) | Phạm vi, vai trò của quan trắc, chuỗi 31 mắt xích |
 | 2 | [Áp lực nước ngầm](chapter-02-groundwater-pressure.md) | Giếng quan sát, ống đứng, khí nén, dây rung, nhiều điểm |
 | 3 | [Biến dạng](chapter-03-deformation.md) | Trắc đạc, đo vết nứt, cảm biến nghiêng, extensometer, inclinometer, TDR, phát xạ âm |
-| 4 | [Ứng suất tổng trong đất](chapter-04-total-stress.md) | Tế bào áp lực đất chôn và tiếp xúc; đo tải đáy cọc và hố khoan |
-| 5 | [Tải, Ứng biến & Nhiệt độ](chapter-05-load-strain.md) | Load cell, tenzo, thanh chị em, telltale, đo nhiệt độ |
+| 4 | [Ứng suất tổng trong đất](chapter-04-total-stress.md) | Hộp đo áp lực đất đặt chôn và tiếp xúc; đo tải đáy cọc và hố khoan |
+| 5 | [Tải, Ứng biến & Nhiệt độ](chapter-05-load-strain.md) | Cảm biến đo tải trọng, cảm biến đo biến dạng, thanh thép đo biến dạng phụ (sister bar), thanh truyền chuyển vị, đo nhiệt độ |
 | 6 | [Tiếp cận có hệ thống để lập kế hoạch](chapter-06-planning.md) | Quy trình 21 bước; quy tắc vàng; thông số kỹ thuật |
 | 7 | [Mái dốc đất & Nền đắp](chapter-07-soil-slopes-embankments.md) | Nền đắp trên đất yếu, mái dốc cắt, trượt đất |
 | 8 | [Móng sâu](chapter-08-deep-foundations.md) | Cọc đóng và cọc khoan nhồi; quan trắc truyền tải |

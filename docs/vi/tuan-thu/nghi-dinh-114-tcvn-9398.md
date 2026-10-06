@@ -314,34 +314,38 @@ flowchart LR
 
 | Đại lượng (TCVN 9398 – 9.1.3) | Cấp chính xác điển hình | Nhóm thiết bị | Ứng dụng điển hình |
 | --- | --- | --- | --- |
-| Áp lực nước lỗ rỗng / mực nước ngầm | — | Piezometer dây rung, piezometer khí nén | Thấm qua thân & nền đập, hố đào sâu |
-| Chuyển dịch ngang trong lỗ khoan | 1–2 | Inclinometer (cảm biến chuỗi, đo tay, hệ thống số) | Sạt lở, tường hầm, tường cừ hố đào |
-| Chuyển dịch ngang ngoài kết cấu | 1–2 | Tiltmeter, đo hướng chuẩn quang học | Tường, cột, kết cấu nhà cao tầng |
-| Lún / chuyển dịch thẳng đứng | 1–3 | Extensometer, hệ thống đo lún từ, đo cao hình học | Nền đắp, cố kết đất yếu, móng |
-| Độ nghiêng | 9.3.3.1 | Tiltmeter, cảm biến nghiêng gắn kết cấu | Tháp, ống khói, tường chắn |
-| Vết nứt | — | Crack meter, joint meter | Kết cấu bê tông, tường, đường hầm |
-| Tải trọng / ứng suất | — | Load cell, strain gauge, stressmeter | Neo, thanh chống, kết cấu thép |
+| Áp lực nước lỗ rỗng / mực nước ngầm | — | Áp kế dây rung, áp kế khí nén | Thấm qua thân & nền đập, hố đào sâu |
+| Chuyển dịch ngang trong lỗ khoan | 1–2 | Thiết bị đo nghiêng (IPI, luồn cáp) | Sạt lở, tường hầm, tường cừ hố đào |
+| Chuyển dịch ngang ngoài kết cấu | 1–2 | Cảm biến đo độ nghiêng, đo hướng chuẩn | Tường, cột, kết cấu nhà cao tầng |
+| Lún / chuyển dịch thẳng đứng | 1–3 | Thiết bị đo biến dạng sâu (MPBX), bàn đo lún | Nền đắp, cố kết đất yếu, móng |
+| Độ nghiêng kết cấu | 9.3.3.1 | Cảm biến đo độ nghiêng (Tiltmeter) | Tháp, ống khói, tường chắn |
+| Vết nứt & khe nối | — | Cảm biến đo khe nứt, cảm biến đo khe nối | Kết cấu bê tông, tường, đường hầm |
+| Tải trọng / ứng suất | — | Cảm biến đo tải trọng, cảm biến đo biến dạng | Neo, thanh chống, kết cấu thép |
 | Rung chấn / nổ mìn | — | Máy đo rung chấn | Công trường gần khu dân cư |
 
-### PL-4 — Thuật ngữ Anh – Việt
+### PL-4 — Thuật ngữ Anh – Việt Chuẩn thức
 
-| English | Tiếng Việt |
+| Thuật ngữ tiếng Anh (English) | Thuật ngữ tiếng Việt chuẩn thức |
 | --- | --- |
 | Automatic Data Acquisition System (ADAQS) | Hệ thống thu thập dữ liệu tự động |
-| Vibrating wire (VW) sensor | Cảm biến dây rung |
-| Piezometer | Đầu đo áp lực nước lỗ rỗng / áp kế |
-| Extensometer | Thiết bị đo biến dạng dọc trục / đo giãn |
-| Inclinometer | Thiết bị đo độ nghiêng / đo chuyển dịch ngang lỗ khoan |
-| Tiltmeter | Đầu đo độ nghiêng |
-| Crack meter / joint meter | Đầu đo vết nứt / khe nối |
-| Load cell | Đầu đo tải trọng |
-| Strain gauge | Tenzơ đo biến dạng |
-| Datalogger | Đầu ghi dữ liệu |
+| Vibrating Wire (VW) Sensor | Cảm biến dây rung |
+| Piezometer | Áp kế |
+| Extensometer | Thiết bị đo biến dạng sâu |
+| Inclinometer | Thiết bị đo nghiêng |
+| Tiltmeter | Cảm biến đo độ nghiêng |
+| Crackmeter | Cảm biến đo khe nứt |
+| Jointmeter | Cảm biến đo khe nối |
+| Load Cell | Cảm biến đo tải trọng |
+| Strain Gauge | Cảm biến đo biến dạng |
+| Sister Bar | Thanh thép đo biến dạng phụ (Sister Bar) |
+| Earth Pressure Cell (EPC) | Hộp đo áp lực đất |
+| Data Logger | Bộ ghi dữ liệu |
+| Multiplexer | Bộ ghép kênh |
 | Telemetry | Hệ thống truyền dữ liệu từ xa |
-| Reference benchmark | Mốc chuẩn |
-| Control network | Lưới khống chế |
-| Monitoring cycle | Chu kỳ quan trắc |
-| Warning threshold | Ngưỡng cảnh báo |
+| Reference Benchmark | Mốc chuẩn |
+| Control Network | Lưới khống chế |
+| Monitoring Cycle | Chu kỳ quan trắc |
+| Warning Threshold | Ngưỡng cảnh báo |
 | Settlement | Độ lún |
 | Horizontal displacement | Chuyển dịch ngang |
 | Pore water pressure | Áp lực nước lỗ rỗng |

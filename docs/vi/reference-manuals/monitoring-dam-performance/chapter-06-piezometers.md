@@ -2,26 +2,26 @@
 lang: vi
 lang_alt: reference-manuals/monitoring-dam-performance/chapter-06-piezometers/
 ---
-# Chương 6 — Piezometer và Giám sát Áp lực Nước lỗ rỗng
+# Chương 6 — Áp kế (Piezometer) & Giám sát Áp lực Nước Lỗ rỗng
 
 ## 6.1 Tại sao áp lực nước lỗ rỗng là trọng tâm
 
-Áp lực nước lỗ rỗng (pore pressure) — áp lực của nước bên trong đất, đá, hoặc bê tông — là nguyên nhân của thấm, ổn định mái dốc, và lực đẩy nổi (uplift). Đây là một trong những đại lượng quan trọng nhất được giám sát tại các đập. Sự gia tăng áp lực nước lỗ rỗng có thể báo trước cả xói mòn nội bộ lẫn sập mái dốc.
+Áp lực nước lỗ rỗng (pore water pressure) — áp lực của nước bên trong lỗ rỗng của đất, khe nứt của đá, hoặc khối bê tông — là nguyên nhân trực tiếp chi phối ứng suất hữu hiệu, lưu lượng thấm, độ ổn định mái dốc, và lực đẩy nổi (uplift). Đây là một trong những đại lượng địa kỹ thuật quan trọng nhất được giám sát tại các công trình đập và hồ chứa. Sự gia tăng bất thường của áp lực nước lỗ rỗng có thể báo trước cả hiểm họa xói ngầm (piping) lẫn nguy cơ trượt lở mái dốc.
 
-## 6.2 Các loại Piezometer
+## 6.2 Các loại áp kế (Piezometer)
 
-| Loại | Nguyên lý | Phù hợp nhất cho |
-|------|----------|---------|
-| **Vibrating-wire (VW)** | Sự thay đổi tần số của dây căng | Giám sát tự động dài hạn; bền bỉ |
-| **Pneumatic** | Áp lực khí cân bằng áp lực nước | Vị trí từ xa/không có người trực, không cần điện |
-| **Standpipe (hở)** | Mực nước trong ống | Đơn giản, trực tiếp, nhưng cân bằng chậm |
-| **Hydraulic (hai ống)** | Cân bằng cột chất lỏng | Nhiều điểm đo, phương pháp đã thiết lập |
+| Loại thiết bị | Nguyên lý hoạt động | Phạm vi ứng dụng tối ưu |
+|---------------|---------------------|--------------------------|
+| **Dây rung (Vibrating-Wire - VW)** | Thay đổi tần số dao động tự nhiên của dây thép căng | Giám sát tự động dài hạn, kết nối datalogger; độ ổn định cao |
+| **Khí nén (Pneumatic)** | Áp lực khí cân bằng với áp lực nước làm mở màng van | Vị trí quan trắc thủ công định kỳ, độ trễ thấp, không cần nguồn điện tại chỗ |
+| **Ống đứng hở (Open Standpipe / Casagrande)** | Đo trực tiếp cao trình mực nước thủy tĩnh trong ống | Đơn giản, độ tin cậy cơ học cao; thích hợp cho đất thấm lớn |
+| **Thủy lực hai ống (Twin-Tube Hydraulic)** | Cân bằng cột chất lỏng qua hệ hai ống tuần hoàn | Đắp đất thân đập, có thể súc rửa bọt khí định kỳ |
 
-!!! warning "Sự bão hòa là tất cả"
-    Một Piezometer VW không được bão hòa sẽ cho kết quả vô nghĩa. Quy trình **bão hòa** —
-    loại bỏ không khí khỏi đầu lọc xốp và ống nối — phải được thực hiện cẩn thận
-    khi lắp đặt. Một Piezometer chưa bao giờ được bão hòa đúng cách là một khoảng trống
-    thầm lặng trong chương trình giám sát. (Xem [Dunnicliff Ch. 9](../dunnicliff/index.md).)
+!!! warning "Bão hòa màng lọc là yếu tố sống còn"
+    Một áp kế piezometer kiểu dây rung hoặc khí nén không được bão hòa hoàn toàn sẽ cho kết quả đo sai lệch nghiêm trọng. Quy trình **bão hòa (saturation / de-airing)** —
+    loại bỏ toàn bộ không khí khỏi đầu lọc xốp và buồng đo — phải được thực hiện tỉ mỉ
+    trước và trong khi lắp đặt. Một áp kế chưa bao giờ được bão hòa đúng cách sẽ tạo ra dữ liệu giả tạo hoặc khoảng trống
+    thầm lặng nguy hiểm trong chương trình giám sát an toàn đập. (Xem chi tiết tại [Dunnicliff Ch. 9](../dunnicliff/index.md)).
 
 ## 6.3 Vị trí lắp đặt
 

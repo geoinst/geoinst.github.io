@@ -46,11 +46,11 @@ giảm nhẹ hóa lỏng. Đây thường là giải pháp kinh tế nhất cho 
 Vì gia cố nền và móng sâu tốn kém và khó kiểm chứng, **quan trắc** là thiết yếu để xác nhận
 hiệu năng:
 
-- **Bàn lún và extensometer** — đo lún và phân bố của nó.
-- **Piezometer** — theo dõi áp lực nước lỗ rỗng trong cố kết và chất tải.
-- **Inclinometer** — phát hiện dịch chuyển ngang trong mái dốc và sau hố đào.
-- **Load cell và tenzo** — đo tải trong cọc, neo và thanh chống.
-- **Điểm lún và trương nở** — kiểm chứng gia cố nền và công trình lân cận.
+- **Bàn đo lún và thiết bị đo biến dạng sâu (extensometer)** — đo độ lún và phân bố lún theo độ sâu.
+- **Áp kế (piezometer)** — theo dõi áp lực nước lỗ rỗng trong quá trình cố kết và gia tải.
+- **Thiết bị đo nghiêng (inclinometer)** — phát hiện dịch chuyển ngang trong mái dốc và sau hố đào.
+- **Cảm biến đo tải trọng (load cell) và cảm biến đo biến dạng (strain gauge)** — đo tải trọng trong cọc, neo và thanh chống.
+- **Điểm đo lún sâu** — kiểm chứng hiệu quả gia cố nền và bảo vệ công trình lân cận.
 
 Các thiết bị này, cùng cách dùng chúng, được trình bày sâu trong tài liệu
 [Dunnicliff](../dunnicliff/index.md) và [FHWA](../fhwa/index.md).

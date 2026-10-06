@@ -29,11 +29,11 @@ trượt sụt. Các chương trình hiện đại kết hợp:
 
 ## 5.3 Thiết bị địa kỹ thuật
 
-- **Piezometer** ([Chương 6](chapter-06-pore-pressure.md)) đo áp lực nước lỗ
-  rỗng — tham số quan trọng nhất đối với hóa lỏng và xói mòn trong.
-- **Inclinometer và extensometer** ([Chương 8](chapter-08-deformation.md)) phát
-  hiện trượt cắt trong lòng và lún.
-- **Tiltmeter** cảm nhận sự xoay của đỉnh hoặc công trình.
+- **Áp kế (Piezometer)** ([Chương 6](chapter-06-pore-pressure.md)) đo áp lực nước lỗ
+  rỗng — tham số quan trọng nhất đối với nguy cơ hóa lỏng và xói ngầm.
+- **Thiết bị đo nghiêng (inclinometer) và thiết bị đo biến dạng sâu (extensometer)** ([Chương 8](chapter-08-deformation.md)) phát
+  hiện trượt cắt trong lòng đất đá và độ lún sâu.
+- **Cảm biến đo độ nghiêng (tiltmeter)** cảm nhận sự xoay góc của đỉnh đập hoặc kết cấu công trình.
 
 ## 5.4 Thiết bị thủy văn
 

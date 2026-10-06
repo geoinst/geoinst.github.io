@@ -24,7 +24,7 @@ chuyển vị ở độ sâu.
 Đo vết nứt theo dõi độ mở hoặc khép của một vết nứt hay khe nối:
 
 - **Loại cơ học:** chốt–thước dây, chốt với thước thép hoặc compa, chốt với dây căng
-  và đối trọng, **thước đo vết nứt dạng lưới**, tenzo cơ học và đồng hồ so.
+  và đối trọng, **thước đo vết nứt dạng lưới**, thiết bị đo biến dạng cơ học (Demec) và đồng hồ so.
 - **Loại điện:** cảm biến chuyển đổi dịch chuyển vết nứt thành tín hiệu điện để ghi
   log.
 

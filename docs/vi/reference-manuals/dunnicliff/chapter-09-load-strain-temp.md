@@ -9,21 +9,21 @@ lang_alt: reference-manuals/dunnicliff/chapter-09-load-strain-temp/
 
 Tại những vị trí khối đất đá tương tác trực tiếp với các cấu kiện gia cố nhân tạo — như thanh chống hố đào (struts), neo trong đất (tiebacks), bu lông neo đá (rock bolts), cọc móng và vỏ hầm — việc quan trắc **tải trọng và biến dạng nội lực** là biện pháp kiểm chứng an toàn kết cấu và phát hiện sớm hiện tượng quá tải nguy hiểm.
 
-## 9.2 Tế bào đo tải (Load Cells)
+## 9.2 Cảm biến đo tải trọng (Load Cells)
 
 ### Cấu tạo và chủng loại
-- **Tế bào đo tải rỗng tâm (Center-hole Load Cells)**: Thiết kế dạng đĩa vành khăn có lỗ xuyên tâm để xỏ qua thanh neo đất, tao cáp dự ứng lực hoặc bu lông neo đá. Bên trong vành thép tích hợp từ 3 đến 6 cảm biến dây rung bố trí đối xứng hình học xung quanh đường tròn để tự động triệt tiêu sai số do tải trọng lệch tâm (eccentric loading).
-- **Tế bào đo tải thanh chống (Strut Load Cells)**: Tế bào nén hình trụ gắn tại đầu mút thanh chống thép hình của hố đào sâu, đo lực ép dọc trục do tường vây truyền vào hệ giằng.
+- **Cảm biến đo tải trọng rỗng tâm (Center-hole Load Cells)**: Thiết kế dạng đĩa vành khăn có lỗ xuyên tâm để xỏ qua thanh neo đất, tao cáp dự ứng lực hoặc bu lông neo đá. Bên trong vành thép tích hợp từ 3 đến 6 cảm biến dây rung bố trí đối xứng hình học xung quanh đường tròn để tự động triệt tiêu sai số do tải trọng lệch tâm (eccentric loading).
+- **Cảm biến đo tải trọng thanh chống (Strut Load Cells)**: Cảm biến dạng trụ tròn gắn tại đầu mút thanh chống thép hình của hố đào sâu, đo lực ép dọc trục do tường vây truyền vào hệ giằng.
 
 ### Lưu ý sử dụng
-Bắt buộc phải sử dụng các tấm đệm phân bố tải trọng bằng thép gia công cơ khí phẳng song song (spherical bearing plates hoặc hardened washer plates) ở mặt trên và mặt dưới của tế bào đo tải để đảm bảo lực truyền phân bố đều, tránh làm méo mó và hỏng cảm biến.
+Bắt buộc phải sử dụng các tấm đệm phân bố tải trọng bằng thép gia công cơ khí phẳng song song (spherical bearing plates hoặc hardened washer plates) ở mặt trên và mặt dưới của cảm biến đo tải trọng để đảm bảo lực truyền phân bố đều, tránh làm méo mó và hỏng cảm biến.
 
-## 9.3 Đầu đo biến dạng (Strain Gauges)
+## 9.3 Cảm biến đo biến dạng (Strain Gauges)
 
-Đầu đo biến dạng đo trực tiếp độ giãn dài hoặc co ngắn tương đối ($\varepsilon = \Delta L / L$) của vật liệu kết cấu:
+Cảm biến đo biến dạng đo trực tiếp độ giãn dài hoặc co ngắn tương đối ($\varepsilon = \Delta L / L$) của vật liệu kết cấu:
 
 - **Cảm biến hàn (Arc-weldable VWSG)**: Hàn điểm trực tiếp lên cánh hoặc bụng của thép hình thanh chống, cọc thép cừ larsen hoặc ống chống vách.
-- **Thanh đo biến dạng bê tông (Sister Bar)**: Cảm biến dây rung được bảo vệ sẵn bên trong một thanh cốt thép ngắn ($D = 12 - 16\text{ mm}$), được buộc song song vào lồng cốt thép chịu lực chính của cọc khoan nhồi, dầm giằng hoặc tường vây trước khi đổ bê tông.
+- **Thanh thép đo biến dạng phụ (Sister Bar)**: Cảm biến dây rung (VWSG) được tích hợp sẵn bên trong một đoạn cốt thép ngắn ($D = 12 - 16\text{ mm}$, có cùng kích thước và đặc tính cơ lý với thép công trình), được buộc song song và áp sát vào thanh cốt thép chịu lực chính của cọc khoan nhồi, dầm giằng hoặc tường vây trước khi đổ bê tông để cùng chịu lực và biến dạng đồng thời với cốt thép chủ.
 
 ### Quy đổi từ Biến dạng ($\varepsilon$) sang Lực ($P$):
 

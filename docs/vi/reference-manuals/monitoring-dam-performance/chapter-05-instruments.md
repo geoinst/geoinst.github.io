@@ -19,23 +19,23 @@ trong kho kiến thức này.
 | **Áp lực lỗ rỗng / uplift** | Áp suất nước trong đất/đá/bê tông | Piezometer dây rung (vibrating-wire), khí nén (pneumatic), ống đứng (standpipe), thủy lực (hydraulic) |
 | **Thấm / rò rỉ** | Lưu lượng & chất lượng dòng chảy | Wei (weirs), xô đong (tipping buckets), cảm biến độ đục (turbidity), quan sát |
 | **Biến dạng — bề mặt** | Chuyển động bề mặt đập | Mốc khảo sát (survey monuments), GNSS, máy kinh vĩ điện tử (total station) |
-| **Biến dạng — trong lòng** | Chuyển động bên trong thân đập/nền móng | Inclinometer, extensometer, hệ thống lún, SAA |
-| **Kết cấu** | Nứt, mở khe, tải | Crackmeter, joint meter, load cell, strain gauge |
-| **Môi trường** | Lượng mưa, nhiệt độ, áp khí lỗ rỗng | Máy đo mưa (rain gauges), nhiệt điện trở (thermistors), áp kế (barometers) |
-| **Bê tông / lão hóa** | Suy yếu, kiềm, ăn mòn | Đầu dò ăn mòn thép (rebar corrosion probes), phát xạ âm (acoustic emission) |
+| **Biến dạng — trong lòng** | Chuyển động bên trong thân đập/nền móng | Thiết bị đo nghiêng (inclinometer), thiết bị đo biến dạng sâu (extensometer), bàn đo lún, mảng SAA |
+| **Kết cấu** | Nứt, mở khe, tải trọng | Cảm biến đo khe nứt (crackmeter), cảm biến đo khe nối (jointmeter), cảm biến đo tải trọng (load cell), cảm biến đo biến dạng (strain gauge) |
+| **Môi trường** | Lượng mưa, nhiệt độ, khí quyển | Máy đo mưa, cảm biến nhiệt (thermistor), áp kế khí quyển (barometer) |
+| **Bê tông / lão hóa** | Suy yếu, kiềm, ăn mòn | Đầu dò ăn mòn cốt thép, phát xạ âm (acoustic emission) |
 
 ## 5.3 Các công nghệ cảm biến
 
 Thiết bị chuyển một đại lượng vật lý thành một tín hiệu có thể đọc. Các công nghệ
 thường gặp:
 
-- **Dây rung (Vibrating-wire — VW)** — một sợi dây căng whose tần số thay đổi theo biến dạng;
-  bền bỉ, không trôi, và là công cụ chủ lực của giám sát đập hiện đại.
+- **Dây rung (Vibrating-Wire — VW)** — một sợi dây thép căng có tần số thay đổi theo biến dạng;
+  bền bỉ, ổn định lâu dài, và là công nghệ chủ lực của quan trắc đập hiện đại.
 - **Khí nén (Pneumatic)** — áp suất khí cân bằng áp suất đo; hữu ích nơi nguồn
-  điện hoặc cáp là không thực tế.
+  điện hoặc cáp kéo dài không khả thi.
 - **Thủy lực (Hydraulic)** — áp suất cột chất lỏng; đơn giản và đã được chứng minh lâu đời.
-- **Điện trở & cảm ứng** — điện trở (potentiometers), LVDT, và strain gauge.
-- **Áp điện & MEMS** — gia tốc kế (accelerometers), tiltmeter, và các cảm biến quán tính hiện đại.
+- **Điện trở & cảm ứng** — biến trở (potentiometer), LVDT, và cảm biến đo biến dạng (strain gauge).
+- **Áp điện & MEMS** — gia tốc kế (accelerometer), cảm biến đo độ nghiêng (tiltmeter), và các cảm biến MEMS hiện đại.
 
 ## 5.4 Thủ công so với tự động
 

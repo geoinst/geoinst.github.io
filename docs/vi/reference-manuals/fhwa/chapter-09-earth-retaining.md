@@ -52,14 +52,14 @@ vị của mặt tường và đất được giữ.
 - Mặt tường và đất được giữ chuyển vị bao nhiêu?
 - Ứng suất tác dụng ở chân tường là bao nhiêu?
 
-**Thiết bị phù hợp** (Bảng 9-4) thường gồm: **tenzo / load cell** trên cốt gia cường,
-**inclinometer** và **trắc đạc** cho chuyển vị, và **tế bào áp lực** ở chân tường.
+**Thiết bị phù hợp** (Bảng 9-4) thường gồm: **cảm biến đo biến dạng (strain gauge)** hoặc **cảm biến đo tải trọng (load cell)** trên cốt gia cường,
+**thiết bị đo nghiêng (inclinometer)** và **trắc đạc** cho chuyển vị, và **hộp đo áp lực đất** ở chân tường.
 
 ## 9.6 Tường neo đất
 
-**Vai trò chung.** Quan trắc đo tải neo, chuyển vị mặt tường và biến dạng nền.
+**Vai trò chung.** Quan trắc đo tải trọng neo, chuyển vị mặt tường và biến dạng nền.
 
-**Thiết bị phù hợp** (Bảng 9-5) thường gồm: **load cell** trên neo, **inclinometer**
+**Thiết bị phù hợp** (Bảng 9-5) thường gồm: **cảm biến đo tải trọng (load cell)** trên neo, **thiết bị đo nghiêng (inclinometer)**
 và **điểm trắc đạc**.
 
 ![Figure: fhwa-retaining-structure-monitoring](../../../assets/figures/fhwa-retaining-structure-monitoring.svg)
