@@ -166,88 +166,88 @@ nav:
               - "Ch.12 Thí nghiệm tại chỗ & Chọn thông số": vi/reference-manuals/soil-mechanics/chapter-12-in-situ-testing.md
               - "Ch.13 Đất có vấn đề": vi/reference-manuals/soil-mechanics/chapter-13-problem-soils.md
               - "Ch.14 Chương trình thí nghiệm phòng & hiện trường": vi/reference-manuals/soil-mechanics/chapter-14-testing-program.md
-      - "Giám sát hiệu năng đập (ASCE MOP-135)":
-          - Tổng quan: vi/reference-manuals/monitoring-dam-performance/index.md
-          - "Ch.1 Mục đích, Phạm vi & Tổ chức": vi/reference-manuals/monitoring-dam-performance/chapter-01-introduction.md
-          - "Ch.2 Hiệu năng đập & Chế độ hỏng": vi/reference-manuals/monitoring-dam-performance/chapter-02-failure-modes.md
-          - "Ch.3 Triết lý giám sát": vi/reference-manuals/monitoring-dam-performance/chapter-03-philosophy.md
-          - "Ch.4 Lập kế hoạch giám sát": vi/reference-manuals/monitoring-dam-performance/chapter-04-planning.md
-          - "Ch.5 Họ dụng cụ đo": vi/reference-manuals/monitoring-dam-performance/chapter-05-instruments.md
-          - "Ch.6 Áp kế (Piezometer) & Áp lực nước lỗ rỗng": vi/reference-manuals/monitoring-dam-performance/chapter-06-piezometers.md
-          - "Ch.7 Thấm & Mặt nước thấm": vi/reference-manuals/monitoring-dam-performance/chapter-07-seepage.md
-          - "Ch.8 Giám sát biến dạng": vi/reference-manuals/monitoring-dam-performance/chapter-08-deformation.md
-          - "Ch.9 Hệ thống tự động & từ xa": vi/reference-manuals/monitoring-dam-performance/chapter-09-automated.md
-          - "Ch.10 Lắp đặt, Vận hành & Bảo trì": vi/reference-manuals/monitoring-dam-performance/chapter-10-iom.md
-          - "Ch.11 Thu thập & Quản lý dữ liệu": vi/reference-manuals/monitoring-dam-performance/chapter-11-data-management.md
-          - "Ch.12 Đánh giá & Diễn giải": vi/reference-manuals/monitoring-dam-performance/chapter-12-evaluation.md
-          - "Ch.13 Hiệu năng & Quyết định": vi/reference-manuals/monitoring-dam-performance/chapter-13-decisions.md
-          - "Ch.14 Các trường hợp lịch sử": vi/reference-manuals/monitoring-dam-performance/chapter-14-case-histories.md
-      - "An toàn đập thải (ICOLD Bulletin 194)":
-          - Tổng quan: vi/reference-manuals/tailings-dam-safety/index.md
-          - "Ch.1 Giới thiệu, Phạm vi & Tổ chức": vi/reference-manuals/tailings-dam-safety/chapter-01-introduction.md
-          - "Ch.2 Cơ sở lưu giữ bùn thải & Cách chúng phá hoại": vi/reference-manuals/tailings-dam-safety/chapter-02-facilities-and-failures.md
-          - "Ch.3 Triết lý giám sát": vi/reference-manuals/tailings-dam-safety/chapter-03-philosophy.md
-          - "Ch.4 Lập kế hoạch giám sát": vi/reference-manuals/tailings-dam-safety/chapter-04-planning.md
-          - "Ch.5 Họ thiết bị quan trắc": vi/reference-manuals/tailings-dam-safety/chapter-05-instruments.md
-          - "Ch.6 Áp lực nước lỗ rỗng & Hóa lỏng": vi/reference-manuals/tailings-dam-safety/chapter-06-pore-pressure.md
-          - "Ch.7 Thấm & Mặt nước thấm": vi/reference-manuals/tailings-dam-safety/chapter-07-seepage.md
-          - "Ch.8 Giám sát biến dạng": vi/reference-manuals/tailings-dam-safety/chapter-08-deformation.md
-          - "Ch.9 Hệ thống tự động & Từ xa": vi/reference-manuals/tailings-dam-safety/chapter-09-automated.md
-          - "Ch.10 Lắp đặt, Vận hành & Bảo trì": vi/reference-manuals/tailings-dam-safety/chapter-10-iom.md
-          - "Ch.11 Thu thập & Quản lý dữ liệu": vi/reference-manuals/tailings-dam-safety/chapter-11-data-management.md
-          - "Ch.12 Đánh giá & Diễn giải dữ liệu": vi/reference-manuals/tailings-dam-safety/chapter-12-evaluation.md
-          - "Ch.13 Hiệu năng & Quyết định": vi/reference-manuals/tailings-dam-safety/chapter-13-decisions.md
-          - "Ch.14 Các trường hợp lịch sử": vi/reference-manuals/tailings-dam-safety/chapter-14-case-histories.md
-      - "Cẩm nang dùng cho kỹ sư địa kỹ thuật (Trần Văn Việt)":
-          - Tổng quan: vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/index.md
-          - "Ch.1 Khái quát địa chất – đất đá": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-01-geology-soil-rock.md
-          - "Ch.2 Tính chất xây dựng của đất nền": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-02-soil-properties.md
-          - "Ch.3 Nước dưới đất": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-03-groundwater.md
-          - "Ch.4 Khảo sát – thăm dò – thí nghiệm": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-04-investigation-testing.md
-          - "Ch.5 Phân tích móng nông": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-05-shallow-foundations.md
-          - "Ch.6 Phân tích móng sâu": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-06-deep-foundations.md
-          - "Ch.7 Phân tích ổn định mái dốc": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-07-slope-stability.md
-          - "Ch.8 Phân tích tường chắn": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-08-retaining-walls.md
-          - "Ch.9 Đất đắp trên nền đất yếu": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-09-embankment-soft-ground.md
-          - "Ch.10 Thuỷ lực công trình": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-10-hydraulics.md
-          - "Ch.11 Động đất với công trình xây dựng": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-11-earthquakes.md
-          - "Ch.12 Công nghệ thông tin trong địa kỹ thuật": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-12-geo-informatics.md
-      - "Địa chất vật lý (giáo trình mở, CC BY)":
-          - Tổng quan: vi/reference-manuals/dia-chat-vat-ly/index.md
-          - "Ch.1 Nhập môn địa chất": vi/reference-manuals/dia-chat-vat-ly/chapter-01-introduction-to-geology.md
-          - "Ch.2 Khoáng vật": vi/reference-manuals/dia-chat-vat-ly/chapter-02-minerals.md
-          - "Ch.3 Đá magma xâm nhập": vi/reference-manuals/dia-chat-vat-ly/chapter-03-igneous-rocks.md
-          - "Ch.5 Phong hoá và đất": vi/reference-manuals/dia-chat-vat-ly/chapter-05-weathering-and-soil.md
-          - "Ch.6 Trầm tích và đá trầm tích": vi/reference-manuals/dia-chat-vat-ly/chapter-06-sedimentary-rocks.md
-          - "Ch.7 Biến chất và đá biến chất": vi/reference-manuals/dia-chat-vat-ly/chapter-07-metamorphic-rocks.md
-          - "Ch.9 Nội bộ Quả Đất và địa chấn học": vi/reference-manuals/dia-chat-vat-ly/chapter-09-earths-interior.md
-          - "Ch.11 Động đất": vi/reference-manuals/dia-chat-vat-ly/chapter-11-earthquakes.md
-          - "Ch.12 Cấu trúc địa chất": vi/reference-manuals/dia-chat-vat-ly/chapter-12-geological-structures.md
-          - "Ch.14 Nước dưới đất": vi/reference-manuals/dia-chat-vat-ly/chapter-14-groundwater.md
-          - "Ch.15 Dịch chuyển khối": vi/reference-manuals/dia-chat-vat-ly/chapter-15-mass-wasting.md
-      - "GeoVadis: Tương lai của Kỹ thuật Địa kỹ thuật (Tập 1)":
-          - Tổng quan: vi/reference-manuals/geovadis/index.md
-          - "Ch.1 Báo cáo toàn thể: Nền móng & Địa nhiệt": vi/reference-manuals/geovadis/chapter-01-plenary-advances.md
-          - "Ch.2 Trí tuệ nhân tạo (AI) & Cơ học tính toán": vi/reference-manuals/geovadis/chapter-02-ai-computational-geomechanics.md
-          - "Ch.3 Địa kỹ thuật vùng lạnh & Môi trường": vi/reference-manuals/geovadis/chapter-03-cold-coastal-environmental.md
-          - "Ch.4 Kỹ thuật địa chấn & Động lực học đất": vi/reference-manuals/geovadis/chapter-04-earthquake-soil-dynamics.md
-          - "Ch.5 Móng sâu & Hố đào sâu": vi/reference-manuals/geovadis/chapter-05-foundations-deep-excavation.md
-          - "Ch.6 Vật liệu tổng hợp & Đất có cốt": vi/reference-manuals/geovadis/chapter-06-geosynthetic-engineering.md
-      - "GeoVadis: Tương lai của Kỹ thuật Địa kỹ thuật (Tập 2)":
-          - Tổng quan: vi/reference-manuals/geovadis-vol2/index.md
-          - "Ch.1 Cải tạo nền & Ổn định hóa học": vi/reference-manuals/geovadis-vol2/chapter-01-ground-improvement-stabilisation.md
-          - "Ch.2 Thực hành & Khảo sát hiện trường": vi/reference-manuals/geovadis-vol2/chapter-02-practice-risk-site-characterisation.md
-          - "Ch.3 Cơ học đá & Công trình ngầm": vi/reference-manuals/geovadis-vol2/chapter-03-rock-mechanics-tunnelling.md
-          - "Ch.4 Ổn định mái dốc & Cảnh báo sớm": vi/reference-manuals/geovadis-vol2/chapter-04-slope-stability-landslides.md
-          - "Ch.5 Địa kỹ thuật giao thông": vi/reference-manuals/geovadis-vol2/chapter-05-transportation-geotechnics.md
-      - "GeoVadis: Tương lai của Kỹ thuật Địa kỹ thuật (Tập 3)":
-          - Tổng quan: vi/reference-manuals/geovadis-vol3/index.md
-          - "Ch.1 Báo cáo toàn thể & Bài giảng đầu ngành": vi/reference-manuals/geovadis-vol3/chapter-01-plenary-lectures.md
-          - "Ch.2 AI & Địa kỹ thuật môi trường": vi/reference-manuals/geovadis-vol3/chapter-02-ai-computational-environmental.md
-          - "Ch.3 Kỹ thuật địa chấn & Động lực học đất": vi/reference-manuals/geovadis-vol3/chapter-03-earthquake-soil-dynamics.md
-          - "Ch.4 Nền móng, Hố đào sâu & Kết cấu chắn": vi/reference-manuals/geovadis-vol3/chapter-04-foundations-deep-excavation.md
-          - "Ch.5 Vật liệu tổng hợp & Cải tạo nền": vi/reference-manuals/geovadis-vol3/chapter-05-geosynthetics-ground-improvement.md
-          - "Ch.6 Cơ học đá, Mái dốc & Giao thông": vi/reference-manuals/geovadis-vol3/chapter-06-rock-slopes-transportation.md
+          - "Địa chất vật lý (giáo trình mở, CC BY)":
+              - Tổng quan: vi/reference-manuals/dia-chat-vat-ly/index.md
+              - "Ch.1 Nhập môn địa chất": vi/reference-manuals/dia-chat-vat-ly/chapter-01-introduction-to-geology.md
+              - "Ch.2 Khoáng vật": vi/reference-manuals/dia-chat-vat-ly/chapter-02-minerals.md
+              - "Ch.3 Đá magma xâm nhập": vi/reference-manuals/dia-chat-vat-ly/chapter-03-igneous-rocks.md
+              - "Ch.5 Phong hoá và đất": vi/reference-manuals/dia-chat-vat-ly/chapter-05-weathering-and-soil.md
+              - "Ch.6 Trầm tích và đá trầm tích": vi/reference-manuals/dia-chat-vat-ly/chapter-06-sedimentary-rocks.md
+              - "Ch.7 Biến chất và đá biến chất": vi/reference-manuals/dia-chat-vat-ly/chapter-07-metamorphic-rocks.md
+              - "Ch.9 Nội bộ Quả Đất và địa chấn học": vi/reference-manuals/dia-chat-vat-ly/chapter-09-earths-interior.md
+              - "Ch.11 Động đất": vi/reference-manuals/dia-chat-vat-ly/chapter-11-earthquakes.md
+              - "Ch.12 Cấu trúc địa chất": vi/reference-manuals/dia-chat-vat-ly/chapter-12-geological-structures.md
+              - "Ch.14 Nước dưới đất": vi/reference-manuals/dia-chat-vat-ly/chapter-14-groundwater.md
+              - "Ch.15 Dịch chuyển khối": vi/reference-manuals/dia-chat-vat-ly/chapter-15-mass-wasting.md
+          - "GeoVadis: Tương lai của Kỹ thuật Địa kỹ thuật (Tập 1)":
+              - Tổng quan: vi/reference-manuals/geovadis/index.md
+              - "Ch.1 Báo cáo toàn thể: Nền móng & Địa nhiệt": vi/reference-manuals/geovadis/chapter-01-plenary-advances.md
+              - "Ch.2 Trí tuệ nhân tạo (AI) & Cơ học tính toán": vi/reference-manuals/geovadis/chapter-02-ai-computational-geomechanics.md
+              - "Ch.3 Địa kỹ thuật vùng lạnh & Môi trường": vi/reference-manuals/geovadis/chapter-03-cold-coastal-environmental.md
+              - "Ch.4 Kỹ thuật địa chấn & Động lực học đất": vi/reference-manuals/geovadis/chapter-04-earthquake-soil-dynamics.md
+              - "Ch.5 Móng sâu & Hố đào sâu": vi/reference-manuals/geovadis/chapter-05-foundations-deep-excavation.md
+              - "Ch.6 Vật liệu tổng hợp & Đất có cốt": vi/reference-manuals/geovadis/chapter-06-geosynthetic-engineering.md
+          - "GeoVadis: Tương lai của Kỹ thuật Địa kỹ thuật (Tập 2)":
+              - Tổng quan: vi/reference-manuals/geovadis-vol2/index.md
+              - "Ch.1 Cải tạo nền & Ổn định hóa học": vi/reference-manuals/geovadis-vol2/chapter-01-ground-improvement-stabilisation.md
+              - "Ch.2 Thực hành & Khảo sát hiện trường": vi/reference-manuals/geovadis-vol2/chapter-02-practice-risk-site-characterisation.md
+              - "Ch.3 Cơ học đá & Công trình ngầm": vi/reference-manuals/geovadis-vol2/chapter-03-rock-mechanics-tunnelling.md
+              - "Ch.4 Ổn định mái dốc & Cảnh báo sớm": vi/reference-manuals/geovadis-vol2/chapter-04-slope-stability-landslides.md
+              - "Ch.5 Địa kỹ thuật giao thông": vi/reference-manuals/geovadis-vol2/chapter-05-transportation-geotechnics.md
+          - "GeoVadis: Tương lai của Kỹ thuật Địa kỹ thuật (Tập 3)":
+              - Tổng quan: vi/reference-manuals/geovadis-vol3/index.md
+              - "Ch.1 Báo cáo toàn thể & Bài giảng đầu ngành": vi/reference-manuals/geovadis-vol3/chapter-01-plenary-lectures.md
+              - "Ch.2 AI & Địa kỹ thuật môi trường": vi/reference-manuals/geovadis-vol3/chapter-02-ai-computational-environmental.md
+              - "Ch.3 Kỹ thuật địa chấn & Động lực học đất": vi/reference-manuals/geovadis-vol3/chapter-03-earthquake-soil-dynamics.md
+              - "Ch.4 Nền móng, Hố đào sâu & Kết cấu chắn": vi/reference-manuals/geovadis-vol3/chapter-04-foundations-deep-excavation.md
+              - "Ch.5 Vật liệu tổng hợp & Cải tạo nền": vi/reference-manuals/geovadis-vol3/chapter-05-geosynthetics-ground-improvement.md
+              - "Ch.6 Cơ học đá, Mái dốc & Giao thông": vi/reference-manuals/geovadis-vol3/chapter-06-rock-slopes-transportation.md
+          - "Giám sát hiệu năng đập (ASCE MOP-135)":
+              - Tổng quan: vi/reference-manuals/monitoring-dam-performance/index.md
+              - "Ch.1 Mục đích, Phạm vi & Tổ chức": vi/reference-manuals/monitoring-dam-performance/chapter-01-introduction.md
+              - "Ch.2 Hiệu năng đập & Chế độ hỏng": vi/reference-manuals/monitoring-dam-performance/chapter-02-failure-modes.md
+              - "Ch.3 Triết lý giám sát": vi/reference-manuals/monitoring-dam-performance/chapter-03-philosophy.md
+              - "Ch.4 Lập kế hoạch giám sát": vi/reference-manuals/monitoring-dam-performance/chapter-04-planning.md
+              - "Ch.5 Họ dụng cụ đo": vi/reference-manuals/monitoring-dam-performance/chapter-05-instruments.md
+              - "Ch.6 Áp kế (Piezometer) & Áp lực nước lỗ rỗng": vi/reference-manuals/monitoring-dam-performance/chapter-06-piezometers.md
+              - "Ch.7 Thấm & Mặt nước thấm": vi/reference-manuals/monitoring-dam-performance/chapter-07-seepage.md
+              - "Ch.8 Giám sát biến dạng": vi/reference-manuals/monitoring-dam-performance/chapter-08-deformation.md
+              - "Ch.9 Hệ thống tự động & từ xa": vi/reference-manuals/monitoring-dam-performance/chapter-09-automated.md
+              - "Ch.10 Lắp đặt, Vận hành & Bảo trì": vi/reference-manuals/monitoring-dam-performance/chapter-10-iom.md
+              - "Ch.11 Thu thập & Quản lý dữ liệu": vi/reference-manuals/monitoring-dam-performance/chapter-11-data-management.md
+              - "Ch.12 Đánh giá & Diễn giải": vi/reference-manuals/monitoring-dam-performance/chapter-12-evaluation.md
+              - "Ch.13 Hiệu năng & Quyết định": vi/reference-manuals/monitoring-dam-performance/chapter-13-decisions.md
+              - "Ch.14 Các trường hợp lịch sử": vi/reference-manuals/monitoring-dam-performance/chapter-14-case-histories.md
+          - "An toàn đập thải (ICOLD Bulletin 194)":
+              - Tổng quan: vi/reference-manuals/tailings-dam-safety/index.md
+              - "Ch.1 Giới thiệu, Phạm vi & Tổ chức": vi/reference-manuals/tailings-dam-safety/chapter-01-introduction.md
+              - "Ch.2 Cơ sở lưu giữ bùn thải & Cách chúng phá hoại": vi/reference-manuals/tailings-dam-safety/chapter-02-facilities-and-failures.md
+              - "Ch.3 Triết lý giám sát": vi/reference-manuals/tailings-dam-safety/chapter-03-philosophy.md
+              - "Ch.4 Lập kế hoạch giám sát": vi/reference-manuals/tailings-dam-safety/chapter-04-planning.md
+              - "Ch.5 Họ thiết bị quan trắc": vi/reference-manuals/tailings-dam-safety/chapter-05-instruments.md
+              - "Ch.6 Áp lực nước lỗ rỗng & Hóa lỏng": vi/reference-manuals/tailings-dam-safety/chapter-06-pore-pressure.md
+              - "Ch.7 Thấm & Mặt nước thấm": vi/reference-manuals/tailings-dam-safety/chapter-07-seepage.md
+              - "Ch.8 Giám sát biến dạng": vi/reference-manuals/tailings-dam-safety/chapter-08-deformation.md
+              - "Ch.9 Hệ thống tự động & Từ xa": vi/reference-manuals/tailings-dam-safety/chapter-09-automated.md
+              - "Ch.10 Lắp đặt, Vận hành & Bảo trì": vi/reference-manuals/tailings-dam-safety/chapter-10-iom.md
+              - "Ch.11 Thu thập & Quản lý dữ liệu": vi/reference-manuals/tailings-dam-safety/chapter-11-data-management.md
+              - "Ch.12 Đánh giá & Diễn giải dữ liệu": vi/reference-manuals/tailings-dam-safety/chapter-12-evaluation.md
+              - "Ch.13 Hiệu năng & Quyết định": vi/reference-manuals/tailings-dam-safety/chapter-13-decisions.md
+              - "Ch.14 Các trường hợp lịch sử": vi/reference-manuals/tailings-dam-safety/chapter-14-case-histories.md
+          - "Cẩm nang dùng cho kỹ sư địa kỹ thuật (Trần Văn Việt)":
+              - Tổng quan: vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/index.md
+              - "Ch.1 Khái quát địa chất – đất đá": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-01-geology-soil-rock.md
+              - "Ch.2 Tính chất xây dựng của đất nền": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-02-soil-properties.md
+              - "Ch.3 Nước dưới đất": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-03-groundwater.md
+              - "Ch.4 Khảo sát – thăm dò – thí nghiệm": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-04-investigation-testing.md
+              - "Ch.5 Phân tích móng nông": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-05-shallow-foundations.md
+              - "Ch.6 Phân tích móng sâu": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-06-deep-foundations.md
+              - "Ch.7 Phân tích ổn định mái dốc": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-07-slope-stability.md
+              - "Ch.8 Phân tích tường chắn": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-08-retaining-walls.md
+              - "Ch.9 Đất đắp trên nền đất yếu": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-09-embankment-soft-ground.md
+              - "Ch.10 Thuỷ lực công trình": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-10-hydraulics.md
+              - "Ch.11 Động đất với công trình xây dựng": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-11-earthquakes.md
+              - "Ch.12 Công nghệ thông tin trong địa kỹ thuật": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-12-geo-informatics.md
       - "Môi trường thử nghiệm tương tác": vi/visualizer.md
       - "Bác sĩ GTI (AI)": vi/gti-doctor.md
       - "Tuân thủ pháp lý":
@@ -333,6 +333,42 @@ nav:
           - "Ch.12 In-Situ Testing & Parameter Selection": reference-manuals/soil-mechanics/chapter-12-in-situ-testing.md
           - "Ch.13 Problem Soils": reference-manuals/soil-mechanics/chapter-13-problem-soils.md
           - "Ch.14 Laboratory & Field Testing Program": reference-manuals/soil-mechanics/chapter-14-testing-program.md
+      - "Physical Geology (open textbook, CC BY)":
+          - Overview: reference-manuals/physical-geology/index.md
+          - "Ch.1 Introduction to Geology": reference-manuals/physical-geology/chapter-01-introduction-to-geology.md
+          - "Ch.2 Minerals": reference-manuals/physical-geology/chapter-02-minerals.md
+          - "Ch.3 Intrusive Igneous Rocks": reference-manuals/physical-geology/chapter-03-igneous-rocks.md
+          - "Ch.5 Weathering and Soil": reference-manuals/physical-geology/chapter-05-weathering-and-soil.md
+          - "Ch.6 Sediments and Sedimentary Rocks": reference-manuals/physical-geology/chapter-06-sedimentary-rocks.md
+          - "Ch.7 Metamorphism and Metamorphic Rocks": reference-manuals/physical-geology/chapter-07-metamorphic-rocks.md
+          - "Ch.9 Earth's Interior and Seismology": reference-manuals/physical-geology/chapter-09-earths-interior.md
+          - "Ch.11 Earthquakes": reference-manuals/physical-geology/chapter-11-earthquakes.md
+          - "Ch.12 Geological Structures": reference-manuals/physical-geology/chapter-12-geological-structures.md
+          - "Ch.14 Groundwater": reference-manuals/physical-geology/chapter-14-groundwater.md
+          - "Ch.15 Mass Wasting": reference-manuals/physical-geology/chapter-15-mass-wasting.md
+      - "GeoVadis: The Future of Geotechnical Engineering (Vol. 1)":
+          - Overview: reference-manuals/geovadis/index.md
+          - "Ch.1 Plenary Advances: Ground Engineering & Energy": reference-manuals/geovadis/chapter-01-plenary-advances.md
+          - "Ch.2 AI and Computational Geomechanics": reference-manuals/geovadis/chapter-02-ai-computational-geomechanics.md
+          - "Ch.3 Cold, Coastal and Environmental Geotechnics": reference-manuals/geovadis/chapter-03-cold-coastal-environmental.md
+          - "Ch.4 Earthquake Engineering & Soil Dynamics": reference-manuals/geovadis/chapter-04-earthquake-soil-dynamics.md
+          - "Ch.5 Foundations & Deep Excavations": reference-manuals/geovadis/chapter-05-foundations-deep-excavation.md
+          - "Ch.6 Geosynthetics & Ground Reinforcement": reference-manuals/geovadis/chapter-06-geosynthetic-engineering.md
+      - "GeoVadis: The Future of Geotechnical Engineering (Vol. 2)":
+          - Overview: reference-manuals/geovadis-vol2/index.md
+          - "Ch.1 Ground Improvement and Stabilisation": reference-manuals/geovadis-vol2/chapter-01-ground-improvement-stabilisation.md
+          - "Ch.2 Practice, Risk and Site Characterisation": reference-manuals/geovadis-vol2/chapter-02-practice-risk-site-characterisation.md
+          - "Ch.3 Rock Mechanics and Tunnelling Engineering": reference-manuals/geovadis-vol2/chapter-03-rock-mechanics-tunnelling.md
+          - "Ch.4 Slope Stability, Landslides and Early Warning": reference-manuals/geovadis-vol2/chapter-04-slope-stability-landslides.md
+          - "Ch.5 Transportation Geotechnics": reference-manuals/geovadis-vol2/chapter-05-transportation-geotechnics.md
+      - "GeoVadis: The Future of Geotechnical Engineering (Vol. 3)":
+          - Overview: reference-manuals/geovadis-vol3/index.md
+          - "Ch.1 Plenary Keynotes & State-of-the-Art": reference-manuals/geovadis-vol3/chapter-01-plenary-lectures.md
+          - "Ch.2 AI, Computational & Environmental Geotechnics": reference-manuals/geovadis-vol3/chapter-02-ai-computational-environmental.md
+          - "Ch.3 Earthquake Engineering & Soil Dynamics": reference-manuals/geovadis-vol3/chapter-03-earthquake-soil-dynamics.md
+          - "Ch.4 Foundations, Deep Excavations & Retaining": reference-manuals/geovadis-vol3/chapter-04-foundations-deep-excavation.md
+          - "Ch.5 Geosynthetics & Ground Improvement": reference-manuals/geovadis-vol3/chapter-05-geosynthetics-ground-improvement.md
+          - "Ch.6 Rock Mechanics, Slopes & Transportation": reference-manuals/geovadis-vol3/chapter-06-rock-slopes-transportation.md
       - "Monitoring Dam Performance (ASCE MOP-135)":
           - Overview: reference-manuals/monitoring-dam-performance/index.md
           - "Ch.1 Purpose, Scope & Organization": reference-manuals/monitoring-dam-performance/chapter-01-introduction.md
@@ -379,42 +415,6 @@ nav:
           - "Ch.10 Engineering Hydraulics": reference-manuals/geotechnical-engineers-handbook/chapter-10-hydraulics.md
           - "Ch.11 Earthquakes and Construction Works": reference-manuals/geotechnical-engineers-handbook/chapter-11-earthquakes.md
           - "Ch.12 Geoinformatics in Geotechnics": reference-manuals/geotechnical-engineers-handbook/chapter-12-geo-informatics.md
-      - "Physical Geology (open textbook, CC BY)":
-          - Overview: reference-manuals/physical-geology/index.md
-          - "Ch.1 Introduction to Geology": reference-manuals/physical-geology/chapter-01-introduction-to-geology.md
-          - "Ch.2 Minerals": reference-manuals/physical-geology/chapter-02-minerals.md
-          - "Ch.3 Intrusive Igneous Rocks": reference-manuals/physical-geology/chapter-03-igneous-rocks.md
-          - "Ch.5 Weathering and Soil": reference-manuals/physical-geology/chapter-05-weathering-and-soil.md
-          - "Ch.6 Sediments and Sedimentary Rocks": reference-manuals/physical-geology/chapter-06-sedimentary-rocks.md
-          - "Ch.7 Metamorphism and Metamorphic Rocks": reference-manuals/physical-geology/chapter-07-metamorphic-rocks.md
-          - "Ch.9 Earth's Interior and Seismology": reference-manuals/physical-geology/chapter-09-earths-interior.md
-          - "Ch.11 Earthquakes": reference-manuals/physical-geology/chapter-11-earthquakes.md
-          - "Ch.12 Geological Structures": reference-manuals/physical-geology/chapter-12-geological-structures.md
-          - "Ch.14 Groundwater": reference-manuals/physical-geology/chapter-14-groundwater.md
-          - "Ch.15 Mass Wasting": reference-manuals/physical-geology/chapter-15-mass-wasting.md
-      - "GeoVadis: The Future of Geotechnical Engineering (Vol. 1)":
-          - Overview: reference-manuals/geovadis/index.md
-          - "Ch.1 Plenary Advances: Ground Engineering & Energy": reference-manuals/geovadis/chapter-01-plenary-advances.md
-          - "Ch.2 AI and Computational Geomechanics": reference-manuals/geovadis/chapter-02-ai-computational-geomechanics.md
-          - "Ch.3 Cold, Coastal and Environmental Geotechnics": reference-manuals/geovadis/chapter-03-cold-coastal-environmental.md
-          - "Ch.4 Earthquake Engineering & Soil Dynamics": reference-manuals/geovadis/chapter-04-earthquake-soil-dynamics.md
-          - "Ch.5 Foundations & Deep Excavations": reference-manuals/geovadis/chapter-05-foundations-deep-excavation.md
-          - "Ch.6 Geosynthetics & Ground Reinforcement": reference-manuals/geovadis/chapter-06-geosynthetic-engineering.md
-      - "GeoVadis: The Future of Geotechnical Engineering (Vol. 2)":
-          - Overview: reference-manuals/geovadis-vol2/index.md
-          - "Ch.1 Ground Improvement and Stabilisation": reference-manuals/geovadis-vol2/chapter-01-ground-improvement-stabilisation.md
-          - "Ch.2 Practice, Risk and Site Characterisation": reference-manuals/geovadis-vol2/chapter-02-practice-risk-site-characterisation.md
-          - "Ch.3 Rock Mechanics and Tunnelling Engineering": reference-manuals/geovadis-vol2/chapter-03-rock-mechanics-tunnelling.md
-          - "Ch.4 Slope Stability, Landslides and Early Warning": reference-manuals/geovadis-vol2/chapter-04-slope-stability-landslides.md
-          - "Ch.5 Transportation Geotechnics": reference-manuals/geovadis-vol2/chapter-05-transportation-geotechnics.md
-      - "GeoVadis: The Future of Geotechnical Engineering (Vol. 3)":
-          - Overview: reference-manuals/geovadis-vol3/index.md
-          - "Ch.1 Plenary Keynotes & State-of-the-Art": reference-manuals/geovadis-vol3/chapter-01-plenary-lectures.md
-          - "Ch.2 AI, Computational & Environmental Geotechnics": reference-manuals/geovadis-vol3/chapter-02-ai-computational-environmental.md
-          - "Ch.3 Earthquake Engineering & Soil Dynamics": reference-manuals/geovadis-vol3/chapter-03-earthquake-soil-dynamics.md
-          - "Ch.4 Foundations, Deep Excavations & Retaining": reference-manuals/geovadis-vol3/chapter-04-foundations-deep-excavation.md
-          - "Ch.5 Geosynthetics & Ground Improvement": reference-manuals/geovadis-vol3/chapter-05-geosynthetics-ground-improvement.md
-          - "Ch.6 Rock Mechanics, Slopes & Transportation": reference-manuals/geovadis-vol3/chapter-06-rock-slopes-transportation.md
   - Interactive Sandbox: visualizer.md
   - GTI Doctor (AI): gti-doctor.md
   - Glossary: glossary/index.md
