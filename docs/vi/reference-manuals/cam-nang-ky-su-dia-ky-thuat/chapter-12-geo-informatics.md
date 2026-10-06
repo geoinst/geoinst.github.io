@@ -176,7 +176,7 @@ không đáp ứng được yêu cầu tuân thủ.
 
 !!! tip "Liên hệ với trang ADAQS của cơ sở tri thức này"
     Sáu lớp trên được trình bày chi tiết hơn, kèm đối chiếu với từng nhóm nghĩa vụ tuân
-    thủ, tại [Hệ thống thu thập dữ liệu tự động (ADAQS)](../../../adaqs/index.md).
+    thủ, tại [Hệ thống thu thập dữ liệu tự động (ADAQS)](../../../vi/adaqs/index.md).
 
 ## 12.4 Ứng dụng công nghệ thông tin trong phân tích địa kỹ thuật
 
