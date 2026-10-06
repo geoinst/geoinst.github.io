@@ -23,7 +23,7 @@ Kiểm chứng các giả định thiết kế về ứng xử tải-lún, xác 
 | **Ch 5** | Quy cách mua sắm thiết bị | Quy cách thiết bị móng |
 | **Ch 6** | Sắp xếp hợp đồng | Hợp đồng móng/hố móng |
 | **Ch 8** | Cảm biến biến đổi và thu thập dữ liệu | Load cell, hệ thống lún, quan trắc tự động |
-| **Ch 9** | Đo áp lực nước ngầm | Áp lực hạ mực nước, piezometer (đầu đo áp lực nước) trong/ngoài hố móng |
+| **Ch 9** | Đo áp lực nước ngầm | Áp lực hạ mực nước, piezometer (áp kế) trong/ngoài hố móng |
 | **Ch 12** | **Đo biến dạng** | **Chính** — Tấm lún, extensometer (đầu đo biến dạng), inclinometer (đầu đo nghiêng) |
 | **Ch 13** | **Đo tải trọng và biến dạng** | **Chính** — Load cell, điện trở biến dạng, telltale |
 | **Ch 14** | Đo nhiệt độ | Thủy hóa bê tông, đông-rã băng |

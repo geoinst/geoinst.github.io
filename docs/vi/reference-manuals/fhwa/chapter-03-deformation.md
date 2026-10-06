@@ -72,7 +72,7 @@ cách hạ đầu dò tới các mốc từ tính hoặc cảm ứng:
 
 **Inclinometer** là thiết bị chủ lực đo biến dạng ngang theo độ sâu — trong mái dốc,
 nền đắp, hố đào và quanh móng. Một đầu dò với hai gia tốc kế servo trực giao di
-chuyển dọc ống vách có rãnh, và độ nghiêng tích lũy cho ra profile độ võng.
+chuyển dọc ống đo nghiêng, và độ nghiêng tích lũy cho ra profile độ võng.
 
 Các biến thể:
 
@@ -83,16 +83,16 @@ Các biến thể:
 
 ![Figure: dunnicliff-inclinometer](../../../assets/figures/dunnicliff-inclinometer.svg)
 
-**Hình.** Nguyên lý inclinometer: đầu dò di chuyển dọc ống vách có rãnh, độ nghiêng tích lũy cho ra profile độ võng theo độ sâu (theo FHWA-HI-98-034, Ch. 3).
+**Hình.** Nguyên lý inclinometer: đầu dò di chuyển dọc ống đo nghiêng, độ nghiêng tích lũy cho ra profile độ võng theo độ sâu (theo FHWA-HI-98-034, Ch. 3).
 
 ## 3.10 Đo mực nước dạng ống (liquid-level gage)
 
-**Đo mực nước dạng ống** dùng một ống chứa chất lỏng nối với một tế bào để đo lún
+**Đo mực nước dạng ống** dùng một ống chứa chất lỏng nối với một hộp đo để đo lún
 hoặc trương nở qua sự thay đổi áp lực hoặc mực chất lỏng:
 
-- **Loại một điểm** — hai đầu cùng cao độ, bộ đọc cao hơn tế bào, hoặc tế bào và ống
+- **Loại một điểm** — hai đầu cùng cao độ, bộ đọc cao hơn hộp đo, hoặc hộp đo và ống
   đặt trong hố khoan.
-- **Loại profile đầy đủ** — một chuỗi tế bào cho profile lún hoàn chỉnh.
+- **Loại profile đầy đủ** — một chuỗi hộp đo cho profile lún hoàn chỉnh.
 
 ## 3.11 Telltale và đo hội tụ hào vữa
 

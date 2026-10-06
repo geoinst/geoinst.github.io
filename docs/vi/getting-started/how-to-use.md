@@ -19,7 +19,7 @@ Trang web bao gồm một chatbot AI tùy chọn, [GTI Doctor](../gti-doctor.md)
 
 > "Dải đo ngang điển hình của một inclinometer (đầu đo nghiêng) MEMS là bao nhiêu?"
 
-> "Cho tôi danh mục kiểm tra lắp đặt gần bề mặt cho một piezometer (đầu đo áp lực nước) dây rung trong hố khoan 50 mm."
+> "Cho tôi danh mục kiểm tra lắp đặt gần bề mặt cho một piezometer (áp kế) dây rung trong hố khoan 50 mm."
 
 Trợ lý sẽ không bịa ra câu trả lời ngoài kho dữ liệu huấn luyện của nó — nếu câu hỏi nằm ngoài phạm vi, nó sẽ nói rõ điều đó.
 

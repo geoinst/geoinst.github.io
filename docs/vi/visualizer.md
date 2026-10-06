@@ -313,7 +313,7 @@ function renderScene() {
       <!-- Vỏ hầm (Vòng bê tông lắp ghép với biến dạng hình elip) -->
       <ellipse cx="300" cy="${240 - sag * 0.3}" rx="${80 - conv * 0.7}" ry="${80 - sag * 0.6}" fill="#16161f" stroke="#78909c" stroke-width="8" />
 
-      <!-- Tế bào đo áp lực tiếp xúc đất-vỏ hầm (EPC) -->
+      <!-- Hộp đo áp lực tiếp xúc đất-vỏ hầm (EPC) -->
       <rect x="215" y="235" width="6" height="12" fill="#b388ff" rx="1" />
       <rect x="379" y="235" width="6" height="12" fill="#b388ff" rx="1" />
       <rect x="296" y="${154 - sag * 0.6}" width="12" height="6" fill="#b388ff" rx="1" />

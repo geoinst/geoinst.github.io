@@ -52,11 +52,11 @@ $$P_{\text{hiệu chỉnh}} = P_{\text{đo}} + C_T \cdot (T - T_0)$$
 
 ![Figure: dunnicliff-load-cell-strain-gage](../../../assets/figures/dunnicliff-load-cell-strain-gage.svg)
 
-**Hình.** Tế bào tải và đầu đo biến dạng. Tế bào tải lỗ rỗng đo lực neo/thanh chống; đầu đo sister-bar đo biến dạng trong thanh thép (Dunnicliff, Ch. 13).
+**Hình.** Cảm biến đo tải trọng và đầu đo biến dạng. Cảm biến đo tải trọng lỗ rỗng đo lực neo/thanh chống; đầu đo sister-bar đo biến dạng trong thanh thép (Dunnicliff, Ch. 13).
 
 ## 9.6 Các điểm then chốt cần ghi nhớ
 
-- Tế bào đo tải rỗng tâm phải có từ 3 cảm biến trở lên để triệt tiêu tải trọng lệch tâm.
+- Cảm biến đo tải trọng rỗng tâm phải có từ 3 cảm biến trở lên để triệt tiêu tải trọng lệch tâm.
 - Sử dụng tấm đệm phẳng gia công cơ khí chuẩn khi lắp đặt load cell.
 - Tính toán tải trọng từ biến dạng bê tông bắt buộc phải bù trừ co ngót và từ biến.
 - Thanh telltale là công cụ kinh tế và chính xác để đo chuyển vị mũi cọc độc lập với thân cọc.

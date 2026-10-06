@@ -64,7 +64,7 @@ và **điểm trắc đạc**.
 
 ![Figure: fhwa-retaining-structure-monitoring](../../../assets/figures/fhwa-retaining-structure-monitoring.svg)
 
-**Hình.** Quan trắc cho kết cấu chắn đất: inclinometer sau tường, load cell trên thanh chống/neo, tế bào áp lực ở chân tường và điểm lún trên nền lân cận (theo FHWA-HI-98-034, Ch. 9).
+**Hình.** Quan trắc cho kết cấu chắn đất: inclinometer sau tường, load cell trên thanh chống/neo, hộp đo áp lực ở chân tường và điểm lún trên nền lân cận (theo FHWA-HI-98-034, Ch. 9).
 
 ## 9.7 Bài tập — tường MSE
 

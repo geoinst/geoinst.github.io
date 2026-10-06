@@ -20,7 +20,7 @@ Phát hiện sự khởi phát của chuyển động sườn dốc trước khi
 | **Ch 2** | Ứng xử của đất và đá | Sức kháng cắt, cơ chế sập, ứng xử đất/đá |
 | **Ch 3** | Lợi ích của việc sử dụng thiết bị quan trắc địa kỹ thuật | Cảnh báo sớm, kiểm chứng thiết kế, bảo vệ pháp lý |
 | **Ch 4** | Phương pháp tiếp cận có hệ thống để lập kế hoạch chương trình quan trắc | Quy trình lập kế hoạch 20 bước dành riêng cho sườn dốc |
-| **Ch 9** | Đo áp lực nước ngầm | Piezometer (đầu đo áp lực nước) cho áp lực lỗ rỗng kích hoạt sập |
+| **Ch 9** | Đo áp lực nước ngầm | Piezometer (áp kế) cho áp lực lỗ rỗng kích hoạt sập |
 | **Ch 12** | Đo biến dạng | Inclinometer (đầu đo nghiêng), extensometer (đầu đo biến dạng), tiltmeter (cảm biến góc nghiêng), hệ thống lún |
 | **Ch 17** | Lắp đặt thiết bị | Khoan, bơm vữa, lắp đặt ống casing trong sườn dốc |
 | **Ch 18** | Thu thập, xử lý, trình bày, diễn giải | Tần suất thu thập dữ liệu, hệ thống tự động, diễn giải |

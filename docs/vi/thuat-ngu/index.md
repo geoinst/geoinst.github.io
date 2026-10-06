@@ -236,10 +236,10 @@ lang_alt: glossary/
 * **Phân phối bùn (Spigotting / Deposition)**: Xả bùn từ đỉnh đập để tạo bãi bùn bằng phương pháp lắng đọng thủy lực.
 * **Bùn thải cô đặc / hồ dẻo / lọc ép (Thickened / Paste / Filtered Tailings)**: Bùn thải đã khử nước (hàm lượng rắn tăng dần), giảm nước tự do và giảm nguy cơ hóa lỏng.
 * **Lưu giữ trong hố khai thác / bãi vành khuyên (In-Pit / Paddock Storage)**: Lưu giữ bùn thải trong hố mỏ đã khai thác hoặc bãi đê vành khuyên thay vì đập chắn thung lũng.
-* **Hóa lỏng (Liquefaction)**: Mất sức kháng cắt khi đất bão hòa, rời (co ngót thể tích) bị gia tải hoặc rung động và áp lực nước lỗ rỗng tăng đến mức ứng suất hiệu dụng gần bằng không.
+* **Hóa lỏng (Liquefaction)**: Mất sức kháng cắt khi đất bão hòa, rời (co ngót thể tích) bị gia tải hoặc rung động và áp lực nước lỗ rỗng tăng đến mức ứng suất hữu hiệu gần bằng không.
 * **Hóa lỏng tĩnh (Static Liquefaction)**: Hóa lỏng do tải trọng tĩnh (đợt nâng cao, mực hồ dâng nhanh, hoặc nền yếu) chứ không do động đất — cơ chế thảm khốc chủ đạo của phá hoại đập bùn thải.
 * **Hóa lỏng do động đất (Seismic Liquefaction)**: Hóa lỏng do rung động lặp của động đất.
-* **Tỷ số áp lực lỗ rỗng ($r_u$)**: Tỷ số giữa áp lực nước lỗ rỗng đo được và ứng suất hiệu dụng thẳng đứng ban đầu ($r_u = u / \sigma'_v$); giá trị tăng báo hiệu nguy cơ hóa lỏng.
+* **Tỷ số áp lực lỗ rỗng ($r_u$)**: Tỷ số giữa áp lực nước lỗ rỗng đo được và ứng suất hữu hiệu thẳng đứng ban đầu ($r_u = u / \sigma'_v$); giá trị tăng báo hiệu nguy cơ hóa lỏng.
 * **Áp lực lỗ rỗng dư (Excess Pore Pressure)**: Áp lực nước lỗ rỗng vượt giá trị ổn định (thủy tĩnh), sinh ra do gia tải, thi công hoặc rung động.
 * **Phá hoại dòng chảy / tầm xa (Flow Failure / Run-out)**: Khối đất đã hóa lỏng chảy nhanh và đi xa, gây thiệt hại nghiêm trọng ở hạ lưu.
 * **Tầng thoát nước chân đập (Toe Drain)**: Đới thấm hoặc rãnh thoát ở chân hạ lưu để thu và kiểm soát dòng thấm, giữ mặt nước thấm ở mức thấp.

@@ -25,7 +25,7 @@ Các thiết bị quan trắc địa kỹ thuật được phân nhóm theo **th
 
 ## 2. Nước dưới bề mặt
 
-**Thiết bị**: Piezometer (đầu đo áp lực nước) (dây rung, độc lập, đa tầng)
+**Thiết bị**: Piezometer (áp kế) (dây rung, độc lập, đa tầng)
 
 **Ứng dụng**: Quan trắc áp lực nước lỗ rỗng, phát hiện thấm qua đập, hạ mực nước hố đào, nghiên cứu nước ngầm.
 
@@ -33,7 +33,7 @@ Các thiết bị quan trắc địa kỹ thuật được phân nhóm theo **th
 
 **Kết quả đọc điển hình**: cột nước thủy lực (m) theo thời gian; áp suất (kPa).
 
-**Thiết bị tiêu biểu**: Piezometer (đầu đo áp lực nước) dây rung, nút piezometer không dây..
+**Thiết bị tiêu biểu**: Piezometer (áp kế) dây rung, nút piezometer không dây..
 
 ---
 
@@ -53,7 +53,7 @@ Các thiết bị quan trắc địa kỹ thuật được phân nhóm theo **th
 
 ## 4. Tải trọng & Ứng suất
 
-**Thiết bị**: Load cell (tế bào tải), Strain gauge (đồng hồ biến dạng), Stressmeter (đầu đo ứng suất), load cell bulông neo đá
+**Thiết bị**: Load cell (cảm biến đo tải trọng), Strain gauge (cảm biến đo biến dạng), Stressmeter (đầu đo ứng suất), load cell bulông neo đá
 
 **Ứng dụng**: Thử tải móng, ứng suất bulông neo đá, thử nghiệm kết cấu cầu, neo chống.
 

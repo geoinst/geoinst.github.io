@@ -21,7 +21,7 @@ Quan trắc chuyển động đất xung quanh đào hầm, sự hội tụ củ
 | **Ch 3** | Lợi ích của việc sử dụng thiết bị quan trắc địa kỹ thuật | Kiểm chứng thiết kế, an toàn thi công, hợp đồng |
 | **Ch 4** | Phương pháp tiếp cận có hệ thống để lập kế hoạch chương trình quan trắc | Quy trình lập kế hoạch 20 bước cho dự án hầm |
 | **Ch 8** | Cảm biến biến đổi và thu thập dữ liệu | Cảm biến hội tụ, hệ thống tự động |
-| **Ch 9** | Đo áp lực nước ngầm | Áp lực hạ mực nước, piezometer (đầu đo áp lực nước) tại mặt hầm |
+| **Ch 9** | Đo áp lực nước ngầm | Áp lực hạ mực nước, piezometer (áp kế) tại mặt hầm |
 | **Ch 12** | **Đo biến dạng** | **Chính** — Hội tụ, extensometer (đầu đo biến dạng), inclinometer (đầu đo nghiêng) |
 | **Ch 13** | Đo tải trọng và biến dạng | Tải trọng bulông đá, ứng suất lót, telltale |
 | **Ch 17** | Lắp đặt thiết bị | Đặc thù hầm: khoan từ hầm, không gian hạn chế |
@@ -55,7 +55,7 @@ Quan trắc chuyển động đất xung quanh đào hầm, sự hội tụ củ
 | **Load cell bulông đá** | Quan trắc tải trọng neo/bulông | Ch 13, 23 | VW load cells, strain gages |
 | **Đồng hồ đo hội tụ** | Hội tụ lót thời gian thực | Ch 12, 23 | Convergence meters, wireless |
 | **Điện trở biến dạng bulông đá** | Quan trắc tải trọng bulông | Ch 13 | VW strain gages, wireless |
-| **Tế bào áp lực (NATM)** | Áp lực đất lên lót | Ch 10, 23 | VW pressure cells |
+| **Hộp đo áp lực (NATM)** | Áp lực đất lên lót | Ch 10, 23 | VW pressure cells |
 | **Crackmeter / jointmeter** | Độ mở mối nối phân đoạn | Ch 12, 23 | Crackmeters, jointmeters |
 | **Inclinometer (khiên TBM)** | Khớp nối/căn chỉnh TBM | Ch 12 | MEMS tilt sensors |
 | **wireless mesh radio** | Dữ liệu từ hầm về cổng mặt đất | Ch 8, 18 | wireless mesh + surface gateway |

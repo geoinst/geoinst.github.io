@@ -29,7 +29,7 @@ lang_alt: gti-doctor/
 
 ## Các câu hỏi ví dụ
 
-- *Piezometer (đầu đo áp lực nước) dây rung là gì và lắp đặt trong hố khoan như thế nào?*
+- *Piezometer (áp kế) dây rung là gì và lắp đặt trong hố khoan như thế nào?*
 - *Cho tôi danh mục thiết bị quan trắc ổn định mái dốc từ sổ tay FHWA.*
 - *Mạng lưới (mesh) không dây truyền dữ liệu ngược hoạt động thế nào?*
 - *Thiết bị nào tôi nên dùng để quan trắc chuyển động ngang trong tường chắn hố đào sâu 30 m?*

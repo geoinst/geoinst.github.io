@@ -20,8 +20,8 @@ Phát hiện thay đổi thấm, xói mòn nội bộ, và biến dạng trong �
 | **Ch 2** | Ứng xử của đất và đá | Ứng xử đập đất, thấm, xói mòn nội bộ |
 | **Ch 3** | Lợi ích của việc sử dụng thiết bị quan trắc địa kỹ thuật | An toàn, kiểm chứng thiết kế, kiểm soát vận hành |
 | **Ch 4** | Phương pháp tiếp cận có hệ thống để lập kế hoạch chương trình quan trắc | Quy trình lập kế hoạch 20 bước dành riêng cho đập |
-| **Ch 9** | **Đo áp lực nước ngầm** | **Chính** — Piezometer (đầu đo áp lực nước) trong thân đập, móng, bờ abutment |
-| **Ch 10** | Đo ứng suất tổng trong đất | Tế bào đo áp lực đất trong lõi đập |
+| **Ch 9** | **Đo áp lực nước ngầm** | **Chính** — Piezometer (áp kế) trong thân đập, móng, bờ abutment |
+| **Ch 10** | Đo ứng suất tổng trong đất | Hộp đo áp lực đất trong lõi đập |
 | **Ch 11** | Đo thay đổi ứng suất trong đá | Quan trắc ứng suất đá nền móng |
 | **Ch 12** | **Đo biến dạng** | Extensometer (đầu đo biến dạng), lún, inclinometer (đầu đo nghiêng), đo hội tụ |
 | **Ch 13** | Đo tải trọng và biến dạng | Tải trọng thanh chống, điện trở biến dạng trong kết cấu bê tông |
@@ -63,7 +63,7 @@ Phát hiện thay đổi thấm, xói mòn nội bộ, và biến dạng trong �
 | **Extensometer (thanh/từ tính)** | Biến dạng nội bộ thân đập | Ch 12, 21 | Rod extensometers, magnetic extensometers |
 | **Inclinometer** | Biến dạng ngang bờ abutment/móng | Ch 12, 21 | MEMS inclinometers, IPI arrays |
 | **Mốc lún bề mặt** | Lún đỉnh đập, căn chỉnh ngang | Ch 12, 21 | Settlement plates, GNSS |
-| **Tế bào đo áp lực đất** | Ứng suất trong lõi đập | Ch 10, 21 | VW earth pressure cells |
+| **Hộp đo áp lực đất** | Ứng suất trong lõi đập | Ch 10, 21 | VW earth pressure cells |
 | **Crackmeter / jointmeter** | Quan trắc khe nứt/khe nối trong bê tông | Ch 12 | Crackmeters, jointmeters |
 | **Con lắc (đập bê tông)** | Dịch chuyển đỉnh so với nền móng | Ch 21 | Inverted/reverse pendulums |
 | **Tràn thấm / máng đo** | Định lượng lưu lượng thấm | Ch 21 | V-notch weirs |

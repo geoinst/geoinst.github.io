@@ -9,7 +9,7 @@ lang_alt: reference-manuals/fhwa/chapter-02-groundwater-pressure/
 Trong tài liệu này, **piezometer** là thiết bị được bịt kín trong đất sao cho nó chỉ
 phản ứng với áp lực nước ngầm quanh chính nó, không phản ứng với áp lực ở cao độ
 khác. Piezometer đo **áp lực nước lỗ rỗng trong đất** và **áp lực nước khe nứt trong
-đá**. (Thuật ngữ *tế bào áp lực lỗ rỗng* đôi khi được dùng thay thế.) **Giếng quan
+đá**. (Thuật ngữ chuẩn trong tài liệu này là *áp kế*.) **Giếng quan
 sát** là thiết bị khác: nó không có lớp bịt dưới bề mặt, do đó tạo ra một kết nối
 thẳng đứng giữa các tầng.
 

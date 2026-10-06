@@ -8,7 +8,7 @@ lang_alt: reference-manuals/tailings-dam-safety/chapter-06-pore-pressure/
 
 Các cơ chế phá hoại bùn thải chủ đạo — **hóa lỏng tĩnh và do động đất** — được
 chi phối bởi áp lực nước lỗ rỗng. Khi bùn thải rời rạc, bão hòa mang áp lực nước
-lỗ rỗng cao (ứng suất hiệu dụng thấp), chúng có thể mất cường độ một cách thảm
+lỗ rỗng cao (ứng suất hữu hiệu thấp), chúng có thể mất cường độ một cách thảm
 khốc. Vì vậy giám sát áp lực nước lỗ rỗng là nền tảng của giám sát bùn thải.
 
 ## 6.2 Các loại áp kế (Piezometer)
@@ -25,7 +25,7 @@ khốc. Vì vậy giám sát áp lực nước lỗ rỗng là nền tảng củ
 Giám sát áp lực nước lỗ rỗng hỗ trợ đánh giá hóa lỏng qua:
 
 - **Tỷ số áp lực nước lỗ rỗng** $r_u = u / \sigma'_v$ — tỷ số giữa áp lực nước
-  lỗ rỗng và ứng suất hiệu dụng thẳng đứng ban đầu; $r_u$ cao hoặc tăng lên báo
+  lỗ rỗng và ứng suất hữu hiệu thẳng đứng ban đầu; $r_u$ cao hoặc tăng lên báo
   hiệu nguy cơ mất cường độ do hóa lỏng.
 - **Áp lực nước lỗ rỗng dư** sinh ra trong hoặc sau các sự kiện động đất hoặc gia tải nhanh, đo bởi
   áp kế piezometer có độ nhạy và đáp ứng nhanh.

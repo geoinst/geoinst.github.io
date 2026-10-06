@@ -15,7 +15,7 @@ Chào mừng đến với Cơ sở tri thức Thiết bị quan trắc địa k�
 
 ## Nội dung trang
 
-- **Danh mục thiết bị** — danh mục toàn bộ dòng sản phẩm: piezometer (đầu đo áp lực nước), extensometer (thiết bị đo biến dạng), inclinometer (đầu đo độ nghiêng), data logger (bộ ghi dữ liệu), và nền tảng wireless (không dây). [Duyệt →](categories.md)
+- **Danh mục thiết bị** — danh mục toàn bộ dòng sản phẩm: piezometer (áp kế), extensometer (thiết bị đo biến dạng), inclinometer (đầu đo độ nghiêng), data logger (bộ ghi dữ liệu), và nền tảng wireless (không dây). [Duyệt →](categories.md)
 - **Sổ tay tham khảo** — các tài liệu tra cứu có thể tìm kiếm, bao gồm *Geotechnical Instrumentation for Monitoring Field Performance* của Dunnicliff và *Geotechnical Instrumentation Reference Manual* của FHWA. [Duyệt →](../reference-manuals/index.md)
 - **Trợ lý AI** — chatbot **GTI Doctor** (Bác sĩ GTI) trả lời các câu hỏi kỹ thuật, sử dụng các sổ tay trên trang này làm căn cứ tham chiếu. [Dùng thử →](../gti-doctor.md)
 

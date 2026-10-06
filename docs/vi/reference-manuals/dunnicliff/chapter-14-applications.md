@@ -16,7 +16,7 @@ Các chương trước đã trình bày chi tiết từng "nguyên liệu" riên
 Trong thi công hố đào sâu trong đô thị (tầng hầm nhà cao tầng, ga tàu điện ngầm ngầm), mục tiêu số một là kiểm soát độ võng của kết cấu chắn giữ và ngăn ngừa lún nứt công trình, đường sá lân cận.
 
 ### Cấu hình thiết bị tiêu chuẩn:
-- **Tế bào đo tải thanh chống (Strut Load Cells)**: Gắn tại đầu các thanh chống thép hình để theo dõi lực nén dọc trục truyền từ tường vây vào hệ giằng.
+- **Cảm biến đo tải trọng thanh chống (Strut Load Cells)**: Gắn tại đầu các thanh chống thép hình để theo dõi lực nén dọc trục truyền từ tường vây vào hệ giằng.
 - **Ống đo nghiêng (Inclinometer) trong thân tường vây (D-wall)**: Đo độ võng uốn ngang của tường theo từng giai đoạn đào đất và lắp thanh chống.
 - **Ống đo nghiêng (Inclinometer) trong đất phía sau tường**: Phát hiện độ dịch chuyển của khối đất và mặt trượt sâu tiềm năng.
 - **Piezometer dây rung**: Bố trí cả bên trong hố móng (kiểm tra hiệu quả hạ mực nước ngầm) và bên ngoài hố móng (cảnh báo nguy cơ tụt nước ngầm làm lún nhà dân).
@@ -65,8 +65,8 @@ Thi công nền đường đắp cao hoặc đê bao trên bùn sét yếu đòi
 Trong thi công hầm theo phương pháp quan sát (NATM / SEM), quan trắc là công cụ quyết định chiều dày bê tông phun và mật độ neo đá:
 - **Đo hội tụ chu vi hầm (Convergence Pins)**: Dùng thước dây Invar hoặc máy toàn đạc đo khoảng cách co hẹp giữa các điểm gắn trên vách hầm; đồ thị hội tụ phải tiệm cận trạng thái ổn định (vận tốc hội tụ giảm dần về 0).
 - **MPBX cắm từ vòm hầm**: Xác định bán kính vùng phá hoại dẻo và độ võng của khối đá mái hầm.
-- **Tế bào đo tải bu lông neo đá (Rock Bolt Load Cells)**: Theo dõi lực kéo thực tế trong thanh neo đá.
-- **Tế bào đo ứng suất bê tông phun (Shotcrete Stress Cells)**: Đo ứng suất nén tiếp tuyến trong vỏ hầm.
+- **Cảm biến đo tải trọng bu lông neo đá (Rock Bolt Load Cells)**: Theo dõi lực kéo thực tế trong thanh neo đá.
+- **Cảm biến đo ứng suất bê tông phun (Shotcrete Stress Cells)**: Đo ứng suất nén tiếp tuyến trong vỏ hầm.
 
 ---
 

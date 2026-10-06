@@ -48,7 +48,7 @@ Tài liệu này hệ thống hóa các nguyên lý lập kế hoạch, các h�
 
 ![Figure: dunnicliff-instrument-cross-section](../../../assets/figures/dunnicliff-instrument-cross-section.svg)
 
-**Hình.** Đập đất có trang bị thiết bị quan trắc điển hình: mốc khảo sát, extensometer (MPBX), inclinometer có đầu dò, piezometer, tế bào áp lực đất và trạm đo thấm, cùng mặt nước thấm (Dunnicliff, Ch. 1 và 8).
+**Hình.** Đập đất có trang bị thiết bị quan trắc điển hình: mốc khảo sát, extensometer (MPBX), inclinometer có đầu dò, piezometer, hộp đo áp lực đất và trạm đo thấm, cùng mặt nước thấm (Dunnicliff, Ch. 1 và 8).
 
 ## 1.6 Các điểm then chốt cần ghi nhớ
 
