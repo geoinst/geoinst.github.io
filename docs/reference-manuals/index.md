@@ -26,6 +26,7 @@ This section catalogs the reference corpus behind this knowledge base. Each entr
 | Monitoring Dam Performance | ASCE / USSD (MOP-135) | ASCE Manual of Practice 135 — open educational digest | [→](monitoring-dam-performance/index.md) |
 | Tailings Dam Safety: An Engineering Reference | ICOLD (Bulletin 194) | ICOLD Bulletin 194 — open technical reference on tailings storage facilities | [→](tailings-dam-safety/index.md) |
 | Practical Rock Engineering | Dr. Evert Hoek | Rocscience Open Educational Resource / Hoek's Corner | [→](practical-rock-engineering/index.md) |
+| CFEM 2022 — Geotechnical Instrumentation and Monitoring | Pierre Choquet (Canadian Foundation Engineering Manual, 4th Ed.) | CFEM 2022, Chapter 25 — copyrighted; independent digest with an **expanded reference apparatus** (ASTM / ISO / DIN standards, textbooks, USACE / Reclamation / FERC / ICOLD manuals) | [→](cfem/index.md) |
 | Geotechnical Engineer's Handbook | Trần Văn Việt (Nhà xuất bản Xây dựng) | *Cẩm nang dùng cho kỹ sư địa kỹ thuật* — copyrighted; independent digest, not a reproduction | [→](geotechnical-engineers-handbook/index.md) |
 
 The remaining source PDFs (Advanced Geotech, GATE study guides, geological methods, hydrology, mining glossary, field methods) will be listed here as their per-manual pages are written.

@@ -264,6 +264,9 @@ nav:
               - "Ch.10 Thiết kế buồng ngầm quy mô lớn": vi/reference-manuals/practical-rock-engineering/chapter-10-large-underground-caverns.md
               - "Ch.11 Neo đá, cáp neo & Bê tông phun": vi/reference-manuals/practical-rock-engineering/chapter-11-rockbolts-shotcrete-support.md
               - "Ch.12 Tổn thương do nổ mìn & Đào kiểm soát": vi/reference-manuals/practical-rock-engineering/chapter-12-blasting-damage-controlled-excavation.md
+          - "CFEM 2022 — Quan trắc Địa kỹ thuật & Giám sát":
+              - Tổng quan: vi/reference-manuals/cfem/index.md
+              - "Ch.25 Quan trắc & Giám sát (kèm tham khảo mở rộng)": vi/reference-manuals/cfem/chapter-25-instrumentation-monitoring.md
       - "Môi trường thử nghiệm tương tác": vi/visualizer.md
       - "Bác sĩ GTI (AI)": vi/gti-doctor.md
       - "Tuân thủ pháp lý":
@@ -447,6 +450,9 @@ nav:
           - "Ch.10 Large Underground Caverns": reference-manuals/practical-rock-engineering/chapter-10-large-underground-caverns.md
           - "Ch.11 Rockbolts & Shotcrete Support": reference-manuals/practical-rock-engineering/chapter-11-rockbolts-shotcrete-support.md
           - "Ch.12 Blasting Damage & Controlled Excavation": reference-manuals/practical-rock-engineering/chapter-12-blasting-damage-controlled-excavation.md
+      - "CFEM 2022 — Geotechnical Instrumentation & Monitoring":
+          - Overview: reference-manuals/cfem/index.md
+          - "Ch.25 Instrumentation & Monitoring (with expanded references)": reference-manuals/cfem/chapter-25-instrumentation-monitoring.md
   - Interactive Sandbox: visualizer.md
   - GTI Doctor (AI): gti-doctor.md
   - Glossary: glossary/index.md

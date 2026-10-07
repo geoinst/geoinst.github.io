@@ -27,6 +27,7 @@ Phần này lập danh mục kho tư liệu tham khảo của cơ sở tri thứ
 | Giám sát hiệu năng đập | ASCE / USSD (MOP-135) | ASCE Manual of Practice 135 — bản tổng hợp giáo dục mở | [→](monitoring-dam-performance/index.md) |
 | An toàn đập thải: Tài liệu tham khảo kỹ thuật | ICOLD (Bulletin 194) | ICOLD Bulletin 194 — tài liệu tham khảo kỹ thuật mở về cơ sở lưu giữ bùn thải mỏ | [→](tailings-dam-safety/index.md) |
 | Cơ học đá thực hành | TS. Evert Hoek | Tài nguyên giáo dục mở Rocscience / Hoek's Corner | [→](practical-rock-engineering/index.md) |
+| CFEM 2022 — Quan trắc Địa kỹ thuật và Giám sát | Pierre Choquet (Sổ tay Kỹ thuật Nền móng Canada, ấn bản 4) | CFEM 2022, Chương 25 — có bản quyền; bản tổng hợp độc lập kèm **bộ tài liệu tham khảo mở rộng** (tiêu chuẩn ASTM / ISO / DIN, giáo trình, sổ tay USACE / Reclamation / FERC / ICOLD) | [→](cfem/index.md) |
 | Cẩm nang dùng cho kỹ sư địa kỹ thuật | Trần Văn Việt (NXB Xây dựng) | *Cẩm nang dùng cho kỹ sư địa kỹ thuật* — có bản quyền; bản tổng hợp độc lập, không sao chép nguyên văn | [→](cam-nang-ky-su-dia-ky-thuat/index.md) |
 
 Các tài liệu nguồn còn lại (Advanced Geotech, cẩm nang ôn thi GATE, phương pháp địa chất, thủy văn, bảng thuật ngữ khai khoáng, phương pháp hiện trường) sẽ được liệt kê tại đây khi các trang riêng cho từng tài liệu được hoàn thiện.
