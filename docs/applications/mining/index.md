@@ -111,6 +111,12 @@ Tailings dams represent the greatest catastrophic environmental and life-safety 
 - Automated seepage monitoring flumes with turbidity sensors to flag internal erosion (piping).
 - Continuous real-time InSAR satellite and GNSS displacement tracking for crest settlement and lateral spreading.
 
+### Worked example: in-pit tailings dykes
+
+Where tailings are stored inside a mined-out pit rather than behind an external dam, the monitoring problem changes — the foundation has been **unloaded by up to 90 m of excavation**, and the dyke is raised continuously while tailings are deposited behind it. See the full case study:
+
+- **[Case Study — Instrumenting In-Pit Tailings Dykes at Muskeg River Mine (2013)](in-pit-dykes-mrm/index.md)**: pore pressure ratios $r_u$ and $B$, deformation caution limits (Green → Red with a construction stoppage at Red), and total-stress $K_o$ monitoring for hydraulic-fracture assessment. Original paper and full Vietnamese translation both available as PDF.
+
 ---
 
 ## 6. Comprehensive References in This Knowledge Base

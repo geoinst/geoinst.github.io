@@ -111,6 +111,12 @@ flowchart TD
 - Tràn đo lưu lượng thấm tự động tích hợp cảm biến độ đục nhằm phát hiện sớm xói ngầm (piping) cuốn trôi hạt mịn.
 - Giám sát viễn thám InSAR vệ tinh kết hợp các trạm GNSS liên tục để đo độ lún đỉnh đập và chuyển vị trôi ngang của đập dâng.
 
+### Ví dụ điển hình: đập trong hố móng
+
+Khi quặng đuôi được chứa bên trong hố móng đã khai thác hết thay vì sau một đập bên ngoài, bài toán quan trắc thay đổi — nền đập đã bị **dỡ tải tới 90 m** do đào bóc, và đập được nâng cao liên tục trong khi quặng đuôi đang được thải vào phía sau. Xem nghiên cứu tình huống đầy đủ:
+
+- **[Nghiên cứu tình huống — Quan trắc các Đập trong hố móng tại mỏ Muskeg River (2013)](in-pit-dykes-mrm/index.md)**: các tỷ số áp lực nước lỗ rỗng $r_u$ và $B$, bảng giới hạn cảnh báo biến dạng (Xanh → Đỏ, với hành động dừng thi công ở mức Đỏ) và quan trắc ứng suất tổng $K_o$ để đánh giá khả năng nứt thủy lực. Cả bài báo gốc và bản dịch tiếng Việt đầy đủ đều có sẵn dưới dạng PDF.
+
 ---
 
 ## 6. Các Sổ tay Tham khảo Chuyên sâu trên Hệ thống

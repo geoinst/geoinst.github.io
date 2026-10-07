@@ -103,7 +103,9 @@ nav:
           - Quan trắc đập: vi/applications/dam-monitoring.md
           - Thiết bị hầm: vi/applications/tunnels.md
           - Móng & Đào đất: vi/applications/foundations.md
-          - Địa kỹ thuật khai khoáng: vi/applications/mining/index.md
+          - Địa kỹ thuật khai khoáng:
+              - Tổng quan: vi/applications/mining/index.md
+              - "Nghiên cứu tình huống — Đập trong hố móng, mỏ Muskeg River (2013)": vi/applications/mining/in-pit-dykes-mrm/index.md
       - "Sổ tay tham khảo":
           - Mục lục: vi/reference-manuals/index.md
           - "Tầm nhìn Tổng thể & Khung Tích hợp": vi/reference-manuals/overarching-vision.md
@@ -291,7 +293,9 @@ nav:
       - Dam Monitoring: applications/dam-monitoring.md
       - Tunnel Instrumentation: applications/tunnels.md
       - Foundation & Excavation: applications/foundations.md
-      - Mining Geotechnics: applications/mining/index.md
+      - Mining Geotechnics:
+          - Overview: applications/mining/index.md
+          - "Case Study — In-Pit Dykes, Muskeg River Mine (2013)": applications/mining/in-pit-dykes-mrm/index.md
   - Reference Manuals:
       - Catalog Index: reference-manuals/index.md
       - "The Grand Vision & Integrated Framework": reference-manuals/overarching-vision.md
