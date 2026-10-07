@@ -5,7 +5,7 @@ lang_alt: vi/reference-manuals/
 # Reference Manuals
 
 !!! tip "Grand Vision & Overarching Framework"
-    Discover how all 11 reference manuals interconnect—from deep geological crustal processes and soil mechanics to structural foundations, life-safety dam monitoring, and automated **ADAQS** sensor telemetry:  
+    Discover how all 15 reference manuals interconnect—from deep geological crustal processes and soil mechanics to structural foundations, life-safety dam monitoring, mining instrumentation, and automated **ADAQS** sensor telemetry:  
     👉 **[Read the Grand Vision & Integrated Framework →](overarching-vision.md)**
 
 This section catalogs the reference corpus behind this knowledge base. Each entry below resolves to a per-manual or per-book chapter with extracted text, key concepts, and cross-links. Entries marked *public domain* are **U.S. Government works** (USACE Engineering Manuals, FHWA/NHI manuals) that may be reproduced and adapted freely. Entries marked **CC BY** are openly licensed works that may likewise be reused with attribution.
@@ -29,6 +29,7 @@ This section catalogs the reference corpus behind this knowledge base. Each entr
 | CFEM 2022 — Geotechnical Instrumentation and Monitoring | Pierre Choquet (Canadian Foundation Engineering Manual, 4th Ed.) | CFEM 2022, Chapter 25 — copyrighted; independent digest with an **expanded reference apparatus** (ASTM / ISO / DIN standards, textbooks, USACE / Reclamation / FERC / ICOLD manuals) | [→](cfem/index.md) |
 | Geotechnical Engineer's Handbook | Trần Văn Việt (Nhà xuất bản Xây dựng) | *Cẩm nang dùng cho kỹ sư địa kỹ thuật* — copyrighted; independent digest, not a reproduction | [→](geotechnical-engineers-handbook/index.md) |
 | SME Mining Engineering Handbook — Geotechnical Instrumentation (Ch. 8.5) | Erik Eberhardt & Doug Stead (SME Mining Engineering Handbook, 3rd Ed.) | SME Ch. 8.5 — copyrighted; independent digest with the **full Vietnamese translation** (29 pp., 5 tables, 14 figures) and the original PDF for comparison | [→](sme-mine-handbook/index.md) |
+| Handbook of Geotechnical Investigation and Design Tables | Burt G. Look (Taylor & Francis / Balkema, 2007) | *Handbook of Geotechnical Investigation and Design Tables* — copyrighted; independent digest with the **full 24-chapter scope table** and the original 356-page PDF for comparison; a full Vietnamese translation is incremental future work | [→](burt-look-handbook/index.md) |
 
 The remaining source PDFs (Advanced Geotech, GATE study guides, geological methods, hydrology, mining glossary, field methods) will be listed here as their per-manual pages are written.
 

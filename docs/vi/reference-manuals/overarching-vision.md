@@ -6,7 +6,7 @@ lang_alt: reference-manuals/overarching-vision/
 # Tầm nhìn Tổng thể: Từ Cấu trúc Trái đất đến Quan trắc Thời gian thực & Phòng ngừa Thảm họa
 
 !!! info "Khung Tổng hợp Chiến lược & Nền tảng Kỹ thuật"
-    Chương chuyên khảo tổng thể này liên kết và thống nhất toàn bộ kho tri thức địa kỹ thuật trên nền tảng—bao gồm **Địa chất Vật lý**, **Cơ học Đất**, **Kỹ thuật Móng**, **An toàn Đập & Đập Thải**, **Thiết bị Quan trắc Nâng cao (Dunnicliff / FHWA)**, và các tiến bộ mới nhất trong **GeoVadis (Tập 1–3)**. Tài liệu này kiến tạo tầm nhìn kỹ thuật toàn cảnh, kết nối từ tiến trình kiến tạo hàng triệu năm của vỏ Trái Đất đến từng xung tín hiệu cảm biến truyền theo thời gian thực (mili-giây), lý giải vì sao thiết bị quan trắc địa kỹ thuật và hệ thống **ADAQS** là chìa khóa then chốt để phòng chống thảm họa và bảo vệ sự bền vững trọn đời của các công trình hạ tầng quốc gia.
+    Chương chuyên khảo tổng thể này liên kết và thống nhất toàn bộ kho tri thức địa kỹ thuật trên nền tảng—bao gồm **Địa chất Vật lý**, **Cơ học Đất**, **Kỹ thuật Móng**, **Thực hành Đá (Hoek)**, **An toàn Đập & Đập Thải**, **Thiết bị Quan trắc Nâng cao (Dunnicliff / FHWA)**, **CFEM 2022** và **Thiết bị Quan trắc Khai khoáng SME (Ch. 8.5)**, **Bảng tra cứu & Thiết kế của Burt**, cùng các tiến bộ mới nhất trong **GeoVadis (Tập 1–3)**. Tài liệu này kiến tạo tầm nhìn kỹ thuật toàn cảnh, kết nối từ tiến trình kiến tạo hàng triệu năm của vỏ Trái Đất đến từng xung tín hiệu cảm biến truyền theo thời gian thực (mili-giây), lý giải vì sao thiết bị quan trắc địa kỹ thuật và hệ thống **ADAQS** là chìa khóa then chốt để phòng chống thảm họa và bảo vệ sự bền vững trọn đời của các công trình hạ tầng quốc gia.
 
 ---
 
@@ -43,6 +43,7 @@ flowchart TD
 
 ### Nghịch lý Cốt lõi của Kỹ thuật Địa kỹ thuật
 Khác với thép kết cấu hay bê tông cốt thép—những vật liệu nhân tạo được kiểm soát dung sai, giới hạn chảy và mô đun đàn hồi nghiêm ngặt trong nhà máy—**đất đá là vật liệu tự nhiên, dị hướng, mờ đục, phi tuyến và phụ thuộc sâu sắc vào lịch sử ứng suất**:
+
 1. **Tính Bất khả tri (Invisibility):** Kỹ sư không thể bổ đôi lòng đất như một cỗ máy để nhìn thấu từng mét khối. Mạng lưới các lỗ khoan khảo sát chỉ lấy mẫu được chưa tới $0,001\%$ thể tích đất nền dưới công trình.
 2. **Cơ học Tương hỗ Phi tuyến:** Sức chịu tải của đất không được quyết định bởi ứng suất tổng, mà chi phối bởi **nguyên lý ứng suất hữu hiệu** ($\sigma' = \sigma - u$). Một biến thiên nhỏ của áp lực nước lỗ rỗng $u$ có thể kéo ứng suất hữu hiệu $\sigma'$ về 0, biến nền đất vững chắc thành dòng bùn hóa lỏng mất hoàn toàn khả năng chịu lực.
 3. **Phá hoại Tiến triển Ngầm:** Đất đá phá hoại tiến triển dọc theo các mặt trượt định hình ngầm hoặc các đường ống xói ngầm (piping) hoàn toàn không phát lộ dấu vết nào trên mặt đất cho tới khi xảy ra sụp đổ thảm khốc.
@@ -75,22 +76,27 @@ graph TD
     GV1["9. GeoVadis Tập 1 (GAIC 2025)<br/>Chân trời Mới: AI Địa kỹ thuật, Vùng lạnh/biển, Động lực học"]:::system
     GV2["10. GeoVadis Tập 2 (GAIC 2025)<br/>Chân trời Mới: Cải tạo nền, Đo điện trở thấm ERT, Hầm TBM/NATM"]:::system
     GV3["11. GeoVadis Tập 3 (GAIC 2025)<br/>Chân trời Mới: Siêu công trình, Móng bè cọc đệm cát, Khí hậu"]:::system
+    PRE["12. Thực hành Đá (Hoek)<br/>Cơ học & Kỹ thuật Đá: GSI, mái dốc, hầm, móng đá"]:::physics
+    CFEM["13. CFEM 2022 Ch.25 — Quan trắc & Giám sát Địa kỹ thuật (Choquet)<br/>Sổ tay hiện trường Canada: cảm biến, chất lượng dữ liệu, tiêu chuẩn"]:::monitor
+    SME["14. SME Cẩm nang Kỹ thuật Mỏ Ch.8.5 — Thiết bị Quan trắc Khai khoáng (Eberhardt & Stead)<br/>Thiết bị quan trắc địa kỹ thuật cho khai khoáng & đập thải"]:::monitor
+    BURT["15. Burt — Cẩm nang Tra cứu & Thiết kế Địa kỹ thuật<br/>Sổ tay dữ liệu: hệ thức tương quan, quy tắc kinh nghiệm, bảng thiết kế"]:::design
     ADA["Hệ thống ADAQS & Tuân thủ Pháp lý<br/>Đo đạc tự động, Hợp nhất cảm biến, Nghị định 114, TCVN 9398"]:::system
 
-    PG --> SM --> FE --> DAM & TLG
+    PG --> SM --> PRE --> FE --> DAM & TLG
     FE --> HB
-    SM --> DUN & FHW
+    FE --> BURT
+    SM --> DUN & FHW & CFEM & SME
     DAM & TLG --> DUN
-    DUN & FHW --> ADA
+    DUN & FHW & CFEM & SME --> ADA
     GV1 & GV2 & GV3 --> ADA
 ```
 
 ### Tiến trình Khái niệm:
 1. **Khởi nguyên Địa tầng (*Địa chất Vật lý*):** Giúp người kỹ sư thấu hiểu cách thức các khối đá basalt mác-ma, đới dập vỡ đứt gãy, trầm tích sét hồ bão hòa và sông băng đã tạo dựng nên môi trường đất đá ngầm và cơ chế thủy văn.
-2. **Quy luật Cơ học (*Cơ học Đất*):** Chuyển hóa các cấu trúc địa chất thành các phương trình cơ học: cấp phối hạt, giới hạn Atterberg, hệ số thấm $k$, chỉ số nén $C_c$, sức kháng cắt không thoát nước $s_u$, và ten-xơ ứng suất hữu hiệu.
-3. **Truyền lực Nền móng (*Kỹ thuật Móng* & *Cẩm nang Trần Văn Việt*):** Hướng dẫn tính toán phân bố tải trọng siêu công trình xuống tầng đất đỡ thông qua móng đơn, móng băng, móng bè cọc, cọc khoan nhồi, tường vây barrette và tường đất có cốt (MSE).
+2. **Quy luật Cơ học (*Cơ học Đất* & *Thực hành Đá*):** Chuyển hóa các cấu trúc địa chất thành các phương trình cơ học: cấp phối hạt, giới hạn Atterberg, hệ số thấm $k$, chỉ số nén $C_c$, sức kháng cắt không thoát nước $s_u$, và ten-xơ ứng suất hữu hiệu. *Thực hành Đá (Hoek)* mở rộng nguyên lý này sang **cơ học đá** — GSI, cắt mặt bất liên tục, ứng suất nguyên sinh, và triết lý thiết kế chấp nhận được cho mái dốc đá, hầm và móng đá.
+3. **Truyền lực Nền móng (*Kỹ thuật Móng*, *Cẩm nang Trần Văn Việt* & *Burt*):** Hướng dẫn tính toán phân bố tải trọng siêu công trình xuống tầng đất đỡ thông qua móng đơn, móng băng, móng bè cọc, cọc khoan nhồi, tường vây barrette và tường đất có cốt (MSE). *Cẩm nang Tra cứu & Thiết kế Địa kỹ thuật của Burt* cung cấp **các hệ thức tương quan và bảng thiết kế** (SPT → cường độ, CPT → loại đất, RQD → sức chịu tải đá, PI → mô đun) để biến lý thuyết thành những con số sẵn sàng nhập bảng tính.
 4. **Hạ tầng Rủi ro Cực đại (*An toàn Đập & Đập Thải*):** Làm rõ các cơ chế phá hoại thảm khốc: xói ngầm thân đập, bục đáy do áp lực ngược, mất ổn định trượt mái đập khi rút nước nhanh, và hóa lỏng dòng chảy của bùn quặng thải.
-5. **Triết lý Chẩn đoán (*Dunnicliff & FHWA*):** Đưa ra **Phương pháp Quan sát (Observational Method)** của Ralph B. Peck, dạy kỹ sư cách đặt câu hỏi địa kỹ thuật cụ thể để lựa chọn đúng chủng loại cảm biến đo đạc.
+5. **Triết lý Chẩn đoán (*Dunnicliff, FHWA, CFEM 2022* & *Thiết bị Quan trắc Khai khoáng SME*):** Đưa ra **Phương pháp Quan sát (Observational Method)** của Ralph B. Peck, dạy kỹ sư cách đặt câu hỏi địa kỹ thuật cụ thể để lựa chọn đúng chủng loại cảm biến đo đạc — được mở rộng bởi sổ tay hiện trường **CFEM 2022 Ch.25** (Canada) về quan trắc & giám sát và chương **SME Cẩm nang Kỹ thuật Mỏ Ch.8.5** về thiết bị quan trắc địa kỹ thuật cho khai khoáng và đập thải.
 6. **Công nghệ Tiên phong (*GeoVadis Tập 1, 2, 3*):** Mở rộng tầm nhìn sang mô hình học máy thay thế (surrogate models), mạng nơ-ron thông tin vật lý (PINNs), vật liệu sinh học biopolymer, kết tủa canxit vi sinh (MICP), thăm dò địa chấn trước gương hầm, và thiết kế đường thích ứng biến đổi khí hậu.
 7. **Trung tâm Điều hành Thời gian thực (*ADAQS & Khung Pháp lý*):** Kết nối cảm biến ngầm với mạng lưới đo đạc tự động, máy chủ đám mây, bộ lọc dữ liệu thông minh và đối chiếu với tiêu chuẩn pháp luật (Nghị định 114/2018/NĐ-CP và TCVN 9398:2012).
 
@@ -206,6 +212,13 @@ graph TD
 *   **Thanh thép đo biến dạng phụ (Sister Bar):** Được buộc song song với cốt thép chủ trong lồng thép tường vây barrette để tính toán mô-men uốn thực tế $M(z) = \frac{E \cdot I \cdot \varepsilon(z)}{y}$, cảnh báo từ sớm nếu mặt cắt bê tông tiến gần đến giới hạn chảy dẻo.
 *   **Áp kế (Piezometer):** Giám sát mực nước ngầm phía ngoài tường chắn để đảm bảo việc bơm hạ nước ngầm bên trong hố móng không làm tụt mực nước ngầm khu vực xung quanh, ngăn ngừa thảm họa lún võng mặt đường và nứt sập nhà dân lân cận.
 
+### 5.3 Địa kỹ thuật Khai khoáng & Thiết bị Quan trắc Đập Thải
+Khai khoáng lộ thiên và bán lộ thiên đẩy cùng một nguyên lý vật lý vào những hình học cực đoan nhất — tường mỏ cao hàng trăm mét và đập thải đắp trên nền mềm, bão hòa, đôi khi đang tan băng:
+
+*   **SME Cẩm nang Kỹ thuật Mỏ (Ch. 8.5):** Đặt khung thiết bị quan trắc địa kỹ thuật chuyên cho vòng đời khai khoáng — chuyển vị tường mỏ, rung chấn nổ mìn và giám sát công trình bùn thải — mở rộng triết lý Dunnicliff/FHWA sang lĩnh vực khai thác.
+*   **Thực hành Đá (Hoek):** Cung cấp xương sống thiết kế mái dốc đá và hầm quy mô lớn (GSI, phân tích động lực học, hệ số an toàn chấp nhận được) đứng sau những tường mỏ ổn định.
+*   **Nghiên cứu tình huống — Đập trong hố móng bùn thải, mỏ Muskeg River (2013):** Một nghiên cứu tình huống đã công bố cho thấy dữ liệu quan trắc (áp kế, ống đo nghiêng, thiết bị đo lún) được dùng để kiểm chứng các đợt đắp nâng đập thải trong hố móng so với chuyển vị dự báo của thiết kế — Phương pháp Quan sát trong bối cảnh khai khoáng. Xem các trang ứng dụng [Địa kỹ thuật Khai khoáng](../applications/mining/index.md).
+
 ---
 
 ## 6. Tổng kết: Từ Thời gian Địa chất Đến Mili-giây Dữ liệu
@@ -227,4 +240,4 @@ Không có **Cơ học Đất**, kỹ sư không thể định lượng được
 Không có **Kỹ thuật Móng**, công trình không thể đứng vững trên nền đất.  
 Không có **Thiết bị Quan trắc và Hệ thống ADAQS**, kỹ sư sẽ hoàn toàn mù quáng trước những biến đổi ngầm, đẩy công trình vào nguy cơ thảm họa.
 
-Sự gắn kết hữu cơ của toàn bộ 11 bộ tài liệu trong cơ sở tri thức này biến kỹ thuật địa kỹ thuật từ một bộ môn đầy bất định thành một **khoa học dự báo, định lượng và chủ động bảo vệ tính mạng con người**.
+Sự gắn kết hữu cơ của toàn bộ 15 bộ tài liệu trong cơ sở tri thức này biến kỹ thuật địa kỹ thuật từ một bộ môn đầy bất định thành một **khoa học dự báo, định lượng và chủ động bảo vệ tính mạng con người**.

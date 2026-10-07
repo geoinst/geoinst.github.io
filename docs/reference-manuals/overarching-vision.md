@@ -6,7 +6,7 @@ lang_alt: vi/reference-manuals/overarching-vision/
 # The Grand Vision: From Earth's Crust to Real-Time Monitoring & Disaster Prevention
 
 !!! info "Executive Synthesis & Foundational Framework"
-    This overarching guide synthesizes the entire geotechnical corpus hosted on this platform—spanning **Physical Geology**, **Soil Mechanics**, **Foundation Engineering**, **Dam & Tailings Safety**, **Advanced Instrumentation (Dunnicliff / FHWA)**, and the latest **GeoVadis Frontiers (Volumes 1–3)**. It articulates the grand engineering vision connecting planetary earth processes to daily sensor telemetry, explaining why geotechnical instrumentation and **ADAQS** are indispensable to preventing catastrophic disasters and ensuring the lifelong resilience of civil infrastructure.
+    This overarching guide synthesizes the entire geotechnical corpus hosted on this platform—spanning **Physical Geology**, **Soil Mechanics**, **Foundation Engineering**, **Rock Engineering (Hoek)**, **Dam & Tailings Safety**, **Advanced Instrumentation (Dunnicliff / FHWA)**, **CFEM 2022** and **SME Mining Instrumentation (Ch. 8.5)**, the **Burt investigation-and-design data tables**, and the latest **GeoVadis Frontiers (Volumes 1–3)**. It articulates the grand engineering vision connecting planetary earth processes to daily sensor telemetry, explaining why geotechnical instrumentation and **ADAQS** are indispensable to preventing catastrophic disasters and ensuring the lifelong resilience of civil infrastructure.
 
 ---
 
@@ -43,6 +43,7 @@ flowchart TD
 
 ### The Fundamental Dilemma of Geotechnical Engineering
 Unlike structural steel or reinforced concrete—whose manufacturing tolerances, yield strengths, and elastic moduli are precisely controlled in industrial factories—**geomaterials are natural, non-homogeneous, opaque, anisotropic, and stress-history-dependent**:
+
 1. **Invisibility:** Engineers cannot open the ground like a machine to inspect every cubic meter. Boreholes sample less than $0.001\%$ of the subterranean volume.
 2. **Coupled Non-Linear Physics:** Soil strength is dictated not by total stress, but by the **effective stress principle** ($\sigma' = \sigma - u$). A minute change in pore-water pressure $u$ can drop effective stress $\sigma'$ to zero, transforming solid ground into a fluidized slurry.
 3. **Progressive Failure:** Geomaterials fail progressively along localized shear bands or internal erosion pathways that remain entirely invisible from the surface until catastrophic collapse occurs.
@@ -75,22 +76,27 @@ graph TD
     GV1["9. GeoVadis Vol. 1 (GAIC 2025)<br/>Modern Frontiers: AI Geomechanics, Cold/Coastal, Soil Dynamics"]:::system
     GV2["10. GeoVadis Vol. 2 (GAIC 2025)<br/>Frontiers: Ground Improvement, ERT Seepage, TBM/NATM, Landslides"]:::system
     GV3["11. GeoVadis Vol. 3 (GAIC 2025)<br/>Frontiers: Megastructures, DPRF Cushions, Ethics, Climate Resilience"]:::system
+    PRE["12. Practical Rock Engineering (Hoek)<br/>Rock Mechanics & Engineering: GSI, slopes, tunnels, rock foundations"]:::physics
+    CFEM["13. CFEM 2022 Ch.25 — Geotechnical Instrumentation & Monitoring (Choquet)<br/>Canadian field manual: sensors, data quality, standards"]:::monitor
+    SME["14. SME Mining Eng. Handbook Ch.8.5 — Mining Instrumentation (Eberhardt & Stead)<br/>Geotechnical instrumentation for mining & tailings"]:::monitor
+    BURT["15. Burt — Handbook of Geotechnical Investigation & Design Tables<br/>Data book: correlations, rules of thumb, design tables"]:::design
     ADA["ADAQS & Compliance Hub<br/>Automated Systems, Sensor Fusion, Decree 114, TCVN 9398"]:::system
 
-    PG --> SM --> FE --> DAM & TLG
+    PG --> SM --> PRE --> FE --> DAM & TLG
     FE --> HB
-    SM --> DUN & FHW
+    FE --> BURT
+    SM --> DUN & FHW & CFEM & SME
     DAM & TLG --> DUN
-    DUN & FHW --> ADA
+    DUN & FHW & CFEM & SME --> ADA
     GV1 & GV2 & GV3 --> ADA
 ```
 
 ### The Knowledge Progression:
 1. **The Origin & Lithology (*Physical Geology*):** Teaches how volcanic basalts, tectonic fault gouges, marine sediments, and glacial till deposits formed their macro-fabrics and groundwater regimes.
-2. **The Fundamental Physics (*Soil Mechanics*):** Translates geological strata into mechanics: grain size distribution, Atterberg limits, permeability $k$, compressibility $C_c$, undrained shear strength $s_u$, and the effective stress tensor.
-3. **The Design Synthesis (*Foundation Engineering* & *Handbook*):** Calculates how to distribute superstructure loads safely through shallow spread footings, deep bored piles, barrettes, and mechanically stabilized earth (MSE) walls.
+2. **The Fundamental Physics (*Soil Mechanics* & *Practical Rock Engineering*):** Translates geological strata into mechanics: grain size distribution, Atterberg limits, permeability $k$, compressibility $C_c$, undrained shear strength $s_u$, and the effective stress tensor. *Practical Rock Engineering* (Hoek) extends this into **rock mechanics** — GSI, discontinuity shear, in-situ stresses, and acceptable-design philosophy for rock slopes, tunnels, and rock foundations.
+3. **The Design Synthesis (*Foundation Engineering*, *Geotechnical Engineer's Handbook* & *Burt*):** Calculates how to distribute superstructure loads safely through shallow spread footings, deep bored piles, barrettes, and mechanically stabilized earth (MSE) walls — and *Burt's Handbook of Geotechnical Investigation and Design Tables* supplies the **correlations and design tables** (SPT → strength, CPT → soil type, RQD → rock bearing capacity, PI → modulus) that turn that theory into spreadsheet-ready numbers.
 4. **The High-Risk Asset Frontiers (*Dams & Tailings Safety*):** Establishes the fatal failure mechanisms of critical water-retaining and mine-tailings embankments: piping, hydraulic fracturing, foundation sliding, and flow liquefaction.
-5. **The Diagnostic Philosophy (*Dunnicliff & FHWA Instrumentation*):** Introduces the **Observational Method** (Peck, 1969), teaching engineers how to form specific geotechnical questions and select the exact instrument family to answer each question.
+5. **The Diagnostic Philosophy (*Dunnicliff, FHWA, CFEM 2022* & *SME Mining Instrumentation*):** Introduces the **Observational Method** (Peck, 1969), teaching engineers how to form specific geotechnical questions and select the exact instrument family to answer each question — broadened by the **CFEM 2022 Ch. 25** Canadian instrumentation-and-monitoring field manual and the **SME Mining Engineering Handbook Ch. 8.5** treatment of geotechnical instrumentation for mining and tailings.
 6. **The Technological Frontier (*GeoVadis Volumes 1–3*):** Advances the profession into machine learning surrogate models, physics-informed neural networks (PINNs), biopolymer stabilization, bio-cementation (MICP), advanced seismic look-ahead tunnel geophysics, and climate-resilient road alignments.
 7. **The Operational Nerve Center (*ADAQS & Statutory Compliance*):** Connects field sensors to automated dataloggers, cloud databases, threshold triggers, and mandatory legal compliance frameworks (such as Vietnam Decree 114/2018/NĐ-CP and TCVN 9398:2012).
 
@@ -208,6 +214,13 @@ graph TD
 
 *   **Sister Bars (Thanh thép đo biến dạng phụ):** Tied directly into reinforcing steel cages to calculate internal bending stresses $M(z) = \frac{E \cdot I \cdot \varepsilon(z)}{y}$, revealing whether the wall is approaching flexural yield.
 *   **Piezometers (Áp kế):** Monitor drawdown outside the retaining box to confirm that deep dewatering inside the pit is not draining surrounding aquifers, which would cause devastating regional settlement troughs.
+
+### 5.3 Mining Geotechnics & Tailings Instrumentation
+Open-pit and in-pit mining push the same physics into the most extreme geometries — hundred-metre-high walls and tailings embankments built on soft, saturated, sometimes thawing foundations:
+
+*   **SME Mining Engineering Handbook (Ch. 8.5):** Frames geotechnical instrumentation specifically for the mining lifecycle — pit-wall movement, blast vibration, and tailings-facility surveillance — extending the Dunnicliff/FHWA philosophy into the extractive domain.
+*   **Practical Rock Engineering (Hoek):** Supplies the rock-slope and large-cavern design backbone (GSI, kinematic analysis, acceptable safety factors) behind stable pit walls.
+*   **Worked example — In-Pit Tailings Dykes, Muskeg River Mine (2013):** A published case study showing how instrumentation data (piezometers, inclinometers, settlement gauges) was used to verify staged raises of in-pit tailings dykes against the design's predicted movements — the Observational Method in a mining setting. See the [Mining Geotechnics](../applications/mining/index.md) application pages.
 
 ---
 

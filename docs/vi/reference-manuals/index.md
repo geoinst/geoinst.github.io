@@ -6,7 +6,7 @@ lang_alt: reference-manuals/
 # Tài liệu tham khảo
 
 !!! tip "Tầm nhìn Tổng thể & Khung Kỹ thuật Tích hợp"
-    Khám phá mối liên kết hữu cơ giữa toàn bộ 11 bộ tài liệu tham khảo—từ cấu trúc kiến tạo vỏ Trái Đất, cơ học đất, nền móng công trình đến quan trắc đập an toàn sinh mạng và hệ thống thu thập dữ liệu tự động **ADAQS**:  
+    Khám phá mối liên kết hữu cơ giữa toàn bộ 15 bộ tài liệu tham khảo—từ cấu trúc kiến tạo vỏ Trái Đất, cơ học đất, nền móng công trình, thiết bị quan trắc khai khoáng đến quan trắc đập an toàn sinh mạng và hệ thống thu thập dữ liệu tự động **ADAQS**:  
     👉 **[Đọc Tầm nhìn Tổng thể & Khung Tích hợp →](overarching-vision.md)**
 
 Phần này lập danh mục kho tư liệu tham khảo của cơ sở tri thức này. Mỗi mục dưới đây dẫn đến một chương riêng cho từng tài liệu hoặc từng cuốn sách, với văn bản được trích xuất, các khái niệm chính và liên kết chéo. Các mục ghi *phạm vi công cộng* là **công trình của chính phủ Hoa Kỳ** (Sổ tay Kỹ thuật USACE, sổ tay FHWA/NHI) được phép sao chép và phóng tác tự do. Các mục ghi **CC BY** là tác phẩm có giấy phép mở, cũng được phép dùng lại miễn ghi nguồn.
