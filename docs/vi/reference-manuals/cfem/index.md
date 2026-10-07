@@ -40,6 +40,31 @@ chương bên dưới.
 
 ---
 
+## Tài liệu đầy đủ (PDF)
+
+=== "Tiếng Việt — bản dịch đầy đủ (Times New Roman)"
+
+    **Bản dịch tiếng Việt đầy đủ — Chương 25** (53 trang, khổ A4).
+    Bản dịch trọn vẹn toàn bộ Chương 25 của CFEM 2022, kèm **29 hình minh họa**
+    và bảng biểu, trình bày bằng phông **Times New Roman**.
+
+    [:material-file-download: **Tải PDF bản dịch tiếng Việt (đầy đủ)**](https://geoinst.github.io/assets/cfem/cfem-2022-ch25-vietnamese.pdf){ .md-button .md-button--primary }
+    &nbsp;
+    [Đọc bản tổng hợp trên trang web](chapter-25-instrumentation-monitoring.md)
+
+=== "Tiếng Anh — chương gốc (PDF)"
+
+    **Chương gốc tiếng Anh** — *CFEM 2022, Chương 25: Quan trắc Địa kỹ thuật và
+    Giám sát* (48 trang, v7, 2022‑02‑08), tác giả Pierre Choquet, Tiến sĩ Kỹ thuật,
+    P. Eng. Tài liệu được tái bản ở đây đúng như ấn bản của Hội Địa kỹ thuật Canada
+    (CGS).
+
+    [:material-file-download: **Tải chương gốc Chương 25 (tiếng Anh, PDF)**](https://geoinst.github.io/assets/cfem/cfem-2022-ch25-original-en.pdf){ .md-button }
+    &nbsp;
+    [Trang nhà xuất bản — Hội Địa kỹ thuật Canada](https://www.cgs.ca/){ target=_blank }
+
+---
+
 ## Vì sao chương này quan trọng trong cơ sở tri thức
 
 Chương 25 là **xương sống tiêu chuẩn – thực hành** mà phần còn lại của thư viện này

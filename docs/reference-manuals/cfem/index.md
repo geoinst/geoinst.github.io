@@ -39,6 +39,31 @@ textbooks, and regulatory manuals behind modern monitoring practice, and it is
 
 ---
 
+## Full documents (PDF)
+
+=== "Vietnamese — full translation (Times New Roman)"
+
+    **Bản dịch tiếng Việt đầy đủ — Chương 25** (53 pp., A4).
+    Bản dịch trọn vẹn toàn bộ Chương 25 của CFEM 2022, kèm **29 hình minh họa**
+    và bảng biểu, trình bày bằng phông **Times New Roman**.
+
+    [:material-file-download: **Tải PDF bản dịch tiếng Việt (đầy đủ)**](https://geoinst.github.io/assets/cfem/cfem-2022-ch25-vietnamese.pdf){ .md-button .md-button--primary }
+    &nbsp;
+    [Đọc bản tổng hợp trên trang web](chapter-25-instrumentation-monitoring.md)
+
+=== "English — original chapter (PDF)"
+
+    **Original English chapter** — *CFEM 2022, Chapter 25: Geotechnical
+    Instrumentation and Monitoring* (48 pp., v7, 2022‑02‑08), authored by
+    Pierre Choquet, Dr.-Eng., P. Eng. Reproduced here as published by the
+    Canadian Geotechnical Society (CGS) for reference.
+
+    [:material-file-download: **Download the original Chapter 25 (English, PDF)**](https://geoinst.github.io/assets/cfem/cfem-2022-ch25-original-en.pdf){ .md-button }
+    &nbsp;
+    [Publisher page — Canadian Geotechnical Society](https://www.cgs.ca/){ target=_blank }
+
+---
+
 ## Why this chapter matters in this knowledge base
 
 Chapter 25 is the **standards-and-practice backbone** the rest of this library
