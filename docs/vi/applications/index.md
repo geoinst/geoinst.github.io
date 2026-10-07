@@ -13,5 +13,6 @@ Chương trình thiết bị quan trắc địa kỹ thuật (geotechnical instr
 | Quan trắc đập (thấm / biến dạng) | Piezometer (áp kế), tràn đo thấm, extensometer (đầu đo biến dạng) | [Quan trắc đập →](dam-monitoring.md) |
 | Thiết bị quan trắc hầm | Inclinometer (đầu đo nghiêng), extensometer (đầu đo biến dạng), đo hội tụ | [Hầm →](tunnels.md) |
 | Móng & đào hố móng sâu | Tấm lún, extensometer (đầu đo biến dạng), load cell | [Móng →](foundations.md) |
+| Địa kỹ thuật khai khoáng & kiểm soát nền đá | Radar quan trắc mái dốc (SSR), MPBX, áp kế (piezometer), vi địa chấn | [Khai khoáng →](mining/index.md) |
 
 Mỗi trang ứng dụng kết nối với các thiết bị đại diện hỗ trợ nó và chương Dunnicliff mô tả phương pháp luận.

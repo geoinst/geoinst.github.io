@@ -100,6 +100,7 @@ nav:
           - Quan trắc đập: vi/applications/dam-monitoring.md
           - Thiết bị hầm: vi/applications/tunnels.md
           - Móng & Đào đất: vi/applications/foundations.md
+          - Địa kỹ thuật khai khoáng: vi/applications/mining/index.md
       - "Sổ tay tham khảo":
           - Mục lục: vi/reference-manuals/index.md
           - "Tầm nhìn Tổng thể & Khung Tích hợp": vi/reference-manuals/overarching-vision.md
@@ -249,6 +250,20 @@ nav:
               - "Ch.10 Thuỷ lực công trình": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-10-hydraulics.md
               - "Ch.11 Động đất với công trình xây dựng": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-11-earthquakes.md
               - "Ch.12 Công nghệ thông tin trong địa kỹ thuật": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-12-geo-informatics.md
+          - "Cơ học đá thực hành (TS. Evert Hoek)":
+              - Tổng quan: vi/reference-manuals/practical-rock-engineering/index.md
+              - "Ch.1 Nhập môn kỹ thuật cơ học đá": vi/reference-manuals/practical-rock-engineering/chapter-01-what-is-rock-engineering.md
+              - "Ch.2 Cường độ đá nguyên vẹn": vi/reference-manuals/practical-rock-engineering/chapter-02-intact-rock-strength.md
+              - "Ch.3 Sức kháng cắt của mặt bất liên tục": vi/reference-manuals/practical-rock-engineering/chapter-03-discontinuity-shear-strength.md
+              - "Ch.4 Tính chất khối đá & GSI": vi/reference-manuals/practical-rock-engineering/chapter-04-rock-mass-properties.md
+              - "Ch.5 Ứng suất nguyên sinh & Ứng suất kích ứng": vi/reference-manuals/practical-rock-engineering/chapter-05-in-situ-stresses.md
+              - "Ch.6 Thiết kế chấp nhận được & Hệ số an toàn": vi/reference-manuals/practical-rock-engineering/chapter-06-acceptable-design.md
+              - "Ch.7 Mất ổn định khống chế bởi cấu trúc trong hầm": vi/reference-manuals/practical-rock-engineering/chapter-07-structural-instability-tunnels.md
+              - "Ch.8 Mái dốc đá trong dân dụng & khai mỏ": vi/reference-manuals/practical-rock-engineering/chapter-08-rock-slopes-mining.md
+              - "Ch.9 Hầm trong đá yếu & Đất đá ép lún": vi/reference-manuals/practical-rock-engineering/chapter-09-weak-rock-tunnelling.md
+              - "Ch.10 Thiết kế buồng ngầm quy mô lớn": vi/reference-manuals/practical-rock-engineering/chapter-10-large-underground-caverns.md
+              - "Ch.11 Neo đá, cáp neo & Bê tông phun": vi/reference-manuals/practical-rock-engineering/chapter-11-rockbolts-shotcrete-support.md
+              - "Ch.12 Tổn thương do nổ mìn & Đào kiểm soát": vi/reference-manuals/practical-rock-engineering/chapter-12-blasting-damage-controlled-excavation.md
       - "Môi trường thử nghiệm tương tác": vi/visualizer.md
       - "Bác sĩ GTI (AI)": vi/gti-doctor.md
       - "Tuân thủ pháp lý":
@@ -268,6 +283,7 @@ nav:
       - Dam Monitoring: applications/dam-monitoring.md
       - Tunnel Instrumentation: applications/tunnels.md
       - Foundation & Excavation: applications/foundations.md
+      - Mining Geotechnics: applications/mining/index.md
   - Reference Manuals:
       - Catalog Index: reference-manuals/index.md
       - "The Grand Vision & Integrated Framework": reference-manuals/overarching-vision.md
@@ -417,6 +433,20 @@ nav:
           - "Ch.10 Engineering Hydraulics": reference-manuals/geotechnical-engineers-handbook/chapter-10-hydraulics.md
           - "Ch.11 Earthquakes and Construction Works": reference-manuals/geotechnical-engineers-handbook/chapter-11-earthquakes.md
           - "Ch.12 Geoinformatics in Geotechnics": reference-manuals/geotechnical-engineers-handbook/chapter-12-geo-informatics.md
+      - "Practical Rock Engineering (Dr. Evert Hoek)":
+          - Overview: reference-manuals/practical-rock-engineering/index.md
+          - "Ch.1 What is Rock Engineering?": reference-manuals/practical-rock-engineering/chapter-01-what-is-rock-engineering.md
+          - "Ch.2 Intact Rock Strength": reference-manuals/practical-rock-engineering/chapter-02-intact-rock-strength.md
+          - "Ch.3 Discontinuity Shear Strength": reference-manuals/practical-rock-engineering/chapter-03-discontinuity-shear-strength.md
+          - "Ch.4 Rock Mass Properties & GSI": reference-manuals/practical-rock-engineering/chapter-04-rock-mass-properties.md
+          - "Ch.5 In-Situ & Induced Stresses": reference-manuals/practical-rock-engineering/chapter-05-in-situ-stresses.md
+          - "Ch.6 Acceptable Design & Safety Factors": reference-manuals/practical-rock-engineering/chapter-06-acceptable-design.md
+          - "Ch.7 Structurally Controlled Instability": reference-manuals/practical-rock-engineering/chapter-07-structural-instability-tunnels.md
+          - "Ch.8 Rock Slopes in Mining & Civil": reference-manuals/practical-rock-engineering/chapter-08-rock-slopes-mining.md
+          - "Ch.9 Tunnels in Weak Rock & Squeezing": reference-manuals/practical-rock-engineering/chapter-09-weak-rock-tunnelling.md
+          - "Ch.10 Large Underground Caverns": reference-manuals/practical-rock-engineering/chapter-10-large-underground-caverns.md
+          - "Ch.11 Rockbolts & Shotcrete Support": reference-manuals/practical-rock-engineering/chapter-11-rockbolts-shotcrete-support.md
+          - "Ch.12 Blasting Damage & Controlled Excavation": reference-manuals/practical-rock-engineering/chapter-12-blasting-damage-controlled-excavation.md
   - Interactive Sandbox: visualizer.md
   - GTI Doctor (AI): gti-doctor.md
   - Glossary: glossary/index.md

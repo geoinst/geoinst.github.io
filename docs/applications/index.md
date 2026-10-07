@@ -12,5 +12,6 @@ Geotechnical instrumentation programs are usually designed around a project's pr
 | Dam monitoring (seepage / deformation) | Piezometers, seepage weirs, extensometers | [Dam Monitoring →](dam-monitoring.md) |
 | Tunnel instrumentation | Inclinometers, extensometers, convergence | [Tunnels →](tunnels.md) |
 | Foundation & deep excavation | Settlement plates, extensometers, load cells | [Foundations →](foundations.md) |
+| Mining geotechnics & ground control | Slope stability radar, MPBX, piezometers, microseismic | [Mining Geotechnics →](mining/index.md) |
 
 Each application page connects to representative instruments that support it and the Dunnicliff chapter that documents the methodology.
