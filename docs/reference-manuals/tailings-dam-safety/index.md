@@ -51,6 +51,7 @@ following chapters:
 | 12 | [Data Evaluation and Interpretation](chapter-12-evaluation.md) | Baselines, trends, and separating signal from noise |
 | 13 | [Performance Evaluation and Decision Making](chapter-13-decisions.md) | Triggers, action levels, and emergency response |
 | 14 | [Case Histories](chapter-14-case-histories.md) | Lessons from significant tailings incidents |
+| 15 | [Case Study: Oil Sands Tailings Dams of Northern Alberta](chapter-15-oil-sands-northern-alberta.md) | A detailed case study of applying dam-safety guidelines to oil sands tailings dams (CDA / Golder) and in-pit dyke instrumentation (Albian) |
 
 ---
 

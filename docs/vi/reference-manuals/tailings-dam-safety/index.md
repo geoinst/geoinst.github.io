@@ -52,6 +52,7 @@ sau:
 | 12 | [Đánh giá và Diễn giải dữ liệu](chapter-12-evaluation.md) | Đường cơ sở, xu hướng và tách tín hiệu khỏi nhiễu |
 | 13 | [Đánh giá hiệu năng và Ra quyết định](chapter-13-decisions.md) | Mức kích hoạt, mức hành động và ứng phó khẩn cấp |
 | 14 | [Các câu chuyện điển hình](chapter-14-case-histories.md) | Bài học từ các sự cố bùn thải lớn |
+| 15 | [Trường hợp điển hình: Đập bùn thải dầu cát Bắc Alberta](chapter-15-oil-sands-northern-alberta.md) | Trường hợp điển hình chi tiết về áp dụng hướng dẫn an toàn đập cho đập bùn thải dầu cát (CDA / Golder) và quan trắc đê in-pit (Albian) |
 
 ---
 
