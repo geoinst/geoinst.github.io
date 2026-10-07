@@ -242,6 +242,11 @@ nav:
               - "Ch.13 Hiệu năng & Quyết định": vi/reference-manuals/tailings-dam-safety/chapter-13-decisions.md
               - "Ch.14 Các trường hợp lịch sử": vi/reference-manuals/tailings-dam-safety/chapter-14-case-histories.md
               - "Ch.15 Trường hợp điển hình: Đập bùn thải dầu cát Bắc Alberta": vi/reference-manuals/tailings-dam-safety/chapter-15-oil-sands-northern-alberta.md
+          - "CFEM 2022 — Quan trắc Địa kỹ thuật & Giám sát":
+              - Tổng quan: vi/reference-manuals/cfem/index.md
+              - "Ch.25 Quan trắc & Giám sát (kèm tham khảo mở rộng)": vi/reference-manuals/cfem/chapter-25-instrumentation-monitoring.md
+          - "Sổ tay Kỹ thuật Mỏ SME — Thiết bị Quan trắc Địa kỹ thuật (Ch.8.5)": vi/reference-manuals/sme-mine-handbook/index.md
+          - "Burt — Cẩm nang Tra cứu & Thiết kế Địa kỹ thuật (2007)": vi/reference-manuals/burt-look-handbook/index.md
           - "Cẩm nang dùng cho kỹ sư địa kỹ thuật (Trần Văn Việt)":
               - Tổng quan: vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/index.md
               - "Ch.1 Khái quát địa chất – đất đá": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-01-geology-soil-rock.md
@@ -270,11 +275,6 @@ nav:
               - "Ch.10 Thiết kế buồng ngầm quy mô lớn": vi/reference-manuals/practical-rock-engineering/chapter-10-large-underground-caverns.md
               - "Ch.11 Neo đá, cáp neo & Bê tông phun": vi/reference-manuals/practical-rock-engineering/chapter-11-rockbolts-shotcrete-support.md
               - "Ch.12 Tổn thương do nổ mìn & Đào kiểm soát": vi/reference-manuals/practical-rock-engineering/chapter-12-blasting-damage-controlled-excavation.md
-          - "CFEM 2022 — Quan trắc Địa kỹ thuật & Giám sát":
-              - Tổng quan: vi/reference-manuals/cfem/index.md
-              - "Ch.25 Quan trắc & Giám sát (kèm tham khảo mở rộng)": vi/reference-manuals/cfem/chapter-25-instrumentation-monitoring.md
-          - "Sổ tay Kỹ thuật Mỏ SME — Thiết bị Quan trắc Địa kỹ thuật (Ch.8.5)": vi/reference-manuals/sme-mine-handbook/index.md
-          - "Burt — Cẩm nang Tra cứu & Thiết kế Địa kỹ thuật (2007)": vi/reference-manuals/burt-look-handbook/index.md
       - "Môi trường thử nghiệm tương tác": vi/visualizer.md
       - "Bác sĩ GTI (AI)": vi/gti-doctor.md
       - "Tuân thủ pháp lý":
@@ -433,6 +433,11 @@ nav:
           - "Ch.13 Performance & Decisions": reference-manuals/tailings-dam-safety/chapter-13-decisions.md
           - "Ch.14 Case Histories": reference-manuals/tailings-dam-safety/chapter-14-case-histories.md
           - "Ch.15 Case Study: Oil Sands Tailings Dams, Northern Alberta": reference-manuals/tailings-dam-safety/chapter-15-oil-sands-northern-alberta.md
+      - "CFEM 2022 — Geotechnical Instrumentation & Monitoring":
+          - Overview: reference-manuals/cfem/index.md
+          - "Ch.25 Instrumentation & Monitoring (with expanded references)": reference-manuals/cfem/chapter-25-instrumentation-monitoring.md
+      - "SME Mining Engineering Handbook — Geotechnical Instrumentation (Ch.8.5)": reference-manuals/sme-mine-handbook/index.md
+      - "Burt — Handbook of Geotechnical Investigation & Design Tables (2007)": reference-manuals/burt-look-handbook/index.md
       - "Geotechnical Engineer's Handbook (Trần Văn Việt)":
           - Overview: reference-manuals/geotechnical-engineers-handbook/index.md
           - "Ch.1 Geology: Soil and Rock": reference-manuals/geotechnical-engineers-handbook/chapter-01-geology-soil-rock.md
@@ -461,11 +466,6 @@ nav:
           - "Ch.10 Large Underground Caverns": reference-manuals/practical-rock-engineering/chapter-10-large-underground-caverns.md
           - "Ch.11 Rockbolts & Shotcrete Support": reference-manuals/practical-rock-engineering/chapter-11-rockbolts-shotcrete-support.md
           - "Ch.12 Blasting Damage & Controlled Excavation": reference-manuals/practical-rock-engineering/chapter-12-blasting-damage-controlled-excavation.md
-      - "CFEM 2022 — Geotechnical Instrumentation & Monitoring":
-          - Overview: reference-manuals/cfem/index.md
-          - "Ch.25 Instrumentation & Monitoring (with expanded references)": reference-manuals/cfem/chapter-25-instrumentation-monitoring.md
-      - "SME Mining Engineering Handbook — Geotechnical Instrumentation (Ch.8.5)": reference-manuals/sme-mine-handbook/index.md
-      - "Burt — Handbook of Geotechnical Investigation & Design Tables (2007)": reference-manuals/burt-look-handbook/index.md
   - Interactive Sandbox: visualizer.md
   - GTI Doctor (AI): gti-doctor.md
   - Glossary: glossary/index.md

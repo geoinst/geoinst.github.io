@@ -31,8 +31,6 @@ This section catalogs the reference corpus behind this knowledge base. Each entr
 | SME Mining Engineering Handbook — Geotechnical Instrumentation (Ch. 8.5) | Erik Eberhardt & Doug Stead (SME Mining Engineering Handbook, 3rd Ed.) | SME Ch. 8.5 — copyrighted; independent digest with the **full Vietnamese translation** (29 pp., 5 tables, 14 figures) and the original PDF for comparison | [→](sme-mine-handbook/index.md) |
 | Handbook of Geotechnical Investigation and Design Tables | Burt G. Look (Taylor & Francis / Balkema, 2007) | *Handbook of Geotechnical Investigation and Design Tables* — copyrighted; independent digest with the **full 24-chapter scope table** and the original 356-page PDF for comparison; a full Vietnamese translation is incremental future work | [→](burt-look-handbook/index.md) |
 
-The remaining source PDFs (Advanced Geotech, GATE study guides, geological methods, hydrology, mining glossary, field methods) will be listed here as their per-manual pages are written.
-
 > **Copyright note.** This catalog lists only material the site may lawfully reproduce. The two copyrighted *Principles of … Engineering* textbooks that previously appeared here have been **removed** and replaced with the public-domain references above. The *Geotechnical Engineer's Handbook* is a **copyrighted Vietnamese work**; it is presented here as an **independent digest** (original summary text plus terminology), not as a reproduction of the original. *Physical Geology – 2nd Edition* is **CC BY 4.0** — an openly licensed work whose text and (CC BY / public-domain) figures may be reused with attribution.
 
 ## GTI Doctor
