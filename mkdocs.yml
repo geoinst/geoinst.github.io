@@ -271,6 +271,7 @@ nav:
           - "CFEM 2022 — Quan trắc Địa kỹ thuật & Giám sát":
               - Tổng quan: vi/reference-manuals/cfem/index.md
               - "Ch.25 Quan trắc & Giám sát (kèm tham khảo mở rộng)": vi/reference-manuals/cfem/chapter-25-instrumentation-monitoring.md
+          - "Sổ tay Kỹ thuật Mỏ SME — Thiết bị Quan trắc Địa kỹ thuật (Ch.8.5)": vi/reference-manuals/sme-mine-handbook/index.md
       - "Môi trường thử nghiệm tương tác": vi/visualizer.md
       - "Bác sĩ GTI (AI)": vi/gti-doctor.md
       - "Tuân thủ pháp lý":
@@ -458,6 +459,7 @@ nav:
       - "CFEM 2022 — Geotechnical Instrumentation & Monitoring":
           - Overview: reference-manuals/cfem/index.md
           - "Ch.25 Instrumentation & Monitoring (with expanded references)": reference-manuals/cfem/chapter-25-instrumentation-monitoring.md
+      - "SME Mining Engineering Handbook — Geotechnical Instrumentation (Ch.8.5)": reference-manuals/sme-mine-handbook/index.md
   - Interactive Sandbox: visualizer.md
   - GTI Doctor (AI): gti-doctor.md
   - Glossary: glossary/index.md

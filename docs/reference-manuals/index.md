@@ -28,6 +28,7 @@ This section catalogs the reference corpus behind this knowledge base. Each entr
 | Practical Rock Engineering | Dr. Evert Hoek | Rocscience Open Educational Resource / Hoek's Corner | [→](practical-rock-engineering/index.md) |
 | CFEM 2022 — Geotechnical Instrumentation and Monitoring | Pierre Choquet (Canadian Foundation Engineering Manual, 4th Ed.) | CFEM 2022, Chapter 25 — copyrighted; independent digest with an **expanded reference apparatus** (ASTM / ISO / DIN standards, textbooks, USACE / Reclamation / FERC / ICOLD manuals) | [→](cfem/index.md) |
 | Geotechnical Engineer's Handbook | Trần Văn Việt (Nhà xuất bản Xây dựng) | *Cẩm nang dùng cho kỹ sư địa kỹ thuật* — copyrighted; independent digest, not a reproduction | [→](geotechnical-engineers-handbook/index.md) |
+| SME Mining Engineering Handbook — Geotechnical Instrumentation (Ch. 8.5) | Erik Eberhardt & Doug Stead (SME Mining Engineering Handbook, 3rd Ed.) | SME Ch. 8.5 — copyrighted; independent digest with the **full Vietnamese translation** (29 pp., 5 tables, 14 figures) and the original PDF for comparison | [→](sme-mine-handbook/index.md) |
 
 The remaining source PDFs (Advanced Geotech, GATE study guides, geological methods, hydrology, mining glossary, field methods) will be listed here as their per-manual pages are written.
 
