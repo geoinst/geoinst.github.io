@@ -135,3 +135,19 @@ PDF is the authoritative source for every table and correlation.
 > the answer) as durable and **verify current values** with modern local codes,
 > the cited standards, and applicable regulation before using them for design or a
 > regulatory submission.
+
+---
+
+## Featured Video & Practical Resources
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
+  <iframe src="https://www.youtube-nocookie.com/embed/gl7yck1xbog" title="GroundProbe GNSS System" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+</div>
+<p><em>Featured Video (Primary Source — Orica): GroundProbe GNSS System for real-time surface movement monitoring.</em></p>
+
+!!! tip "Complementary Practical Field Resources from RST Instruments & Measurand (Terra Insights)"
+    - **RST Instruments (@RSTgeotechnical):** [RST Instruments Field Utility App](https://www.youtube.com/watch?v=s4ft0x6aPoc){ target="_blank" }  
+      *Mobile sensor diagnostics and field verification for empirical design parameters.*
+    - **Measurand (@MeasurandVideos):** [SAAView 3D Analysis Software](https://www.youtube.com/watch?v=OtLkPOCQCoo){ target="_blank" }  
+      *3D vector displacement visualization to validate empirical geotechnical design correlations.*
+

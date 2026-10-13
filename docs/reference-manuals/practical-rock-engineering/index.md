@@ -51,3 +51,19 @@ In mining and civil engineering, *Practical Rock Engineering* provides the defin
 - **Slope radar & InSAR**: Detects tertiary creep acceleration on open pit benches where $FS$ approaches unity.
 - **Microseismic arrays**: Listens to acoustic emissions and micro-fracturing around deep mining stopes to forecast rockburst events.
 - **Pore pressure control**: Vibrating wire piezometers verify that sub-horizontal drains successfully draw down joint water pressures.
+
+---
+
+## Featured Video & Practical Resources
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
+  <iframe src="https://www.youtube-nocookie.com/embed/F16e2U7MRGc" title="Tunnel Blast Vibration and Overbreak Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+</div>
+<p><em>Featured Video (Primary Source — Orica): Tunnel blast vibration and overbreak control in jointed rock masses.</em></p>
+
+!!! tip "Complementary Practical Field Resources from RST Instruments & Measurand (Terra Insights)"
+    - **RST Instruments (@RSTgeotechnical):** [DT2485 Bus Logger](https://www.youtube.com/watch?v=H6FRo2VKeCs){ target="_blank" }  
+      *Multi-channel data logging for multi-point borehole extensometers (MPBX) and strain gages in underground caverns and rock slopes.*
+    - **Measurand (@MeasurandVideos):** [SAAV Cyclical Installation](https://www.youtube.com/watch?v=YwQtxBBPS38){ target="_blank" }  
+      *Rock mass shear displacement and joint slip monitoring using ShapeArray sensors.*
+

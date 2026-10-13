@@ -68,3 +68,19 @@ Throughout *GeoVadis (Volume 1)*, experimental and field verification relies dir
 - **Load Cells (Cảm biến đo tải trọng):** Calibrated load cells for Osterberg-style bi-directional static load testing, tieback anchor prestress tracking, and plate anchor pullout evaluation.
 - **Inclinometers & Extensometers (Ống đo nghiêng & Thiết bị đo biến dạng sâu):** Lateral displacement profiling behind deep excavation support systems and deep settlement monitoring in multi-layered soft marine clays.
 - **Earth Pressure Cells (Hộp đo áp lực đất):** Direct total stress and dynamic earth pressure measurements against yielding rigid retaining walls and reinforced earth wall fascia panels.
+
+---
+
+## Featured Video & Practical Resources
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
+  <iframe src="https://www.youtube-nocookie.com/embed/bNtg0iY5GwM" title="FRAGTrack: Advanced AI Fragmentation Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+</div>
+<p><em>Featured Video (Primary Source — Orica): FRAGTrack: Advanced AI fragmentation analysis and computerized geological characterization.</em></p>
+
+!!! tip "Complementary Practical Field Resources from RST Instruments & Measurand (Terra Insights)"
+    - **RST Instruments (@RSTgeotechnical):** [RSTAR Affinity Quick Dashboard Tour](https://www.youtube.com/watch?v=AQIWe60Meho){ target="_blank" }  
+      *Cloud IIoT telemetry platform integrating AI analytics and geotechnical monitoring data.*
+    - **Measurand (@MeasurandVideos):** [Real-time deflection monitoring with ShapeArray](https://www.youtube.com/watch?v=518Mx-65rI0){ target="_blank" }  
+      *Automated sensor arrays driving digital twin models and predictive excavation analytics.*
+

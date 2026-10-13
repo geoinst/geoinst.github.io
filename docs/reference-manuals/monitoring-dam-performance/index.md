@@ -69,3 +69,19 @@ means the observed behavior of the dam compared with its expected behavior.
 > **Safety first.** Instrument data supports, but never replaces, qualified
 > visual inspection and the engineering judgment of a qualified dam engineer or
 > the owner's dam safety program.
+
+---
+
+## Featured Video & Practical Resources
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
+  <iframe src="https://www.youtube-nocookie.com/embed/I6bdJXzuzlc" title="GroundProbe's next-generation solution SSR-XT, SSR-FX, and SSR-Omni" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+</div>
+<p><em>Featured Video (Primary Source — Orica): GroundProbe's next-generation solution SSR-XT, SSR-FX, and SSR-Omni for dam and embankment monitoring.</em></p>
+
+!!! tip "Complementary Practical Field Resources from RST Instruments & Measurand (Terra Insights)"
+    - **RST Instruments (@RSTgeotechnical):** [Taking Initial Vibrating Wire Piezometer Readings](https://www.youtube.com/watch?v=HJISt9or_Dw){ target="_blank" }  
+      *Baseline verification for dam embankment and foundation piezometers conforming to ASCE MOP-135 standards.*
+    - **Measurand (@MeasurandVideos):** [Real-time deflection monitoring with ShapeArray](https://www.youtube.com/watch?v=518Mx-65rI0){ target="_blank" }  
+      *Continuous automated crest and internal core deformation monitoring for embankment dams.*
+

@@ -80,3 +80,19 @@ facility is performing as expected.
 > **Safety first.** Instrument data supports, but never replaces, qualified
 > visual inspection and the engineering judgment of a qualified tailings engineer
 > and the facility's dam safety program.
+
+---
+
+## Featured Video & Practical Resources
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
+  <iframe src="https://www.youtube-nocookie.com/embed/8yqLRjzVuvk" title="GroundProbe Tailings Dam Monitoring Solution" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+</div>
+<p><em>Featured Video (Primary Source — Orica): GroundProbe Tailings Dam Monitoring Solution for Tailings Storage Facilities (TSF).</em></p>
+
+!!! tip "Complementary Practical Field Resources from RST Instruments & Measurand (Terra Insights)"
+    - **RST Instruments (@RSTgeotechnical):** [RSTAR Affinity Quick Dashboard Tour](https://www.youtube.com/watch?v=AQIWe60Meho){ target="_blank" }  
+      *Cloud monitoring dashboard for tailings storage facility (TSF) piezometer and seepage data streams.*
+    - **Measurand (@MeasurandVideos):** [Real-time deflection monitoring with ShapeArray](https://www.youtube.com/watch?v=518Mx-65rI0){ target="_blank" }  
+      *Real-time deformation tracking of tailings dam crests and upstream/downstream raises conforming to ICOLD Bulletin 194.*
+

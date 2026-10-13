@@ -74,3 +74,19 @@ installed and unread is worthless.
 
 > **Judgment is the instrument.** Instruments support, but never replace, the
 > engineering judgment of a qualified geotechnical engineer.
+
+---
+
+## Featured Video & Practical Resources
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
+  <iframe src="https://www.youtube-nocookie.com/embed/0tLX-O9dOQk" title="Orica Digital Solutions' Geosolutions' Geotechnical Specialist Services (GSS)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+</div>
+<p><em>Featured Video (Primary Source — Orica): Orica Digital Solutions' Geosolutions' Geotechnical Specialist Services (GSS).</em></p>
+
+!!! tip "Complementary Practical Field Resources from RST Instruments & Measurand (Terra Insights)"
+    - **RST Instruments (@RSTgeotechnical):** [Taking Initial Vibrating Wire Piezometer Readings](https://www.youtube.com/watch?v=HJISt9or_Dw){ target="_blank" }  
+      *Standard baseline verification procedure for vibrating wire piezometers before borehole installation to ensure data reliability per Dunnicliff's recipe.*
+    - **Measurand (@MeasurandVideos):** [Real-time deflection monitoring with ShapeArray](https://www.youtube.com/watch?v=518Mx-65rI0){ target="_blank" }  
+      *Automated real-time subterranean deformation monitoring replacing conventional manual inclinometers with ShapeArray multi-axis sensor arrays.*
+

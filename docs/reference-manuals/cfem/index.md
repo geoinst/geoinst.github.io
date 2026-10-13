@@ -93,3 +93,19 @@ leans on:
 > **Safety and currency.** Standards are revised on their own cycles (ISO 18674,
 > ASTM D18.23, DIN 4150 among them). Always verify the **current edition** of any
 > standard or manual before relying on it for a design or regulatory submission.
+
+---
+
+## Featured Video & Practical Resources
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
+  <iframe src="https://www.youtube-nocookie.com/embed/0tLX-O9dOQk" title="Orica Digital Solutions' Geosolutions' Geotechnical Specialist Services (GSS)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+</div>
+<p><em>Featured Video (Primary Source — Orica): Orica Digital Solutions' Geosolutions' Geotechnical Specialist Services (GSS).</em></p>
+
+!!! tip "Complementary Practical Field Resources from RST Instruments & Measurand (Terra Insights)"
+    - **RST Instruments (@RSTgeotechnical):** [RSTAR Affinity Webinar](https://www.youtube.com/watch?v=BcghSAPrlKk){ target="_blank" }  
+      *Wireless sensor networking and cold-weather geotechnical monitoring per Canadian Foundation Engineering Manual practice.*
+    - **Measurand (@MeasurandVideos):** [Real-time deflection monitoring with ShapeArray](https://www.youtube.com/watch?v=518Mx-65rI0){ target="_blank" }  
+      *Continuous automated lateral deflection profiling in cold climate infrastructure.*
+

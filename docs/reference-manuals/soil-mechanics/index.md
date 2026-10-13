@@ -75,3 +75,19 @@ matters of in-situ testing, parameter selection, and problem soils.
 
 > **Parameters are not truth.** Every soil parameter carries uncertainty; good
 > engineering bounds it and designs for the range, not a single number.
+
+---
+
+## Featured Video & Practical Resources
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
+  <iframe src="https://www.youtube-nocookie.com/embed/gl7yck1xbog" title="GroundProbe GNSS System" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+</div>
+<p><em>Featured Video (Primary Source — Orica): GroundProbe GNSS Automated Surface Movement Monitoring System.</em></p>
+
+!!! tip "Complementary Practical Field Resources from RST Instruments & Measurand (Terra Insights)"
+    - **RST Instruments (@RSTgeotechnical):** [Taking Initial Vibrating Wire Piezometer Readings](https://www.youtube.com/watch?v=HJISt9or_Dw){ target="_blank" }  
+      *In-situ pore water pressure baseline readings for effective stress evaluation and consolidation tracking.*
+    - **Measurand (@MeasurandVideos):** [ShapeArray Rail Settlement Monitoring](https://www.youtube.com/watch?v=f3NMguxiZSE){ target="_blank" }  
+      *Continuous subgrade deformation and settlement monitoring under cyclic loading.*
+

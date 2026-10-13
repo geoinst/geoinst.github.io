@@ -66,3 +66,19 @@ The field implementations and laboratory research in Volume 2 interface directly
 - **Electrical Resistivity Tomography (ERT) & Geophysical Arrays:** Non-destructive imaging of internal seepage channels, piping flaws, and time-dependent moisture infiltration fronts in earth embankments.
 - **Strain Gauges & Sister Bars (Cảm biến đo biến dạng & Sister Bar):** Structural strain and load transfer monitoring in helical soil nails, tunnel shotcrete linings, and geosynthetic reinforcing strips.
 - **Load Cells (Cảm biến đo tải trọng):** Prestress retention monitoring in rock bolts, soil anchors, and railway sleeper ballast load cells.
+
+---
+
+## Featured Video & Practical Resources
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
+  <iframe src="https://www.youtube-nocookie.com/embed/I6bdJXzuzlc" title="GroundProbe SSR-XT, SSR-FX, and SSR-Omni" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+</div>
+<p><em>Featured Video (Primary Source — Orica): GroundProbe SSR-XT, SSR-FX, and SSR-Omni slope monitoring radar systems.</em></p>
+
+!!! tip "Complementary Practical Field Resources from RST Instruments & Measurand (Terra Insights)"
+    - **RST Instruments (@RSTgeotechnical):** [Inclinometer Casing Installation](https://www.youtube.com/watch?v=H2MVAVbOGdg){ target="_blank" }  
+      *Deep lateral displacement monitoring in complex rock slopes and tunnel approach cuttings.*
+    - **Measurand (@MeasurandVideos):** [Real-time deflection monitoring with ShapeArray](https://www.youtube.com/watch?v=518Mx-65rI0){ target="_blank" }  
+      *Continuous deformation profiling in underground tunnels and high-risk cut slopes.*
+

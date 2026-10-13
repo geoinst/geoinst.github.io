@@ -246,3 +246,19 @@ Without the rigor of **Foundation Engineering**, structures cannot stand.
 Without **Geotechnical Instrumentation and ADAQS**, engineers operate in the dark, vulnerable to catastrophic failure.
 
 Together, this integrated corpus transforms geotechnical engineering from an uncertain art into a **predictive, observable, and resilient life-safety science**.
+
+---
+
+## Featured Video & Practical Resources
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
+  <iframe src="https://www.youtube-nocookie.com/embed/0tLX-O9dOQk" title="Orica Digital Solutions' Geosolutions' Geotechnical Specialist Services (GSS)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+</div>
+<p><em>Featured Video (Primary Source — Orica): Orica Digital Solutions' Geosolutions' Geotechnical Specialist Services (GSS) overview.</em></p>
+
+!!! tip "Complementary Practical Field Resources from RST Instruments & Measurand (Terra Insights)"
+    - **RST Instruments (@RSTgeotechnical):** [RSTAR Affinity Quick Dashboard Tour](https://www.youtube.com/watch?v=AQIWe60Meho){ target="_blank" }  
+      *Unified IIoT sensor management platform for real-time geotechnical telemetry and multi-instrument network management.*
+    - **Measurand (@MeasurandVideos):** [Real-time deflection monitoring with ShapeArray](https://www.youtube.com/watch?v=518Mx-65rI0){ target="_blank" }  
+      *Automated 3D subterranean deformation tracking connecting to centralized ADAQS networks.*
+

@@ -81,3 +81,19 @@ All Vietnamese translations follow the canonical 1-to-1 geotechnical terminology
 - **Soil-Cement Column / Deep Mixing** $\rightarrow$ *Cọc hỗn hợp xi măng - đất*
 - **Plastic Concrete Cutoff Wall** $\rightarrow$ *Tường hào bê tông dẻo chống thấm*
 - **Diaphragm Wall / Barrette** $\rightarrow$ *Tường vây barrette*
+
+---
+
+## Featured Video & Practical Resources
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
+  <iframe src="https://www.youtube-nocookie.com/embed/0tLX-O9dOQk" title="Orica Digital Solutions' Geosolutions' Geotechnical Specialist Services (GSS)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+</div>
+<p><em>Featured Video (Primary Source — Orica): Orica Digital Solutions' Geosolutions' Geotechnical Specialist Services (GSS).</em></p>
+
+!!! tip "Complementary Practical Field Resources from RST Instruments & Measurand (Terra Insights)"
+    - **RST Instruments (@RSTgeotechnical):** [RSTAR Affinity Webinar](https://www.youtube.com/watch?v=BcghSAPrlKk){ target="_blank" }  
+      *Advanced wireless telemetry architectures for automated geotechnical instrumentation networks.*
+    - **Measurand (@MeasurandVideos):** [How to install SAAV Extend: Measurand's connectable ShapeArray](https://www.youtube.com/watch?v=idyme0c9HSs){ target="_blank" }  
+      *Next-generation modular ShapeArray for high-precision foundation and deep excavation monitoring.*
+

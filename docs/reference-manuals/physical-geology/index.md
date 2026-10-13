@@ -61,3 +61,19 @@ scope and are not digested here.
 The [GTI Doctor](../../gti-doctor.md) assistant indexes the site's reference corpus. Ask it
 about rock weathering, groundwater or slope failure mechanisms and it will answer from
 these pages and the handbook.
+
+---
+
+## Featured Video & Practical Resources
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
+  <iframe src="https://www.youtube-nocookie.com/embed/I6bdJXzuzlc" title="GroundProbe Slope Stability Radar Technologies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+</div>
+<p><em>Featured Video (Primary Source — Orica): GroundProbe Slope Stability Radar Technologies for slope stability and rock displacement tracking.</em></p>
+
+!!! tip "Complementary Practical Field Resources from RST Instruments & Measurand (Terra Insights)"
+    - **RST Instruments (@RSTgeotechnical):** [RST Geotechnical Overview](https://www.youtube.com/watch?v=g3GAmDL5rrM){ target="_blank" }  
+      *Comprehensive instrumentation portfolio for geological hazard monitoring, faults, and mass wasting.*
+    - **Measurand (@MeasurandVideos):** [SAAView 3D Analysis Software](https://www.youtube.com/watch?v=OtLkPOCQCoo){ target="_blank" }  
+      *Visualization and 3D vector tracking of active landslide slip surfaces and mass movement zones.*
+

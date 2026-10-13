@@ -86,3 +86,19 @@ should be no instrumentation.
 
 > **Judgment is the instrument.** Instruments support, but never replace, the
 > engineering judgment of a qualified geotechnical engineer.
+
+---
+
+## Featured Video & Practical Resources
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
+  <iframe src="https://www.youtube-nocookie.com/embed/I6bdJXzuzlc" title="GroundProbe's next-generation solution SSR-XT, SSR-FX, and SSR-Omni" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+</div>
+<p><em>Featured Video (Primary Source — Orica): GroundProbe's next-generation slope stability radar solutions SSR-XT, SSR-FX, and SSR-Omni.</em></p>
+
+!!! tip "Complementary Practical Field Resources from RST Instruments & Measurand (Terra Insights)"
+    - **RST Instruments (@RSTgeotechnical):** [Inclinometer Casing Installation](https://www.youtube.com/watch?v=H2MVAVbOGdg){ target="_blank" }  
+      *Standard field procedure for installing inclinometer casing in boreholes for deep lateral displacement monitoring conforming to FHWA guidelines.*
+    - **Measurand (@MeasurandVideos):** [How to install SAAV Extend: Measurand's connectable ShapeArray](https://www.youtube.com/watch?v=idyme0c9HSs){ target="_blank" }  
+      *Modular deep deformation array installation in transportation infrastructure boreholes.*
+

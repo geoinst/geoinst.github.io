@@ -115,3 +115,19 @@ tables, figures and worked examples.
 > **Engineering judgment comes first.** The handbook supplies formulas and experience,
 > but every site has its own ground conditions — computed results must be verified
 > against field investigation and the judgment of a qualified engineer.
+
+---
+
+## Featured Video & Practical Resources
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
+  <iframe src="https://www.youtube-nocookie.com/embed/0tLX-O9dOQk" title="Orica Digital Solutions' Geosolutions' Geotechnical Specialist Services (GSS)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+</div>
+<p><em>Featured Video (Primary Source — Orica): Orica Digital Solutions' Geosolutions' Geotechnical Specialist Services (GSS).</em></p>
+
+!!! tip "Complementary Practical Field Resources from RST Instruments & Measurand (Terra Insights)"
+    - **RST Instruments (@RSTgeotechnical):** [Inclinometer Casing Installation](https://www.youtube.com/watch?v=H2MVAVbOGdg){ target="_blank" }  
+      *Field practice guidelines for vertical inclinometer casing installation in deep excavations and soft ground.*
+    - **Measurand (@MeasurandVideos):** [How to install SAAV Extend: Measurand's connectable ShapeArray](https://www.youtube.com/watch?v=idyme0c9HSs){ target="_blank" }  
+      *Deploying modular connectable ShapeArray for automated deep settlement and lateral deflection measurement.*
+
