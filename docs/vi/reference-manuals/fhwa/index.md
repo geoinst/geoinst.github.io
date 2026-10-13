@@ -82,6 +82,8 @@ kỹ thuật cụ thể**. Nếu không có câu hỏi, thì không nên có thi
 > **Phán đoán chính là thiết bị.** Thiết bị hỗ trợ, nhưng không bao giờ thay thế,
 > phán đoán kỹ thuật của một kỹ sư địa kỹ thuật có năng lực.
 
+---
+
 ## Video công nghệ & Tư liệu thực hành liên quan
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
@@ -94,3 +96,4 @@ kỹ thuật cụ thể**. Nếu không có câu hỏi, thì không nên có thi
       *Kỹ thuật lắp đặt ống đo nghiêng (inclinometer casing) trong hố khoan theo tiêu chuẩn FHWA để quan trắc dịch chuyển ngang.*
     - **Measurand (@MeasurandVideos):** [How to install SAAV Extend: Measurand's connectable ShapeArray](https://www.youtube.com/watch?v=idyme0c9HSs){ target="_blank" }  
       *Quy trình lắp đặt chuỗi cảm biến SAAV Extend đo biến dạng sâu trong ống vách hố khoan công trình giao thông.*
+

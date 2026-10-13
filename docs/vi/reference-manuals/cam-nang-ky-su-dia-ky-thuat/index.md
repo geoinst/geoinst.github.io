@@ -1,116 +1,114 @@
-﻿---
+---
 lang: vi
 lang_alt: reference-manuals/geotechnical-engineers-handbook/
 ---
-# Cáº©m nang dÃ¹ng cho ká»¹ sÆ° Ä‘á»‹a ká»¹ thuáº­t
+# Cẩm nang dùng cho kỹ sư địa kỹ thuật
 
-!!! note "Giá»›i thiá»‡u vá» tÃ i liá»‡u nÃ y"
-    ÄÃ¢y lÃ  **báº£n tá»•ng há»£p ká»¹ thuáº­t nguyÃªn báº£n** do cÆ¡ sá»Ÿ tri thá»©c nÃ y biÃªn soáº¡n,
-    phÃ³ng tÃ¡c theo pháº¡m vi vÃ  cáº¥u trÃºc chá»§ Ä‘á» cá»§a cuá»‘n **Cáº©m nang dÃ¹ng cho ká»¹ sÆ°
-    Ä‘á»‹a ká»¹ thuáº­t** â€” tÃ¡c giáº£ **Tráº§n VÄƒn Viá»‡t**, NhÃ  xuáº¥t báº£n XÃ¢y dá»±ng. Cuá»‘n sÃ¡ch
-    gá»‘c **cÃ³ báº£n quyá»n**: trang nÃ y **khÃ´ng** sao chÃ©p nguyÃªn vÄƒn ná»™i dung mÃ  chá»‰
-    tÃ³m lÆ°á»£c cÃ¡c khÃ¡i niá»‡m chÃ­nh vÃ  há»‡ thá»‘ng hÃ³a thuáº­t ngá»¯ chuyÃªn ngÃ nh, kÃ¨m dáº«n
-    chiáº¿u vá» báº£n gá»‘c. Ná»™i dung phá»¥c vá»¥ há»c táº­p vÃ  tra cá»©u; má»—i dá»± Ã¡n lÃ  duy nháº¥t.
+!!! note "Giới thiệu về tài liệu này"
+    Đây là **bản tổng hợp kỹ thuật nguyên bản** do cơ sở tri thức này biên soạn,
+    phóng tác theo phạm vi và cấu trúc chủ đề của cuốn **Cẩm nang dùng cho kỹ sư
+    địa kỹ thuật** — tác giả **Trần Văn Việt**, Nhà xuất bản Xây dựng. Cuốn sách
+    gốc **có bản quyền**: trang này **không** sao chép nguyên văn nội dung mà chỉ
+    tóm lược các khái niệm chính và hệ thống hóa thuật ngữ chuyên ngành, kèm dẫn
+    chiếu về bản gốc. Nội dung phục vụ học tập và tra cứu; mỗi dự án là duy nhất.
 
-**Cáº©m nang dÃ¹ng cho ká»¹ sÆ° Ä‘á»‹a ká»¹ thuáº­t** lÃ  má»™t sá»• tay thá»±c hÃ nh tiáº¿ng Viá»‡t dÃ nh cho
-ká»¹ sÆ° xÃ¢y dá»±ng, tá»•ng há»£p kiáº¿n thá»©c vÃ  kinh nghiá»‡m Ä‘á»‹a ká»¹ thuáº­t tÃ­ch lÅ©y tá»« nhiá»u dá»± Ã¡n
-háº¡ táº§ng á»Ÿ Viá»‡t Nam, Ä‘á»‘i chiáº¿u vá»›i tiÃªu chuáº©n â€“ quy pháº¡m cá»§a cÃ¡c nÆ°á»›c phÃ¡t triá»ƒn á»Ÿ
-Ã‚u â€“ Má»¹. SÃ¡ch bao quÃ¡t trá»n váº¹n chu trÃ¬nh cÃ´ng tÃ¡c Ä‘á»‹a ká»¹ thuáº­t, chia thÃ nh hai khá»‘i:
+**Cẩm nang dùng cho kỹ sư địa kỹ thuật** là một sổ tay thực hành tiếng Việt dành cho
+kỹ sư xây dựng, tổng hợp kiến thức và kinh nghiệm địa kỹ thuật tích lũy từ nhiều dự án
+hạ tầng ở Việt Nam, đối chiếu với tiêu chuẩn – quy phạm của các nước phát triển ở
+Âu – Mỹ. Sách bao quát trọn vẹn chu trình công tác địa kỹ thuật, chia thành hai khối:
 
-- **Kháº£o sÃ¡t Ä‘áº¥t ná»n** (ChÆ°Æ¡ng I â€“ IV): mÃ´i trÆ°á»ng Ä‘á»‹a cháº¥t â€“ Ä‘áº¥t Ä‘Ã¡, tÃ­nh cháº¥t xÃ¢y
-  dá»±ng cá»§a Ä‘áº¥t ná»n, nÆ°á»›c dÆ°á»›i Ä‘áº¥t, vÃ  toÃ n bá»™ há»‡ thá»‘ng phÆ°Æ¡ng phÃ¡p â€“ ká»¹ thuáº­t â€“ thiáº¿t
-  bá»‹ phá»¥c vá»¥ kháº£o sÃ¡t, thÄƒm dÃ², thÃ­ nghiá»‡m.
-- **PhÃ¢n tÃ­ch Ä‘á»‹a ká»¹ thuáº­t** (ChÆ°Æ¡ng V â€“ XII): phÃ¢n tÃ­ch mÃ³ng nÃ´ng vÃ  mÃ³ng sÃ¢u, á»•n
-  Ä‘á»‹nh mÃ¡i dá»‘c, tÆ°á»ng cháº¯n, Ä‘áº¥t Ä‘áº¯p trÃªn ná»n Ä‘áº¥t yáº¿u, thá»§y lá»±c cÃ´ng trÃ¬nh, Ä‘á»™ng Ä‘áº¥t,
-  vÃ  á»©ng dá»¥ng cÃ´ng nghá»‡ thÃ´ng tin.
+- **Khảo sát đất nền** (Chương I – IV): môi trường địa chất – đất đá, tính chất xây
+  dựng của đất nền, nước dưới đất, và toàn bộ hệ thống phương pháp – kỹ thuật – thiết
+  bị phục vụ khảo sát, thăm dò, thí nghiệm.
+- **Phân tích địa kỹ thuật** (Chương V – XII): phân tích móng nông và móng sâu, ổn
+  định mái dốc, tường chắn, đất đắp trên nền đất yếu, thủy lực công trình, động đất,
+  và ứng dụng công nghệ thông tin.
 
 ---
 
-## ThÃ´ng tin xuáº¥t báº£n
+## Thông tin xuất bản
 
-| Má»¥c | Ná»™i dung |
+| Mục | Nội dung |
 | --- | --- |
-| TÃªn sÃ¡ch | Cáº©m nang dÃ¹ng cho ká»¹ sÆ° Ä‘á»‹a ká»¹ thuáº­t (*Geotechnical Engineer's Handbook*) |
-| Chá»§ biÃªn | Tráº§n VÄƒn Viá»‡t |
-| NhÃ  xuáº¥t báº£n | NhÃ  xuáº¥t báº£n XÃ¢y dá»±ng |
-| Äá»“ng tÃ¡c giáº£ & hiá»‡u chá»‰nh | GS. VÅ© CÃ´ng Ngá»¯ (Ch. II, V, VI, VII, VIII, IX, XII); TS. Pháº¡m TÃ­ch XuÃ¢n (Ch. I); TS. Nguyá»…n VÄƒn TÃºc (Ch. III, X); ThS. TrÆ°Æ¡ng Há»¯u HÃ¹ng, KS. Nguyá»…n Gia ChÃ­nh, ThS. Nguyá»…n VÅ© TÃ¹ng (Ch. IV); GS. Nguyá»…n ÄÃ¬nh XuyÃªn (Ch. XI) |
-| Lá»i giá»›i thiá»‡u | GS.TS. VÅ© CÃ´ng Ngá»¯ |
-| CÆ¡ quan há»— trá»£ | CÃ´ng ty Kháº£o sÃ¡t vÃ  XÃ¢y dá»±ng â€“ USCo (Bá»™ XÃ¢y dá»±ng); LiÃªn hiá»‡p KHSX Äá»‹a cháº¥t, XÃ¢y dá»±ng, Cáº¥p nÆ°á»›c â€“ GEOWASCO |
-| Pháº¡m vi | 12 chÆ°Æ¡ng, tá»« Ä‘á»‹a cháº¥t â€“ Ä‘áº¥t Ä‘Ã¡ tá»›i tin há»c Ä‘á»‹a ká»¹ thuáº­t |
+| Tên sách | Cẩm nang dùng cho kỹ sư địa kỹ thuật (*Geotechnical Engineer's Handbook*) |
+| Chủ biên | Trần Văn Việt |
+| Nhà xuất bản | Nhà xuất bản Xây dựng |
+| Đồng tác giả & hiệu chỉnh | GS. Vũ Công Ngữ (Ch. II, V, VI, VII, VIII, IX, XII); TS. Phạm Tích Xuân (Ch. I); TS. Nguyễn Văn Túc (Ch. III, X); ThS. Trương Hữu Hùng, KS. Nguyễn Gia Chính, ThS. Nguyễn Vũ Tùng (Ch. IV); GS. Nguyễn Đình Xuyên (Ch. XI) |
+| Lời giới thiệu | GS.TS. Vũ Công Ngữ |
+| Cơ quan hỗ trợ | Công ty Khảo sát và Xây dựng – USCo (Bộ Xây dựng); Liên hiệp KHSX Địa chất, Xây dựng, Cấp nước – GEOWASCO |
+| Phạm vi | 12 chương, từ địa chất – đất đá tới tin học địa kỹ thuật |
 
-SÃ¡ch cÃ³ kÃ¨m má»™t **Báº£ng kÃ½ hiá»‡u â€“ Symbol** Ä‘á»‘i chiáº¿u kÃ½ hiá»‡u / tiáº¿ng Viá»‡t / tiáº¿ng Anh
-(xem [ChÆ°Æ¡ng má»Ÿ Ä‘áº§u](#cach-dung) vÃ  cÃ¡c báº£ng thuáº­t ngá»¯ á»Ÿ cuá»‘i má»—i chÆ°Æ¡ng bÃªn dÆ°á»›i).
+Sách có kèm một **Bảng ký hiệu – Symbol** đối chiếu ký hiệu / tiếng Việt / tiếng Anh
+(xem [Chương mở đầu](#cach-dung) và các bảng thuật ngữ ở cuối mỗi chương bên dưới).
 
 ---
 
-## Pháº¡m vi cá»§a tÃ i liá»‡u
+## Phạm vi của tài liệu
 
-Báº£n tá»•ng há»£p nÃ y bÃ¡m theo 12 chÆ°Æ¡ng cá»§a sÃ¡ch gá»‘c:
+Bản tổng hợp này bám theo 12 chương của sách gốc:
 
-| # | ChÆ°Æ¡ng | Ná»™i dung chÃ­nh |
+| # | Chương | Nội dung chính |
 | --- | --- | --- |
-| 1 | [KhÃ¡i quÃ¡t Ä‘á»‹a cháº¥t â€“ Ä‘áº¥t Ä‘Ã¡](chapter-01-geology-soil-rock.md) | Cáº¥u trÃºc Quáº£ Äáº¥t; Ä‘Ã¡ magma, tráº§m tÃ­ch, biáº¿n cháº¥t |
-| 2 | [TÃ­nh cháº¥t xÃ¢y dá»±ng cá»§a Ä‘áº¥t ná»n](chapter-02-soil-properties.md) | ThÃ nh pháº§n Ä‘áº¥t; tÃ­nh cháº¥t váº­t lÃ½; Ä‘Ã n há»“i, Mohr, dáº»o, cá»‘ káº¿t Terzaghi, Menard |
-| 3 | [NÆ°á»›c dÆ°á»›i Ä‘áº¥t](chapter-03-groundwater.md) | MÃ´i trÆ°á»ng rá»—ng, Ä‘á»™ tháº¥m, mao dáº«n; nÆ°á»›c trong tráº§m tÃ­ch háº¡t vÃ  cÃ¡c-tÆ¡ |
-| 4 | [Kháº£o sÃ¡t â€“ thÄƒm dÃ² â€“ thÃ­ nghiá»‡m](chapter-04-investigation-testing.md) | PhÃ¢n loáº¡i & mÃ´ táº£ Ä‘áº¥t Ä‘Ã¡; cÃ¡c giai Ä‘oáº¡n kháº£o sÃ¡t; khoan, láº¥y máº«u, Ä‘á»‹a váº­t lÃ½; thÃ­ nghiá»‡m hiá»‡n trÆ°á»ng & trong phÃ²ng |
-| 5 | [PhÃ¢n tÃ­ch mÃ³ng nÃ´ng](chapter-05-shallow-foundations.md) | Tráº¡ng thÃ¡i dÆ°á»›i táº£i; sá»©c chá»‹u táº£i (lÃ½ thuyáº¿t, CPT, PMT, SPT, ná»n Ä‘Ã¡); Ä‘á»™ lÃºn |
-| 6 | [PhÃ¢n tÃ­ch mÃ³ng sÃ¢u](chapter-06-deep-foundations.md) | PhÃ¢n loáº¡i cá»c; sá»©c chá»‹u táº£i cá»c Ä‘Æ¡n; ma sÃ¡t Ã¢m, lá»±c xá»‡ ngang; cá»c chá»‹u táº£i ngang; nhÃ³m cá»c; Ä‘á»™ lÃºn |
-| 7 | [PhÃ¢n tÃ­ch á»•n Ä‘á»‹nh mÃ¡i dá»‘c](chapter-07-slope-stability.md) | PhÃ¢n loáº¡i chuyá»ƒn Ä‘á»™ng; trÆ°á»£t máº·t pháº³ng, cung trÃ²n; cÃ¡c lá»i giáº£i Ä‘Æ¡n giáº£n |
-| 8 | [PhÃ¢n tÃ­ch tÆ°á»ng cháº¯n](chapter-08-retaining-walls.md) | Ãp lá»±c chá»§ Ä‘á»™ng â€“ bá»‹ Ä‘á»™ng; tÆ°á»ng cháº¯n cá»©ng vÃ  má»m; tÆ°á»ng neo, há»‘ Ä‘Ã o chá»‘ng xÃ  |
-| 9 | [Äáº¥t Ä‘áº¯p trÃªn ná»n Ä‘áº¥t yáº¿u](chapter-09-embankment-soft-ground.md) | á»”n Ä‘á»‹nh & lÃºn cá»‘ káº¿t; gia tÄƒng váº­n tá»‘c cá»‘ káº¿t; **quan tráº¯c â€“ kiá»ƒm tra**; váº­t liá»‡u Ä‘áº¯p; táº§ng phá»§ má»m |
-| 10 | [Thá»§y lá»±c cÃ´ng trÃ¬nh](chapter-10-hydraulics.md) | Äá»‹nh luáº­t Darcy; máº¡ng dÃ²ng cháº£y; lá»±c Ä‘áº©y; tÆ°á»ng ngÄƒn, Ä‘Ãª Ä‘áº­p Ä‘áº¥t |
-| 11 | [Äá»™ng Ä‘áº¥t vá»›i cÃ´ng trÃ¬nh xÃ¢y dá»±ng](chapter-11-earthquakes.md) | Äáº·c trÆ°ng Ä‘á»™ng Ä‘áº¥t; phÃ¢n vÃ¹ng Ä‘á»‹a cháº¥n Viá»‡t Nam; thiáº¿t káº¿ khÃ¡ng cháº¥n; hÃ³a lá»ng |
-| 12 | [CÃ´ng nghá»‡ thÃ´ng tin trong Ä‘á»‹a ká»¹ thuáº­t](chapter-12-geo-informatics.md) | Tin há»c trong kháº£o sÃ¡t vÃ  trong phÃ¢n tÃ­ch Ä‘á»‹a ká»¹ thuáº­t |
+| 1 | [Khái quát địa chất – đất đá](chapter-01-geology-soil-rock.md) | Cấu trúc Quả Đất; đá magma, trầm tích, biến chất |
+| 2 | [Tính chất xây dựng của đất nền](chapter-02-soil-properties.md) | Thành phần đất; tính chất vật lý; đàn hồi, Mohr, dẻo, cố kết Terzaghi, Menard |
+| 3 | [Nước dưới đất](chapter-03-groundwater.md) | Môi trường rỗng, độ thấm, mao dẫn; nước trong trầm tích hạt và các-tơ |
+| 4 | [Khảo sát – thăm dò – thí nghiệm](chapter-04-investigation-testing.md) | Phân loại & mô tả đất đá; các giai đoạn khảo sát; khoan, lấy mẫu, địa vật lý; thí nghiệm hiện trường & trong phòng |
+| 5 | [Phân tích móng nông](chapter-05-shallow-foundations.md) | Trạng thái dưới tải; sức chịu tải (lý thuyết, CPT, PMT, SPT, nền đá); độ lún |
+| 6 | [Phân tích móng sâu](chapter-06-deep-foundations.md) | Phân loại cọc; sức chịu tải cọc đơn; ma sát âm, lực xệ ngang; cọc chịu tải ngang; nhóm cọc; độ lún |
+| 7 | [Phân tích ổn định mái dốc](chapter-07-slope-stability.md) | Phân loại chuyển động; trượt mặt phẳng, cung tròn; các lời giải đơn giản |
+| 8 | [Phân tích tường chắn](chapter-08-retaining-walls.md) | Áp lực chủ động – bị động; tường chắn cứng và mềm; tường neo, hố đào chống xà |
+| 9 | [Đất đắp trên nền đất yếu](chapter-09-embankment-soft-ground.md) | Ổn định & lún cố kết; gia tăng vận tốc cố kết; **quan trắc – kiểm tra**; vật liệu đắp; tầng phủ mềm |
+| 10 | [Thủy lực công trình](chapter-10-hydraulics.md) | Định luật Darcy; mạng dòng chảy; lực đẩy; tường ngăn, đê đập đất |
+| 11 | [Động đất với công trình xây dựng](chapter-11-earthquakes.md) | Đặc trưng động đất; phân vùng địa chấn Việt Nam; thiết kế kháng chấn; hóa lỏng |
+| 12 | [Công nghệ thông tin trong địa kỹ thuật](chapter-12-geo-informatics.md) | Tin học trong khảo sát và trong phân tích địa kỹ thuật |
 
 ---
 
-## CÃ¡ch sá»­ dá»¥ng tÃ i liá»‡u nÃ y {#cach-dung}
+## Cách sử dụng tài liệu này {#cach-dung}
 
-- **Äá»c theo chu trÃ¬nh cÃ´ng viá»‡c.** Náº¿u báº¡n Ä‘ang kháº£o sÃ¡t, báº¯t Ä‘áº§u tá»« ChÆ°Æ¡ng Iâ€“IV.
-  Náº¿u báº¡n Ä‘ang thiáº¿t káº¿, vÃ o tháº³ng ChÆ°Æ¡ng Vâ€“VIII theo loáº¡i káº¿t cáº¥u.
-- **ChÆ°Æ¡ng 9 lÃ  chÆ°Æ¡ng gáº§n nháº¥t vá»›i chá»§ Ä‘á» cá»§a trang web nÃ y** â€” má»¥c *Quan tráº¯c â€“
-  kiá»ƒm tra* trÃ¬nh bÃ y quan tráº¯c lÃºn, Ä‘o Ã¡p lá»±c nÆ°á»›c lá»— rá»—ng, Ä‘o chuyá»ƒn vá»‹ ngang vÃ  Ä‘o
-  á»©ng suáº¥t tá»•ng trong ná»n Ä‘áº¥t Ä‘áº¯p. HÃ£y Ä‘á»c song song vá»›i
-  [Dunnicliff](../dunnicliff/index.md) vÃ  [FHWA](../fhwa/index.md).
-- **DÃ¹ng báº£ng thuáº­t ngá»¯ á»Ÿ cuá»‘i má»—i chÆ°Æ¡ng.** ÄÃ¢y lÃ  pháº§n "giá»¯ láº¡i" quan trá»ng nháº¥t cá»§a
-  báº£n tá»•ng há»£p: thuáº­t ngá»¯ tiáº¿ng Viá»‡t cá»§a sÃ¡ch gá»‘c, kÃ¨m tÆ°Æ¡ng Ä‘Æ°Æ¡ng tiáº¿ng Anh.
-- **Äá»‘i chiáº¿u vá»›i thuáº­t ngá»¯ chuáº©n cá»§a trang.** Xem
-  [Thuáº­t ngá»¯ Anh â€“ Viá»‡t](../../thuat-ngu/index.md) Ä‘á»ƒ biáº¿t Ã¡nh xáº¡ 1-1 theo TCVN.
-- **Há»i [BÃ¡c sÄ© GTI](../../gti-doctor.md).** Trá»£ lÃ½ AI tráº£ lá»i tá»« kho tÆ° liá»‡u Ä‘Ã£ láº­p
-  chá»‰ má»¥c.
+- **Đọc theo chu trình công việc.** Nếu bạn đang khảo sát, bắt đầu từ Chương I–IV.
+  Nếu bạn đang thiết kế, vào thẳng Chương V–VIII theo loại kết cấu.
+- **Chương 9 là chương gần nhất với chủ đề của trang web này** — mục *Quan trắc –
+  kiểm tra* trình bày quan trắc lún, đo áp lực nước lỗ rỗng, đo chuyển vị ngang và đo
+  ứng suất tổng trong nền đất đắp. Hãy đọc song song với
+  [Dunnicliff](../dunnicliff/index.md) và [FHWA](../fhwa/index.md).
+- **Dùng bảng thuật ngữ ở cuối mỗi chương.** Đây là phần "giữ lại" quan trọng nhất của
+  bản tổng hợp: thuật ngữ tiếng Việt của sách gốc, kèm tương đương tiếng Anh.
+- **Đối chiếu với thuật ngữ chuẩn của trang.** Xem
+  [Thuật ngữ Anh – Việt](../../thuat-ngu/index.md) để biết ánh xạ 1-1 theo TCVN.
+- **Hỏi [Bác sĩ GTI](../../gti-doctor.md).** Trợ lý AI trả lời từ kho tư liệu đã lập
+  chỉ mục.
 
 ---
 
-## Thuáº­t ngá»¯ vÃ  chuáº©n hÃ³a
+## Thuật ngữ và chuẩn hóa
 
-Cuá»‘n sÃ¡ch dÃ¹ng má»™t sá»‘ thuáº­t ngá»¯ theo cÃ¡ch gá»i phá»• biáº¿n trong thá»±c hÃ nh Viá»‡t Nam, cÃ³
-khi khÃ¡c vá»›i Ã¡nh xáº¡ TCVN chuáº©n thá»©c mÃ  trang web nÃ y Ã¡p dá»¥ng. Báº£n tá»•ng há»£p giá»¯ láº¡i
-**thuáº­t ngá»¯ gá»‘c cá»§a sÃ¡ch** (Ä‘á»ƒ tra cá»©u chÃ©o) nhÆ°ng bá»• sung **thuáº­t ngá»¯ chuáº©n** á»Ÿ má»—i
-chÆ°Æ¡ng, vÃ­ dá»¥:
+Cuốn sách dùng một số thuật ngữ theo cách gọi phổ biến trong thực hành Việt Nam, có
+khi khác với ánh xạ TCVN chuẩn thức mà trang web này áp dụng. Bản tổng hợp giữ lại
+**thuật ngữ gốc của sách** (để tra cứu chéo) nhưng bổ sung **thuật ngữ chuẩn** ở mỗi
+chương, ví dụ:
 
-| SÃ¡ch dÃ¹ng | Ãnh xáº¡ TCVN chuáº©n cá»§a trang |
+| Sách dùng | Ánh xạ TCVN chuẩn của trang |
 | --- | --- |
-| "Ã¡p lá»±c nÆ°á»›c lá»— rá»—ng" | **Ãp lá»±c nÆ°á»›c lá»— rá»—ng** (pore-water pressure) |
-| "thiáº¿t bá»‹ Ä‘o Ã¡p lá»±c nÆ°á»›c" | **Ãp káº¿** (piezometer) |
-| "á»©ng suáº¥t há»¯u hiá»‡u / há»¯u hiá»‡u" | **á»¨ng suáº¥t há»¯u hiá»‡u** (effective stress) |
-| "mÃ´ Ä‘un nÃ©n ngang" | **MÃ´ Ä‘un nÃ©n ngang** (pressuremeter modulus) |
-| "thiáº¿t bá»‹ Ä‘o biáº¿n dáº¡ng sÃ¢u" | **Thiáº¿t bá»‹ Ä‘o biáº¿n dáº¡ng sÃ¢u** (extensometer) |
+| "áp lực nước lỗ rỗng" | **Áp lực nước lỗ rỗng** (pore-water pressure) |
+| "thiết bị đo áp lực nước" | **Áp kế** (piezometer) |
+| "ứng suất hữu hiệu / hữu hiệu" | **Ứng suất hữu hiệu** (effective stress) |
+| "mô đun nén ngang" | **Mô đun nén ngang** (pressuremeter modulus) |
+| "thiết bị đo biến dạng sâu" | **Thiết bị đo biến dạng sâu** (extensometer) |
 
 ---
 
-## Nguá»“n vÃ  ghi nháº­n
+## Nguồn và ghi nhận
 
-Ná»™i dung Ä‘Æ°á»£c tá»•ng há»£p tá»« **Cáº©m nang dÃ¹ng cho ká»¹ sÆ° Ä‘á»‹a ká»¹ thuáº­t** (Tráº§n VÄƒn Viá»‡t chá»§
-biÃªn, NhÃ  xuáº¥t báº£n XÃ¢y dá»±ng), cÃ¹ng cÃ¡c tiÃªu chuáº©n â€“ quy pháº¡m mÃ  sÃ¡ch viá»‡n dáº«n
-(ASTM, AASHTO, BSI, NF, JIS, TCVN). Báº£n gá»‘c **cÃ³ báº£n quyá»n**; má»i quyá»n thuá»™c vá» tÃ¡c
-giáº£ vÃ  nhÃ  xuáº¥t báº£n. Trang nÃ y lÃ  **báº£n tÃ³m lÆ°á»£c Ä‘á»™c láº­p**, khÃ´ng thay tháº¿ báº£n gá»‘c â€”
-Ä‘á»™c giáº£ nÃªn tÃ¬m Ä‘á»c báº£n in Ä‘á»ƒ cÃ³ Ä‘áº§y Ä‘á»§ báº£ng tra, hÃ¬nh váº½ vÃ  vÃ­ dá»¥ tÃ­nh toÃ¡n.
+Nội dung được tổng hợp từ **Cẩm nang dùng cho kỹ sư địa kỹ thuật** (Trần Văn Việt chủ
+biên, Nhà xuất bản Xây dựng), cùng các tiêu chuẩn – quy phạm mà sách viện dẫn
+(ASTM, AASHTO, BSI, NF, JIS, TCVN). Bản gốc **có bản quyền**; mọi quyền thuộc về tác
+giả và nhà xuất bản. Trang này là **bản tóm lược độc lập**, không thay thế bản gốc —
+độc giả nên tìm đọc bản in để có đầy đủ bảng tra, hình vẽ và ví dụ tính toán.
 
----
-
-> **PhÃ¡n Ä‘oÃ¡n ká»¹ thuáº­t lÃ  trÃªn háº¿t.** Sá»• tay cung cáº¥p cÃ´ng thá»©c vÃ  kinh nghiá»‡m, nhÆ°ng
-> má»—i cÃ´ng trÃ¬nh cÃ³ Ä‘iá»u kiá»‡n ná»n riÃªng â€” káº¿t quáº£ tÃ­nh toÃ¡n pháº£i Ä‘Æ°á»£c kiá»ƒm chá»©ng báº±ng
-> kháº£o sÃ¡t thá»±c Ä‘á»‹a vÃ  phÃ¡n Ä‘oÃ¡n cá»§a ká»¹ sÆ° cÃ³ nÄƒng lá»±c.
+> **Phán đoán kỹ thuật là trên hết.** Sổ tay cung cấp công thức và kinh nghiệm, nhưng
+> mỗi công trình có điều kiện nền riêng — kết quả tính toán phải được kiểm chứng bằng
+> khảo sát thực địa và phán đoán của kỹ sư có năng lực.
 
 ---
 
@@ -119,10 +117,11 @@ giáº£ vÃ  nhÃ  xuáº¥t báº£n. Trang nÃ y lÃ  **báº£n tÃ³m l
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
   <iframe src="https://www.youtube-nocookie.com/embed/0tLX-O9dOQk" title="Orica Digital Solutions' Geosolutions' Geotechnical Specialist Services (GSS)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
 </div>
-<p><em>Video (Nguồn chính — Orica): Orica Digital Solutions' Geosolutions' Geotechnical Specialist Services (GSS).</em></p>
+<p><em>Video (Nguồn chính — Orica): Dịch vụ Chuyên gia Địa kỹ thuật Toàn diện Orica Digital Solutions GeoSolutions (GSS).</em></p>
 
 !!! tip "Tư liệu thực hành bổ trợ từ RST Instruments & Measurand (Terra Insights)"
     - **RST Instruments (@RSTgeotechnical):** [Inclinometer Casing Installation](https://www.youtube.com/watch?v=H2MVAVbOGdg){ target="_blank" }  
-      *Kỹ thuật lắp đặt ống đo nghiêng trong hố khoan khảo sát địa kỹ thuật công trình tại hiện trường.*
-    - **Measurand (@MeasurandVideos):** [How to install SAAV Extend: Measurand's connectable ShapeArray](https://www.youtube.com/watch?v=idyme0c9HSs){ target="_blank" }  
-      *Lắp đặt chuỗi cảm biến đo nghiêng tự động đa đoạn SAAV trong các dự án móng hố đào sâu.*
+      *Hướng dẫn thực hành lắp đặt ống đo nghiêng inclinometer trong hố móng sâu và nền đất yếu.*
+    - **Measurand (@MeasurandVideos):** [How to install SAAV Extend](https://www.youtube.com/watch?v=idyme0c9HSs){ target="_blank" }  
+      *Triển khai cảm biến ShapeArray tự động đo lún sâu và chuyển vị ngang cho kỹ sư hiện trường.*
+

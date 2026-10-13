@@ -1,58 +1,58 @@
-﻿---
+---
 lang: vi
 lang_alt: reference-manuals/dunnicliff/
 ---
 
-# Thiáº¿t bá»‹ quan tráº¯c Ä‘á»‹a ká»¹ thuáº­t Ä‘á»ƒ giÃ¡m sÃ¡t hiá»‡u nÄƒng hiá»‡n trÆ°á»ng
+# Thiết bị quan trắc địa kỹ thuật để giám sát hiệu năng hiện trường
 *(Geotechnical Instrumentation for Monitoring Field Performance)*
 
-**TÃ¡c giáº£ gá»‘c**: John Dunnicliff (vá»›i sá»± cá»™ng tÃ¡c cá»§a Gordon E. Green)  
-**Vá»‹ tháº¿ há»c thuáº­t**: GiÃ¡o trÃ¬nh tham kháº£o Ä‘á»‹nh nghÄ©a vÃ  tiÃªu chuáº©n thá»±c hÃ nh quan tráº¯c Ä‘á»‹a ká»¹ thuáº­t kinh Ä‘iá»ƒn nháº¥t tháº¿ giá»›i, káº¿t há»£p cÃ¹ng Tá»•ng luáº­n **NCHRP Synthesis 89**.
+**Tác giả gốc**: John Dunnicliff (với sự cộng tác của Gordon E. Green)  
+**Vị thế học thuật**: Giáo trình tham khảo định nghĩa và tiêu chuẩn thực hành quan trắc địa kỹ thuật kinh điển nhất thế giới, kết hợp cùng Tổng luận **NCHRP Synthesis 89**.
 
-!!! note "Vá» tÃ i liá»‡u tham kháº£o nÃ y"
-    ÄÃ¢y lÃ  tÃ i liá»‡u ká»¹ thuáº­t má»Ÿ Ä‘Æ°á»£c biÃªn soáº¡n vÃ  báº£n Ä‘á»‹a hÃ³a chuyÃªn sÃ¢u sang tiáº¿ng Viá»‡t dá»±a trÃªn cáº¥u trÃºc, pháº¡m vi vÃ  triáº¿t lÃ½ cá»§a cuá»‘n cáº©m nang kinh Ä‘iá»ƒn **John Dunnicliff â€” *Geotechnical Instrumentation for Monitoring Field Performance*** cÃ¹ng Tá»•ng luáº­n **NCHRP Synthesis 89**. TÃ i liá»‡u nháº±m xÃ¢y dá»±ng tÆ° duy phÃ¡n Ä‘oÃ¡n ká»¹ thuáº­t cho ká»¹ sÆ° tÆ° váº¥n, nhÃ  tháº§u vÃ  chá»§ Ä‘áº§u tÆ° táº¡i hiá»‡n trÆ°á»ng. ToÃ n bá»™ ná»™i dung chi tiáº¿t cá»§a Dunnicliff vÃ  NCHRP Synthesis 89 cÅ©ng Ä‘Æ°á»£c láº­p chá»‰ má»¥c Ä‘áº§y Ä‘á»§ trong trá»£ lÃ½ AI [GTI Doctor](../../gti-doctor.md).
-
----
-
-## Quan tráº¯c Ä‘á»‹a ká»¹ thuáº­t lÃ  gÃ¬?
-
-**Quan tráº¯c Ä‘á»‹a ká»¹ thuáº­t (Geotechnical Instrumentation)** lÃ  mÃ´n khoa há»c vÃ  nghá»‡ thuáº­t Ä‘o Ä‘áº¡c cÃ¡c thÃ´ng sá»‘ váº­t lÃ½ thá»±c táº¿ cá»§a khá»‘i Ä‘áº¥t, Ä‘Ã¡, mÃ³ng vÃ  káº¿t cáº¥u cÃ´ng trÃ¬nh ngáº§m dÆ°á»›i tÃ¡c Ä‘á»™ng cá»§a táº£i trá»ng xÃ¢y dá»±ng vÃ  mÃ´i trÆ°á»ng. 
-
-Quan tráº¯c chuyá»ƒn Ä‘á»•i nhá»¯ng giáº£ Ä‘á»‹nh vÃ´ hÃ¬nh â€” Ã¡p lá»±c nÆ°á»›c lá»— rá»—ng ngáº§m, chuyá»ƒn vá»‹ sÃ¢u trong lÃ²ng Ä‘áº¥t, á»©ng suáº¥t tiáº¿p xÃºc áº©n â€” thÃ nh nhá»¯ng dá»¯ liá»‡u Ä‘á»‹nh lÆ°á»£ng cá»¥ thá»ƒ giÃºp ká»¹ sÆ° Ä‘Æ°a ra quyáº¿t Ä‘á»‹nh ká»‹p thá»i. NÃ³ biáº¿n phÆ°Æ¡ng chÃ¢m *"chÃºng tÃ´i hy vá»ng cÃ´ng trÃ¬nh á»•n Ä‘á»‹nh"* thÃ nh *"chÃºng tÃ´i biáº¿t cháº¯c cÃ´ng trÃ¬nh Ä‘ang lÃ m viá»‡c an toÃ n"*, hoáº·c quan trá»ng hÆ¡n: *"chÃºng tÃ´i phÃ¡t hiá»‡n sá»›m khá»‘i Ä‘áº¥t Ä‘ang báº¯t Ä‘áº§u dá»‹ch chuyá»ƒn trÆ°á»›c khi xáº£y ra sá»± cá»‘"*.
+!!! note "Về tài liệu tham khảo này"
+    Đây là tài liệu kỹ thuật mở được biên soạn và bản địa hóa chuyên sâu sang tiếng Việt dựa trên cấu trúc, phạm vi và triết lý của cuốn cẩm nang kinh điển **John Dunnicliff — *Geotechnical Instrumentation for Monitoring Field Performance*** cùng Tổng luận **NCHRP Synthesis 89**. Tài liệu nhằm xây dựng tư duy phán đoán kỹ thuật cho kỹ sư tư vấn, nhà thầu và chủ đầu tư tại hiện trường. Toàn bộ nội dung chi tiết của Dunnicliff và NCHRP Synthesis 89 cũng được lập chỉ mục đầy đủ trong trợ lý AI [GTI Doctor](../../gti-doctor.md).
 
 ---
 
-## Má»¥c lá»¥c chi tiáº¿t 14 chÆ°Æ¡ng
+## Quan trắc địa kỹ thuật là gì?
 
-TÃ i liá»‡u Ä‘Æ°á»£c cÃ´ Ä‘á»ng vÃ  phÃ¢n chia cÃ³ há»‡ thá»‘ng theo 14 chÆ°Æ¡ng chuyÃªn Ä‘á»:
+**Quan trắc địa kỹ thuật (Geotechnical Instrumentation)** là môn khoa học và nghệ thuật đo đạc các thông số vật lý thực tế của khối đất, đá, móng và kết cấu công trình ngầm dưới tác động của tải trọng xây dựng và môi trường. 
 
-| # | ChÆ°Æ¡ng | Ná»™i dung trá»ng tÃ¢m |
+Quan trắc chuyển đổi những giả định vô hình — áp lực nước lỗ rỗng ngầm, chuyển vị sâu trong lòng đất, ứng suất tiếp xúc ẩn — thành những dữ liệu định lượng cụ thể giúp kỹ sư đưa ra quyết định kịp thời. Nó biến phương châm *"chúng tôi hy vọng công trình ổn định"* thành *"chúng tôi biết chắc công trình đang làm việc an toàn"*, hoặc quan trọng hơn: *"chúng tôi phát hiện sớm khối đất đang bắt đầu dịch chuyển trước khi xảy ra sự cố"*.
+
+---
+
+## Mục lục chi tiết 14 chương
+
+Tài liệu được cô đọng và phân chia có hệ thống theo 14 chương chuyên đề:
+
+| # | Chương | Nội dung trọng tâm |
 |---|---|---|
-| 1 | [Giá»›i thiá»‡u & Tá»•ng quan](chapter-01-overview.md) | Báº£n cháº¥t quan tráº¯c Ä‘á»‹a ká»¹ thuáº­t, sá»± cáº§n thiáº¿t vÃ  á»©ng xá»­ cÆ¡ báº£n cá»§a Ä‘áº¥t Ä‘Ã¡ |
-| 2 | [Lá»£i Ã­ch cá»§a quan tráº¯c](chapter-02-benefits.md) | GiÃ¡ trá»‹ ká»¹ thuáº­t vÃ  kinh táº¿ trong thiáº¿t káº¿, thi cÃ´ng, váº­n hÃ nh vÃ  phÃ¡p lÃ½ |
-| 3 | [Tiáº¿p cáº­n láº­p káº¿ hoáº¡ch cÃ³ há»‡ thá»‘ng](chapter-03-planning.md) | **Trá»ng tÃ¢m cá»‘t lÃµi**: Quy trÃ¬nh Ä‘áº·t cÃ¢u há»i ká»¹ thuáº­t, chá»n thÃ´ng sá»‘ vÃ  dá»± toÃ¡n |
-| 4 | [Mua sáº¯m & Sáº¯p xáº¿p há»£p Ä‘á»“ng](chapter-04-procurement.md) | Soáº¡n tháº£o thÃ´ng sá»‘ ká»¹ thuáº­t (specs), hiá»‡u chuáº©n xuáº¥t xÆ°á»Ÿng vÃ  quáº£n lÃ½ há»£p Ä‘á»“ng |
-| 5 | [Äá»™ khÃ´ng Ä‘áº£m báº£o Ä‘o & Thu tháº­p dá»¯ liá»‡u](chapter-05-uncertainty.md) | Äá»™ Ä‘Ãºng, Ä‘á»™ chá»¥m, tÃ­nh tÆ°Æ¡ng thÃ­ch, nguyÃªn lÃ½ cáº£m biáº¿n vÃ  há»‡ thá»‘ng ADAS |
-| 6 | [Äo Ã¡p lá»±c nÆ°á»›c ngáº§m](chapter-06-piezometers.md) | CÃ¡c loáº¡i Ã¡p káº¿ (VW, khÃ­ nÃ©n, Casagrande), bÃ£o hÃ²a Ä‘Ã¡ lá»c vÃ  bÆ¡m vá»¯a |
-| 7 | [Äo á»©ng suáº¥t trong Ä‘áº¥t vÃ  Ä‘Ã¡](chapter-07-stress.md) | Há»™p Ä‘o Ã¡p lá»±c Ä‘áº¥t (EPC), há»‡ sá»‘ CAF, há»™p Ä‘o Ä‘o á»©ng suáº¥t há»‘ khoan trong Ä‘Ã¡ |
-| 8 | [Äo biáº¿n dáº¡ng](chapter-08-deformation.md) | Äo lÃºn (bÃ n Ä‘o lÃºn, tá»« tÃ­nh, thá»§y lá»±c), Äo nghiÃªng sÃ¢u, MPBX, SAA |
-| 9 | [Táº£i trá»ng, Biáº¿n dáº¡ng káº¿t cáº¥u & Nhiá»‡t Ä‘á»™](chapter-09-load-strain-temp.md) | Cáº£m biáº¿n Ä‘o táº£i trá»ng (load cell), cáº£m biáº¿n Ä‘o biáº¿n dáº¡ng (strain gauge), thanh truyá»n chuyá»ƒn vá»‹ vÃ  bÃ¹ nhiá»‡t Ä‘á»™ |
-| 10 | [CÃ´ng thá»©c cho sá»± tin cáº­y](chapter-10-recipe.md) | CÃ´ng thá»©c cháº¥t lÆ°á»£ng 25 thÃ nh pháº§n cá»§a Dunnicliff Ä‘áº£m báº£o dá»¯ liá»‡u Ä‘Ã¡ng tin cáº­y |
-| 11 | [Hiá»‡u chuáº©n & Báº£o trÃ¬ thiáº¿t bá»‹](chapter-11-calibration.md) | Kiá»ƒm tra hiá»‡u chuáº©n hiá»‡n trÆ°á»ng, lá»‹ch báº£o trÃ¬ phÃ²ng ngá»«a vÃ  báº£o vá»‡ chá»‘ng sÃ©t |
-| 12 | [Láº¯p Ä‘áº·t thiáº¿t bá»‹ quan tráº¯c](chapter-12-installation.md) | Ká»¹ thuáº­t khoan, bÆ¡m vá»¯a á»‘ng tremie, thi cÃ´ng hÃ o cÃ¡p snaking vÃ  láº­p nháº­t kÃ½ |
-| 13 | [Thu tháº­p & Diá»…n giáº£i dá»¯ liá»‡u](chapter-13-data.md) | Sá»‘ Ä‘á»c ban Ä‘áº§u (baseline), táº§n suáº¥t Ä‘o, Ä‘á»“ thá»‹ hÃ³a tiáº¿n Ä‘á»™ vÃ  tiÃªu chÃ­ cáº£nh bÃ¡o |
-| 14 | [á»¨ng dá»¥ng & Chuá»—i 25 máº¯t xÃ­ch](chapter-14-applications.md) | á»¨ng dá»¥ng cho há»‘ Ä‘Ã o, Ä‘áº¯p Ä‘áº¥t, Ä‘áº­p, sÆ°á»n dá»‘c, háº§m, cá»c vÃ  chuá»—i 25 máº¯t xÃ­ch |
+| 1 | [Giới thiệu & Tổng quan](chapter-01-overview.md) | Bản chất quan trắc địa kỹ thuật, sự cần thiết và ứng xử cơ bản của đất đá |
+| 2 | [Lợi ích của quan trắc](chapter-02-benefits.md) | Giá trị kỹ thuật và kinh tế trong thiết kế, thi công, vận hành và pháp lý |
+| 3 | [Tiếp cận lập kế hoạch có hệ thống](chapter-03-planning.md) | **Trọng tâm cốt lõi**: Quy trình đặt câu hỏi kỹ thuật, chọn thông số và dự toán |
+| 4 | [Mua sắm & Sắp xếp hợp đồng](chapter-04-procurement.md) | Soạn thảo thông số kỹ thuật (specs), hiệu chuẩn xuất xưởng và quản lý hợp đồng |
+| 5 | [Độ không đảm bảo đo & Thu thập dữ liệu](chapter-05-uncertainty.md) | Độ đúng, độ chụm, tính tương thích, nguyên lý cảm biến và hệ thống ADAS |
+| 6 | [Đo áp lực nước ngầm](chapter-06-piezometers.md) | Các loại áp kế (VW, khí nén, Casagrande), bão hòa đá lọc và bơm vữa |
+| 7 | [Đo ứng suất trong đất và đá](chapter-07-stress.md) | Hộp đo áp lực đất (EPC), hệ số CAF, hộp đo đo ứng suất hố khoan trong đá |
+| 8 | [Đo biến dạng](chapter-08-deformation.md) | Đo lún (bàn đo lún, từ tính, thủy lực), Đo nghiêng sâu, MPBX, SAA |
+| 9 | [Tải trọng, Biến dạng kết cấu & Nhiệt độ](chapter-09-load-strain-temp.md) | Cảm biến đo tải trọng (load cell), cảm biến đo biến dạng (strain gauge), thanh truyền chuyển vị và bù nhiệt độ |
+| 10 | [Công thức cho sự tin cậy](chapter-10-recipe.md) | Công thức chất lượng 25 thành phần của Dunnicliff đảm bảo dữ liệu đáng tin cậy |
+| 11 | [Hiệu chuẩn & Bảo trì thiết bị](chapter-11-calibration.md) | Kiểm tra hiệu chuẩn hiện trường, lịch bảo trì phòng ngừa và bảo vệ chống sét |
+| 12 | [Lắp đặt thiết bị quan trắc](chapter-12-installation.md) | Kỹ thuật khoan, bơm vữa ống tremie, thi công hào cáp snaking và lập nhật ký |
+| 13 | [Thu thập & Diễn giải dữ liệu](chapter-13-data.md) | Số đọc ban đầu (baseline), tần suất đo, đồ thị hóa tiến độ và tiêu chí cảnh báo |
+| 14 | [Ứng dụng & Chuỗi 25 mắt xích](chapter-14-applications.md) | Ứng dụng cho hố đào, đắp đất, đập, sườn dốc, hầm, cọc và chuỗi 25 mắt xích |
 
 ---
 
-## HÆ°á»›ng dáº«n sá»­ dá»¥ng tÃ i liá»‡u
+## Hướng dẫn sử dụng tài liệu
 
-- **Báº¯t Ä‘áº§u vá»›i ChÆ°Æ¡ng 3**: Tiáº¿p cáº­n láº­p káº¿ hoáº¡ch cÃ³ há»‡ thá»‘ng lÃ  máº¯t xÃ­ch quan trá»ng nháº¥t cá»§a toÃ n bá»™ cáº©m nang.
-- **Káº¿t ná»‘i liÃªn chuyÃªn khoa**: CÃ¡c chÆ°Æ¡ng há» thiáº¿t bá»‹ káº¿t ná»‘i trá»±c tiáº¿p vá»›i cáº©m nang [GiÃ¡m sÃ¡t hiá»‡u nÄƒng Ä‘áº­p (ASCE MOP-135)](../monitoring-dam-performance/index.md) vÃ  [An toÃ n Ä‘áº­p cháº¥t tháº£i (ICOLD/CDA)](../tailings-dam-safety/index.md).
-- **Há»i Ä‘Ã¡p cÃ¹ng [GTI Doctor](../../gti-doctor.md)**: Trá»£ lÃ½ AI cÃ³ thá»ƒ giáº£i Ä‘Ã¡p chi tiáº¿t cÃ¡c cÃ´ng thá»©c toÃ¡n há»c, thÃ´ng sá»‘ ká»¹ thuáº­t vÃ  tÃ¬nh huá»‘ng thá»±c Ä‘á»‹a tá»« toÃ n bá»™ 616 Ä‘oáº¡n dá»¯ liá»‡u gá»‘c cá»§a Dunnicliff.
+- **Bắt đầu với Chương 3**: Tiếp cận lập kế hoạch có hệ thống là mắt xích quan trọng nhất của toàn bộ cẩm nang.
+- **Kết nối liên chuyên khoa**: Các chương họ thiết bị kết nối trực tiếp với cẩm nang [Giám sát hiệu năng đập (ASCE MOP-135)](../monitoring-dam-performance/index.md) và [An toàn đập chất thải (ICOLD/CDA)](../tailings-dam-safety/index.md).
+- **Hỏi đáp cùng [GTI Doctor](../../gti-doctor.md)**: Trợ lý AI có thể giải đáp chi tiết các công thức toán học, thông số kỹ thuật và tình huống thực địa từ toàn bộ 616 đoạn dữ liệu gốc của Dunnicliff.
 
-!!! quote "PhÃ¡n Ä‘oÃ¡n ká»¹ thuáº­t lÃ  cÃ´ng cá»¥ Ä‘o Ä‘áº¯c lá»±c nháº¥t"
-    Thiáº¿t bá»‹ chá»‰ lÃ  phÆ°Æ¡ng tiá»‡n há»— trá»£, khÃ´ng bao giá» thay tháº¿ Ä‘Æ°á»£c phÃ¡n Ä‘oÃ¡n vÃ  sá»± nháº¡y bÃ©n thá»±c Ä‘á»‹a cá»§a má»™t ká»¹ sÆ° Ä‘á»‹a ká»¹ thuáº­t cÃ³ nÄƒng lá»±c.
+!!! quote "Phán đoán kỹ thuật là công cụ đo đắc lực nhất"
+    Thiết bị chỉ là phương tiện hỗ trợ, không bao giờ thay thế được phán đoán và sự nhạy bén thực địa của một kỹ sư địa kỹ thuật có năng lực.
 
 ---
 
@@ -61,10 +61,11 @@ TÃ i liá»‡u Ä‘Æ°á»£c cÃ´ Ä‘á»ng vÃ  phÃ¢n chia cÃ³ 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
   <iframe src="https://www.youtube-nocookie.com/embed/0tLX-O9dOQk" title="Orica Digital Solutions' Geosolutions' Geotechnical Specialist Services (GSS)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
 </div>
-<p><em>Video (Nguồn chính — Orica): Orica Digital Solutions' Geosolutions' Geotechnical Specialist Services (GSS).</em></p>
+<p><em>Video (Nguồn chính — Orica): Dịch vụ Chuyên gia Địa kỹ thuật Toàn diện Orica Digital Solutions GeoSolutions (GSS).</em></p>
 
 !!! tip "Tư liệu thực hành bổ trợ từ RST Instruments & Measurand (Terra Insights)"
     - **RST Instruments (@RSTgeotechnical):** [Taking Initial Vibrating Wire Piezometer Readings](https://www.youtube.com/watch?v=HJISt9or_Dw){ target="_blank" }  
       *Hướng dẫn thực hành lấy số đọc cơ sở (baseline readings) cho áp kế dây rung trước khi lắp đặt theo đúng công thức Dunnicliff.*
     - **Measurand (@MeasurandVideos):** [Real-time deflection monitoring with ShapeArray](https://www.youtube.com/watch?v=518Mx-65rI0){ target="_blank" }  
       *Quan trắc biến dạng sâu tự động thay thế ống đo nghiêng truyền thống với chuỗi gia tốc kế đa trục ShapeArray.*
+

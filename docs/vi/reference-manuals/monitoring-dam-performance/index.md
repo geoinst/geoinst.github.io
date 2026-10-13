@@ -1,78 +1,76 @@
-﻿---
+---
 lang: vi
 lang_alt: reference-manuals/monitoring-dam-performance/
 ---
 # Monitoring Dam Performance: Instrumentation and Measurements
 
-!!! note "Vá» tÃ i liá»‡u tham kháº£o nÃ y"
-    ÄÃ¢y lÃ  má»™t **tÃ i liá»‡u ká»¹ thuáº­t má»Ÿ, nguyÃªn báº£n** vá» giÃ¡m sÃ¡t hiá»‡u nÄƒng Ä‘áº­p
-    (dam-performance monitoring), Ä‘Æ°á»£c viáº¿t báº±ng ngÃ´n ngá»¯ ká»¹ thuáº­t Ä‘Æ¡n giáº£n, vÃ 
-    Ä‘Æ°á»£c chuyá»ƒn soáº¡n tá»« cáº¥u trÃºc cÅ©ng nhÆ° pháº¡m vi chá»§ Ä‘á» cá»§a *Monitoring Dam
-    Performance: Instrumentation and Measurements* â€” **ASCE Manual of Practice
-    No. 135 (2019)**, do Ban Nhiá»‡m vá»¥ ASCE/EWRI vá» Thiáº¿t bá»‹ Quan tráº¯c vÃ  GiÃ¡m sÃ¡t
-    Äáº­p vÃ  ÄÃª biÃªn soáº¡n. NÃ³ **khÃ´ng** pháº£i lÃ  báº£n sao chÃ©p cá»§a vÄƒn báº£n ASCE Ä‘Æ°á»£c
-    báº£o há»™ báº£n quyá»n. TÃ i liá»‡u Ä‘Æ°á»£c cung cáº¥p phá»¥c vá»¥ giÃ¡o dá»¥c vÃ  sá»­ dá»¥ng táº¡i hiá»‡n
-    trÆ°á»ng, vÃ  má»—i con Ä‘áº­p Ä‘á»u lÃ  duy nháº¥t: hÆ°á»›ng dáº«n á»Ÿ Ä‘Ã¢y nháº±m xÃ¢y dá»±ng nÄƒng lá»±c
-    phÃ¡n Ä‘oÃ¡n ká»¹ thuáº­t, chá»© khÃ´ng Ä‘á»ƒ thiáº¿t láº­p cÃ¡c tiÃªu chuáº©n tá»‘i thiá»ƒu.
+!!! note "Về tài liệu tham khảo này"
+    Đây là một **tài liệu kỹ thuật mở, nguyên bản** về giám sát hiệu năng đập
+    (dam-performance monitoring), được viết bằng ngôn ngữ kỹ thuật đơn giản, và
+    được chuyển soạn từ cấu trúc cũng như phạm vi chủ đề của *Monitoring Dam
+    Performance: Instrumentation and Measurements* — **ASCE Manual of Practice
+    No. 135 (2019)**, do Ban Nhiệm vụ ASCE/EWRI về Thiết bị Quan trắc và Giám sát
+    Đập và Đê biên soạn. Nó **không** phải là bản sao chép của văn bản ASCE được
+    bảo hộ bản quyền. Tài liệu được cung cấp phục vụ giáo dục và sử dụng tại hiện
+    trường, và mỗi con đập đều là duy nhất: hướng dẫn ở đây nhằm xây dựng năng lực
+    phán đoán kỹ thuật, chứ không để thiết lập các tiêu chuẩn tối thiểu.
 
-**An toÃ n Ä‘áº­p** (dam safety) phá»¥ thuá»™c vÃ o viá»‡c hiá»ƒu rÃµ con Ä‘áº­p thá»±c sá»± váº­n hÃ nh
-nhÆ° tháº¿ nÃ o. GiÃ¡m sÃ¡t lÃ  mÃ´n khoa há»c Ä‘o lÆ°á»ng hÃ nh vi Ä‘Ã³ â€” thÃ´ng qua cáº£ quan sÃ¡t
-cá»§a con ngÆ°á»i láº«n thiáº¿t bá»‹ â€” vÃ  chuyá»ƒn nhá»¯ng phÃ©p Ä‘o Ä‘Ã³ thÃ nh cÃ¡c quyáº¿t Ä‘á»‹nh ká»‹p
-thá»i, cÃ³ thá»ƒ báº£o vá»‡ Ä‘Æ°á»£c. TÃ i liá»‡u tham kháº£o nÃ y Ä‘i qua toÃ n bá»™ vÃ²ng Ä‘á»i cá»§a má»™t
-chÆ°Æ¡ng trÃ¬nh giÃ¡m sÃ¡t: tá»« xÃ¡c Ä‘á»‹nh nhá»¯ng gÃ¬ cÃ³ thá»ƒ xáº£y ra sai sÃ³t, Ä‘áº¿n lá»±a chá»n
-vÃ  láº¯p Ä‘áº·t thiáº¿t bá»‹, Ä‘áº¿n thu tháº­p, Ä‘Ã¡nh giÃ¡ vÃ  hÃ nh Ä‘á»™ng dá»±a trÃªn dá»¯ liá»‡u.
+**An toàn đập** (dam safety) phụ thuộc vào việc hiểu rõ con đập thực sự vận hành
+như thế nào. Giám sát là môn khoa học đo lường hành vi đó — thông qua cả quan sát
+của con người lẫn thiết bị — và chuyển những phép đo đó thành các quyết định kịp
+thời, có thể bảo vệ được. Tài liệu tham khảo này đi qua toàn bộ vòng đời của một
+chương trình giám sát: từ xác định những gì có thể xảy ra sai sót, đến lựa chọn
+và lắp đặt thiết bị, đến thu thập, đánh giá và hành động dựa trên dữ liệu.
 
 ---
 
-## Pháº¡m vi cá»§a tÃ i liá»‡u tham kháº£o nÃ y
+## Phạm vi của tài liệu tham khảo này
 
-Cuá»‘n sÃ¡ch nÃ y bao quÃ¡t cÃ¡c nguyÃªn lÃ½ cÆ¡ báº£n vÃ  thá»±c tiá»…n hiá»‡n hÃ nh vá» giÃ¡m sÃ¡t
-hiá»‡u nÄƒng cá»§a cÃ¡c con Ä‘áº­p (vÃ  má»Ÿ rá»™ng ra, cÃ¡c cÃ´ng trÃ¬nh phá»¥ trá»£, ná»n mÃ³ng vÃ  há»“
-chá»©a cá»§a chÃºng). NÃ³ Ä‘Æ°á»£c tá»• chá»©c thÃ nh cÃ¡c chÆ°Æ¡ng sau:
+Cuốn sách này bao quát các nguyên lý cơ bản và thực tiễn hiện hành về giám sát
+hiệu năng của các con đập (và mở rộng ra, các công trình phụ trợ, nền móng và hồ
+chứa của chúng). Nó được tổ chức thành các chương sau:
 
-| # | ChÆ°Æ¡ng | Ná»™i dung bao quÃ¡t |
+| # | Chương | Nội dung bao quát |
 |---|---------|----------------|
-| 1 | [Giá»›i thiá»‡u: Má»¥c Ä‘Ã­ch, Pháº¡m vi vÃ  Cáº¥u trÃºc](chapter-01-introduction.md) | Táº¡i sao giÃ¡m sÃ¡t quan trá»ng; tÃ i liá»‡u nÃ y Ä‘Æ°á»£c tá»• chá»©c nhÆ° tháº¿ nÃ o |
-| 2 | [Hiá»‡u nÄƒng Äáº­p vÃ  CÃ¡c HÃ¬nh thá»©c HÆ° há»ng Tiá»m nÄƒng](chapter-02-failure-modes.md) | CÃ¡ch Ä‘áº­p hÆ° há»ng vÃ  nhá»¯ng dáº¥u hiá»‡u nÃ o bÃ¡o trÆ°á»›c sá»± hÆ° há»ng |
-| 3 | [Triáº¿t lÃ½ GiÃ¡m sÃ¡t: GiÃ¡m sÃ¡t Trá»±c quan vÃ  Thiáº¿t bá»‹ Quan tráº¯c](chapter-03-philosophy.md) | Hai trá»¥ cá»™t cá»§a giÃ¡m sÃ¡t vÃ  cÃ¡ch chÃºng bá»• trá»£ cho nhau |
-| 4 | [Láº­p káº¿ hoáº¡ch ChÆ°Æ¡ng trÃ¬nh GiÃ¡m sÃ¡t Äáº­p](chapter-04-planning.md) | Má»™t quy trÃ¬nh cÃ³ cáº¥u trÃºc Ä‘á»ƒ xÃ¡c Ä‘á»‹nh cÃ¡i gÃ¬, á»Ÿ Ä‘Ã¢u, vÃ  táº¡i sao cáº§n giÃ¡m sÃ¡t |
-| 5 | [CÃ¡c Há» Thiáº¿t bá»‹ Quan tráº¯c cho Äáº­p](chapter-05-instruments.md) | Kháº£o sÃ¡t, Ä‘á»‹a ká»¹ thuáº­t, thá»§y vÄƒn vÃ  cáº£m biáº¿n káº¿t cáº¥u trong nhÃ¡y máº¯t |
-| 6 | [Ãp káº¿ (Piezometer) & GiÃ¡m sÃ¡t Ãp lá»±c NÆ°á»›c Lá»— rá»—ng](chapter-06-piezometers.md) | BÃ£o hÃ²a, láº¯p Ä‘áº·t vÃ  Ä‘á»c Ã¡p lá»±c nÆ°á»›c lá»— rá»—ng |
-| 7 | [GiÃ¡m sÃ¡t Tháº¥m, RÃ² rá»‰ vÃ  Bá» máº·t Tháº¥m (Phreatic)](chapter-07-seepage.md) | Äá»‹nh lÆ°á»£ng vÃ  diá»…n giáº£i sá»± tháº¥m |
-| 8 | [GiÃ¡m sÃ¡t Biáº¿n dáº¡ng: Kháº£o sÃ¡t vÃ  Cáº£m biáº¿n Äá»‹a ká»¹ thuáº­t](chapter-08-deformation.md) | Má»‘c kháº£o sÃ¡t, thiáº¿t bá»‹ Ä‘o nghiÃªng, thiáº¿t bá»‹ Ä‘o biáº¿n dáº¡ng sÃ¢u, cáº£m biáº¿n Ä‘o Ä‘á»™ nghiÃªng |
-| 9 | [Há»‡ thá»‘ng Tá»± Ä‘á»™ng, Tá»« xa vÃ  Thá»i gian Thá»±c](chapter-09-automated.md) | Bá»™ ghi dá»¯ liá»‡u, viá»…n thÃ´ng, ngÆ°á»¡ng vÃ  bÃ¡o Ä‘á»™ng |
-| 10 | [Láº¯p Ä‘áº·t, Váº­n hÃ nh vÃ  Báº£o trÃ¬](chapter-10-iom.md) | CÃ³ Ä‘Æ°á»£c dá»¯ liá»‡u tin cáº­y suá»‘t tuá»•i thá» thiáº¿t bá»‹ |
-| 11 | [Thu tháº­p, Quáº£n lÃ½ Dá»¯ liá»‡u vÃ  CÆ¡ sá»Ÿ Dá»¯ liá»‡u](chapter-11-data-management.md) | Táº§n suáº¥t, kiá»ƒm thá»±c vÃ  cÃ¡c há»‡ thá»‘ng dá»¯ liá»‡u |
-| 12 | [ÄÃ¡nh giÃ¡, TrÃ¬nh bÃ y vÃ  Diá»…n giáº£i Dá»¯ liá»‡u](chapter-12-evaluation.md) | Biá»ƒu Ä‘á»“, Ä‘Æ°á»ng cÆ¡ sá»Ÿ vÃ  tÃ¡ch tÃ­n hiá»‡u khá»i nhiá»…u |
-| 13 | [ÄÃ¡nh giÃ¡ Hiá»‡u nÄƒng vÃ  Ra quyáº¿t Ä‘á»‹nh](chapter-13-decisions.md) | Tá»« báº¥t thÆ°á»ng Ä‘áº¿n hÃ nh Ä‘á»™ng |
-| 14 | [CÃ¡c BÃ i há»c Lá»‹ch sá»­ (Case Histories)](chapter-14-case-histories.md) | BÃ i há»c tá»« cÃ¡c chÆ°Æ¡ng trÃ¬nh giÃ¡m sÃ¡t thá»±c táº¿ |
+| 1 | [Giới thiệu: Mục đích, Phạm vi và Cấu trúc](chapter-01-introduction.md) | Tại sao giám sát quan trọng; tài liệu này được tổ chức như thế nào |
+| 2 | [Hiệu năng Đập và Các Hình thức Hư hỏng Tiềm năng](chapter-02-failure-modes.md) | Cách đập hư hỏng và những dấu hiệu nào báo trước sự hư hỏng |
+| 3 | [Triết lý Giám sát: Giám sát Trực quan và Thiết bị Quan trắc](chapter-03-philosophy.md) | Hai trụ cột của giám sát và cách chúng bổ trợ cho nhau |
+| 4 | [Lập kế hoạch Chương trình Giám sát Đập](chapter-04-planning.md) | Một quy trình có cấu trúc để xác định cái gì, ở đâu, và tại sao cần giám sát |
+| 5 | [Các Họ Thiết bị Quan trắc cho Đập](chapter-05-instruments.md) | Khảo sát, địa kỹ thuật, thủy văn và cảm biến kết cấu trong nháy mắt |
+| 6 | [Áp kế (Piezometer) & Giám sát Áp lực Nước Lỗ rỗng](chapter-06-piezometers.md) | Bão hòa, lắp đặt và đọc áp lực nước lỗ rỗng |
+| 7 | [Giám sát Thấm, Rò rỉ và Bề mặt Thấm (Phreatic)](chapter-07-seepage.md) | Định lượng và diễn giải sự thấm |
+| 8 | [Giám sát Biến dạng: Khảo sát và Cảm biến Địa kỹ thuật](chapter-08-deformation.md) | Mốc khảo sát, thiết bị đo nghiêng, thiết bị đo biến dạng sâu, cảm biến đo độ nghiêng |
+| 9 | [Hệ thống Tự động, Từ xa và Thời gian Thực](chapter-09-automated.md) | Bộ ghi dữ liệu, viễn thông, ngưỡng và báo động |
+| 10 | [Lắp đặt, Vận hành và Bảo trì](chapter-10-iom.md) | Có được dữ liệu tin cậy suốt tuổi thọ thiết bị |
+| 11 | [Thu thập, Quản lý Dữ liệu và Cơ sở Dữ liệu](chapter-11-data-management.md) | Tần suất, kiểm thực và các hệ thống dữ liệu |
+| 12 | [Đánh giá, Trình bày và Diễn giải Dữ liệu](chapter-12-evaluation.md) | Biểu đồ, đường cơ sở và tách tín hiệu khỏi nhiễu |
+| 13 | [Đánh giá Hiệu năng và Ra quyết định](chapter-13-decisions.md) | Từ bất thường đến hành động |
+| 14 | [Các Bài học Lịch sử (Case Histories)](chapter-14-case-histories.md) | Bài học từ các chương trình giám sát thực tế |
 
 ---
 
-## CÃ¡ch sá»­ dá»¥ng tÃ i liá»‡u tham kháº£o nÃ y
+## Cách sử dụng tài liệu tham khảo này
 
-- **Báº¯t Ä‘áº§u vá»›i ChÆ°Æ¡ng 2 vÃ  ChÆ°Æ¡ng 4.** CÃ¡c hÃ¬nh thá»©c hÆ° há»ng vÃ  má»™t káº¿ hoáº¡ch cÃ³
-  cáº¥u trÃºc lÃ  ná»n táº£ng cá»§a má»i chÆ°Æ¡ng trÃ¬nh giÃ¡m sÃ¡t tá»‘t.
-- **LiÃªn káº¿t vá»›i pháº§n cÃ²n láº¡i cá»§a kho kiáº¿n thá»©c.** ChÆ°Æ¡ng [CÃ¡c Há» Thiáº¿t bá»‹](chapter-05-instruments.md)
-  tham chiáº¿u chÃ©o vá»›i cÃ¡c tÃ i liá»‡u [Dunnicliff](../dunnicliff/index.md) vÃ 
-  [FHWA](../fhwa/index.md) vá» cÃ¡c quy trÃ¬nh láº¯p Ä‘áº·t chi tiáº¿t.
-- **HÃ£y há»i [GTI Doctor](../../gti-doctor.md).** Trá»£ lÃ½ AI cÃ³ thá»ƒ tráº£ lá»i cÃ¡c cÃ¢u
-  há»i giÃ¡m sÃ¡t tá»« kho ngá»¯ liá»‡u rá»™ng hÆ¡n.
-
----
-
-## Ghi chÃº vá» Ä‘Æ¡n vá»‹ vÃ  thuáº­t ngá»¯
-
-Cáº£ Ä‘Æ¡n vá»‹ SI vÃ  Ä‘Æ¡n vá»‹ thÃ´ng dá»¥ng cá»§a Má»¹ Ä‘á»u xuáº¥t hiá»‡n trong thá»±c táº¿; tÃ i liá»‡u nÃ y
-sá»­ dá»¥ng há»‡ Ä‘Æ¡n vá»‹ phá»• biáº¿n nháº¥t cho tá»«ng chá»§ Ä‘á» vÃ  nÃªu rÃµ sá»± quy Ä‘á»•i khi cáº§n
-thiáº¿t. "Performance" (hiá»‡u nÄƒng) nghÄ©a lÃ  hÃ nh vi quan sÃ¡t Ä‘Æ°á»£c cá»§a con Ä‘áº­p so
-vá»›i hÃ nh vi ká»³ vá»ng cá»§a nÃ³.
+- **Bắt đầu với Chương 2 và Chương 4.** Các hình thức hư hỏng và một kế hoạch có
+  cấu trúc là nền tảng của mọi chương trình giám sát tốt.
+- **Liên kết với phần còn lại của kho kiến thức.** Chương [Các Họ Thiết bị](chapter-05-instruments.md)
+  tham chiếu chéo với các tài liệu [Dunnicliff](../dunnicliff/index.md) và
+  [FHWA](../fhwa/index.md) về các quy trình lắp đặt chi tiết.
+- **Hãy hỏi [GTI Doctor](../../gti-doctor.md).** Trợ lý AI có thể trả lời các câu
+  hỏi giám sát từ kho ngữ liệu rộng hơn.
 
 ---
 
-> **An toÃ n lÃ  trÃªn háº¿t.** Dá»¯ liá»‡u thiáº¿t bá»‹ há»— trá»£, nhÆ°ng khÃ´ng bao giá» thay tháº¿,
-> viá»‡c kiá»ƒm tra trá»±c quan cÃ³ Ä‘á»§ nÄƒng lá»±c vÃ  phÃ¡n Ä‘oÃ¡n ká»¹ thuáº­t cá»§a má»™t ká»¹ sÆ° Ä‘áº­p
-> cÃ³ Ä‘á»§ nÄƒng lá»±c hoáº·c chÆ°Æ¡ng trÃ¬nh an toÃ n Ä‘áº­p cá»§a chá»§ Ä‘áº§u tÆ°.
+## Ghi chú về đơn vị và thuật ngữ
+
+Cả đơn vị SI và đơn vị thông dụng của Mỹ đều xuất hiện trong thực tế; tài liệu này
+sử dụng hệ đơn vị phổ biến nhất cho từng chủ đề và nêu rõ sự quy đổi khi cần
+thiết. "Performance" (hiệu năng) nghĩa là hành vi quan sát được của con đập so
+với hành vi kỳ vọng của nó.
+
+> **An toàn là trên hết.** Dữ liệu thiết bị hỗ trợ, nhưng không bao giờ thay thế,
+> việc kiểm tra trực quan có đủ năng lực và phán đoán kỹ thuật của một kỹ sư đập
+> có đủ năng lực hoặc chương trình an toàn đập của chủ đầu tư.
 
 ---
 
@@ -81,10 +79,11 @@ vá»›i hÃ nh vi ká»³ vá»ng cá»§a nÃ³.
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
   <iframe src="https://www.youtube-nocookie.com/embed/I6bdJXzuzlc" title="GroundProbe's next-generation solution SSR-XT, SSR-FX, and SSR-Omni" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
 </div>
-<p><em>Video (Nguồn chính — Orica): GroundProbe's next-generation solution SSR-XT, SSR-FX, and SSR-Omni.</em></p>
+<p><em>Video (Nguồn chính — Orica): Ứng dụng radar GroundProbe SSR trong giám sát ổn định đập chắn và bờ dốc hồ chứa.</em></p>
 
 !!! tip "Tư liệu thực hành bổ trợ từ RST Instruments & Measurand (Terra Insights)"
     - **RST Instruments (@RSTgeotechnical):** [Taking Initial Vibrating Wire Piezometer Readings](https://www.youtube.com/watch?v=HJISt9or_Dw){ target="_blank" }  
-      *Lấy số đọc ban đầu và kiểm tra áp kế dây rung quan trắc áp lực nước lỗ rỗng và dòng thấm qua thân đập.*
+      *Quy trình kiểm tra áp kế dây rung trước khi lắp vào thân đập đất đá theo tiêu chuẩn ASCE MOP-135.*
     - **Measurand (@MeasurandVideos):** [Real-time deflection monitoring with ShapeArray](https://www.youtube.com/watch?v=518Mx-65rI0){ target="_blank" }  
-      *Quan trắc độ lún và dịch chuyển ngang thân đập bằng chuỗi cảm biến ShapeArray tự động 24/7.*
+      *Hệ thống quan trắc chuyển vị ngang và độ võng thân đập tự động 24/7.*
+
