@@ -77,9 +77,9 @@ với hành vi kỳ vọng của nó.
 ## Video công nghệ & Tư liệu thực hành liên quan
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/I6bdJXzuzlc" title="GroundProbe's next-generation solution SSR-XT, SSR-FX, and SSR-Omni" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/lIvGH5bux5Q" title="Dam Owner Academy: Dam Inspections | Association of State Dam Safety Officials (ASDSO)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
 </div>
-<p><em>Video (Nguồn chính — Orica): Ứng dụng radar GroundProbe SSR trong giám sát ổn định đập chắn và bờ dốc hồ chứa.</em></p>
+<p><em>Video đào tạo an toàn đập (Nguồn: Hiệp hội Chuyên gia An toàn Đập Hoa Kỳ ASDSO / USSD): Quy trình Kiểm tra và Quan trắc Hiệu năng Đập Thủy lợi - Thủy điện.</em></p>
 
 !!! tip "Tư liệu thực hành bổ trợ từ RST Instruments & Measurand (Terra Insights)"
     - **RST Instruments (@RSTgeotechnical):** [Taking Initial Vibrating Wire Piezometer Readings](https://www.youtube.com/watch?v=HJISt9or_Dw){ target="_blank" }  

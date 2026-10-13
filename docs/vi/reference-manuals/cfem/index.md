@@ -100,9 +100,9 @@ dựa vào:
 ## Video công nghệ & Tư liệu thực hành liên quan
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/0tLX-O9dOQk" title="Orica Digital Solutions' Geosolutions' Geotechnical Specialist Services (GSS)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/TA6BU4DD684" title="Geotech 101 for YPs Webinar-1: Permafrost Engineering by Dr. Lukas Arenson | Canadian Geotechnical Society" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
 </div>
-<p><em>Video (Nguồn chính — Orica): Dịch vụ Chuyên gia Địa kỹ thuật Toàn diện Orica Digital Solutions GeoSolutions (GSS).</em></p>
+<p><em>Video hội thảo chuyên môn (Nguồn: Hội Địa kỹ thuật Canada — CGS): Kỹ thuật Địa kỹ thuật Đất đóng băng vĩnh cửu và Khí hậu lạnh theo tiêu chuẩn Sổ tay Nền móng Canada (CFEM).</em></p>
 
 !!! tip "Tư liệu thực hành bổ trợ từ RST Instruments & Measurand (Terra Insights)"
     - **RST Instruments (@RSTgeotechnical):** [RSTAR Wireless Webinar](https://www.youtube.com/watch?v=BcghSAPrlKk){ target="_blank" }  
