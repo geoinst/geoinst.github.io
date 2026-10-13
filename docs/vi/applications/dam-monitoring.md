@@ -75,14 +75,14 @@ Phát hiện thay đổi thấm, xói mòn nội bộ, và biến dạng trong �
 
 ## Hướng dẫn lắp đặt (từ Dunnicliff Ch 9, 10, 12, 17, 21)
 
-### Lắp đặt piezometer trong thân đập
+### Lắp đặt áp kế trong thân đập
 - **Chuỗi đa tầng**: Lắp đặt trong thi công tại mỗi lớp đầm (lift)
 - **Đầu lọc**: Bão hòa, tương thích với vật liệu lõi
 - **Làm kín**: Bentonit phía trên/dưới mỗi vùng lọc
 - **Định tuyến cáp**: Được bảo vệ trong ống conduit, giảm ứng suất kéo tại mỗi lớp
 - **Hộp đầu cuối**: Ch 21.4.3 (trên mức nước cao nhất)
 
-### Lắp đặt extensometer
+### Lắp đặt thiết bị đo biến dạng sâu
 - **Độ sâu neo**: Nhiều mỏ neo tại các cao độ then chốt (nền móng, giữa chiều cao, gần đỉnh)
 - **Đầu tham chiếu**: Mốc chuẩn ổn định ngoài vùng ảnh hưởng đập
 - **Đọc số**: VW hoặc điện, tiếp cận được tại đỉnh

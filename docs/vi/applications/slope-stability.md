@@ -22,7 +22,7 @@ Phát hiện sự khởi phát của chuyển động sườn dốc trước khi
 | **Ch 4** | Phương pháp tiếp cận có hệ thống để lập kế hoạch chương trình quan trắc | Quy trình lập kế hoạch 20 bước dành riêng cho sườn dốc |
 | **Ch 9** | Đo áp lực nước ngầm | Áp kế đo áp lực lỗ rỗng kích hoạt sập |
 | **Ch 12** | Đo biến dạng | Thiết bị đo nghiêng, thiết bị đo biến dạng sâu, cảm biến đo độ nghiêng, hệ thống đo lún |
-| **Ch 17** | Lắp đặt thiết bị | Khoan, bơm vữa, lắp đặt ống casing trong sườn dốc |
+| **Ch 17** | Lắp đặt thiết bị | Khoan, bơm vữa, lắp đặt ống đo nghiêng trong sườn dốc |
 | **Ch 18** | Thu thập, xử lý, trình bày, diễn giải | Tần suất thu thập dữ liệu, hệ thống tự động, diễn giải |
 | **Ch 19** | Hố móng có chống giữ | Tải trọng thanh chống, biến dạng tường, chuyển động đất, nước ngầm |
 | **Ch 22** | **Sườn dốc đào và tự nhiên** | **Chương chính cho sườn dốc** — thiết bị đo nghiêng, áp kế, cảm biến đo độ nghiêng, khảo sát bề mặt |
@@ -60,19 +60,19 @@ Phát hiện sự khởi phát của chuyển động sườn dốc trước khi
 
 ## Hướng dẫn lắp đặt (từ Dunnicliff Ch 9, 12, 17, 22)
 
-### Lắp đặt inclinometer
-- Ống casing: ABS hoặc nhôm, có rãnh (tiêu chuẩn 4 rãnh)
+### Lắp đặt thiết bị đo nghiêng
+- Ống đo nghiêng: ABS hoặc nhôm, có rãnh (tiêu chuẩn 4 rãnh)
 - Bơm vữa: Vữa xi măng-bentonit, phương pháp tremie
 - Số đọc ban đầu: Thiết lập đường cơ sở trong vòng 24 giờ
 - Tần suất đọc: Hàng ngày (thi công), hàng tuần (quan trắc), hàng tháng (dài hạn)
 
-### Lắp đặt piezometer
+### Lắp đặt áp kế
 - Đầu lọc: Bão hòa, tương thích với lớp địa tầng
 - Làm kín: Bentonit phía trên/dưới vùng lọc
-- Bão hòa: Piezometer VW theo quy trình Ch 9
+- Bão hòa: Áp kế dây rung (VW) theo quy trình Ch 9
 - Định tuyến cáp: Được bảo vệ, giảm ứng suất kéo
 
-### Lắp đặt tiltmeter
+### Lắp đặt cảm biến đo góc nghiêng (tiltmeter)
 - Gá lắp: Tấm bê tông ổn định hoặc nền đá
 - Hướng: Vuông góc với hướng chuyển động dự kiến
 - Bù nhiệt: Bắt buộc với MEMS

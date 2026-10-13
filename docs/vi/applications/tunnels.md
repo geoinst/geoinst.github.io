@@ -65,24 +65,24 @@ Quan trắc chuyển động đất xung quanh đào hầm, sự hội tụ củ
 ## Hướng dẫn lắp đặt (từ Dunnicliff Ch 12, 17, 23)
 
 ### Quan trắc hội tụ
-- **Loại mảng**: Extensometer thước, đồng hồ đo hội tụ, MPBX
+- **Loại mảng**: Thiết bị đo biến dạng sâu dạng thước, đồng hồ đo hội tụ, MPBX
 - **Vị trí**: Vòm, đường đứng lò (springline), đáy lót (invert)
 - **Tần suất**: Hàng ngày (đào), hàng tuần (thi công), hàng tháng (vận hành)
 
-### Lắp đặt extensometer (MPBX)
+### Lắp đặt thiết bị đo biến dạng sâu (MPBX)
 - **Độ sâu neo**: Nhiều mỏ neo tại các độ sâu phủ đá khác nhau
 - **Lắp đặt**: Từ vòm hầm / khoan từ bề mặt
 - **Đầu tham chiếu**: Vị trí ổn định ngoài vùng ảnh hưởng hầm
 
-### Lắp đặt piezometer
+### Lắp đặt áp kế
 - **Vị trí**: Phía trước mặt hầm, tại mặt hầm, phía sau lót
-- **Loại**: Piezometer VW cho đọc từ xa
+- **Loại**: Áp kế dây rung (VW) cho đọc từ xa
 - **Quan trắc hạ mực nước**: Thượng lưu/hạ lưu hầm
 
 ### Quan trắc bulông đá
-- **Load cell**: Lắp tại đầu bulông
+- **Cảm biến đo tải trọng**: Lắp tại đầu bulông
 - **Điện trở biến dạng**: Dán vào thân bulông
-- **Telltale**: Cho độ dài kéo dài bulông dài
+- **Thanh truyền chuyển vị**: Cho độ dài kéo dài bulông dài
 
 ---
 
