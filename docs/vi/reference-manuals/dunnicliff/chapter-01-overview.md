@@ -14,7 +14,7 @@ Nhiệm vụ cốt lõi của quan trắc là chuyển đổi những đại lư
 Các nhóm thông số đo đạc điển hình bao gồm:
 
 - **Áp lực nước ngầm / áp lực nước lỗ rỗng** (Piezometer).
-- **Ứng suất toàn phần trong đất và biến thiên ứng suất trong đá** (Earth pressure cells, stressmeters).
+- **Ứng suất toàn phần trong đất và biến thiên ứng suất trong đá** (hộp đo áp lực đất, stressmeters).
 - **Biến dạng hình học** (độ lún, trồi đáy, dịch chuyển ngang sâu, độ hội tụ).
 - **Tải trọng và biến dạng trong cấu kiện kết cấu** (lực thanh chống, lực kéo neo, biến dạng thân cọc).
 - **Nhiệt độ** (yếu tố môi trường gây ảnh hưởng trực tiếp đến hầu hết các cảm biến).
@@ -48,7 +48,7 @@ Tài liệu này hệ thống hóa các nguyên lý lập kế hoạch, các h�
 
 ![Figure: dunnicliff-instrument-cross-section](../../../assets/figures/dunnicliff-instrument-cross-section-vi.svg)
 
-**Hình.** Đập đất có trang bị thiết bị quan trắc điển hình: mốc khảo sát, extensometer (MPBX), inclinometer có đầu dò, piezometer, hộp đo áp lực đất và trạm đo thấm, cùng mặt nước thấm (Dunnicliff, Ch. 1 và 8).
+**Hình.** Đập đất có trang bị thiết bị quan trắc điển hình: mốc khảo sát, thiết bị đo biến dạng sâu (MPBX), thiết bị đo nghiêng có đầu dò, áp kế, hộp đo áp lực đất và trạm đo thấm, cùng mặt nước thấm (Dunnicliff, Ch. 1 và 8).
 
 ## 1.6 Các điểm then chốt cần ghi nhớ
 

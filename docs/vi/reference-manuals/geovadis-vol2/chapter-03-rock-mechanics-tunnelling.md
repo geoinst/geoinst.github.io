@@ -91,6 +91,6 @@ Các tuyến quốc lộ và đường sắt vùng núi Himalaya thường xuyê
 | :--- | :--- | :--- | :--- |
 | **Khiên đào TBM thi công hầm** | Mốc laser đo biến dạng hội tụ trong hầm | Thiết bị đo biến dạng sâu (Extensometer) | Độ méo vỏ hầm, phễu lún mặt đất $S(x)$ |
 | **Thăm dò đứt gãy trước gương** | Mảng gia tốc kế 3 chiều gắn vỏ hầm | Khoan lấy lõi ngang nòng dài | Phổ sóng phản xạ P/S, cự ly đới đứt gãy |
-| **Hầm hiện hữu lân cận hầm mới**| Cảm biến Sister Bar / Cảm biến biến dạng | Robot toàn đạc tự động quan trắc | Độ mở khớp nối đốt hầm, mô-men uốn vỏ |
+| **Hầm hiện hữu lân cận hầm mới**| Thanh thép đo biến dạng phụ / Cảm biến biến dạng | Robot toàn đạc tự động quan trắc | Độ mở khớp nối đốt hầm, mô-men uốn vỏ |
 | **Bơm ép $\text{CO}_2$ tầng ngậm nước**| Cảm biến áp suất thạch anh đáy giếng | Mảng quan trắc vi địa chấn bề mặt | Áp lực lỗ rỗng vỉa chứa, chấn động trượt đứt gãy |
-| **Rào chắn đá lăn dạng lưới mềm**| Cảm biến đo độ nghiêng MEMS & Load cell | Thiết bị quét laser 3D LiDAR | Lực va đập đá lăn, mất lực căng cáp, trượt đá |
+| **Rào chắn đá lăn dạng lưới mềm**| Cảm biến đo độ nghiêng MEMS & cảm biến đo tải trọng | Thiết bị quét laser 3D LiDAR | Lực va đập đá lăn, mất lực căng cáp, trượt đá |

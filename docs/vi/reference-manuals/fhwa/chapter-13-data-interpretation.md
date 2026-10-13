@@ -14,7 +14,7 @@ thi cuối cùng của chuỗi — những mắt xích biến số đọc thành
 
 - **Tần suất** phải khớp với tốc độ thay đổi: đọc thường xuyên hơn khi rủi ro cao nhất
   (trong các giai đoạn thi công then chốt, sau mưa, sau sự kiện địa chấn).
-- Dùng **phiếu ghi dữ liệu hiện trường** (Hình 12-2 là phiếu extensometer đầu dò điển
+- Dùng **phiếu ghi dữ liệu hiện trường** (Hình 12-2 là phiếu thiết bị đo biến dạng sâu đầu dò điển
   hình) để số đọc thô, mã thiết bị và điều kiện được ghi nhất quán.
 - Ghi **các yếu tố có thể ảnh hưởng dữ liệu** — thời tiết, hoạt động thi công, tải
   trọng, nhiệt độ — cùng số đọc, để sau này thiết lập được quan hệ nhân–quả.
@@ -23,7 +23,7 @@ thi cuối cùng của chuỗi — những mắt xích biến số đọc thành
 
 - Chuyển số đọc thô thành đơn vị kỹ thuật dùng **hiệu chuẩn hiện hành**.
 - Trình bày dữ liệu dưới dạng **đồ thị chuỗi thời gian** và, khi phù hợp, **đồ thị
-  profile** (ví dụ độ võng inclinometer theo độ sâu).
+  profile** (ví dụ độ võng thiết bị đo nghiêng theo độ sâu).
 - Vẽ **các yếu tố ảnh hưởng** trên cùng trục thời gian — tải, mưa, mực nước hồ — để
   thấy rõ quan hệ.
 
@@ -54,7 +54,7 @@ Báo cáo phải rõ ràng và kịp thời:
 
 Sổ tay có một **bài tập về đánh giá dữ liệu**, với gợi ý đánh giá trong **Phụ lục F**
 (xem [Chương 14](chapter-14-references-appendices.md)). Ví dụ gồm diễn giải **dữ liệu
-trắc đạc quang học** và phân biệt **dữ liệu inclinometer đúng so với sai** — kỹ năng
+trắc đạc quang học** và phân biệt **dữ liệu thiết bị đo nghiêng đúng so với sai** — kỹ năng
 thực tế để tách tín hiệu khỏi nhiễu.
 
 ## 13.7 Triển khai — mắt xích cuối cùng

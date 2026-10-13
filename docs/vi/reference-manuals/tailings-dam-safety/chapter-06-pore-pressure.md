@@ -15,7 +15,7 @@ khốc. Vì vậy giám sát áp lực nước lỗ rỗng là nền tảng củ
 
 | Loại thiết bị | Nguyên lý hoạt động | Ứng dụng tối ưu |
 |---------------|---------------------|-----------------|
-| **Dây rung (Vibrating-Wire - VW)** | Thay đổi tần số dao động tự nhiên của dây căng | Giám sát tự động liên tục, kết nối datalogger; độ ổn định cao |
+| **Dây rung (Vibrating-Wire - VW)** | Thay đổi tần số dao động tự nhiên của dây căng | Giám sát tự động liên tục, kết nối bộ ghi dữ liệu; độ ổn định cao |
 | **Khí nén (Pneumatic)** | Áp suất khí cân bằng áp suất nước làm mở van | Vị trí quan trắc thủ công định kỳ, không cần cấp nguồn liên tục |
 | **Ống đứng hở (Casagrande)** | Đo trực tiếp mực nước thủy tĩnh trong ống | Đơn giản, trực tiếp; phù hợp đất thấm lớn |
 | **Thủy lực (hai ống)** | Cân bằng cột chất lỏng | Khối đắp đập, phương pháp truyền thống |
@@ -28,19 +28,19 @@ Giám sát áp lực nước lỗ rỗng hỗ trợ đánh giá hóa lỏng qua:
   lỗ rỗng và ứng suất hữu hiệu thẳng đứng ban đầu; $r_u$ cao hoặc tăng lên báo
   hiệu nguy cơ mất cường độ do hóa lỏng.
 - **Áp lực nước lỗ rỗng dư** sinh ra trong hoặc sau các sự kiện động đất hoặc gia tải nhanh, đo bởi
-  áp kế piezometer có độ nhạy và đáp ứng nhanh.
+  áp kế có độ nhạy và đáp ứng nhanh.
 - **Tương quan với thí nghiệm tại hiện trường** (SPT, CPT, vận tốc sóng cắt) đặc
   trưng cho độ rời rạc của lớp bùn.
 
 !!! warning "Bão hòa màng lọc là yếu tố sống còn"
-    Một áp kế piezometer kiểu dây rung hoặc khí nén không được bão hòa hoàn toàn sẽ cho kết quả vô nghĩa. Quy
+    Một áp kế kiểu dây rung hoặc khí nén không được bão hòa hoàn toàn sẽ cho kết quả vô nghĩa. Quy
     trình **bão hòa (saturation)** — loại bỏ toàn bộ bọt khí khỏi đầu lọc xốp và buồng đo — phải được thực hiện
     cẩn thận trước và trong khi lắp đặt ([Dunnicliff Ch. 9](../dunnicliff/index.md)). Một áp kế
     chưa bao giờ được bão hòa đúng cách là một lỗ hổng thầm lặng nguy hiểm trong chương trình quan trắc an toàn đập.
 
 ## 6.4 Vị trí đặt
 
-Piezometer được đặt để phát hiện các mode phá hoại của [Chương 2](chapter-02-facilities-and-failures.md):
+Áp kế được đặt để phát hiện các dạng phá hoại của [Chương 2](chapter-02-facilities-and-failures.md):
 
 - **Trong lớp bùn và bãi bùn** để theo dõi mặt nước thấm và các vùng có $r_u$ cao.
 - **Tại chân đập đắp** (đặc biệt các đợt đắp cao phương pháp thượng nguồn) để phát
@@ -71,5 +71,5 @@ Các diễn giải chính:
 
 - Áp lực nước lỗ rỗng chi phối các phá hoại hóa lỏng chủ đạo.
 - Theo dõi tỷ số áp lực nước lỗ rỗng $r_u$ như một chỉ thị hóa lỏng.
-- Bão hòa mọi piezometer đúng cách; xác minh nó.
+- Bão hòa mọi áp kế đúng cách; xác minh nó.
 - Đặt thiết bị tại bãi bùn, chân đập và nền móng — nơi các mode bắt nguồn.

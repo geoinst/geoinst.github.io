@@ -21,7 +21,7 @@ Không có bất kỳ phép đo địa kỹ thuật nào là tuyệt đối chí
 Tính tương thích là khả năng của thiết bị hòa nhập vào môi trường đất đá mà không làm xáo trộn trường ứng suất, trường biến dạng hoặc mạng lưới đường dòng thấm xung quanh điểm đo:
 
 - Một hộp đo áp lực đất nếu quá cứng so với đất xung quanh sẽ hút ứng suất về phía nó, dẫn đến số đọc cao hơn thực tế (over-registration).
-- Một áp kế piezometer nếu có độ trễ thể tích quá lớn sẽ làm biến dạng trường áp lực nước lỗ rỗng cục bộ.
+- Một áp kế nếu có độ trễ thể tích quá lớn sẽ làm biến dạng trường áp lực nước lỗ rỗng cục bộ.
 
 ## 5.4 So sánh 4 nguyên lý cảm biến chính
 
@@ -37,7 +37,7 @@ Tính tương thích là khả năng của thiết bị hòa nhập vào môi tr
 
 Dunnicliff khẳng định ADAS là cuộc cách mạng nâng cao tần suất và độ an toàn quan trắc, nhưng cần được thiết kế có dự phòng:
 
-- **Datalogger tại chỗ**: Sử dụng vi điều khiển công suất thấp (Low-power microcontrollers) chạy bằng pin ắc quy nạp năng lượng mặt trời.
+- **Bộ ghi dữ liệu tại chỗ**: Sử dụng vi điều khiển công suất thấp (Low-power microcontrollers) chạy bằng pin ắc quy nạp năng lượng mặt trời.
 - **Truyền thông vô tuyến tầm xa**: Sử dụng công nghệ vô tuyến công suất thấp Sub-GHz / LoRa tạo mạng lưới mắt lưới (Mesh network) truyền dữ liệu về trạm Gateway trung tâm.
 - **Nền tảng giám sát đám mây**: Tự động giải mã tín hiệu thô, tính toán giá trị kỹ thuật, vẽ đồ thị tiến độ và kích hoạt cảnh báo tự động qua SMS/Email khi chạm ngưỡng rủi ro.
 

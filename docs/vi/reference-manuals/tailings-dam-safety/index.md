@@ -39,7 +39,7 @@ sau:
 | # | Chương | Nội dung bao quát |
 |---|--------|-------------------|
 | 1 | [Giới thiệu: Mục đích, Phạm vi và Cách tổ chức](chapter-01-introduction.md) | Tại sao an toàn đập bùn thải là khác biệt; cách tài liệu này được tổ chức |
-| 2 | [Cơ sở bùn thải và Cách chúng phá hoại](chapter-02-facilities-and-failures.md) | Các loại cơ sở và các mode phá hoại chủ đạo |
+| 2 | [Cơ sở bùn thải và Cách chúng phá hoại](chapter-02-facilities-and-failures.md) | Các loại cơ sở và các dạng phá hoại chủ đạo |
 | 3 | [Triết lý giám sát cho bùn thải](chapter-03-philosophy.md) | Giám sát trực quan và thiết bị quan trắc như những trụ cột bổ trợ |
 | 4 | [Lập kế hoạch chương trình giám sát bùn thải](chapter-04-planning.md) | Một quy trình lập kế hoạch có căn cứ rủi ro, định hướng theo hậu quả |
 | 5 | [Các họ thiết bị quan trắc cho bùn thải](chapter-05-instruments.md) | Khảo sát, địa kỹ thuật, thủy văn và công cụ viễn thám trong nháy mắt |
@@ -58,7 +58,7 @@ sau:
 
 ## Cách sử dụng tài liệu tham khảo này
 
-- **Bắt đầu với Chương 2 và Chương 4.** Các mode phá hoại và một kế hoạch có
+- **Bắt đầu với Chương 2 và Chương 4.** Các dạng phá hoại và một kế hoạch có
   căn cứ rủi ro là nền tảng của mọi chương trình giám sát bùn thải vững chắc.
 - **Liên kết với phần còn lại của kho kiến thức.** Chương [Các họ thiết
   bị](chapter-05-instruments.md) tham chiếu chéo các tài liệu [Dunnicliff](../dunnicliff/index.md)

@@ -112,6 +112,6 @@ Giáo sư T. Nishimura trình bày các kỹ thuật thực nghiệm hiện đ�
 | :--- | :--- | :--- | :--- |
 | **Cọc trộn sâu & Jet grouting** | Thí nghiệm siêu âm CSL | Khoan lõi + Thí nghiệm nén một trục $q_u$ | Độ liên tục thân cọc, $q_u$, thắt cổ bồng |
 | **Mái dốc trượt địa chấn** | Áp kế dây rung (Vibrating Wire Piezometer) | Ống đo nghiêng (Inclinometer) | Áp lực nước lỗ rỗng ($\Delta u$), độ sâu mặt trượt |
-| **Cọc năng lượng nhiệt** | Cảm biến đo biến dạng & Sister Bar | Cáp quang đo nhiệt độ phân bố (DTS) | Biến dạng dọc trục nhiệt ($\epsilon_{th}$), nhiệt độ ($T$) |
+| **Cọc năng lượng nhiệt** | Cảm biến đo biến dạng & thanh thép đo biến dạng phụ | Cáp quang đo nhiệt độ phân bố (DTS) | Biến dạng dọc trục nhiệt ($\epsilon_{th}$), nhiệt độ ($T$) |
 | **Bấc thấm kết hợp hút chân không** | Áp kế đa tầng theo độ sâu | Thiết bị đo biến dạng sâu (Extensometer) | Tiêu tán áp lực kẽ rỗng ($U_r$), lún cố kết |
 | **Mái dốc đất không bão hòa** | Tensiometer / Cảm biến áp suất âm | Thiết bị đo độ ẩm điện dung (TDR) | Lực hút ma mao dẫn ($\psi$), độ ẩm thể tích ($\theta$) |

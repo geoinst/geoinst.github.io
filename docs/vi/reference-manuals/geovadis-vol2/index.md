@@ -64,5 +64,5 @@ Các nghiên cứu thực nghiệm và ứng dụng công trình trong Tập 2 l
 - **Áp kế (Piezometer):** Áp kế dây rung tần số cao đo áp lực nước lỗ rỗng phát sinh tức thời dưới đoàn tàu tải trọng nặng, độ tiêu tán chân không và dịch chuyển mũi thấm nước mưa trong sườn dốc.
 - **Ống đo nghiêng (Inclinometer) & Thiết bị đo biến dạng sâu (Extensometer):** Quan trắc đường cong dịch chuyển ngang sau tường MSE lưng đối lưng, phễu lún sụt mặt đất do máy TBM đào hầm và biến dạng mái dốc mỏ lộ thiên.
 - **Đo ảnh điện trở (ERT) & Mảng địa vật lý:** Chẩn đoán không phá hủy các đường rò rỉ thấm ngầm, lỗ rỗng xói ngầm (piping) và mặt trượt thấm bão hòa theo thời gian thực.
-- **Cảm biến đo biến dạng (Strain gauge) & Sister Bar:** Đo nội lực, biến dạng và mô-men uốn trong đinh đất xoắn ốc, vỏ hầm bê tông phun và các dải cốt polyme.
+- **Cảm biến đo biến dạng (Strain gauge) & thanh thép đo biến dạng phụ:** Đo nội lực, biến dạng và mô-men uốn trong đinh đất xoắn ốc, vỏ hầm bê tông phun và các dải cốt polyme.
 - **Cảm biến đo tải trọng (Load cell):** Theo dõi suy giảm lực căng trong neo đá, neo dầm hố móng và bản nén truyền lực tà-vẹt đường sắt.

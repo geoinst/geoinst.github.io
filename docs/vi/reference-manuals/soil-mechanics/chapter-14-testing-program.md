@@ -23,9 +23,9 @@ dắt**. Trước khi định thí nghiệm nào, hãy hỏi:
 | Chỉ tiêu cơ lý, phân loại | Rây, tỷ trọng kế, giới hạn Atterberg, độ ẩm |
 | Đầm chặt | Proctor (tiêu chuẩn/cải tiến), dung trọng hiện trường |
 | Tính thấm | Cột nước không đổi/giảm dần, bơm hút hiện trường |
-| Cố kết ($C_c$, $c_v$, $\sigma'_p$) | Oedometer |
+| Cố kết ($C_c$, $c_v$, $\sigma'_p$) | Máy nén cố kết |
 | Sức kháng cắt ($c'$, $\phi'$, $c_u$) | Cắt trực tiếp, ba trục (UU/CU/CD), cắt cánh |
-| Độ cứng ($E$, $G$) | Ba trục, pressuremeter, địa chấn, bàn nén |
+| Độ cứng ($E$, $G$) | Ba trục, máy nén ngang, địa chấn, bàn nén |
 | Sức kháng hóa lỏng | SPT/CPT với tương quan chu kỳ |
 
 ## 14.3 Chương trình phòng thí nghiệm
@@ -40,7 +40,7 @@ dắt**. Trước khi định thí nghiệm nào, hãy hỏi:
 
 - **Thí nghiệm tại chỗ** ([Chương 12](chapter-12-in-situ-testing.md)) cho thông số nơi khó
   lấy mẫu hoặc xáo trộn là vấn đề.
-- **Quan trắc nước ngầm** bằng piezometer, theo thời gian để nắm dải theo mùa.
+- **Quan trắc nước ngầm** bằng áp kế, theo thời gian để nắm dải theo mùa.
 - **Thử tải** nơi sức chịu tải then chốt và sai sót tốn kém.
 
 ## 14.5 Báo cáo và diễn giải

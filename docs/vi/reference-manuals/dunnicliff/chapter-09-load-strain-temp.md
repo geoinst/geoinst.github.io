@@ -37,8 +37,8 @@ Trong đó $A$ là diện tích mặt cắt ngang và $E$ là mô đun đàn h�
 ## 9.4 Thanh truyền chuyển vị (Telltale Extensometer)
 
 Trong thí nghiệm nén tĩnh cọc, việc đo lún đỉnh cọc không phản ánh được mức độ lún thực tế của mũi cọc:
-- Thanh truyền telltale là một thanh thép tự do luồn trong ống bảo vệ, cắm cố định tại mũi cọc hoặc các phân đoạn cọc.
-- Đồng hồ so đo độ lún của đỉnh thanh telltale so với dầm chuẩn sẽ phản ánh chính xác độ lún của mũi cọc, cho phép phân tách rành mạch giữa **độ nén đàn hồi của thân cọc**, **sức kháng ma sát thành bên (skin friction)** và **sức kháng mũi cọc (end bearing)**.
+- Thanh truyền chuyển vị là một thanh thép tự do luồn trong ống bảo vệ, cắm cố định tại mũi cọc hoặc các phân đoạn cọc.
+- Đồng hồ so đo độ lún của đỉnh thanh truyền chuyển vị so với dầm chuẩn sẽ phản ánh chính xác độ lún của mũi cọc, cho phép phân tách rành mạch giữa **độ nén đàn hồi của thân cọc**, **sức kháng ma sát thành bên (skin friction)** và **sức kháng mũi cọc (end bearing)**.
 
 ## 9.5 Đo nhiệt độ và hiệu chỉnh nhiệt độ
 
@@ -57,7 +57,7 @@ $$P_{\text{hiệu chỉnh}} = P_{\text{đo}} + C_T \cdot (T - T_0)$$
 ## 9.6 Các điểm then chốt cần ghi nhớ
 
 - Cảm biến đo tải trọng rỗng tâm phải có từ 3 cảm biến trở lên để triệt tiêu tải trọng lệch tâm.
-- Sử dụng tấm đệm phẳng gia công cơ khí chuẩn khi lắp đặt load cell.
+- Sử dụng tấm đệm phẳng gia công cơ khí chuẩn khi lắp đặt cảm biến đo tải trọng.
 - Tính toán tải trọng từ biến dạng bê tông bắt buộc phải bù trừ co ngót và từ biến.
-- Thanh telltale là công cụ kinh tế và chính xác để đo chuyển vị mũi cọc độc lập với thân cọc.
+- Thanh truyền chuyển vị là công cụ kinh tế và chính xác để đo chuyển vị mũi cọc độc lập với thân cọc.
 - Mọi cảm biến dây rung đều phải được ghi nhận nhiệt độ và hiệu chỉnh sai số nhiệt.

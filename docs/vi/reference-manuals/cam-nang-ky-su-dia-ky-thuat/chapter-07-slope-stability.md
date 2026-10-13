@@ -71,7 +71,7 @@ mối nguy cho mọi thứ ở phía dưới.
 
 ![Hình: geology-creep-pistol-butt](../../../assets/figures/geology/creep-pistol-butt.jpg)
 
-**Hình.** Cây "chân súng" trên một mái dốc đang trượt từ từ — một inclinometer tự nhiên.
+**Hình.** Cây "chân súng" trên một mái dốc đang trượt từ từ — một thiết bị đo nghiêng tự nhiên.
 Độ nghiêng của thực vật là một trong những chỉ báo rẻ nhất mà khảo sát đi bộ có thể đọc.
 *© Steven Earle, CC BY 4.0 — Physical Geology, 2nd ed., Hình 15.2.7.*
 

@@ -53,7 +53,7 @@ Nội dung bao gồm:
 
 ## 🔧 Về hệ thống được đề cập
 
-Các tài liệu trong khu vực này được viết độc lập với nhà sản xuất, nhưng phần **ánh xạ thiết bị** tham chiếu dòng sản phẩm quan trắc địa kỹ thuật phổ biến tại Việt Nam: piezometer dây rung, extensometer, inclinometer, đầu đo vết nứt, đầu ghi dữ liệu đa kênh và hệ thống truyền dữ liệu không dây.
+Các tài liệu trong khu vực này được viết độc lập với nhà sản xuất, nhưng phần **ánh xạ thiết bị** tham chiếu dòng sản phẩm quan trắc địa kỹ thuật phổ biến tại Việt Nam: Áp kế dây rung, thiết bị đo biến dạng sâu, thiết bị đo nghiêng, đầu đo vết nứt, đầu ghi dữ liệu đa kênh và hệ thống truyền dữ liệu không dây.
 
 Mục tiêu không phải là bán thiết bị, mà là giúp người đọc **hiểu yêu cầu trước khi chọn thiết bị**.
 

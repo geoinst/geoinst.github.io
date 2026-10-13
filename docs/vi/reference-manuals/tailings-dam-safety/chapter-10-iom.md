@@ -15,7 +15,7 @@ cho cơ sở bùn thải.
 
 - **Bảo vệ trước môi trường** — hiện trường bùn thải ăn mòn, nắng gắt, bụi và đôi
   khi đóng băng. Dùng cáp kháng tia UV, đầu nối kín và bảo vệ chống rodent/cáp.
-- **Bão hòa và phun vữa đúng cách** cho piezometer và ống casing inclinometer
+- **Bão hòa và phun vữa đúng cách** cho áp kế và Ống đo nghiêng
   ([Dunnicliff Ch. 9, 17](../dunnicliff/index.md)).
 - **Mốc ổn định** neo dưới vùng hoạt động, với tham chiếu rõ ràng.
 - **Hồ sơ lắp đặt** — độ sâu, tầng lớp, hướng, ngày, bản vẽ hoàn công — được giữ

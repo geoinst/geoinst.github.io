@@ -11,7 +11,7 @@ Các thiết bị quan trắc địa kỹ thuật được phân nhóm theo **th
 
 ## 1. Chuyển động ngang
 
-**Thiết bị**: Inclinometer (đầu đo độ nghiêng), Tiltmeter (đầu đo độ nghiêng), In-place Inclinometer (IPI - đầu đo nghiêng cố định tại chỗ)
+**Thiết bị**: Thiết bị đo nghiêng, cảm biến đo độ nghiêng (đầu đo độ nghiêng), Thiết bị đo nghiêng cố định (IPI)
 
 **Ứng dụng**: Ổn định mái dốc, lót hầm, tường chắn, cảnh báo sớm sạt lở.
 
@@ -19,13 +19,13 @@ Các thiết bị quan trắc địa kỹ thuật được phân nhóm theo **th
 
 **Kết quả đọc điển hình**: biểu đồ độ lệch theo độ sâu; đồ thị chuyển vị tích lũy.
 
-**Thiết bị tiêu biểu**: Inclinometer (đầu đo nghiêng) số MEMS, mảng tiltmeter wireless (không dây)..
+**Thiết bị tiêu biểu**: Thiết bị đo nghiêng (đầu đo nghiêng) số MEMS, mảng cảm biến đo độ nghiêng không dây..
 
 ---
 
 ## 2. Nước dưới bề mặt
 
-**Thiết bị**: Piezometer (áp kế) (dây rung, độc lập, đa tầng)
+**Thiết bị**: Áp kế (dây rung, độc lập, đa tầng)
 
 **Ứng dụng**: Quan trắc áp lực nước lỗ rỗng, phát hiện thấm qua đập, hạ mực nước hố đào, nghiên cứu nước ngầm.
 
@@ -33,13 +33,13 @@ Các thiết bị quan trắc địa kỹ thuật được phân nhóm theo **th
 
 **Kết quả đọc điển hình**: cột nước thủy lực (m) theo thời gian; áp suất (kPa).
 
-**Thiết bị tiêu biểu**: Piezometer (áp kế) dây rung, nút piezometer không dây..
+**Thiết bị tiêu biểu**: Áp kế dây rung, nút áp kế không dây..
 
 ---
 
 ## 3. Biến dạng / Lún
 
-**Thiết bị**: Extensometer (thiết bị đo biến dạng) (thanh, từ tính, đa điểm), tấm lún, thiết bị đo biên dạng thủy tĩnh
+**Thiết bị**: Thiết bị đo biến dạng sâu (thanh, từ tính, đa điểm), tấm lún, thiết bị đo biên dạng thủy tĩnh
 
 **Ứng dụng**: Đê, cố kết đất yếu, hố đào sâu, thử tải cọc.
 
@@ -47,21 +47,21 @@ Các thiết bị quan trắc địa kỹ thuật được phân nhóm theo **th
 
 **Kết quả đọc điển hình**: lún (mm) theo độ sâu; phân bố biến dạng đất.
 
-**Thiết bị tiêu biểu**: Extensometer (thiết bị đo biến dạng) lỗ khoan, hệ thống spider extensometer từ tính..
+**Thiết bị tiêu biểu**: Thiết bị đo biến dạng sâu lỗ khoan, hệ thống thiết bị đo biến dạng sâu kiểu nhện từ tính..
 
 ---
 
 ## 4. Tải trọng & Ứng suất
 
-**Thiết bị**: Load cell (cảm biến đo tải trọng), Strain gauge (cảm biến đo biến dạng), Stressmeter (đầu đo ứng suất), load cell bulông neo đá
+**Thiết bị**: Cảm biến đo tải trọng, cảm biến đo biến dạng, Stressmeter (đầu đo ứng suất), cảm biến đo tải trọng bulông neo đá
 
 **Ứng dụng**: Thử tải móng, ứng suất bulông neo đá, thử nghiệm kết cấu cầu, neo chống.
 
-**Nguyên lý**: Đo trực tiếp lực hoặc biến dạng qua đồng hồ lá điện trở dán, load cell dây rung, hoặc kích phẳng thủy lực. Kết quả xuất ra được chuyển đổi sang đơn vị kỹ thuật (kN, MPa).
+**Nguyên lý**: Đo trực tiếp lực hoặc biến dạng qua đồng hồ lá điện trở dán, cảm biến đo tải trọng dây rung, hoặc kích phẳng thủy lực. Kết quả xuất ra được chuyển đổi sang đơn vị kỹ thuật (kN, MPa).
 
 **Kết quả đọc điển hình**: tải trọng (kN) theo thời gian; đường cong biến dạng chậm (creep).
 
-**Thiết bị tiêu biểu**: Load cell dây rung và strain gauge phục vụ quan trắc kết cấu.
+**Thiết bị tiêu biểu**: Cảm biến đo tải trọng dây rung và cảm biến đo biến dạng phục vụ quan trắc kết cấu.
 
 ---
 

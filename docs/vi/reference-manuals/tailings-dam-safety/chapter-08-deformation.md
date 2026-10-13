@@ -23,11 +23,11 @@ bùn. Giám sát biến dạng phát hiện chuyển động trước khi nó tr
 Một số chuyển động nguy hiểm nhất là **trong lòng** — một mặt trượt bên trong lớp
 bùn hoặc nền móng mà không mốc bề mặt nào bộc lộ.
 
-- **Inclinometer** (thăm dò hoặc tại chỗ) phát hiện trượt cắt ngang và độ sâu của
+- **Thiết bị đo nghiêng** (thăm dò hoặc tại chỗ) phát hiện trượt cắt ngang và độ sâu của
   mặt trượt.
-- **Extensometer** (thanh, từ tính, dây) đo lún hoặc phồng tại độ sâu.
-- **Extensometer lỗ khoan đa điểm (MPBX)** kết hợp nhiều độ sâu trong một lỗ khoan.
-- **Tiltmeter** cảm nhận sự xoay của đỉnh hoặc công trình.
+- **Thiết bị đo biến dạng sâu** (thanh, từ tính, dây) đo lún hoặc phồng tại độ sâu.
+- **Thiết bị đo biến dạng sâu lỗ khoan đa điểm (MPBX)** kết hợp nhiều độ sâu trong một lỗ khoan.
+- **Cảm biến đo độ nghiêng** cảm nhận sự xoay của đỉnh hoặc công trình.
 
 ## 8.4 Chọn độ sâu hay bề mặt
 
@@ -39,7 +39,7 @@ hoại ([Chương 2](chapter-02-facilities-and-failures.md)).
 ## 8.5 Tần suất và tự động hóa
 
 Trong các đợt đắp cao, bão, hoặc sự kiện động đất, chuyển động có thể tăng tốc
-trong vài giờ. Khảo sát tự động và inclinometer tại chỗ cung cấp độ phân giải thời
+trong vài giờ. Khảo sát tự động và thiết bị đo nghiêng tại chỗ cung cấp độ phân giải thời
 gian mà khảo sát thủ công không thể. Kết hợp chúng với các mức kích hoạt
 ([Chương 13](chapter-13-decisions.md)).
 
@@ -51,7 +51,7 @@ gian mà khảo sát thủ công không thể. Kết hợp chúng với các m�
 ## 8.6 Các sai lầm thường gặp
 
 - Mốc chỉ đặt trên đỉnh bỏ lỡ chuyển động bãi bùn và chân đập.
-- Ống casing inclinometer không được phun vữa đúng cách đọc nhầm vùng.
+- Ống đo nghiêng không được phun vữa đúng cách đọc nhầm vùng.
 - Khảo sát thủ công quá thưa để bắt thay đổi nhanh.
 
 ## 8.7 Điểm mấu chốt

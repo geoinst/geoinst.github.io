@@ -54,8 +54,8 @@ cần:
 
 - **hệ chống cứng** và **gia tải trước**;
 - **đào theo giai đoạn**;
-- **quan trắc** — inclinometer trong tường và nền, load cell trên thanh chống, điểm lún trên
-  công trình lân cận và piezometer (xem tài liệu [FHWA](../fhwa/index.md), Chương 9).
+- **quan trắc** — Thiết bị đo nghiêng trong tường và nền, cảm biến đo tải trọng trên thanh chống, điểm lún trên
+  công trình lân cận và áp kế (xem tài liệu [FHWA](../fhwa/index.md), Chương 9).
 
 ## 12.6 Các điểm then chốt cần ghi nhớ
 

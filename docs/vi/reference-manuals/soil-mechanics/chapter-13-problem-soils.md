@@ -26,7 +26,7 @@ không trương, **ổn định hóa học** (vôi), và **màng chắn** hạn 
 
 Đất sụt lún — bụi rời, hoàng thổ và một số nền đắp — **sụt đột ngột** khi bị làm ẩm dưới tải,
 vì cấu trúc rỗng của chúng được giữ bởi liên kết yếu. Chúng được nhận diện bằng **thí nghiệm
-oedometer kép** (so sánh nén tự nhiên và bão hòa) và **thí nghiệm tiềm năng sụt tại chỗ**.
+máy nén cố kết kép** (so sánh nén tự nhiên và bão hòa) và **thí nghiệm tiềm năng sụt tại chỗ**.
 
 Giảm thiểu: **làm ẩm trước**, **đầm chặt động**, **phụt vữa**, **móng sâu** để lách qua tầng
 sụt lún, và **kiểm soát ẩm**.

@@ -22,16 +22,16 @@ và áp lực lỗ rỗng quanh hố đào, để điều chỉnh hệ chống v
 - Các thanh chống đang chịu tải bao nhiêu?
 - Đáy có bị bùng nền hay áp lực lỗ rỗng đang tăng không?
 
-**Thiết bị phù hợp** (Bảng 9-1) thường gồm: **inclinometer** (chuyển vị tường và
-nền), **load cell** (tải thanh chống), **piezometer** (áp lực lỗ rỗng), **điểm lún**
+**Thiết bị phù hợp** (Bảng 9-1) thường gồm: **Thiết bị đo nghiêng** (chuyển vị tường và
+nền), **cảm biến đo tải trọng** (tải thanh chống), **áp kế** (áp lực lỗ rỗng), **điểm lún**
 và **trắc đạc**.
 
 ## 9.3 Hố đào chống đỡ bên ngoài
 
 **Vai trò chung.** Với hệ neo hoặc thanh giằng, quan trắc đo tải neo và chuyển vị nền.
 
-**Thiết bị phù hợp** (Bảng 9-2) thường gồm: **load cell** (tải neo), **inclinometer**,
-**piezometer** và **điểm trắc đạc**.
+**Thiết bị phù hợp** (Bảng 9-2) thường gồm: **Cảm biến đo tải trọng** (tải neo), **thiết bị đo nghiêng**,
+**Áp kế** và **điểm trắc đạc**.
 
 ## 9.4 Tường vữa
 
@@ -39,7 +39,7 @@ và **trắc đạc**.
 của tường hoàn thiện.
 
 **Thiết bị phù hợp** (Bảng 9-3) thường gồm: **đo hội tụ** (ổn định hào),
-**inclinometer** (chuyển vị tường), cùng thiết bị **ứng suất/ứng biến** và **áp lực**.
+**Thiết bị đo nghiêng** (chuyển vị tường), cùng thiết bị **ứng suất/ứng biến** và **áp lực**.
 
 ## 9.5 Tường đất có cốt (MSE)
 
@@ -64,7 +64,7 @@ và **điểm trắc đạc**.
 
 ![Figure: fhwa-retaining-structure-monitoring](../../../assets/figures/fhwa-retaining-structure-monitoring-vi.svg)
 
-**Hình.** Quan trắc cho kết cấu chắn đất: inclinometer sau tường, load cell trên thanh chống/neo, hộp đo áp lực ở chân tường và điểm lún trên nền lân cận (theo FHWA-HI-98-034, Ch. 9).
+**Hình.** Quan trắc cho kết cấu chắn đất: Thiết bị đo nghiêng sau tường, cảm biến đo tải trọng trên thanh chống/neo, hộp đo áp lực ở chân tường và điểm lún trên nền lân cận (theo FHWA-HI-98-034, Ch. 9).
 
 ## 9.7 Bài tập — tường MSE
 
@@ -74,8 +74,8 @@ diện và xác định độ lớn cùng phân bố ứng suất trong tường
 
 ## 9.8 Các điểm then chốt cần ghi nhớ
 
-- Khớp thiết bị với đường truyền tải: **thanh chống/neo → load cell**; **tường/nền →
-  inclinometer và trắc đạc**; **nền → piezometer**.
+- Khớp thiết bị với đường truyền tải: **thanh chống/neo → cảm biến đo tải trọng**; **tường/nền →
+  thiết bị đo nghiêng và trắc đạc**; **nền → áp kế**.
 - Với **tường MSE**, lắp thiết bị cho **cốt gia cường** để thấy lực kéo huy động.
 - Bảo vệ công trình lân cận bằng cách quan trắc **chuyển vị nền ngoài hố đào**.
 - Ví dụ tường MSE đã giải nằm trong **Phụ lục E**.

@@ -49,7 +49,7 @@ $C_\alpha$. Với một số đất, nó chi phối lún dài hạn.
 ## 9.6 Các điểm then chốt cần ghi nhớ
 
 - **Cố kết** là lún theo thời gian do **tiêu tán áp lực nước lỗ rỗng**.
-- **Oedometer** cho $C_c$, $C_r$, $\sigma'_p$ và $c_v$.
+- **Máy nén cố kết** cho $C_c$, $C_r$, $\sigma'_p$ và $c_v$.
 - Độ lớn lún theo công thức **logarit $C_c$ / $C_r$**.
 - **Tốc độ** do $c_v$ và **đường thoát nước** chi phối ($T_v = c_v t / H_{dr}^2$).
 - **Nén thứ cấp** có thể chi phối ở đất hữu cơ.

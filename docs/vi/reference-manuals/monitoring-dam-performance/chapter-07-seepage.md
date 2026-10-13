@@ -14,7 +14,7 @@ Một lượng thấm nhất định xuyên qua và dưới đập là điều �
 
 | Phương pháp | Cách thực hiện | Ghi chú |
 |--------|-----|-------|
-| **Weir / flume (tràn / máng)** | Đo độ sâu qua rãnh, tính lưu lượng | Đo tổng lưu lượng đơn giản, tin cậy |
+| **Tràn / máng đo lưu lượng** | Đo độ sâu qua rãnh, tính lưu lượng | Đo tổng lưu lượng đơn giản, tin cậy |
 | **Tipping bucket (gàu lật)** | Đếm số lần lật của thể tích biết trước | Tốt cho ghi tự động, lưu lượng thấp |
 | **Bình chứa + đồng hồ bấm giờ** | Thời gian đầy một thể tích biết trước | Thô sơ nhưng hữu ích cho kiểm tra nhanh |
 | **Quan sát + lập bản đồ** | Vị trí, diện tích, độ ẩm | Thiết yếu; nhiều rò rỉ khuếch tán |
@@ -33,7 +33,7 @@ và, ngày càng nhiều, các cảm biến độ đục hoặc thiết bị b�
 ## 7.4 Bề mặt thấm
 
 **Bề mặt thấm (phreatic surface)** (đường thấm) bên trong đập đất là ranh giới
-giữa vùng bão hòa và vùng không bão hòa. Nó được suy ra từ các số đọc Piezometer
+giữa vùng bão hòa và vùng không bão hòa. Nó được suy ra từ các số đọc áp kế
 ([Chương 6](chapter-06-piezometers.md)). Một đường phreatic dâng cao hơn
 giả thiết thiết kế làm giảm ổn định mái dốc hạ lưu và có thể chỉ ra
 các rãnh thoát nước bị tắc.
@@ -61,6 +61,6 @@ cho mỗi điểm đo. Một điểm tách lên khỏi dải lịch sử của n
 ## 7.8 Điểm mấu chốt
 
 - Giám sát thấm *lượng* và *chất lượng*; độ đục thường quan trọng hơn thể tích.
-- Weir và tipping bucket định lượng lưu lượng; quan sát lập bản đồ các rò rỉ khuếch tán.
-- Theo dõi bề mặt phreatic từ Piezometer; đường dâng lên làm giảm ổn định mái dốc.
+- Tràn đo và máng lật định lượng lưu lượng; quan sát lập bản đồ các rò rỉ khuếch tán.
+- Theo dõi đường bão hòa từ áp kế; đường dâng lên làm giảm ổn định mái dốc.
 - Chú ý các công trình phụ; thấm đục hoặc tăng lên là dấu hiệu báo động.

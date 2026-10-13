@@ -21,9 +21,9 @@ chỉnh hệ chống hoặc thoát nước.
 - Áp lực nước nào tác dụng lên các khe nứt?
 - Hệ chống (neo, thanh neo, lưới) có làm việc đúng dự kiến không?
 
-**Thiết bị phù hợp** (Bảng 11-1) thường gồm: **inclinometer và extensometer** (chuyển
-vị khối), **đo vết nứt/khối** (chuyển vị tương đối giữa các khối), **piezometer** (áp
-lực nước khe nứt), **load cell** (tải neo/thanh neo) và **trắc đạc**.
+**Thiết bị phù hợp** (Bảng 11-1) thường gồm: **Thiết bị đo nghiêng và thiết bị đo biến dạng sâu** (chuyển
+vị khối), **đo vết nứt/khối** (chuyển vị tương đối giữa các khối), **áp kế** (áp
+lực nước khe nứt), **cảm biến đo tải trọng** (tải neo/thanh neo) và **trắc đạc**.
 
 ## 11.3 Trượt đá
 
@@ -36,18 +36,18 @@ rỗng chi phối nó, để định hướng xử lý và kiểm chứng hiệu
 - Áp lực nước khe nứt nào chi phối nó?
 - Biện pháp xử lý (neo, thoát nước) có hiệu quả không?
 
-**Thiết bị phù hợp** (Bảng 11-2) thường gồm: **inclinometer và TDR** (vùng cắt và tốc
-độ), **piezometer** (áp lực nước khe nứt), **extensometer**, **load cell** trên neo, và
+**Thiết bị phù hợp** (Bảng 11-2) thường gồm: **Thiết bị đo nghiêng và TDR** (vùng cắt và tốc
+độ), **áp kế** (áp lực nước khe nứt), **thiết bị đo biến dạng sâu**, **cảm biến đo tải trọng** trên neo, và
 **máy đo mưa**.
 
 ![Figure: fhwa-rock-slope-monitoring](../../../assets/figures/fhwa-rock-slope-monitoring-vi.svg)
 
-**Hình.** Quan trắc cho mái dốc đá: extensometer và inclinometer phát hiện chuyển vị khối, piezometer đo áp lực nước khe nứt, load cell trên neo và trắc đạc mặt ngoài (theo FHWA-HI-98-034, Ch. 11).
+**Hình.** Quan trắc cho mái dốc đá: Thiết bị đo biến dạng sâu và thiết bị đo nghiêng phát hiện chuyển vị khối, áp kế đo áp lực nước khe nứt, cảm biến đo tải trọng trên neo và trắc đạc mặt ngoài (theo FHWA-HI-98-034, Ch. 11).
 
 ## 11.4 Các điểm then chốt cần ghi nhớ
 
 - Mái dốc đá phá hoại dọc **khe nứt** — lắp thiết bị cho **các khối**, không phải khối
   đá nguyên.
-- **Áp lực nước khe nứt** là biến chi phối then chốt; đo bằng piezometer.
-- **Extensometer, đo vết nứt và trắc đạc** nắm bắt chuyển vị khối.
-- **Load cell trên neo và thanh neo** xác nhận hệ chống đang chịu tải.
+- **Áp lực nước khe nứt** là biến chi phối then chốt; đo bằng áp kế.
+- **Thiết bị đo biến dạng sâu, đo vết nứt và trắc đạc** nắm bắt chuyển vị khối.
+- **Cảm biến đo tải trọng trên neo và thanh neo** xác nhận hệ chống đang chịu tải.

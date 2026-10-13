@@ -62,7 +62,7 @@ chuyển vị tương đối giữa các đoạn cọc, từ đó xác định *
 Nhiệt độ ảnh hưởng đến thiết bị dây rung và cảm biến đo biến dạng, và biến dạng do nhiệt
 có thể lấn át biến dạng do tải trọng. Nhiệt độ được đo bằng:
 
-- **Thermistor và cảm biến nhiệt điện trở (RTD)** — chính xác, dễ kết nối bộ ghi dữ liệu.
+- **Cảm biến nhiệt điện trở và RTD** — chính xác, dễ kết nối bộ ghi dữ liệu.
 - **Cặp nhiệt điện (thermocouple)** — dải đo rộng, độ chính xác tuyệt đối thấp hơn.
 - **Cảm biến nhiệt tích hợp trong đầu đo dây rung** — thuận tiện khi dùng chung kênh đo với tín hiệu biến dạng.
 

@@ -22,9 +22,9 @@ mái dốc, và abutment là xương sống của giám sát biến dạng:
 
 Khảo sát cho thấy lún, rút ngắn đỉnh đập, và phình mái dốc.
 
-## 8.3 Biến dạng bên trong — Inclinometer
+## 8.3 Biến dạng bên trong — Thiết bị đo nghiêng
 
-Một **Inclinometer** đo chuyển vị ngang của vỏ ống (casing) lắp trong
+Một **thiết bị đo nghiêng** đo chuyển vị ngang của vỏ ống (casing) lắp trong
 một lỗ khoan. Nó phát hiện các bề mặt trượt (độ sâu nơi chuyển động tập trung) — dấu hiệu
 của mất ổn định mái dốc hoặc xói mòn nội bộ.
 
@@ -32,25 +32,25 @@ của mất ổn định mái dốc hoặc xói mòn nội bộ.
 - Đọc từ đáy lên; đáy là mốc tham chiếu.
 - **Tính toàn vẹn vỏ ống** là then chốt: một vỏ ống nứt hoặc lệch cho số đọc sai.
 
-## 8.4 Biến dạng bên trong — Extensometer và hệ thống lún
+## 8.4 Biến dạng bên trong — Thiết bị đo biến dạng sâu và hệ thống lún
 
-- **Extensometer** (thanh, từ tính, dây) đo chuyển động giữa một neo
+- **Thiết bị đo biến dạng sâu** (thanh, từ tính, dây) đo chuyển động giữa một neo
   sâu trong nền ổn định và một điểm gần bề mặt hơn — phát hiện lún hoặc
   trồi (heave) tại các độ sâu cụ thể.
 - **Hệ thống lún** (lỏng, từ tính, thiết bị đo lún) theo dõi chuyển động thẳng đứng
   trên một đập đất.
 
-## 8.5 Tiltmeter và Crackmeter
+## 8.5 Cảm biến đo độ nghiêng và cảm biến đo khe nứt
 
-- **Tiltmeter** cảm nhận sự xoay của một bề mặt; hữu ích trên các kết cấu bê tông và
+- **Cảm biến đo độ nghiêng** cảm nhận sự xoay của một bề mặt; hữu ích trên các kết cấu bê tông và
   mái dốc dốc.
-- **Crackmeter / joint meter** đo độ mở của vết nứt hoặc khe nối trong đập bê tông,
+- **Cảm biến đo khe nứt / cảm biến đo khe nối** đo độ mở của vết nứt hoặc khe nối trong đập bê tông,
   abutment, và nền móng.
 
 ## 8.6 Kết hợp các phép đo
 
 Biến dạng mạnh nhất khi được tương quan: một khảo sát bề mặt cho thấy *ở đâu*
-đập chuyển động; một Inclinometer cho thấy *tại độ sâu nào*; Piezometer cho thấy *tại sao*
+đập chuyển động; một thiết bị đo nghiêng cho thấy *tại độ sâu nào*; áp kế cho thấy *tại sao*
 (thay đổi áp lực nước lỗ rỗng). Cùng nhau chúng xác định vị trí cơ chế.
 
 !!! tip "Xây dựng đường cơ sở biến dạng sớm"
@@ -59,11 +59,11 @@ Biến dạng mạnh nhất khi được tương quan: một khảo sát bề m�
 
 ![Figure: dam-deformation](../../../assets/figures/dam-deformation-vi.svg)
 
-**Hình.** Giám sát biến dạng: mốc khảo sát trên đỉnh đập (lún, dịch chuyển hạ lưu) cùng inclinometer cho biến dạng trong (phạm vi ASCE MOP-135).
+**Hình.** Giám sát biến dạng: mốc khảo sát trên đỉnh đập (lún, dịch chuyển hạ lưu) cùng thiết bị đo nghiêng cho biến dạng trong (phạm vi ASCE MOP-135).
 
 ## 8.7 Điểm mấu chốt
 
 - Biến dạng là tín hiệu suy yếu trực tiếp nhất; hãy giám sát bên trong và bên ngoài.
-- Mạng lưới khảo sát cho chuyển động bề mặt; Inclinometer bộc lộ độ sâu trượt.
-- Extensometer và hệ thống lún cho chuyển động thẳng đứng phân giải theo độ sâu.
-- Tương quan biến dạng với Piezometer để xác định cơ chế và vị trí.
+- Mạng lưới khảo sát cho chuyển động bề mặt; thiết bị đo nghiêng bộc lộ độ sâu trượt.
+- Thiết bị đo biến dạng sâu và hệ thống lún cho chuyển động thẳng đứng phân giải theo độ sâu.
+- Tương quan biến dạng với áp kế để xác định cơ chế và vị trí.

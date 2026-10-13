@@ -13,13 +13,13 @@ Một thiết bị dù có thông số kỹ thuật xuất sắc đến đâu c�
 
 - **Phương pháp khoan**: Sử dụng phương pháp khoan xoay lấy lõi hoặc khoan rửa bằng nước sạch/dung dịch sét bentonite loãng. Hạn chế tối đa việc sử dụng bọt khí hoặc hóa chất khoan có thể làm bít tắc lỗ rỗng địa tầng xung quanh buồng đo.
 - **Rửa sạch hố khoan**: Sau khi khoan đạt độ sâu thiết kế, phải rửa sạch toàn bộ mùn khoan đọng lại dưới đáy hố bằng cách bơm tuần hoàn nước sạch cho đến khi nước trào ra miệng hố hoàn toàn trong.
-- **Kiểm tra độ thẳng đứng**: Đối với hố khoan lắp đặt ống Inclinometer, hố khoan phải đảm bảo độ thẳng đứng (độ nghiêng lệch trục $< 1^\circ$).
+- **Kiểm tra độ thẳng đứng**: Đối với hố khoan lắp đặt ống đo nghiêng, hố khoan phải đảm bảo độ thẳng đứng (độ nghiêng lệch trục $< 1^\circ$).
 
 ## 12.3 Kỹ thuật bơm vữa chèn bằng ống Tremie
 
 - **Ống dẫn vữa Tremie**: Luôn luồn ống dẫn vữa nhựa PVC hoặc ống cao su xuống tận đáy hố khoan và bơm vữa từ dưới lên trên. Tuyệt đối không bao giờ đổ vữa tự do từ miệng hố khoan xuống vì sẽ gây phân tầng cốt liệu, bọt khí và tạo khoảng hở rỗng quanh cảm biến.
 - **Cấp phối vữa chèn (Grout Mix Design)**:
-  - Vữa chèn cho Piezometer và Inclinometer trong đất sét mềm: Tỷ lệ nước : xi măng : bentonite thường là $6.5 : 1 : 0.4$ (theo khối lượng), tạo ra khối vữa dẻo có độ cứng tương thích với đất xung quanh ($k \le 10^{-6}\text{ cm/s}$), tránh tạo thành một cột bê tông quá cứng chèn ép ống đo.
+  - Vữa chèn cho áp kế và thiết bị đo nghiêng trong đất sét mềm: Tỷ lệ nước : xi măng : bentonite thường là $6.5 : 1 : 0.4$ (theo khối lượng), tạo ra khối vữa dẻo có độ cứng tương thích với đất xung quanh ($k \le 10^{-6}\text{ cm/s}$), tránh tạo thành một cột bê tông quá cứng chèn ép ống đo.
   - Vữa chèn trong đá gốc: Sử dụng vữa xi măng - cát tỷ lệ nước/xi măng thấp ($W/C \approx 0.45$) kèm phụ gia trương nở nhẹ để nêm chặt ống vách vào khối đá.
 
 ## 12.4 Thi công tuyến hào cáp tín hiệu (Cable Trenching)

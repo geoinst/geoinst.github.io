@@ -60,7 +60,7 @@ Phân loại theo **vật liệu** và **tốc độ**:
 
 ![Hình: geology-creep-pistol-butt.jpg](../../../assets/figures/geology/creep-pistol-butt.jpg)
 
-**Hình.** Cây 'chân súng' trên mái dốc đang trượt từ từ — một inclinometer tự nhiên, và là chỉ báo rẻ nhất mà khảo sát đi bộ có thể đọc.
+**Hình.** Cây 'chân súng' trên mái dốc đang trượt từ từ — một thiết bị đo nghiêng tự nhiên, và là chỉ báo rẻ nhất mà khảo sát đi bộ có thể đọc.
 *© Steven Earle, CC BY 4.0 — Physical Geology, 2nd ed., Hình 15.2.7.*
 
 ![Hình: geology-debris-flow.jpg](../../../assets/figures/geology/debris-flow.jpg)
@@ -87,7 +87,7 @@ Phân loại theo **vật liệu** và **tốc độ**:
 
 Các biện pháp tiêu chuẩn là **tiêu thoát nước** (giảm áp lực nước lỗ rỗng), **sửa taluy** (giảm
 góc dốc), **tường chắn và gia cố**, và **quan trắc**. Quan trắc là chủ đề của phần còn lại của
-trang web này — inclinometer, áp kế, thiết bị đo biến dạng sâu và các loại khác — và mục đích
+trang web này — Thiết bị đo nghiêng, áp kế, thiết bị đo biến dạng sâu và các loại khác — và mục đích
 của nó đúng là phát hiện sớm chuyển động được mô tả trong chương này để kịp xử lý.
 
 ## Điểm then chốt cho kỹ sư địa kỹ thuật

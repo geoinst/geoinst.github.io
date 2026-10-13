@@ -23,10 +23,10 @@ Hầu hết các vụ hư hỏng và sự cố đập bắt nguồn từ một t
 |-----------|------------------|---------------------|
 | **Xói mòn trong (internal erosion) / ống dẫn (piping)** | Thấm mang theo đất, nước đục, hố sụt, đốm ướt | Lưu lượng & độ trong của thấm, mực nước piezometric, lún |
 | **Tràn qua đỉnh (overtopping)** | Hồ chứa cao, không đủ miễn nhiễm sóng (freeboard) | Mực hồ, lượng mưa, dòng vào |
-| **Trượt / mất ổn định mái** | Nứt, phình, chuyển động của mái | Khảo sát biến dạng, inclinometer, piezometer |
-| **Hư hỏng nền móng** | Chuyển động hoặc thấm quá mức qua nền móng | Piezometer, biến dạng, thấm |
-| **Sự cố bê tông/kết cấu** | Nứt, chuyển động của các monolith, rò rỉ tại khe | Crackmeter, joint meter, piezometer, khảo sát |
-| **Thấm qua/dưới các công trình phụ trợ** | Các khu vực ướt gần đường ống dẫn, ống** | Thấm, piezometer gần các công trình |
+| **Trượt / mất ổn định mái** | Nứt, phình, chuyển động của mái | Khảo sát biến dạng, thiết bị đo nghiêng, áp kế |
+| **Hư hỏng nền móng** | Chuyển động hoặc thấm quá mức qua nền móng | Áp kế, biến dạng, thấm |
+| **Sự cố bê tông/kết cấu** | Nứt, chuyển động của các monolith, rò rỉ tại khe | Cảm biến đo khe nứt, cảm biến đo khe nối, áp kế, khảo sát |
+| **Thấm qua/dưới các công trình phụ trợ** | Các khu vực ướt gần đường ống dẫn, ống** | Thấm, áp kế gần các công trình |
 
 !!! danger "Xói mòn trong là nguyên nhân hàng đầu"
     Một tỷ lệ lớn các vụ hư hỏng đập đất liên quan đến **xói mòn trong**
@@ -81,7 +81,7 @@ Sự ánh xạ này là cầu nối từ Chương 2 đến Chương 4.
 
 ![Figure: dam-failure-modes](../../../assets/figures/dam-failure-modes-vi.svg)
 
-**Hình.** Các mode phá hoại tiềm ẩn của đập đắp: tràn qua đỉnh, xói mòn trong (piping), mất ổn định mái dốc và thấm qua nền (phạm vi ASCE MOP-135).
+**Hình.** Các dạng phá hoại tiềm ẩn của đập đắp: tràn qua đỉnh, xói mòn trong (piping), mất ổn định mái dốc và thấm qua nền (phạm vi ASCE MOP-135).
 
 ## 2.7 Các điểm chính cần nhớ
 

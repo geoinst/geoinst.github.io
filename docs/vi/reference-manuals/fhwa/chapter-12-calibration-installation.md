@@ -46,8 +46,8 @@ Thiết bị xuống cấp theo thời gian. Bảo trì theo kế hoạch gồm:
 
 Lắp đặt quyết định liệu thiết bị có đo đúng thứ cần đo:
 
-- **Khoan** không được làm xước hoặc xáo trộn nền quanh piezometer hay ống vách
-  inclinometer.
+- **Khoan** không được làm xước hoặc xáo trộn nền quanh áp kế hay ống vách
+  thiết bị đo nghiêng.
 - **Phụt vữa và bịt kín** phải cô lập vùng đo.
 - **Ống dẫn và cáp** phải được bảo vệ khỏi thiết bị thi công và lún (Hình 12-1 thể hiện
   các cách bảo vệ điển hình).

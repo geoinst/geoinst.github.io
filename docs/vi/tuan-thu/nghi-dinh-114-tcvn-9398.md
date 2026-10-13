@@ -166,7 +166,7 @@ lang_alt: compliance/decree-114-tcvn-9398/
 | Ống khói, tháp, cột cao | 0,000 5 × *H* |
 
 !!! tip "Đây là điểm bán hàng kỹ thuật quan trọng nhất"
-    Sai số **± 1 mm đến ± 3 mm** không thể đạt được bằng **đo thủ công định kỳ**. Đây chính là khoảng trống mà **cảm biến dây rung (VW), inclinometer số và hệ thống thu thập tự động** lấp vào — và là lập luận kỹ thuật để chuyển từ đo tay sang ADAQS.
+    Sai số **± 1 mm đến ± 3 mm** không thể đạt được bằng **đo thủ công định kỳ**. Đây chính là khoảng trống mà **cảm biến dây rung (VW), thiết bị đo nghiêng số và hệ thống thu thập tự động** lấp vào — và là lập luận kỹ thuật để chuyển từ đo tay sang ADAQS.
 
 ### B.3 — Lưới mốc chuẩn và đánh giá độ ổn định
 
@@ -227,7 +227,7 @@ flowchart LR
 | 1 | Quan trắc liên tục, không phụ thuộc con người | NĐ 114 Đ.14 | Đầu ghi tự động, pin dự phòng, bộ nhớ đệm | Nhật ký hoạt động, biểu đồ độ phủ dữ liệu |
 | 2 | Tần suất leo thang theo ngưỡng mực nước | NĐ 114 Đ.15.4 | Cấu hình ngưỡng + chế độ khẩn cấp | Bảng cấu hình ngưỡng đã phê duyệt |
 | 3 | Sai số đo lún ≤ 1–3 mm | TCVN 9398 Bảng 6 | Cảm biến độ phân giải cao, hiệu chuẩn định kỳ | Chứng chỉ hiệu chuẩn |
-| 4 | Sai số chuyển dịch ngang ≤ 1–5 mm | TCVN 9398 9.3.2.4 | Inclinometer/đo hướng chuẩn đạt cấp 1–2 | Kết quả đo lặp, phân tích sai số |
+| 4 | Sai số chuyển dịch ngang ≤ 1–5 mm | TCVN 9398 9.3.2.4 | Thiết bị đo nghiêng/đo hướng chuẩn đạt cấp 1–2 | Kết quả đo lặp, phân tích sai số |
 | 5 | Đánh giá ổn định lưới mốc chuẩn mỗi chu kỳ | TCVN 9398 9.2.3 | Phần mềm xử lý có kiểm tra ổn định | Báo cáo ổn định mốc chuẩn |
 | 6 | Phát hiện bất thường, cảnh báo kịp thời | NĐ 114 Đ.14, Đ.25 | Ngưỡng tự động, thông báo đa kênh | Nhật ký cảnh báo, biên bản xử lý |
 | 7 | Lưu trữ lâu dài, bàn giao chủ đầu tư | TCVN 9398 10.2; NĐ 114 Đ.18 | Cơ sở dữ liệu có sao lưu, xuất được dữ liệu thô | Biên bản bàn giao hồ sơ số |

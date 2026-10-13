@@ -14,7 +14,7 @@ Một số đọc từ cảm biến (tần số Hz, điện áp mV, hay điện 
 - **Hiệu chuẩn nhà máy (Factory Calibration)**: Được thực hiện trong phòng thí nghiệm chuẩn của nhà sản xuất trên các bàn thử nghiệm có kiểm soát nhiệt độ và áp suất, có truy xuất nguồn gốc tiêu chuẩn đo lường quốc gia (NIST / ISO). Cung cấp bảng số liệu đa điểm và phương trình hồi quy tuyến tính hoặc đa thức bậc hai.
 - **Kiểm tra hiệu chuẩn tại hiện trường (Field Calibration Verification)**:
   - *Áp kế (Piezometer)*: Nhúng ngập cảm biến vào ống nước cao có vạch chia centimet hoặc đưa vào bình nén khí mini cầm tay để kiểm tra độ nhạy và số đọc zero trước khi thả xuống hố khoan.
-  - *Đầu dò Inclinometer*: Đặt đầu dò lên khung kiểm chuẩn góc nghiêng chuẩn (calibration test frame) để kiểm tra số đọc 0° và góc nghiêng chuẩn $\pm 30^\circ$.
+  - *Đầu dò thiết bị đo nghiêng*: Đặt đầu dò lên khung kiểm chuẩn góc nghiêng chuẩn (calibration test frame) để kiểm tra số đọc 0° và góc nghiêng chuẩn $\pm 30^\circ$.
   - *Cảm biến tải / biến dạng*: Kiểm tra điện trở cuộn dây bằng ôm kế và kiểm tra điện trở cách điện bằng Megohmmeter (phải đạt $> 100\text{ M}\Omega$ ở điện áp 500V).
 
 ## 11.3 Thiết bị đọc hiện trường (Readout Units)
@@ -23,7 +23,7 @@ Thiết bị đọc cầm tay phải được kiểm định định kỳ hàng 
 
 ## 11.4 Kế hoạch bảo trì phòng ngừa định kỳ
 
-- **Chống ẩm**: Thay thế các gói hạt hút ẩm (silica gel) bên trong các hộp đấu nối cáp (junction boxes) và tủ chứa Datalogger ngay khi hạt chuyển từ màu xanh/cam sang màu hồng/trắng.
+- **Chống ẩm**: Thay thế các gói hạt hút ẩm (silica gel) bên trong các hộp đấu nối cáp (junction boxes) và tủ chứa bộ ghi dữ liệu ngay khi hạt chuyển từ màu xanh/cam sang màu hồng/trắng.
 - **Làm sạch đầu tiếp xúc**: Lau sạch bụi bẩn, cát và bôi mỡ silicon bảo vệ trên các đầu giắc cắm kim loại chống nước.
 - **Bảo vệ chống sét**: Kiểm tra hệ thống cọc tiếp địa chống sét lan truyền (điện trở tiếp địa phải đạt $< 5\,\Omega$); thay thế các ống phóng điện khí (gas discharge tubes) hoặc bộ chống sét MOV nếu đã bị đánh thủng sau các cơn dông bão.
 - **Hệ thống năng lượng mặt trời**: Lau sạch bụi bẩn trên bề mặt tấm pin mặt trời và kiểm tra dung lượng bình ắc quy gel sâu (deep-cycle gel battery).

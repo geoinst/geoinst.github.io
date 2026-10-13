@@ -19,7 +19,7 @@ vụ giám sát là định lượng thấm và phát hiện sự thay đổi.
 - **Nhiệt độ và hóa học** — có thể phân biệt nguồn và phát hiện rò rỉ từ xả tràn
   hoặc đường ống.
 - **Mặt nước thấm** — mực nước ngầm trong lớp bùn và đập đắp, theo dõi bằng
-  piezometer ([Chương 6](chapter-06-pore-pressure.md)).
+  áp kế ([Chương 6](chapter-06-pore-pressure.md)).
 
 ## 7.3 Hình học bãi bùn và mặt nước thấm
 
@@ -28,12 +28,12 @@ phối vị trí mặt nước thấm. Một cơ sở vận hành tốt giữ m�
 trong bãi bùn**, xa đỉnh, bằng cách quản lý đổ thải và xả tràn. Giám sát bao gồm:
 
 - **Độ dốc và chiều dài bãi bùn** (khảo sát, ảnh chụp quang từ drone).
-- **Cao độ mặt nước thấm** từ piezometer và giếng quan trắc.
-- **Freeboard** — khoảng cách thẳng đứng từ hồ đến đỉnh.
+- **Cao độ mặt nước thấm** từ áp kế và giếng quan trắc.
+- **Siêu cao an toàn** — khoảng cách thẳng đứng từ hồ đến đỉnh.
 
 !!! danger "Quản lý bãi bùn chính là giám sát"
     Một bãi bùn ngắn hoặc thoải đẩy mặt nước thấm về phía đập đắp và giảm
-    freeboard — một đường dẫn trực tiếp đến hóa lỏng và tràn qua đỉnh. Hình học
+    Siêu cao an toàn — một đường dẫn trực tiếp đến hóa lỏng và tràn qua đỉnh. Hình học
     bãi bùn không chỉ là vận hành; nó là một tham số an toàn.
 
 ## 7.4 Phát hiện xói mòn trong (piping)
@@ -49,9 +49,9 @@ cảnh báo:
 ## 7.5 Thiết bị và phương pháp
 
 - **Tràn đo và máng đo** cho tổng lưu lượng thấm.
-- **Piezometer và giếng quan trắc** cho mặt nước thấm.
+- **Áp kế và giếng quan trắc** cho mặt nước thấm.
 - **Giám sát trực quan** cho vị trí, độ trong và độ đục ([Chương 3](chapter-03-philosophy.md)).
-- **Giám sát xả tràn** để xác nhận mực hồ và freeboard.
+- **Giám sát xả tràn** để xác nhận mực hồ và siêu cao an toàn.
 
 ![Figure: tailings-seepage](../../../assets/figures/tailings-seepage-vi.svg)
 
@@ -60,6 +60,6 @@ cảnh báo:
 ## 7.6 Điểm mấu chốt
 
 - Định lượng thấm và theo dõi sự thay đổi, đặc biệt độ đục.
-- Giữ mặt nước thấm thấp và trong bãi bùn; bảo vệ freeboard.
+- Giữ mặt nước thấm thấp và trong bãi bùn; bảo vệ siêu cao an toàn.
 - Hình học bãi bùn là một tham số an toàn, không chỉ vận hành.
 - Xói mòn trong báo hiệu qua thấm mới, đục hoặc tăng.

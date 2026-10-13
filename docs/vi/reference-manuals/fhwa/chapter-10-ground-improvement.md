@@ -24,8 +24,8 @@ công trình lân cận.
 - Phụt vữa có gây trương nở hoặc chuyển vị cho công trình lân cận không?
 - Các cải thiện dự kiến về tính thấm hoặc độ cứng đã đạt chưa?
 
-**Thiết bị phù hợp** (Bảng 10-1) thường gồm: **piezometer** (phản ứng áp lực lỗ rỗng),
-**inclinometer** và **điểm lún/trương nở** (chuyển vị nền), thiết bị **áp lực** (áp
+**Thiết bị phù hợp** (Bảng 10-1) thường gồm: **Áp kế** (phản ứng áp lực lỗ rỗng),
+**Thiết bị đo nghiêng** và **điểm lún/trương nở** (chuyển vị nền), thiết bị **áp lực** (áp
 lực bơm vữa) và **thí nghiệm tính thấm**.
 
 ## 10.3 Đo nhiệt độ
@@ -36,14 +36,14 @@ Nhiệt độ được đo để:
 - xác nhận quá trình ninh kết/thủy hóa của vữa hoặc bê tông; và
 - cung cấp **hiệu chỉnh nhiệt** cho thiết bị dây rung và thiết bị đo ứng biến.
 
-**Thiết bị** (Bảng 10-2) gồm **thermistor**, **RTD**, **cặp nhiệt điện** và **cảm biến
+**Thiết bị** (Bảng 10-2) gồm **cảm biến nhiệt điện trở**, **RTD**, **cặp nhiệt điện** và **cảm biến
 nhiệt dây rung**, so sánh theo dải đo, độ chính xác và mức thuận tiện khi ghi log.
 Chọn theo dải đo yêu cầu và khả năng dùng chung bộ ghi với các thiết bị chính.
 
 ## 10.4 Các điểm then chốt cần ghi nhớ
 
 - Quan trắc xác nhận gia cố nền **đạt mục đích** và không gây hại cho nền lân cận.
-- **Phụt vữa** được quan trắc bằng piezometer, thiết bị chuyển vị và áp lực bơm.
+- **Phụt vữa** được quan trắc bằng áp kế, thiết bị chuyển vị và áp lực bơm.
 - **Nhiệt độ** vừa là thông số quan trắc (đông lạnh nền) vừa là **đầu vào hiệu chỉnh**
   cho thiết bị khác.
 - Ghi nhiệt độ ở mọi nơi hiệu ứng nhiệt có thể làm lệch ứng biến hoặc biến dạng.

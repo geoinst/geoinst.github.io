@@ -31,7 +31,7 @@ phép xã hội để vận hành cơ sở.
 Tài liệu này đề cập đến **an toàn, giám sát và quan trắc** các cơ sở lưu giữ bùn
 thải. Nó bao quát:
 
-- Các loại cơ sở và các mode phá hoại chủ đạo
+- Các loại cơ sở và các dạng phá hoại chủ đạo
 - Xây dựng một chương trình giám sát có căn cứ rủi ro
 - Lựa chọn, lắp đặt, vận hành và bảo trì thiết bị quan trắc
 - Thu thập, quản lý, đánh giá và diễn giải dữ liệu
@@ -45,7 +45,7 @@ năng lực phán đoán, chứ không phải quy phạm.
 
 Các chương đi theo vòng đời của một chương trình giám sát bùn thải:
 
-- **Nền tảng** (Ch. 2–3): các loại cơ sở, mode phá hoại và triết lý giám sát.
+- **Nền tảng** (Ch. 2–3): các loại cơ sở, dạng phá hoại và triết lý giám sát.
 - **Lập kế hoạch** (Ch. 4): một kế hoạch có căn cứ rủi ro, định hướng hậu quả.
 - **Thiết bị** (Ch. 5–9): đo cái gì và bằng cách nào, bao gồm viễn thám.
 - **Thực thi** (Ch. 10–11): lắp đặt, vận hành và quản lý dữ liệu.

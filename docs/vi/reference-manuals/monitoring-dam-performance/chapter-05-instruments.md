@@ -16,8 +16,8 @@ trong kho kiến thức này.
 | Hạng mục | Đo cái gì | Thiết bị đại diện |
 |----------|-----------------|----------------------------|
 | **Mực nước / hồ chứa** | Cao độ mặt nước, mức | Thước vạch (staff gauges), cảm biến áp suất (pressure transducers), phao đo mức (float gauges) |
-| **Áp lực lỗ rỗng / uplift** | Áp suất nước trong đất/đá/bê tông | Piezometer dây rung (vibrating-wire), khí nén (pneumatic), ống đứng (standpipe), thủy lực (hydraulic) |
-| **Thấm / rò rỉ** | Lưu lượng & chất lượng dòng chảy | Wei (weirs), xô đong (tipping buckets), cảm biến độ đục (turbidity), quan sát |
+| **Áp lực lỗ rỗng / lực nâng** | Áp suất nước trong đất/đá/bê tông | Áp kế dây rung (vibrating-wire), khí nén (pneumatic), ống đứng (standpipe), thủy lực (hydraulic) |
+| **Thấm / rò rỉ** | Lưu lượng & chất lượng dòng chảy | Tràn đo, xô đong (máng lậts), cảm biến độ đục (turbidity), quan sát |
 | **Biến dạng — bề mặt** | Chuyển động bề mặt đập | Mốc khảo sát (survey monuments), GNSS, máy kinh vĩ điện tử (total station) |
 | **Biến dạng — trong lòng** | Chuyển động bên trong thân đập/nền móng | Thiết bị đo nghiêng (inclinometer), thiết bị đo biến dạng sâu (extensometer), bàn đo lún, mảng SAA |
 | **Kết cấu** | Nứt, mở khe, tải trọng | Cảm biến đo khe nứt (crackmeter), cảm biến đo khe nối (jointmeter), cảm biến đo tải trọng (load cell), cảm biến đo biến dạng (strain gauge) |
@@ -59,12 +59,12 @@ hiện các xu hướng chậm. Hãy quy định cả ba, và một ngân sách 
 
 Sự lựa chọn tuân theo bước lập kế hoạch: ghép thiết bị với chỉ báo, vị trí, nguồn
 điện sẵn có, khả năng tiếp cận, tuổi thọ dự kiến và hệ thống dữ liệu. Sự dự phòng
-tại các vị trí quan trọng nhất là thận trọng — nếu piezometer duy nhất bảo vệ một
+tại các vị trí quan trọng nhất là thận trọng — nếu áp kế duy nhất bảo vệ một
 hình thức hư hỏng bị hỏng, chương trình sẽ có một điểm mù.
 
 ![Figure: dam-monitoring-layout](../../../assets/figures/dam-monitoring-layout-vi.svg)
 
-**Hình.** Bố trí thiết bị điển hình trên đập đắp: khảo sát đỉnh đập, piezometer, extensometer, inclinometer, tầng thoát nước chân và trạm đo thấm (phạm vi ASCE MOP-135).
+**Hình.** Bố trí thiết bị điển hình trên đập đắp: khảo sát đỉnh đập, áp kế, thiết bị đo biến dạng sâu, thiết bị đo nghiêng, tầng thoát nước chân và trạm đo thấm (phạm vi ASCE MOP-135).
 
 ## 5.7 Các điểm chính cần nhớ
 

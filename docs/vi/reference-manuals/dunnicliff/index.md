@@ -33,10 +33,10 @@ Tài liệu được cô đọng và phân chia có hệ thống theo 14 chươn
 | 3 | [Tiếp cận lập kế hoạch có hệ thống](chapter-03-planning.md) | **Trọng tâm cốt lõi**: Quy trình đặt câu hỏi kỹ thuật, chọn thông số và dự toán |
 | 4 | [Mua sắm & Sắp xếp hợp đồng](chapter-04-procurement.md) | Soạn thảo thông số kỹ thuật (specs), hiệu chuẩn xuất xưởng và quản lý hợp đồng |
 | 5 | [Độ không đảm bảo đo & Thu thập dữ liệu](chapter-05-uncertainty.md) | Độ đúng, độ chụm, tính tương thích, nguyên lý cảm biến và hệ thống ADAS |
-| 6 | [Đo áp lực nước ngầm](chapter-06-piezometers.md) | Các loại Piezometer (VW, khí nén, Casagrande), bão hòa đá lọc và bơm vữa |
+| 6 | [Đo áp lực nước ngầm](chapter-06-piezometers.md) | Các loại áp kế (VW, khí nén, Casagrande), bão hòa đá lọc và bơm vữa |
 | 7 | [Đo ứng suất trong đất và đá](chapter-07-stress.md) | Hộp đo áp lực đất (EPC), hệ số CAF, hộp đo đo ứng suất hố khoan trong đá |
-| 8 | [Đo biến dạng](chapter-08-deformation.md) | Đo lún (bàn đo lún, từ tính, thủy lực), Inclinometer đo nghiêng sâu, MPBX, SAA |
-| 9 | [Tải trọng, Biến dạng kết cấu & Nhiệt độ](chapter-09-load-strain-temp.md) | Cảm biến đo tải trọng (load cell), cảm biến đo biến dạng (strain gauge), telltale và bù nhiệt độ |
+| 8 | [Đo biến dạng](chapter-08-deformation.md) | Đo lún (bàn đo lún, từ tính, thủy lực), Đo nghiêng sâu, MPBX, SAA |
+| 9 | [Tải trọng, Biến dạng kết cấu & Nhiệt độ](chapter-09-load-strain-temp.md) | Cảm biến đo tải trọng (load cell), cảm biến đo biến dạng (strain gauge), thanh truyền chuyển vị và bù nhiệt độ |
 | 10 | [Công thức cho sự tin cậy](chapter-10-recipe.md) | Công thức chất lượng 25 thành phần của Dunnicliff đảm bảo dữ liệu đáng tin cậy |
 | 11 | [Hiệu chuẩn & Bảo trì thiết bị](chapter-11-calibration.md) | Kiểm tra hiệu chuẩn hiện trường, lịch bảo trì phòng ngừa và bảo vệ chống sét |
 | 12 | [Lắp đặt thiết bị quan trắc](chapter-12-installation.md) | Kỹ thuật khoan, bơm vữa ống tremie, thi công hào cáp snaking và lập nhật ký |

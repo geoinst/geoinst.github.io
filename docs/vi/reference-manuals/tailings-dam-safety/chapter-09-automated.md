@@ -12,7 +12,7 @@ báo động khi không ai tại hiện trường — thiết yếu cho các cơ
 
 ## 9.2 Các thành phần của một hệ thống tự động
 
-- **Cảm biến** — piezometer dây rung, inclinometer tại chỗ, lăng kính, cảm biến
+- **Cảm biến** — Áp kế dây rung, thiết bị đo nghiêng tại chỗ, lăng kính, cảm biến
   mức.
 - **Bộ ghi dữ liệu (datalogger)** — quét cảm biến, áp dụng chuyển đổi, gắn mốc
   thời gian và đệm dữ liệu.

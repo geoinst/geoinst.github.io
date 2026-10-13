@@ -14,31 +14,31 @@ cho thấy các chương của tài liệu tham khảo này khớp lại với n
 ## 14.2 Trường hợp A — Phát hiện xói mòn trong sớm
 
 Một đập đất đắp khu vực cho thấy một **sự tăng nhẹ thấm hạ lưu** kèm độ đục nhẹ
-sau một đợt tích nước hồ nhanh. Bởi vì các piezometer hạ lưu của lõi cũng cho thấy
+sau một đợt tích nước hồ nhanh. Bởi vì các áp kế hạ lưu của lõi cũng cho thấy
 một sự tăng áp lực lỗ rỗng nhẹ, nhóm đã coi đó như một tín hiệu xói mòn trong có
 thể xảy ra thay vì một phiền toái. Họ đã **tăng cường số đọc, điều động kiểm tra,
 và hạ mực nước hồ** trong khi điều tra. Lượng thấm ổn định khi mực nước hồ hạ; một
 sửa chữa bộ lọc theo kế hoạch đã theo sau. Sự kết hợp quan sát thấm
-([Chương 7](chapter-07-seepage.md)) và piezometer
+([Chương 7](chapter-07-seepage.md)) và áp kế
 ([Chương 6](chapter-06-piezometers.md)) của chương trình đã phát hiện một điều
 kiện đang phát triển trước khi nó trở nên nguy hiểm.
 
 **Bài học:** tương quan chất lượng thấm với áp lực lỗ rỗng; hành động dựa trên sự
 kết hợp đó.
 
-## 14.3 Trường hợp B — Inclinometer phơi bày một mặt trượt
+## 14.3 Trường hợp B — Thiết bị đo nghiêng phơi bày một mặt trượt
 
 Trong lần tích nước đầu tiên của một đập đất đắp phân vùng, một **khảo sát** cho
-thấy sự co ngắn đỉnh đập. Một **inclinometer** xuyên qua thân hạ lưu đã xác định
+thấy sự co ngắn đỉnh đập. Một **thiết bị đo nghiêng** xuyên qua thân hạ lưu đã xác định
 một mặt trượt tại giao diện với một lớp nền cứng hơn. Biết *độ sâu* của chuyển động
 tập trung việc khắc phục và tránh đào bới không cần thiết ở nơi khác.
 
-**Bài học:** khảo sát mặt đất cho thấy *ở đâu*; inclinometer cho thấy *ở độ sâu
+**Bài học:** khảo sát mặt đất cho thấy *ở đâu*; thiết bị đo nghiêng cho thấy *ở độ sâu
 nào* ([Chương 8](chapter-08-deformation.md)).
 
 ## 14.4 Trường hợp C — Lực nâng trên một đập trọng lực
 
-Các **piezometer lực nâng** (uplift piezometers) định kỳ tại chân một đập trọng
+Các **áp kế lực nâng** (uplift piezometers) định kỳ tại chân một đập trọng
 lực bê tông cho thấy một sự tăng dần đối với một mực nước hồ ổn định. Điều tra tìm
 thấy sự tắc nghẽn một phần của một giếng dẫn thoát nước, đưa lực nâng tiến gần đến
 giới hạn thiết kế. Khôi phục hệ thống thoát nước đã đưa lực nâng trở lại. Bất

@@ -22,8 +22,8 @@ ngang cho thấy nền có ứng xử đúng dự đoán không.
 - Nền đất yếu đang cố kết nhanh đến đâu, và đắp theo giai đoạn có an toàn không?
 - Đã lún bao nhiêu, và ở đâu?
 
-**Thiết bị phù hợp** (Bảng 7-1) thường gồm: **piezometer** (áp lực lỗ rỗng), **bàn lún**
-và **điểm lún dưới bề mặt** (lún), **inclinometer** (chuyển vị ngang), và **đo mực
+**Thiết bị phù hợp** (Bảng 7-1) thường gồm: **Áp kế** (áp lực lỗ rỗng), **bàn lún**
+và **điểm lún dưới bề mặt** (lún), **thiết bị đo nghiêng** (chuyển vị ngang), và **đo mực
 nước dạng ống** (profile lún).
 
 ## 7.3 Mái dốc cắt trong đất
@@ -37,8 +37,8 @@ vị, để điều chỉnh thi công hoặc giao thông.
 - Vùng cắt hoạt động ở đâu?
 - Áp lực lỗ rỗng có đang dâng tới điều kiện tới hạn không?
 
-**Thiết bị phù hợp** (Bảng 7-2) thường gồm: **inclinometer** (vùng cắt và chuyển vị),
-**piezometer** (áp lực lỗ rỗng), **đo vết nứt** (vết nứt kéo) và **mốc trắc đạc**.
+**Thiết bị phù hợp** (Bảng 7-2) thường gồm: **Thiết bị đo nghiêng** (vùng cắt và chuyển vị),
+**Áp kế** (áp lực lỗ rỗng), **đo vết nứt** (vết nứt kéo) và **mốc trắc đạc**.
 
 ## 7.4 Trượt đất trong đất
 
@@ -52,13 +52,13 @@ quả.
 - Áp lực lỗ rỗng nào chi phối nó, và chúng phản ứng thế nào với mưa?
 - Biện pháp xử lý có hiệu quả không?
 
-**Thiết bị phù hợp** (Bảng 7-3) thường gồm: **inclinometer** và **TDR** (vùng cắt và
-tốc độ), **piezometer** (áp lực lỗ rỗng), **trắc đạc mặt ngoài** và **extensometer**
+**Thiết bị phù hợp** (Bảng 7-3) thường gồm: **Thiết bị đo nghiêng** và **TDR** (vùng cắt và
+tốc độ), **áp kế** (áp lực lỗ rỗng), **trắc đạc mặt ngoài** và **thiết bị đo biến dạng sâu**
 (chuyển vị), và **máy đo mưa** (yếu tố kích hoạt).
 
 ![Figure: fhwa-soil-slope-monitoring](../../../assets/figures/fhwa-soil-slope-monitoring-vi.svg)
 
-**Hình.** Bố trí quan trắc điển hình cho mái dốc đất / nền đắp: inclinometer và piezometer trong mái dốc, bàn lún trên nền đắp và mốc trắc đạc (theo FHWA-HI-98-034, Ch. 7).
+**Hình.** Bố trí quan trắc điển hình cho mái dốc đất / nền đắp: Thiết bị đo nghiêng và áp kế trong mái dốc, bàn lún trên nền đắp và mốc trắc đạc (theo FHWA-HI-98-034, Ch. 7).
 
 ## 7.5 Bài tập — lập kế hoạch cho mái dốc đất
 
@@ -80,8 +80,8 @@ Kết quả ví dụ được trình bày trong **Phụ lục C** (xem
 
 - Với nền đắp trên đất yếu, **áp lực lỗ rỗng kiểm soát tốc độ đắp an toàn** — quan
   trắc nó trước tiên.
-- Với mái dốc cắt và trượt đất, **inclinometer** định vị vùng cắt và đo tốc độ;
-  **piezometer** giải thích áp lực chi phối.
+- Với mái dốc cắt và trượt đất, **thiết bị đo nghiêng** định vị vùng cắt và đo tốc độ;
+  **Áp kế** giải thích áp lực chi phối.
 - Kết hợp **trắc đạc mặt ngoài** với **thiết bị dưới bề mặt** để có bức tranh đầy đủ.
 - **Bài tập** chính là quy trình lập kế hoạch ([Chương 6](chapter-06-planning.md)) áp
   dụng từ đầu đến cuối — hãy luyện tập.

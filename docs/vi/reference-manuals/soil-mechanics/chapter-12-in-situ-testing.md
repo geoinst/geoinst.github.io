@@ -17,7 +17,7 @@ của thông số thiết kế, với thí nghiệm phòng dùng để xác nh�
 - **Thí nghiệm xuyên côn (CPT / CPTu)** — côn xuyên liên tục, đo sức kháng mũi, ma sát thành
   và (với piezocone) áp lực nước lỗ rỗng. Rất tốt để mô tả và cho **đất yếu**.
 - **Thí nghiệm cắt cánh (VST)** — đo cường độ không thoát nước $c_u$ trong sét yếu.
-- **Pressuremeter (PMT)** — nở một đầu dò hình trụ để cho mô đun và cường độ tại chỗ.
+- **Máy nén ngang (PMT)** — nở một đầu dò hình trụ để cho mô đun và cường độ tại chỗ.
 - **Dilatometer (DMT)** — lưỡi dẹt xuyên vào đất cho loại đất và thông số.
 - **Thí nghiệm bàn nén** — đo trực tiếp phản ứng tải–lún.
 

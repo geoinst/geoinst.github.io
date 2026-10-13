@@ -8,7 +8,7 @@ lang_alt: reference-manuals/fhwa/chapter-03-deformation/
 
 Biến dạng là thông số bộc lộ trực tiếp nhất liệu nền đất hay công trình có ứng xử
 đúng như dự đoán hay không. Thiết bị đo biến dạng trải rộng từ các loại đo vết nứt
-mặt ngoài đơn giản đến inclinometer trong hố khoan sâu. Chúng được phân nhóm theo
+mặt ngoài đơn giản đến thiết bị đo nghiêng trong hố khoan sâu. Chúng được phân nhóm theo
 phạm vi (mặt ngoài hay dưới bề mặt; rời rạc hay dạng profile) để khớp thiết bị với
 hình học của chuyển vị dự kiến.
 
@@ -35,15 +35,15 @@ thu hẹp của hầm hoặc sự khép lại của một hố đào.
 
 ## 3.5 Cảm biến nghiêng (tiltmeter)
 
-**Tiltmeter** đo góc xoay của một bề mặt hay kết cấu từ sự thay đổi hướng của cảm
+**Cảm biến đo độ nghiêng** đo góc xoay của một bề mặt hay kết cấu từ sự thay đổi hướng của cảm
 biến. Hai loại đầu đo phổ biến:
 
-- **Tiltmeter dùng gia tốc kế** — bền chắc, dùng cho nghiêng kết cấu và nền.
-- **Tiltmeter dùng mức điện phân** — độ phân giải rất cao cho các góc xoay nhỏ.
+- **Cảm biến đo độ nghiêng dùng gia tốc kế** — bền chắc, dùng cho nghiêng kết cấu và nền.
+- **Cảm biến đo độ nghiêng dùng mức điện phân** — độ phân giải rất cao cho các góc xoay nhỏ.
 
-## 3.6 Extensometer dạng đầu dò
+## 3.6 Thiết bị đo biến dạng sâu dạng đầu dò
 
-**Extensometer dạng đầu dò** đo chuyển vị tại các độ sâu rời rạc dọc hố khoan bằng
+**Thiết bị đo biến dạng sâu dạng đầu dò** đo chuyển vị tại các độ sâu rời rạc dọc hố khoan bằng
 cách hạ đầu dò tới các mốc từ tính hoặc cảm ứng:
 
 - **Đầu đo cuộn cảm ứng** — đầu dò phát hiện vị trí các mốc kim loại.
@@ -52,7 +52,7 @@ cách hạ đầu dò tới các mốc từ tính hoặc cảm ứng:
 
 ![Figure: dunnicliff-extensometer](../../../assets/figures/dunnicliff-extensometer-vi.svg)
 
-**Hình.** Nguyên lý extensometer dạng đầu dò và cố định: các mốc/điểm neo ở độ sâu ghi nhận chuyển vị so với mốc chuẩn ổn định (theo FHWA-HI-98-034, Ch. 3).
+**Hình.** Nguyên lý thiết bị đo biến dạng sâu dạng đầu dò và cố định: các mốc/điểm neo ở độ sâu ghi nhận chuyển vị so với mốc chuẩn ổn định (theo FHWA-HI-98-034, Ch. 3).
 
 ## 3.7 Bàn lún và điểm lún dưới bề mặt
 
@@ -61,29 +61,29 @@ cách hạ đầu dò tới các mốc từ tính hoặc cảm ứng:
 - **Điểm lún dưới bề mặt** — các neo đặt ở độ sâu, hoặc **neo đóng/gắn vữa** hoặc
   **neo Borros**, để ghi lún của một tầng bị chôn.
 
-## 3.8 Extensometer hố khoan cố định và extensometer chuỗi
+## 3.8 Thiết bị đo biến dạng sâu hố khoan cố định và thiết bị đo biến dạng sâu chuỗi
 
-- **Extensometer hố khoan cố định** — các neo lắp cố định với thanh hoặc dây dẫn tới
+- **Thiết bị đo biến dạng sâu hố khoan cố định** — các neo lắp cố định với thanh hoặc dây dẫn tới
   đầu chuẩn, cho số đo liên tục khoảng cách giữa các độ sâu cố định.
-- **Extensometer chuỗi** — một chồng neo trong một hố khoan, phân giải biến dạng
+- **Thiết bị đo biến dạng sâu chuỗi** — một chồng neo trong một hố khoan, phân giải biến dạng
   thành **gia số giữa các neo kề nhau**, hữu ích để định vị vùng chuyển vị.
 
-## 3.9 Inclinometer
+## 3.9 Thiết bị đo nghiêng
 
-**Inclinometer** là thiết bị chủ lực đo biến dạng ngang theo độ sâu — trong mái dốc,
+**Thiết bị đo nghiêng** là thiết bị chủ lực đo biến dạng ngang theo độ sâu — trong mái dốc,
 nền đắp, hố đào và quanh móng. Một đầu dò với hai gia tốc kế servo trực giao di
 chuyển dọc ống đo nghiêng, và độ nghiêng tích lũy cho ra profile độ võng.
 
 Các biến thể:
 
-- **Inclinometer ngang** — đo profile lún dọc ống vách nằm ngang.
-- **Inclinometer tại chỗ (cố định)** — một chuỗi cảm biến để lại trong ống vách để
+- **Thiết bị đo nghiêng ngang** — đo profile lún dọc ống vách nằm ngang.
+- **Thiết bị đo nghiêng tại chỗ (cố định)** — một chuỗi cảm biến để lại trong ống vách để
   quan trắc liên tục, tự động.
 - **Chỉ báo mặt trượt** — phát hiện độ sâu mà ống vách bị cắt.
 
 ![Figure: dunnicliff-inclinometer](../../../assets/figures/dunnicliff-inclinometer-vi.svg)
 
-**Hình.** Nguyên lý inclinometer: đầu dò di chuyển dọc ống đo nghiêng, độ nghiêng tích lũy cho ra profile độ võng theo độ sâu (theo FHWA-HI-98-034, Ch. 3).
+**Hình.** Nguyên lý thiết bị đo nghiêng: đầu dò di chuyển dọc ống đo nghiêng, độ nghiêng tích lũy cho ra profile độ võng theo độ sâu (theo FHWA-HI-98-034, Ch. 3).
 
 ## 3.10 Đo mực nước dạng ống (liquid-level gage)
 
@@ -94,10 +94,10 @@ hoặc trương nở qua sự thay đổi áp lực hoặc mực chất lỏng:
   đặt trong hố khoan.
 - **Loại profile đầy đủ** — một chuỗi hộp đo cho profile lún hoàn chỉnh.
 
-## 3.11 Telltale và đo hội tụ hào vữa
+## 3.11 Thanh truyền chuyển vị và đo hội tụ hào vữa
 
-- **Telltale** — thanh hoặc dây đơn giản neo ở độ sâu, đo chuyển vị của một điểm cụ
-  thể so với mặt đất; **nhiều telltale** phân giải chuyển vị giữa nhiều điểm.
+- **Thanh truyền chuyển vị** — thanh hoặc dây đơn giản neo ở độ sâu, đo chuyển vị của một điểm cụ
+  thể so với mặt đất; **nhiều thanh truyền chuyển vị** phân giải chuyển vị giữa nhiều điểm.
 - **Đo hội tụ cho hào vữa** — thiết bị thủy lực đo độ hội tụ của hào trong thi công.
 
 ## 3.12 Phản xạ miền thời gian kim loại (TDR)
@@ -116,9 +116,9 @@ trượt và vỡ. Đếm số sự kiện phát xạ hoặc tốc độ đếm 
 
 - Thiết bị đo biến dạng trải từ **trắc đạc mặt ngoài** đến **đo profile sâu trong hố
   khoan**.
-- **Inclinometer** là chuẩn mực cho chuyển vị ngang theo độ sâu; **extensometer** cho
+- **Thiết bị đo nghiêng** là chuẩn mực cho chuyển vị ngang theo độ sâu; **thiết bị đo biến dạng sâu** cho
   chuyển vị thẳng đứng hoặc dọc trục.
-- **Extensometer chuỗi** và **nhiều telltale** phân giải chuyển vị *giữa* các neo để
+- **Thiết bị đo biến dạng sâu chuỗi** và **nhiều thanh truyền chuyển vị** phân giải chuyển vị *giữa* các neo để
   định vị vùng hoạt động.
 - **TDR** và **phát xạ âm** là công cụ cảnh báo sớm chi phí thấp.
 - Khớp **dải đo và độ phân giải** của thiết bị với độ lớn chuyển vị dự kiến.

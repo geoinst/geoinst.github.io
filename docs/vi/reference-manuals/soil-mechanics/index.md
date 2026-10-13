@@ -38,7 +38,7 @@ nghiệm tại chỗ, chọn thông số và đất có vấn đề.
 | 9 | [Cố kết](chapter-09-consolidation.md) | Lý thuyết Terzaghi, $c_v$, tiền cố kết, tốc độ lún |
 | 10 | [Sức kháng cắt](chapter-10-shear-strength.md) | Mohr–Coulomb, thoát nước và không thoát nước, thí nghiệm |
 | 11 | [Độ cứng & Ứng suất–Biến dạng](chapter-11-stiffness.md) | Mô đun, phi tuyến, ứng xử biến dạng nhỏ |
-| 12 | [Thí nghiệm tại chỗ & Chọn thông số](chapter-12-in-situ-testing.md) | SPT, CPT, cắt cánh, pressuremeter; chọn thông số |
+| 12 | [Thí nghiệm tại chỗ & Chọn thông số](chapter-12-in-situ-testing.md) | SPT, CPT, cắt cánh, máy nén ngang; chọn thông số |
 | 13 | [Đất có vấn đề](chapter-13-problem-soils.md) | Đất trương nở, sụt lún, hữu cơ và hóa lỏng |
 | 14 | [Chương trình thí nghiệm phòng & hiện trường](chapter-14-testing-program.md) | Lập kế hoạch thí nghiệm để trả lời câu hỏi thiết kế |
 

@@ -51,7 +51,7 @@ nghiệm, cùng thời gian tối đa từ lấy mẫu đến thí nghiệm.
 ## 4.4 Thử nghiệm hiện trường
 
 Bảng của mục này liệt kê các thí nghiệm tại chỗ phổ biến (SPT, CPT, DMT, áp kế
-pressuremeter, cắt cánh vane) và đại lượng mà mỗi thí nghiệm đo được.
+máy nén ngang, cắt cánh vane) và đại lượng mà mỗi thí nghiệm đo được.
 
 **Bảng 4.4 — Các thí nghiệm hiện trường và đại lượng đo được.**
 
@@ -179,7 +179,7 @@ Bảng của mục này đưa các chỉ số **A, B, C** (p0, p1, p2) và các 
 
 ## 4.12 Thí nghiệm áp kế (pressuremeter)
 
-Thí nghiệm pressuremeter đo **áp lực giới hạn pL** và **mô đun áp kế EM** — phù hợp
+Thí nghiệm nén ngang đo **áp lực giới hạn pL** và **mô đun áp kế EM** — phù hợp
 với đất hạt rời và đá mềm.
 
 ## 4.13 Cắt cánh (vane shear)

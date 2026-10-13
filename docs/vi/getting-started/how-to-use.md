@@ -17,9 +17,9 @@ lang_alt: getting-started/how-to-use/
 
 Trang web bao gồm một chatbot AI tùy chọn, [GTI Doctor](../gti-doctor.md) (Bác sĩ GTI), lấy căn cứ trả lời từ các sổ tay tham khảo trên trang này. Dùng để tra cứu nhanh các câu hỏi như:
 
-> "Dải đo ngang điển hình của một inclinometer (đầu đo nghiêng) MEMS là bao nhiêu?"
+> "Dải đo ngang điển hình của một thiết bị đo nghiêng (đầu đo nghiêng) MEMS là bao nhiêu?"
 
-> "Cho tôi danh mục kiểm tra lắp đặt gần bề mặt cho một piezometer (áp kế) dây rung trong hố khoan 50 mm."
+> "Cho tôi danh mục kiểm tra lắp đặt gần bề mặt cho một áp kế dây rung trong hố khoan 50 mm."
 
 Trợ lý sẽ không bịa ra câu trả lời ngoài kho dữ liệu huấn luyện của nó — nếu câu hỏi nằm ngoài phạm vi, nó sẽ nói rõ điều đó.
 

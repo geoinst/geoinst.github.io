@@ -11,7 +11,7 @@ Giám sát bùn thải dựa trên hai trụ cột **bổ trợ, không thay th�
 1. **Giám sát trực quan** — nhân viên được đào tạo quan sát cơ sở: hình học bãi
    bùn, độ trong và vị trí thấm, vết nứt, trượt sụt, hang chuột, tình trạng xả
    tràn, thay đổi thảm thực vật và các dấu hiệu suy yếu.
-2. **Thiết bị quan trắc** — mốc khảo sát, piezometer, inclinometer, extensometer,
+2. **Thiết bị quan trắc** — mốc khảo sát, áp kế, thiết bị đo nghiêng, thiết bị đo biến dạng sâu,
    tràn đo thấm và các hệ thống viễn thám định lượng hành vi theo thời gian và
    không gian.
 

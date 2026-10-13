@@ -40,7 +40,7 @@ hay phát hiện một bất thường.
 Thiết bị mở rộng giác quan con người đến những nơi và tần suất mà con người không
 thể với tới:
 
-- **Bên trong thân đập hoặc nền móng** (piezometer, extensometer, inclinometer).
+- **Bên trong thân đập hoặc nền móng** (áp kế, thiết bị đo biến dạng sâu, thiết bị đo nghiêng).
 - **Đo liên tục hoặc từ xa** (các trạm tự động tại các vị trí khắc nghiệt hoặc không thể tiếp cận).
 - **Giá trị định lượng, chính xác** (biến dạng milimet, áp lực lỗ rỗng kPa).
 - **Ghi nhận sự kiện** (ghi lại trong một trận động đất hoặc bão mà không có nhân viên kiểm tra nào có thể có mặt).

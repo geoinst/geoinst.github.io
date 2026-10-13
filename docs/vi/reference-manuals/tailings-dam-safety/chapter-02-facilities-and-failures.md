@@ -23,7 +23,7 @@ theo một trong nhiều phương pháp, có ảnh hưởng mạnh đến an to�
 Các cấu hình thay thế gồm lưu giữ **bãi / hố mỏ** và bùn thải **đặc / paste /
 lọc**, làm giảm nước tự do và hạ rủi ro hóa lỏng.
 
-## 2.2 Các mode phá hoại chủ đạo
+## 2.2 Các dạng phá hoại chủ đạo
 
 Hiểu rõ cơ sở bùn thải phá hoại như thế nào giúp tập trung chương trình giám
 sát. Các mode chính là:
@@ -60,15 +60,15 @@ có sẵn sớm.
     trình giám sát của chúng phải chuyên sâu nhất, với sự chú ý đặc biệt đến áp
     lực nước lỗ rỗng và hình học bãi bùn.
 
-## 2.4 Liên kết các mode phá hoại với thiết bị quan trắc
+## 2.4 Liên kết các dạng phá hoại với thiết bị quan trắc
 
-| Mode phá hoại | Tín hiệu chính | Thiết bị quan trắc |
+| dạng phá hoại | Tín hiệu chính | Thiết bị quan trắc |
 |--------------|---------------|-------------------|
-| Hóa lỏng tĩnh / do động đất | Áp lực nước lỗ rỗng tăng, sức kháng SPT/CPT thấp, lún | Piezometer, inclinometer, khảo sát, CPT |
-| Tràn qua đỉnh | Mất freeboard, mực hồ cao | Khảo sát, máy đo mức, lượng mưa |
-| Xói mòn trong | Lực nâng, thấm đục, lún | Piezometer, tràn đo thấm, quan trắc trực quan |
-| Mất ổn định mái dốc | Chuyển động, nứt | Khảo sát, inclinometer, extensometer |
-| Phá hoại nền móng | Lún lệch, góc nghiêng | Khảo sát, piezometer, tiltmeter |
+| Hóa lỏng tĩnh / do động đất | Áp lực nước lỗ rỗng tăng, sức kháng SPT/CPT thấp, lún | Áp kế, thiết bị đo nghiêng, khảo sát, CPT |
+| Tràn qua đỉnh | Mất siêu cao an toàn, mực hồ cao | Khảo sát, máy đo mức, lượng mưa |
+| Xói mòn trong | Lực nâng, thấm đục, lún | Áp kế, tràn đo thấm, quan trắc trực quan |
+| Mất ổn định mái dốc | Chuyển động, nứt | Khảo sát, thiết bị đo nghiêng, thiết bị đo biến dạng sâu |
+| Phá hoại nền móng | Lún lệch, góc nghiêng | Khảo sát, áp kế, cảm biến đo độ nghiêng |
 
 ![Figure: tailings-construction-methods](../../../assets/figures/tailings-construction-methods-vi.svg)
 
@@ -83,4 +83,4 @@ có sẵn sớm.
 - Phương pháp xây dựng chi phối rủi ro tiềm ẩn; thượng nguồn là cao nhất.
 - Hóa lỏng (tĩnh và do động đất) là cơ chế thảm khốc chủ đạo.
 - Phá hoại là chuỗi của điều kiện có sẵn + tác nhân kích hoạt + phát hiện muộn.
-- Ánh xạ mọi mode phá hoại vào thiết bị cụ thể trước khi thiết kế chương trình.
+- Ánh xạ mọi dạng phá hoại vào thiết bị cụ thể trước khi thiết kế chương trình.

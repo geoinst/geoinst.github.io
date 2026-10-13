@@ -19,7 +19,7 @@ Trong thi công hố đào sâu trong đô thị (tầng hầm nhà cao tầng, 
 - **Cảm biến đo tải trọng thanh chống (Strut Load Cells)**: Gắn tại đầu các thanh chống thép hình để theo dõi lực nén dọc trục truyền từ tường vây vào hệ giằng.
 - **Ống đo nghiêng (Inclinometer) trong thân tường vây (D-wall)**: Đo độ võng uốn ngang của tường theo từng giai đoạn đào đất và lắp thanh chống.
 - **Ống đo nghiêng (Inclinometer) trong đất phía sau tường**: Phát hiện độ dịch chuyển của khối đất và mặt trượt sâu tiềm năng.
-- **Piezometer dây rung**: Bố trí cả bên trong hố móng (kiểm tra hiệu quả hạ mực nước ngầm) và bên ngoài hố móng (cảnh báo nguy cơ tụt nước ngầm làm lún nhà dân).
+- **Áp kế dây rung**: Bố trí cả bên trong hố móng (kiểm tra hiệu quả hạ mực nước ngầm) và bên ngoài hố móng (cảnh báo nguy cơ tụt nước ngầm làm lún nhà dân).
 - **Mốc đo lún mặt đất & Cảm biến nghiêng (Tiltmeter)**: Bố trí trên mặt đường, vỉa hè và gắn trực tiếp trên tường/cột các tòa nhà lân cận.
 
 ---
@@ -29,9 +29,9 @@ Trong thi công hố đào sâu trong đô thị (tầng hầm nhà cao tầng, 
 Thi công nền đường đắp cao hoặc đê bao trên bùn sét yếu đòi hỏi kiểm soát nghiêm ngặt áp lực nước lỗ rỗng thặng dư để tránh sự cố trượt cung tròn và trồi đáy.
 
 ### Cấu hình thiết bị tiêu chuẩn:
-- **Piezometer dây rung trong tầng sét yếu**: Đặt tại tim đắp ở các độ sâu khác nhau để theo dõi tốc độ tiêu tán áp lực nước lỗ rỗng thặng dư ($\Delta u$), làm căn cứ quyết định thời điểm đắp lớp tiếp theo (Staged construction).
+- **Áp kế dây rung trong tầng sét yếu**: Đặt tại tim đắp ở các độ sâu khác nhau để theo dõi tốc độ tiêu tán áp lực nước lỗ rỗng thặng dư ($\Delta u$), làm căn cứ quyết định thời điểm đắp lớp tiếp theo (Staged construction).
 - **Bàn đo lún (Settlement Plates) & Đo lún từ tính**: Đo độ lún tổng thể và độ lún cố kết riêng biệt của từng lớp địa tầng.
-- **Inclinometer tại chân mái taluy**: Đo biến dạng phình ngang (lateral spreading). Nếu tỷ số giữa tốc độ chuyển vị ngang tại chân taluy và tốc độ lún đứng tại tim đắp ($d_H / d_V$) vượt quá 0.5, khối đắp đang tiến sát trạng thái phá hoại trượt mái.
+- **Thiết bị đo nghiêng tại chân mái taluy**: Đo biến dạng phình ngang (lateral spreading). Nếu tỷ số giữa tốc độ chuyển vị ngang tại chân taluy và tốc độ lún đứng tại tim đắp ($d_H / d_V$) vượt quá 0.5, khối đắp đang tiến sát trạng thái phá hoại trượt mái.
 
 ---
 
@@ -40,7 +40,7 @@ Thi công nền đường đắp cao hoặc đê bao trên bùn sét yếu đòi
 Đập đất và đập đá đổ là những công trình có nguy cơ thảm họa cao nhất, đòi hỏi chương trình quan trắc vận hành liên tục suốt vòng đời công trình (tham khảo chi tiết tại cẩm nang [Giám sát hiệu năng đập](../monitoring-dam-performance/index.md) và [An toàn đập chất thải](../tailings-dam-safety/index.md)).
 
 ### Cấu hình thiết bị tiêu chuẩn:
-- **Piezometer trong lõi chống thấm và nền đập**: Xác định vị trí đường bão hòa thấm qua thân đập và kiểm soát gradient thủy lực thoát ra hạ lưu.
+- **Áp kế trong lõi chống thấm và nền đập**: Xác định vị trí đường bão hòa thấm qua thân đập và kiểm soát gradient thủy lực thoát ra hạ lưu.
 - **Mương đo rò rỉ có đập tràn thành mỏng (V-notch Weirs)**: Tích hợp cảm biến siêu âm đo lưu lượng thấm thoát ra ở chân hạ lưu. Nếu nước rò rỉ bị đục hoặc lưu lượng tăng đột biến, đó là dấu hiệu khẩn cấp của xói ngầm (piping) đang phát triển!
 - **Hệ thống đo lún thủy lực đặt ngầm**: Đo lún bên trong thân đập mà không bị ảnh hưởng bởi máy lu đắp đất.
 - **Trắc địa tự động & Trạm GNSS liên tục**: Theo dõi độ lún và chuyển vị ngang của đỉnh đập và mái đập hạ lưu.
@@ -54,8 +54,8 @@ Thi công nền đường đắp cao hoặc đê bao trên bùn sét yếu đòi
 - Đánh giá mối tương quan giữa lượng mưa, mực nước ngầm và vận tốc dịch chuyển mái dốc (Creep velocity).
 
 ### Cấu hình thiết bị:
-- **Inclinometer đo nghiêng sâu**: Khoan xuyên qua tầng trượt cắm sâu vào đá gốc tối thiểu 3–5 m làm mốc chuẩn cố định. Biểu đồ chuyển vị tích lũy sẽ chỉ ra một góc gãy khúc sắc nét tại cao độ mặt trượt.
-- **Piezometer dây rung**: Bố trí ngay tại cao độ mặt trượt để theo dõi phản ứng tức thời của áp lực nước khi có mưa bão.
+- **Đo nghiêng sâu**: Khoan xuyên qua tầng trượt cắm sâu vào đá gốc tối thiểu 3–5 m làm mốc chuẩn cố định. Biểu đồ chuyển vị tích lũy sẽ chỉ ra một góc gãy khúc sắc nét tại cao độ mặt trượt.
+- **Áp kế dây rung**: Bố trí ngay tại cao độ mặt trượt để theo dõi phản ứng tức thời của áp lực nước khi có mưa bão.
 - **Cảm biến nứt bề mặt (Wire Extensometers / Crackmeters)**: Căng ngang qua các khe nứt đỉnh cung trượt, kết nối còi báo động khẩn cấp.
 
 ---

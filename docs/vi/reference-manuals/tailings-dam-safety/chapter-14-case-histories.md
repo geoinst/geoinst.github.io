@@ -34,9 +34,9 @@ Một số sự cố được trích dẫn rộng rãi minh họa các chủ đ�
   đắp và lớp bùn có thể tạo ra chạy dài và tác động hạ du diện rộng như thế nào khi
   áp lực nước lỗ rỗng và quản lý bãi bùn không được kiểm soát.
 - **Một phá hoại đập bùn thải do thấm tập trung và xói mòn trong** cho thấy xói mòn
-  trong không phát hiện được có thể làm vỡ đập đắp, và cách freeboard cùng giám sát
+  trong không phát hiện được có thể làm vỡ đập đắp, và cách siêu cao an toàn cùng giám sát
   thấm là then chốt.
-- **Một phá hoại sau mưa cực đoan** nhấn mạnh vai trò của freeboard, quản lý xả
+- **Một phá hoại sau mưa cực đoan** nhấn mạnh vai trò của siêu cao an toàn, quản lý xả
   tràn và giám sát theo sự kiện trong bão.
 - **Một hóa lỏng kích hoạt bởi động đất** nhấn mạnh nhu cầu đặc trưng các lớp có
   thể hóa lỏng và giám sát áp lực nước lỗ rỗng sau động đất.
@@ -47,14 +47,14 @@ mỗi sự kiện chứa hồ sơ kỹ thuật có thẩm quyền.)
 ## 14.3 Hình dáng cái tốt trông như thế nào
 
 Các cơ sở hoạt động tốt qua nhiều thập kỷ chia sẻ các thói quen: kiểm tra định kỳ
-có năng lực, thiết bị gắn với các mode phá hoại được ghi chép, dữ liệu được kiểm
+có năng lực, thiết bị gắn với các dạng phá hoại được ghi chép, dữ liệu được kiểm
 định và lưu trữ, các mức hành động định trước, rà soát độc lập, và một văn hóa nơi
 nêu lên một mối quan ngại được khen thưởng, không bị trừng phạt.
 
 ## 14.4 Áp dụng các bài học
 
 Cho cơ sở của bạn, xem lại [Chương 4](chapter-04-planning.md): liệu các thiết bị
-có gắn với các mode phá hoại thực, các mức hành động có định trước, và một tín
+có gắn với các dạng phá hoại thực, các mức hành động có định trước, và một tín
 hiệu tăng tốc có được phát hiện và hành động kịp thời hay không? Các câu chuyện
 điển hình trả lời "tại sao điều này quan trọng" — phần còn lại của tài liệu này trả
 lời "như thế nào."

@@ -13,7 +13,7 @@ chi tiết.
 | Họ | Đo cái gì | Thiết bị đại diện |
 |----|----------|-------------------|
 | **Khảo sát** | Vị trí bề mặt, cao độ, chuyển động | Máy kinh lý toàn đạc, GNSS, đo cao hình, ảnh chụp quang từ UAV |
-| **Địa kỹ thuật** | Áp lực nước lỗ rỗng, biến dạng trong lòng | Piezometer, inclinometer, extensometer, tiltmeter |
+| **Địa kỹ thuật** | Áp lực nước lỗ rỗng, biến dạng trong lòng | Áp kế, thiết bị đo nghiêng, thiết bị đo biến dạng sâu, cảm biến đo độ nghiêng |
 | **Thủy văn** | Mực hồ, lưu lượng thấm | Thước đo mực, tràn đo, lưu kế, lượng mưa |
 | **Viễn thám** | Biến dạng diện rộng, tỷ lệ mm | InSAR vệ tinh, LiDAR trên không, ảnh nhiệt |
 
@@ -37,9 +37,9 @@ trượt sụt. Các chương trình hiện đại kết hợp:
 
 ## 5.4 Thiết bị thủy văn
 
-Mực hồ, freeboard và lưu lượng thấm thì đơn giản nhưng rất quan trọng. Thước đo
+Mực hồ, siêu cao an toàn và lưu lượng thấm thì đơn giản nhưng rất quan trọng. Thước đo
 mực, cảm biến mức kiểu bọt khí hoặc áp lực, tràn đo hình chữ V và mưa kế thùng
-nghiêng định lượng cân bằng nước chi phối hầu hết các mode phá hoại.
+nghiêng định lượng cân bằng nước chi phối hầu hết các dạng phá hoại.
 
 ## 5.5 Viễn thám (InSAR và hơn thế)
 
@@ -57,7 +57,7 @@ tra.
 ## 5.6 Lựa chọn thiết bị
 
 Việc lựa chọn cân nhắc độ chính xác, dải đo, độ bền, nguồn, viễn truyền và chi phí
-so với mode phá hoại và quyết định mà dữ liệu hỗ trợ. Các đánh đổi chi tiết nằm
+so với dạng phá hoại và quyết định mà dữ liệu hỗ trợ. Các đánh đổi chi tiết nằm
 trong các chương thiết bị [Dunnicliff](../dunnicliff/index.md) và tài liệu
 [FHWA](../fhwa/index.md).
 

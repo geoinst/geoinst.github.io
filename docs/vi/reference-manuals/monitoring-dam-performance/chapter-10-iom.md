@@ -45,7 +45,7 @@ Thiết bị suy degrad. Một chương trình bảo trì bao gồm:
 - **Hành động khắc phục** khi một cảm biến trôi dạt, mất tín hiệu, hoặc hỏng.
 
 !!! example "Một thiết bị chết là một điểm mù"
-    Nếu Piezometer duy nhất bảo vệ một mode phá hoại bị hỏng và không được sửa chữa, chương trình
+    Nếu áp kế duy nhất bảo vệ một dạng phá hoại bị hỏng và không được sửa chữa, chương trình
     sẽ có một lỗ hổng ngay tại nơi quan trọng nhất. Theo dõi *thời gian hoạt động* (uptime) của thiết bị
     như một chỉ số của chương trình.
 

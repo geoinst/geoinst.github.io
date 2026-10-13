@@ -169,13 +169,13 @@ nguyên lý *điện* chủ đạo:
   động ở tần số (**1.000–2.000 Hz**) biến đổi theo lực căng. Được khẳng định ở các đập
   bê tông châu Âu sau Thế chiến II nhờ độ bền và độ ổn định dài hạn; nay bao phủ áp
   lực nước lỗ rỗng, độ lún, giãn/nén, biến dạng, tải trọng, ứng suất và áp lực đất.
-  Nhiệt độ thường được tích hợp sẵn qua một thermistor kín.
+  Nhiệt độ thường được tích hợp sẵn qua một cảm biến nhiệt điện trở kín.
 - **Cảm biến gia tốc MEMS** — thay thế gia tốc kế servo và cảm biến nghiêng điện phân
   khoảng năm 2010 cho **độ nghiêng**, với đặc tính đo tương đương hoặc tốt hơn, cộng
   thêm độ bền và đặc tính bù nhiệt tốt hơn. Mạch điện có thể gồm vi điều khiển và bộ
   chuyển đổi tương tự – số, cho **đầu ra số** trên bus RS-485.
 - **Thiết bị đầu ra số** (một họ liên quan) — cảm biến mực nước kiểu điện trở áp với
-  đầu ra 4–20 mA, đầu dò chất lượng nước đa thông số, và chuỗi thermistor số, dùng
+  đầu ra 4–20 mA, đầu dò chất lượng nước đa thông số, và chuỗi cảm biến nhiệt điện trở số, dùng
   giao thức **RS-485** hoặc **SDI-12** do USGS phát triển.
 - **Cảm biến quang** — miễn nhiễm với sét và quá độ điện; có loại điểm, **bán phân
   tán** (cách tử Bragg) và **phân tán toàn phần** (tán xạ Brillouin, đo biến dạng/nhiệt
@@ -254,7 +254,7 @@ bị đo nghiêng ngang** — bao quát từ độ lún bề mặt đến độ 
 - **Biến dạng và tải trọng** — cảm biến đo biến dạng, cảm biến đo tải trọng (bê tông,
   thép, neo).
 - **Áp lực đất** — hộp đo áp lực tổng, hộp đo áp lực đất đóng ép.
-- **Nhiệt độ** — thermistor và chuỗi thermistor (cũng là đại lượng tham chiếu để bù cho
+- **Nhiệt độ** — Cảm biến nhiệt điện trở và chuỗi cảm biến nhiệt điện trở (cũng là đại lượng tham chiếu để bù cho
   nhiều thiết bị khác).
 
 ---

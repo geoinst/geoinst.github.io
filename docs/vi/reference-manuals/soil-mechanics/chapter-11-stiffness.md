@@ -37,9 +37,9 @@ Thiết kế phải dùng mô đun **phù hợp mức biến dạng** của bài
 
 ## 11.4 Xác định giá trị mô đun
 
-- **Trong phòng** — thí nghiệm ba trục hoặc oedometer cho $E$ hoặc mô đun nén trong một dải
+- **Trong phòng** — thí nghiệm ba trục hoặc thí nghiệm nén cố kết cho $E$ hoặc mô đun nén trong một dải
   biến dạng.
-- **Hiện trường** — pressuremeter, dilatometer, thí nghiệm bàn nén và **phương pháp địa
+- **Hiện trường** — Máy nén ngang, dilatometer, thí nghiệm bàn nén và **phương pháp địa
   chấn** cho giá trị tại chỗ, thường tốt hơn vì tránh xáo trộn mẫu.
 - **Tương quan** — với SPT $N$ hoặc sức kháng mũi CPT, hữu ích để ước lượng ban đầu.
 

@@ -37,10 +37,10 @@ Trải nghiệm mô hình trực quan tương tác của các hệ thống thi�
         <!-- Render động qua JS -->
       </svg>
       <div style="margin-top: 10px; display: flex; flex-wrap: wrap; gap: 12px; font-size: 11px; color: #8c8c9e;">
-        <div><span style="display:inline-block; width:9px; height:9px; background:#00e5ff; border-radius:50%; margin-right:4px;"></span> Piezometer (VWP)</div>
-        <div><span style="display:inline-block; width:9px; height:9px; background:#ff4081; border-radius:50%; margin-right:4px;"></span> Inclinometer (IPI/MEMS)</div>
-        <div><span style="display:inline-block; width:9px; height:9px; background:#ffea00; border-radius:50%; margin-right:4px;"></span> Extensometer / Đo lún</div>
-        <div><span style="display:inline-block; width:9px; height:9px; background:#ff6b35; border-radius:50%; margin-right:4px;"></span> Load Cell / Biến dạng</div>
+        <div><span style="display:inline-block; width:9px; height:9px; background:#00e5ff; border-radius:50%; margin-right:4px;"></span> áp kế (VWP)</div>
+        <div><span style="display:inline-block; width:9px; height:9px; background:#ff4081; border-radius:50%; margin-right:4px;"></span> thiết bị đo nghiêng (IPI/MEMS)</div>
+        <div><span style="display:inline-block; width:9px; height:9px; background:#ffea00; border-radius:50%; margin-right:4px;"></span> thiết bị đo biến dạng sâu / Đo lún</div>
+        <div><span style="display:inline-block; width:9px; height:9px; background:#ff6b35; border-radius:50%; margin-right:4px;"></span> cảm biến đo tải trọng / Biến dạng</div>
         <div><span style="display:inline-block; width:9px; height:9px; background:#b388ff; border-radius:50%; margin-right:4px;"></span> Áp lực đất (EPC)</div>
         <div><span style="display:inline-block; width:9px; height:9px; background:#00e676; border-radius:50%; margin-right:4px;"></span> Trạm gốc không dây</div>
       </div>
@@ -252,10 +252,10 @@ function renderScene() {
       <path d="M 360,60 Q ${360 - wallDeflect},150 360,280" fill="none" stroke="#90a4ae" stroke-width="6" />
 
       <line x1="242" y1="90" x2="358" y2="90" stroke="#ff6b35" stroke-width="4" />
-      <circle cx="242" cy="90" r="6" fill="#ffea00" stroke="#fff"><title>VW Load Cell 1</title></circle>
+      <circle cx="242" cy="90" r="6" fill="#ffea00" stroke="#fff"><title>VW cảm biến đo tải trọng 1</title></circle>
       
       <line x1="245" y1="160" x2="355" y2="160" stroke="#ff6b35" stroke-width="4" />
-      <circle cx="245" cy="160" r="6" fill="#ffea00" stroke="#fff"><title>VW Load Cell 2</title></circle>
+      <circle cx="245" cy="160" r="6" fill="#ffea00" stroke="#fff"><title>VW cảm biến đo tải trọng 2</title></circle>
 
       <circle cx="${240 + wallDeflect * 0.7}" cy="120" r="4" fill="#ff4081" />
       <circle cx="${240 + wallDeflect}" cy="150" r="4" fill="#ff4081" />
@@ -283,7 +283,7 @@ function renderScene() {
       <text x="260" y="195" fill="#ffea00" font-size="11">Tầng trượt @ -14.5m</text>
 
       <line x1="310" y1="80" x2="310" y2="220" stroke="#00e5ff" stroke-width="2" />
-      <circle cx="310" cy="210" r="6" fill="#00e5ff" stroke="#fff"><title>Piezometer VWP</title></circle>
+      <circle cx="310" cy="210" r="6" fill="#00e5ff" stroke="#fff"><title>áp kế VWP</title></circle>
       <text x="325" y="215" fill="#00e5ff" font-size="11">Áp lực nước lỗ rỗng</text>
     `;
   } else if (currentScenario === 'tunnel') {
@@ -399,7 +399,7 @@ function renderScene() {
       <rect x="272" y="290" width="56" height="6" fill="#b388ff" />
       <text x="280" y="308" fill="#b388ff" font-size="9">Áp lực mũi cọc</text>
 
-      <!-- Piezometer quan trắc áp lực nước thặng dư trong sét -->
+      <!-- áp kế quan trắc áp lực nước thặng dư trong sét -->
       <line x1="180" y1="55" x2="180" y2="180" stroke="#00e5ff" stroke-width="1.5" />
       <circle cx="180" cy="120" r="5" fill="#00e5ff" stroke="#fff"><title>Đầu đo VWP trong đất sét</title></circle>
       <text x="110" y="125" fill="#00e5ff" font-size="10">Áp lực kẽ rỗng Δu</text>
@@ -430,15 +430,15 @@ function renderScene() {
       <line x1="${210 + wallTilt}" y1="95" x2="60" y2="155" stroke="#ff6b35" stroke-width="3" />
       <!-- Bầu neo ngàm vữa -->
       <line x1="100" y1="140" x2="50" y2="160" stroke="#ff6b35" stroke-width="7" stroke-linecap="round" />
-      <!-- Đầu đo tải trọng Load cell đầu neo -->
-      <circle cx="${210 + wallTilt}" cy="95" r="6" fill="#ff6b35" stroke="#fff"><title>Load Cell Neo 1</title></circle>
-      <text x="${222 + wallTilt}" y="98" fill="#ff6b35" font-size="10">Load Cell 1</text>
+      <!-- Đầu đo tải trọng đầu neo -->
+      <circle cx="${210 + wallTilt}" cy="95" r="6" fill="#ff6b35" stroke="#fff"><title>cảm biến đo tải trọng Neo 1</title></circle>
+      <text x="${222 + wallTilt}" y="98" fill="#ff6b35" font-size="10">cảm biến đo tải trọng 1</text>
 
       <!-- Tầng neo 2 -->
       <line x1="${210 + wallTilt * 0.5}" y1="160" x2="90" y2="210" stroke="#ff6b35" stroke-width="3" />
       <line x1="120" y1="198" x2="80" y2="214" stroke="#ff6b35" stroke-width="7" stroke-linecap="round" />
-      <circle cx="${210 + wallTilt * 0.5}" cy="160" r="6" fill="#ff6b35" stroke="#fff"><title>Load Cell Neo 2</title></circle>
-      <text x="${222 + wallTilt * 0.5}" y="164" fill="#ff6b35" font-size="10">Load Cell 2</text>
+      <circle cx="${210 + wallTilt * 0.5}" cy="160" r="6" fill="#ff6b35" stroke="#fff"><title>cảm biến đo tải trọng Neo 2</title></circle>
+      <text x="${222 + wallTilt * 0.5}" y="164" fill="#ff6b35" font-size="10">cảm biến đo tải trọng 2</text>
 
       <!-- Cảm biến đo nghiêng mặt tường (Tiltmeter) -->
       <rect x="${205 + wallTilt * 0.7}" y="125" width="10" height="12" fill="#ff4081" rx="1" />

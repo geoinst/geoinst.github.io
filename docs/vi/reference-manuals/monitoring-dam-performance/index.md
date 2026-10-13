@@ -39,7 +39,7 @@ chứa của chúng). Nó được tổ chức thành các chương sau:
 | 5 | [Các Họ Thiết bị Quan trắc cho Đập](chapter-05-instruments.md) | Khảo sát, địa kỹ thuật, thủy văn và cảm biến kết cấu trong nháy mắt |
 | 6 | [Áp kế (Piezometer) & Giám sát Áp lực Nước Lỗ rỗng](chapter-06-piezometers.md) | Bão hòa, lắp đặt và đọc áp lực nước lỗ rỗng |
 | 7 | [Giám sát Thấm, Rò rỉ và Bề mặt Thấm (Phreatic)](chapter-07-seepage.md) | Định lượng và diễn giải sự thấm |
-| 8 | [Giám sát Biến dạng: Khảo sát và Cảm biến Địa kỹ thuật](chapter-08-deformation.md) | Mốc khảo sát, inclinometer, extensometer, tiltmeter |
+| 8 | [Giám sát Biến dạng: Khảo sát và Cảm biến Địa kỹ thuật](chapter-08-deformation.md) | Mốc khảo sát, thiết bị đo nghiêng, thiết bị đo biến dạng sâu, cảm biến đo độ nghiêng |
 | 9 | [Hệ thống Tự động, Từ xa và Thời gian Thực](chapter-09-automated.md) | Bộ ghi dữ liệu, viễn thông, ngưỡng và báo động |
 | 10 | [Lắp đặt, Vận hành và Bảo trì](chapter-10-iom.md) | Có được dữ liệu tin cậy suốt tuổi thọ thiết bị |
 | 11 | [Thu thập, Quản lý Dữ liệu và Cơ sở Dữ liệu](chapter-11-data-management.md) | Tần suất, kiểm thực và các hệ thống dữ liệu |

@@ -21,7 +21,7 @@ công trình **biến dạng bao nhiêu**. Chương này gom các định nghĩa
 | E, E′ | Mô đun Young hữu hiệu | Quan hệ ứng suất–biến dạng dọc |
 | Eu | Mô đun không thoát nước | Sét dưới tải nhanh (ngắn hạn) |
 | G, G₀ | Mô đun trượt (cắt) | Biến dạng nhỏ, động đất |
-| M | Mô đun nén một trục (constrained) | Nén cố kết, oedometer |
+| M | Mô đun nén một trục (constrained) | Thí nghiệm nén cố kết |
 | Eₛ | Mô đun nén (settlement) | Tính lún |
 | ν | Hệ số Poisson | Biến dạng ngang/dọc |
 
@@ -62,7 +62,7 @@ chọn mô đun theo mức biến dạng của bài toán**.
 ## 11.5 Ứng dụng của mô đun
 
 Bảng của mục này ánh xạ **từng loại mô đun** sang **bài toán thiết kế** tương ứng —
-tránh dùng nhầm mô đun oedometer cho bài toán tường chắn.
+tránh dùng nhầm mô đun nén cố kết cho bài toán tường chắn.
 
 ## 11.6 Giá trị điển hình của thông số đàn hồi
 

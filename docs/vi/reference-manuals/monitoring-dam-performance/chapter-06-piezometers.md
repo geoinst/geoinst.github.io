@@ -12,20 +12,20 @@ lang_alt: reference-manuals/monitoring-dam-performance/chapter-06-piezometers/
 
 | Loại thiết bị | Nguyên lý hoạt động | Phạm vi ứng dụng tối ưu |
 |---------------|---------------------|--------------------------|
-| **Dây rung (Vibrating-Wire - VW)** | Thay đổi tần số dao động tự nhiên của dây thép căng | Giám sát tự động dài hạn, kết nối datalogger; độ ổn định cao |
+| **Dây rung (Vibrating-Wire - VW)** | Thay đổi tần số dao động tự nhiên của dây thép căng | Giám sát tự động dài hạn, kết nối bộ ghi dữ liệu; độ ổn định cao |
 | **Khí nén (Pneumatic)** | Áp lực khí cân bằng với áp lực nước làm mở màng van | Vị trí quan trắc thủ công định kỳ, độ trễ thấp, không cần nguồn điện tại chỗ |
 | **Ống đứng hở (Open Standpipe / Casagrande)** | Đo trực tiếp cao trình mực nước thủy tĩnh trong ống | Đơn giản, độ tin cậy cơ học cao; thích hợp cho đất thấm lớn |
 | **Thủy lực hai ống (Twin-Tube Hydraulic)** | Cân bằng cột chất lỏng qua hệ hai ống tuần hoàn | Đắp đất thân đập, có thể súc rửa bọt khí định kỳ |
 
 !!! warning "Bão hòa màng lọc là yếu tố sống còn"
-    Một áp kế piezometer kiểu dây rung hoặc khí nén không được bão hòa hoàn toàn sẽ cho kết quả đo sai lệch nghiêm trọng. Quy trình **bão hòa (saturation / de-airing)** —
+    Một áp kế kiểu dây rung hoặc khí nén không được bão hòa hoàn toàn sẽ cho kết quả đo sai lệch nghiêm trọng. Quy trình **bão hòa (saturation / de-airing)** —
     loại bỏ toàn bộ không khí khỏi đầu lọc xốp và buồng đo — phải được thực hiện tỉ mỉ
     trước và trong khi lắp đặt. Một áp kế chưa bao giờ được bão hòa đúng cách sẽ tạo ra dữ liệu giả tạo hoặc khoảng trống
     thầm lặng nguy hiểm trong chương trình giám sát an toàn đập. (Xem chi tiết tại [Dunnicliff Ch. 9](../dunnicliff/index.md)).
 
 ## 6.3 Vị trí lắp đặt
 
-Vị trí lắp đặt Piezometer tuân theo các mode phá hoại (failure modes):
+Vị trí lắp đặt áp kế tuân theo các dạng phá hoại (failure modes):
 
 - **Hạ lưu của lõi đập và tường cắt** để phát hiện sự tích tụ thấm.
 - **Trong nền móng** bên dưới và hạ lưu đập.
@@ -62,6 +62,6 @@ mặt nước tương đương). Các diễn giải chính:
 ## 6.7 Điểm mấu chốt
 
 - Áp lực nước lỗ rỗng chi phối thấm, ổn định mái dốc, và lực đẩy nổi — hãy giám sát cẩn thận.
-- Bão hòa đầu đo VW và pneumatic đúng cách; một Piezometer chưa bão hòa là vô dụng.
-- Đặt thiết bị tại nơi các mode phá hoại xuất hiện; sử dụng lắp đặt nhiều tầng.
-- Diễn giải dưới dạng cột áp Piezometric và so sánh với bề mặt phreatic thiết kế.
+- Bão hòa đầu đo VW và pneumatic đúng cách; một áp kế chưa bão hòa là vô dụng.
+- Đặt thiết bị tại nơi các dạng phá hoại xuất hiện; sử dụng lắp đặt nhiều tầng.
+- Diễn giải dưới dạng cột áp Piezometric và so sánh với đường bão hòa thiết kế.

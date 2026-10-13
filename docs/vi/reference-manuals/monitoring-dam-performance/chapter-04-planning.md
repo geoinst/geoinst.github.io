@@ -28,15 +28,15 @@ Một quy trình lập kế hoạch thực tế theo các bước sau:
 
 ## 4.3 Định nghĩa các câu hỏi hiệu năng trước tiên
 
-Các kế hoạch tốt đảo ngược bản năng thông thường. Thay vì *"hãy lắp đặt piezometer"*,
+Các kế hoạch tốt đảo ngược bản năng thông thường. Thay vì *"hãy lắp đặt áp kế"*,
 câu hỏi là *"làm thế nào chúng ta phát hiện xói mòn trong trong nền móng này?"* —
-điều sau đó chỉ định các piezometer tại các vị trí và độ sâu cụ thể.
+điều sau đó chỉ định các áp kế tại các vị trí và độ sâu cụ thể.
 
 | Câu hỏi hiệu năng | Chỉ báo | Thiết bị |
 |---------------------|----------|-----------|
-| Thấm có đang tăng hay trở nên xói mòn? | Lưu lượng & độ đục thấm | Wei (weirs), quan sát, piezometer |
-| Mái hạ lưu đang ổn định hay chuyển động? | Chuyển động bề mặt & trong | Khảo sát, inclinometer, extensometer |
-| Áp lực đẩy lên có đang đe dọa đập trọng lực? | Áp lực lỗ rỗng tại đáy | Piezometer uplift, joint meter |
+| Thấm có đang tăng hay trở nên xói mòn? | Lưu lượng & độ đục thấm | Tràn đo, quan sát, áp kế |
+| Mái hạ lưu đang ổn định hay chuyển động? | Chuyển động bề mặt & trong | Khảo sát, thiết bị đo nghiêng, thiết bị đo biến dạng sâu |
+| Áp lực đẩy lên có đang đe dọa đập trọng lực? | Áp lực lỗ rỗng tại đáy | Áp kế đo lực nâng, cảm biến đo khe nối |
 
 ## 4.4 Ghép thiết bị với nhu cầu
 

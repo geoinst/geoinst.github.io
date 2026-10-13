@@ -28,7 +28,7 @@ lang_alt: reference-manuals/dunnicliff/chapter-10-recipe/
 ### 3. Nhóm Hiệu chuẩn (Calibration)
 - Có chứng chỉ hiệu chuẩn nhà máy có truy xuất nguồn gốc tiêu chuẩn quốc tế.
 - Kiểm tra kiểm định lại tại hiện trường trước khi thả xuống lòng đất.
-- Lưu trữ các hệ số hiệu chuẩn gốc trong hồ sơ dự án và trong bộ nhớ datalogger.
+- Lưu trữ các hệ số hiệu chuẩn gốc trong hồ sơ dự án và trong bộ nhớ bộ ghi dữ liệu.
 
 ### 4. Nhóm Bảo trì (Maintenance)
 - Lập lịch bảo trì phòng ngừa định kỳ (thay hạt hút ẩm silica gel, làm sạch tiếp điểm).

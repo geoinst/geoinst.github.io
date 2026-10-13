@@ -35,9 +35,9 @@ Minh họa từng bước quy trình lập kế hoạch:
 - **B-1 đến B-7** — xác định điều kiện dự án; dự đoán cơ chế; xác định câu hỏi; xác định
   mục đích; chọn thông số; dự đoán độ lớn; bảng phân công nhiệm vụ.
 - **B-8 đến B-10** — phân công nhiệm vụ; chọn thiết bị.
-- **B-11 đến B-16** — minh họa thiết bị: piezometer ống đứng hở (kiểu đẩy), piezometer
-  dây rung (kiểu đẩy), extensometer đầu dò nam châm/công tắc lưỡi gà, bàn lún, đo mực
-  nước dạng ống và inclinometer.
+- **B-11 đến B-16** — minh họa thiết bị: Áp kế ống đứng hở (kiểu đẩy), áp kế
+  dây rung (kiểu đẩy), thiết bị đo biến dạng sâu đầu dò nam châm/công tắc lưỡi gà, bàn lún, đo mực
+  nước dạng ống và thiết bị đo nghiêng.
 - **B-17 đến B-18** — chọn vị trí thiết bị; các vị trí thiết bị khả thi.
 - **B-19 đến B-20** — lập kế hoạch ghi lại các yếu tố có thể ảnh hưởng dữ liệu.
 - **B-21 đến B-22** — thiết lập quy trình đảm bảo tính đúng đắn của số đọc.
@@ -55,7 +55,7 @@ Ví dụ đã giải cho quan trắc một **mái dốc cắt trong đất** và
 Ví dụ đã giải cho quan trắc truyền tải:
 
 - **D-1** — các cơ chế ứng xử khả thi của cọc đóng.
-- **D-2, D-3** — extensometer chuỗi và nhiều telltale.
+- **D-2, D-3** — Thiết bị đo biến dạng sâu chuỗi và nhiều thanh truyền chuyển vị.
 - **D-4** — chuyển đổi ứng biến/ứng suất.
 - **D-5, D-6** — thí nghiệm tải dọc trục tĩnh của cọc thép và cọc bê tông **có** dữ liệu
   truyền tải đầy đủ.
@@ -73,7 +73,7 @@ diện** và cho **xác định độ lớn cùng phân bố ứng suất** — 
 Gợi ý đánh giá cho bài tập ở [Chương 13](chapter-13-data-interpretation.md):
 
 - **F-1** — dữ liệu trắc đạc quang học.
-- **F-2** — dữ liệu inclinometer đúng.
+- **F-2** — dữ liệu thiết bị đo nghiêng đúng.
 
 ## 14.3 Các điểm then chốt cần ghi nhớ
 

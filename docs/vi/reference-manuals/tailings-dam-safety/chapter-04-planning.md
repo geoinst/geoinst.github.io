@@ -11,14 +11,14 @@ chương trình vững mạnh nhất được lập kế hoạch **có căn cứ
 hậu quả** từ những giai đoạn sớm nhất của thiết kế và được điều chỉnh khi cơ sở
 phát triển. Lập kế hoạch trả lời bốn câu hỏi trước khi mua bất kỳ thiết bị nào:
 
-1. **Điều gì có thể sai?** (các mode phá hoại — [Chương 2](chapter-02-facilities-and-failures.md))
+1. **Điều gì có thể sai?** (các dạng phá hoại — [Chương 2](chapter-02-facilities-and-failures.md))
 2. **Cảnh báo sớm sẽ trông như thế nào?** (tín hiệu đo được của mỗi mode)
 3. **Những quyết định nào dữ liệu sẽ hỗ trợ?** (mức kích hoạt, phản ứng)
 4. **Sự cân bằng đúng đắn giữa giám sát trực quan và bằng thiết bị là gì?** ([Chương 3](chapter-03-philosophy.md))
 
-## 4.2 Neo kế hoạch vào các mode phá hoại
+## 4.2 Neo kế hoạch vào các dạng phá hoại
 
-Mọi thiết bị phải truy ngược về một mode phá hoại cụ thể hoặc một giả định thiết
+Mọi thiết bị phải truy ngược về một dạng phá hoại cụ thể hoặc một giả định thiết
 kế đang được xác nhận. Một máy đo áp lực nước lỗ rỗng ở chân đập hạ nguồn tồn tại
 bởi vì hóa lỏng tĩnh và xói mòn trong là khả dĩ; một khảo sát đỉnh tồn tại bởi vì
 mất ổn định mái dốc và lún là khả dĩ. Nếu một thiết bị không thể gắn với một mode
@@ -72,6 +72,6 @@ Bởi vì một TSF được xây trong nhiều thập kỷ, chương trình gi�
 ## 4.6 Điểm mấu chốt
 
 - Lập kế hoạch có căn cứ rủi ro và định hướng hậu quả, không theo thói quen.
-- Mọi thiết bị truy ngược về một mode phá hoại hoặc một quyết định.
+- Mọi thiết bị truy ngược về một dạng phá hoại hoặc một quyết định.
 - Hạng mục hậu quả xác định cường độ và tự động hóa của giám sát.
 - Chương trình được chia giai đoạn suốt toàn bộ đời cơ sở, bao gồm đóng cửa.

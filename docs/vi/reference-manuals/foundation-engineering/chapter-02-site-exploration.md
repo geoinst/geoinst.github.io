@@ -29,7 +29,7 @@ Chương trình được lập quanh **công trình và các câu hỏi** mà n�
   dùng rộng rãi, và là cơ sở của nhiều tương quan kinh nghiệm.
 - **Thí nghiệm xuyên côn (CPT)** cho sức kháng mũi và ma sát thành liên tục, rất tốt để
   mô tả đất yếu và ước lượng cường độ cùng thông số cố kết.
-- **Cắt cánh (vane)**, **pressuremeter** và **dilatometer** cho các thông số đặc thù tại
+- **Cắt cánh (vane)**, **máy nén ngang** và **dilatometer** cho các thông số đặc thù tại
   chỗ.
 
 ## 2.4 Nước ngầm
@@ -40,7 +40,7 @@ Nước ngầm chi phối ứng suất hữu hiệu, do đó chi phối cường
 - **áp lực nước lỗ rỗng** và mọi điều kiện áp lực thủy tĩnh dư;
 - **tính thấm** của mỗi tầng, phục vụ thấm và cố kết.
 
-Áp lực nước lỗ rỗng được đo bằng **piezometer** (xem tài liệu
+Áp lực nước lỗ rỗng được đo bằng **áp kế** (xem tài liệu
 [Dunnicliff](../dunnicliff/index.md) và [FHWA](../fhwa/index.md)).
 
 ## 2.5 Từ dữ liệu đến mặt cắt thiết kế

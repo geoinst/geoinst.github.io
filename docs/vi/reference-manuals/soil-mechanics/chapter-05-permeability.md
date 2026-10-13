@@ -31,7 +31,7 @@ rộng lớn này là lý do tính thấm là thông số khó ước lượng �
 - **Thí nghiệm cột nước không đổi** — cho đất thô, thấm mạnh.
 - **Thí nghiệm cột nước giảm dần** — cho đất mịn.
 - **Thí nghiệm hiện trường** — thí nghiệm bơm hút, thí nghiệm hố khoan và **thí nghiệm
-  phản ứng piezometer** đo giá trị tại chỗ, có thể khác xa giá trị phòng do cấu trúc và
+  phản ứng áp kế** đo giá trị tại chỗ, có thể khác xa giá trị phòng do cấu trúc và
   phân lớp.
 
 ## 5.4 Đất phân lớp

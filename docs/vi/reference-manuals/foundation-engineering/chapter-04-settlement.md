@@ -73,4 +73,4 @@ và tiêu chuẩn.
 - Dùng **lý thuyết đàn hồi** cho tức thời, **lý thuyết cố kết** cho sét, **tương quan
   kinh nghiệm** cho cát.
 - **Lún lệch và độ nghiêng góc** là tiêu chí sử dụng thực sự.
-- Quan trắc lún thực bằng **bàn lún và extensometer** (xem tài liệu [FHWA](../fhwa/index.md)).
+- Quan trắc lún thực bằng **bàn lún và thiết bị đo biến dạng sâu** (xem tài liệu [FHWA](../fhwa/index.md)).
