@@ -13,8 +13,8 @@ lang_alt: vi/reference-manuals/burt-look-handbook/
     keeping with the site's established treatment of its other copyrighted source
     manuals. The digest below is original summary text, not a reproduction of the
     source. A full Vietnamese translation of a 356-page handbook is a multi-session
-    effort; it is being built incrementally by chapter and will be linked here when
-    available.
+    effort; the Vietnamese translation is now **complete for all 24 chapters** and
+    is linked from the translation-status tab below.
 
 *Handbook of Geotechnical Investigation and Design Tables* is a **data book** for the
 practising geotechnical engineer and engineering geologist. Rather than a textbook,
@@ -80,11 +80,19 @@ PDF is the authoritative source for every table and correlation.
 
 === "Tiếng Việt — translation status"
 
-    A **full Vietnamese translation** of this 356-page handbook is a major,
-    multi-session effort. The chapter-by-chapter translation is being built
-    incrementally; each translated chapter will be published here as it is
-    completed. The original English PDF above is the authoritative source in
-    the meantime.
+    **Complete: all 24 chapters.** The Vietnamese translation is published as 24
+    separate chapter pages under
+    [`/vi/reference-manuals/burt-look-handbook/`](../../vi/reference-manuals/burt-look-handbook/index.md),
+    each translating that chapter's numbered sections and key table values /
+    correlations. The original English PDF above remains the authoritative source
+    for every figure.
+
+    - [Ch.1 Site Investigation](../../vi/reference-manuals/burt-look-handbook/chapter-01-site-investigation.md) · [Ch.2 Soil Classification](../../vi/reference-manuals/burt-look-handbook/chapter-02-soil-classification.md) · [Ch.3 Rock Classification](../../vi/reference-manuals/burt-look-handbook/chapter-03-rock-classification.md) · [Ch.4 Field Sampling & Testing](../../vi/reference-manuals/burt-look-handbook/chapter-04-field-sampling-testing.md)
+    - [Ch.5 Soil Strength](../../vi/reference-manuals/burt-look-handbook/chapter-05-soil-strength.md) · [Ch.6 Rock Strength](../../vi/reference-manuals/burt-look-handbook/chapter-06-rock-strength.md) · [Ch.7 Soil Properties & State](../../vi/reference-manuals/burt-look-handbook/chapter-07-soil-properties-state.md) · [Ch.8 Permeability](../../vi/reference-manuals/burt-look-handbook/chapter-08-permeability.md)
+    - [Ch.9 Rock Properties](../../vi/reference-manuals/burt-look-handbook/chapter-09-rock-properties.md) · [Ch.10 Material & Testing Variability](../../vi/reference-manuals/burt-look-handbook/chapter-10-material-testing-variability.md) · [Ch.11 Deformation Parameters](../../vi/reference-manuals/burt-look-handbook/chapter-11-deformation-parameters.md) · [Ch.12 Earthworks](../../vi/reference-manuals/burt-look-handbook/chapter-12-earthworks.md)
+    - [Ch.13 Subgrades & Pavements](../../vi/reference-manuals/burt-look-handbook/chapter-13-subgrades-pavements.md) · [Ch.14 Slopes](../../vi/reference-manuals/burt-look-handbook/chapter-14-slopes.md) · [Ch.15 Terrain, Drainage & Erosion](../../vi/reference-manuals/burt-look-handbook/chapter-15-terrain-drainage-erosion.md) · [Ch.16 Geosynthetics](../../vi/reference-manuals/burt-look-handbook/chapter-16-geosynthetics.md)
+    - [Ch.17 Fill Specifications](../../vi/reference-manuals/burt-look-handbook/chapter-17-fill-specifications.md) · [Ch.18 Rock Mass Classification](../../vi/reference-manuals/burt-look-handbook/chapter-18-rock-mass-classification.md) · [Ch.19 Earth Pressures](../../vi/reference-manuals/burt-look-handbook/chapter-19-earth-pressures.md) · [Ch.20 Retaining Walls](../../vi/reference-manuals/burt-look-handbook/chapter-20-retaining-walls.md)
+    - [Ch.21 Soil Foundations](../../vi/reference-manuals/burt-look-handbook/chapter-21-soil-foundations.md) · [Ch.22 Rock Foundations](../../vi/reference-manuals/burt-look-handbook/chapter-22-rock-foundations.md) · [Ch.23 Movements](../../vi/reference-manuals/burt-look-handbook/chapter-23-movements.md) · [Ch.24 Appendix — Loading](../../vi/reference-manuals/burt-look-handbook/chapter-24-appendix-loading.md)
 
 ---
 

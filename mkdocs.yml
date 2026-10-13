@@ -258,7 +258,32 @@ nav:
               - Tổng quan: vi/reference-manuals/cfem/index.md
               - "Ch.25 Quan trắc & Giám sát (kèm tham khảo mở rộng)": vi/reference-manuals/cfem/chapter-25-instrumentation-monitoring.md
           - "Sổ tay Kỹ thuật Mỏ SME — Thiết bị Quan trắc Địa kỹ thuật (Ch.8.5)": vi/reference-manuals/sme-mine-handbook/index.md
-          - "Burt — Cẩm nang Tra cứu & Thiết kế Địa kỹ thuật (2007)": vi/reference-manuals/burt-look-handbook/index.md
+          - "Burt — Cẩm nang Tra cứu & Thiết kế Địa kỹ thuật (2007)":
+              - Tổng quan: vi/reference-manuals/burt-look-handbook/index.md
+              - "Ch.1 Khảo sát địa kỹ thuật": vi/reference-manuals/burt-look-handbook/chapter-01-site-investigation.md
+              - "Ch.2 Phân loại đất": vi/reference-manuals/burt-look-handbook/chapter-02-soil-classification.md
+              - "Ch.3 Phân loại đá": vi/reference-manuals/burt-look-handbook/chapter-03-rock-classification.md
+              - "Ch.4 Lấy mẫu và thử nghiệm hiện trường": vi/reference-manuals/burt-look-handbook/chapter-04-field-sampling-testing.md
+              - "Ch.5 Cường độ đất từ phân loại & thử nghiệm": vi/reference-manuals/burt-look-handbook/chapter-05-soil-strength.md
+              - "Ch.6 Cường độ đá từ phân loại & thử nghiệm": vi/reference-manuals/burt-look-handbook/chapter-06-rock-strength.md
+              - "Ch.7 Tính chất và trạng thái của đất": vi/reference-manuals/burt-look-handbook/chapter-07-soil-properties-state.md
+              - "Ch.8 Độ thấm và ảnh hưởng của nó": vi/reference-manuals/burt-look-handbook/chapter-08-permeability.md
+              - "Ch.9 Tính chất của đá": vi/reference-manuals/burt-look-handbook/chapter-09-rock-properties.md
+              - "Ch.10 Sự biến thiên của vật liệu và thử nghiệm": vi/reference-manuals/burt-look-handbook/chapter-10-material-testing-variability.md
+              - "Ch.11 Thông số biến dạng": vi/reference-manuals/burt-look-handbook/chapter-11-deformation-parameters.md
+              - "Ch.12 Công tác đất": vi/reference-manuals/burt-look-handbook/chapter-12-earthworks.md
+              - "Ch.13 Nền đường và mặt đường": vi/reference-manuals/burt-look-handbook/chapter-13-subgrades-pavements.md
+              - "Ch.14 Mái dốc": vi/reference-manuals/burt-look-handbook/chapter-14-slopes.md
+              - "Ch.15 Đánh giá địa hình, thoát nước và xói mòn": vi/reference-manuals/burt-look-handbook/chapter-15-terrain-drainage-erosion.md
+              - "Ch.16 Địa kỹ thuật tổng hợp": vi/reference-manuals/burt-look-handbook/chapter-16-geosynthetics.md
+              - "Ch.17 Quy định vật liệu đắp": vi/reference-manuals/burt-look-handbook/chapter-17-fill-specifications.md
+              - "Ch.18 Các hệ thống phân loại khối đá": vi/reference-manuals/burt-look-handbook/chapter-18-rock-mass-classification.md
+              - "Ch.19 Áp lực đất": vi/reference-manuals/burt-look-handbook/chapter-19-earth-pressures.md
+              - "Ch.20 Tường chắn": vi/reference-manuals/burt-look-handbook/chapter-20-retaining-walls.md
+              - "Ch.21 Móng trên đất": vi/reference-manuals/burt-look-handbook/chapter-21-soil-foundations.md
+              - "Ch.22 Móng trên đá": vi/reference-manuals/burt-look-handbook/chapter-22-rock-foundations.md
+              - "Ch.23 Chuyển vị": vi/reference-manuals/burt-look-handbook/chapter-23-movements.md
+              - "Ch.24 Phụ lục — tải trọng": vi/reference-manuals/burt-look-handbook/chapter-24-appendix-loading.md
           - "Cẩm nang dùng cho kỹ sư địa kỹ thuật (Trần Văn Việt)":
               - Tổng quan: vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/index.md
               - "Ch.1 Khái quát địa chất – đất đá": vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-01-geology-soil-rock.md
