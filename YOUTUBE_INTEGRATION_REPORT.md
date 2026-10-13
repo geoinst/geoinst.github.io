@@ -60,7 +60,7 @@ Sử dụng cú pháp Material for MkDocs (`!!! tip`) kết hợp icon YouTube v
 |:---:|:---|:---|:---|:---|
 | **0** | **Mục lục tổng quan** (`reference-manuals/index.md`) | `0tLX-O9dOQk` (Geosolutions GSS) | `HJISt9or_Dw` (VW Piezometer) | `518Mx-65rI0` (ShapeArray Deflection) |
 | **1** | **Tầm nhìn tổng thể & Khung tích hợp** (`overarching-vision.md`) | `0tLX-O9dOQk` (Geosolutions GSS) | `dCjR64jX7B0` (Wireless Data Collection) | `_w6aW8yLq2Y` (Automated SAA System) |
-| **2** | **John Dunnicliff — Sổ tay kinh điển** (`dunnicliff/index.md`) | `0tLX-O9dOQk` (Geotechnical Specialist Services) | `HJISt9or_Dw` (Baseline VW Readings) | `518Mx-65rI0` (Real-time Deflection Monitoring) |
+| **2** | **John Dunnicliff — Sổ tay kinh điển** (`dunnicliff/index.md`) | `jKVrdiKbsoQ` (Digital Solutions GeoSolutions) | `HJISt9or_Dw` (Baseline VW Readings) | `518Mx-65rI0` (Real-time Deflection Monitoring) |
 | **3** | **FHWA — Sổ tay quan trắc địa kỹ thuật** (`fhwa/index.md`) | `I6bdJXzuzlc` (GroundProbe SSR-XT / FX / Omni) | `H2MVAVbOGdg` (Inclinometer Casing Installation) | `idyme0c9HSs` (SAAV Extend Installation) |
 | **4** | **FHWA — Tường chắn MSE & Mái dốc RSS** (`fhwa-mse-walls/index.md`) | `m0Xf9uycDns` (Fast Wall Starter) | `H2MVAVbOGdg` (Inclinometer Casing) | `518Mx-65rI0` (Real-time Deflection) |
 | **5** | **Kỹ thuật móng công trình** (`foundation-engineering/index.md`) | `0tLX-O9dOQk` (Orica GeoSolutions GSS) | `a5hHQaN1NkI` (Datalogger Wiring) | `YwQtxBBPS38` (SAAV Cyclical Install) |
