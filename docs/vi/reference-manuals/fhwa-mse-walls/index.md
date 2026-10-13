@@ -123,20 +123,6 @@ káº¿t cáº¥u náº·ng ná» cá»§a tÆ°á»ng cháº¯n thÃ´ng th
 
 ---
 
-## Video cÃ´ng nghá»‡ & TÆ° liá»‡u thá»±c hÃ nh liÃªn quan
-
-<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/m0Xf9uycDns" title="Orica Digital Solutions GroundProbe - FAST WALL STARTER FEATURES" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
-</div>
-<p><em>Video (Nguá»“n chÃ­nh â€” Orica): TÃ­nh NÄƒng Khá»Ÿi Táº¡o & GiÃ¡m SÃ¡t TÆ°á»ng Nhanh GroundProbe - FAST WALL STARTER.</em></p>
-
-!!! tip "TÆ° liá»‡u thá»±c hÃ nh bá»• trá»£ tá»« RST Instruments (@RSTgeotechnical)"
-    **Quan tráº¯c chuyá»ƒn vá»‹ ngang tÆ°á»ng cháº¯n:** [Inclinometer Casing Installation](https://www.youtube.com/watch?v=H2MVAVbOGdg){ target="_blank" }  
-    **NhÃ  sáº£n xuáº¥t:** RST Instruments (@RSTgeotechnical)  
-    **MÃ´ táº£:** Láº¯p Ä‘áº·t á»‘ng Ä‘o nghiÃªng sau lÆ°ng tÆ°á»ng cháº¯n Ä‘áº¥t cÃ³ cá»‘t (MSE) Ä‘á»ƒ phÃ¡t hiá»‡n máº·t trÆ°á»£t tiá»m tÃ ng vÃ  kiá»ƒm soÃ¡t biáº¿n dáº¡ng ngang theo thá»i gian thá»±c.  
-    [:material-youtube: **Xem video RST Instruments**](https://www.youtube.com/watch?v=H2MVAVbOGdg){ .md-button target="_blank" }
-
-
 ## Video công nghệ & Tư liệu thực hành liên quan
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">

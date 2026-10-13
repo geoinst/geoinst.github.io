@@ -86,21 +86,12 @@ pháº¡m vi cÃ´ng cá»™ng** sau (cÃ´ng trÃ¬nh cá»§a ChÃ­nh phá»
   Ä‘áº­p Ä‘á»ƒ cÃ³ chi tiáº¿t chuyÃªn vá» quan tráº¯c.
 - **Há»i [GTI Doctor](../../gti-doctor.md)** Ä‘á»ƒ tra toÃ n vÄƒn sá»• tay nguá»“n.
 
-## Video bÃ i giáº£ng tham kháº£o liÃªn quan
-
-<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/Jwibv1KnqFI" title="SuperPile23 - Combined Side and Base Resistance in Rock-Socketed Drilled Shafts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
-</div>
-<p><em>Video: SuperPile23 - Combined Side and Base Resistance in Rock-Socketed Drilled Shafts (Deep Foundations Institute - DFI).</em></p>
-
-!!! info "Ã nghÄ©a há»c thuáº­t & Thá»±c tiá»…n"
-    BÃ i thuyáº¿t trÃ¬nh chuyÃªn sÃ¢u táº¡i há»™i nghá»‹ thÆ°á»ng niÃªn DFI vá» cÆ¡ cháº¿ huy Ä‘á»™ng Ä‘á»“ng thá»i sá»©c khÃ¡ng thÃ nh bÃªn vÃ  sá»©c khÃ¡ng mÅ©i trong cá»c khoan nhá»“i ngÃ m Ä‘Ã¡, bÃ¡m sÃ¡t cÃ¡c phÆ°Æ¡ng phÃ¡p tÃ­nh toÃ¡n cá»§a FHWA GEC-10/12 vÃ  USACE.
-
 ---
 
 > **Thiáº¿t káº¿ gáº¯n vá»›i tá»«ng khu Ä‘áº¥t.** KhÃ´ng tÃ i liá»‡u nÃ o thay tháº¿ Ä‘Æ°á»£c kháº£o sÃ¡t ká»¹ cÃ ng,
 > vÃ  khÃ´ng biá»ƒu Ä‘á»“ nÃ o thay tháº¿ Ä‘Æ°á»£c phÃ¡n Ä‘oÃ¡n cá»§a ká»¹ sÆ° Ä‘á»‹a ká»¹ thuáº­t cÃ³ nÄƒng lá»±c.
 
+---
 
 ## Video công nghệ & Tư liệu thực hành liên quan
 

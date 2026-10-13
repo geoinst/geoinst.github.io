@@ -91,22 +91,13 @@ dá»±a vÃ o:
   vÃ  [An toÃ n Ä‘áº­p tháº£i](../tailings-dam-safety/index.md).
 - Há»i [GTI Doctor](../../gti-doctor.md) Ä‘á»ƒ trÃ­ch xuáº¥t chi tiáº¿t tá»« kho tÆ° liá»‡u rá»™ng hÆ¡n.
 
-## Video bÃ i giáº£ng tham kháº£o liÃªn quan
-
-<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/QvcPszgaI0Y" title="Roctest - Geotechnical & Structural Instruments and Soil/Rock Testing Equipment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
-</div>
-<p><em>Video: Roctest - Geotechnical & Structural Instruments and Soil/Rock Testing Equipment (Roctest / Nova Metrix).</em></p>
-
-!!! info "Ã nghÄ©a há»c thuáº­t & Thá»±c tiá»…n"
-    Giá»›i thiá»‡u trá»±c quan toÃ n bá»™ há»‡ thá»‘ng thiáº¿t bá»‹ quan tráº¯c Ä‘á»‹a ká»¹ thuáº­t hiá»‡n trÆ°á»ng cá»§a hÃ£ng Roctest do Pierre Choquet (tÃ¡c giáº£ ChÆ°Æ¡ng 25 CFEM 2022) tham gia phÃ¡t triá»ƒn: cáº£m biáº¿n dÃ¢y rung, sá»£i quang FBG, á»‘ng Ä‘o nghiÃªng vÃ  thiáº¿t bá»‹ thá»­ nghiá»‡m Ä‘áº¥t Ä‘Ã¡.
-
 ---
 
 > **An toÃ n vÃ  tÃ­nh thá»i sá»±.** CÃ¡c tiÃªu chuáº©n Ä‘Æ°á»£c soÃ¡t xÃ©t theo chu ká»³ riÃªng (trong
 > Ä‘Ã³ cÃ³ ISO 18674, ASTM D18.23, DIN 4150). LuÃ´n kiá»ƒm tra **áº¥n báº£n hiá»‡n hÃ nh** cá»§a báº¥t
 > ká»³ tiÃªu chuáº©n hay sá»• tay nÃ o trÆ°á»›c khi dÃ¹ng cho thiáº¿t káº¿ hoáº·c há»“ sÆ¡ tuÃ¢n thá»§.
 
+---
 
 ## Video công nghệ & Tư liệu thực hành liên quan
 

@@ -106,22 +106,13 @@ biÃªn, NhÃ  xuáº¥t báº£n XÃ¢y dá»±ng), cÃ¹ng cÃ¡c tiÃªu chu
 giáº£ vÃ  nhÃ  xuáº¥t báº£n. Trang nÃ y lÃ  **báº£n tÃ³m lÆ°á»£c Ä‘á»™c láº­p**, khÃ´ng thay tháº¿ báº£n gá»‘c â€”
 Ä‘á»™c giáº£ nÃªn tÃ¬m Ä‘á»c báº£n in Ä‘á»ƒ cÃ³ Ä‘áº§y Ä‘á»§ báº£ng tra, hÃ¬nh váº½ vÃ  vÃ­ dá»¥ tÃ­nh toÃ¡n.
 
-## Video bÃ i giáº£ng tham kháº£o liÃªn quan
-
-<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/vIAUpyD2vDk" title="Quy TrÃ¬nh Kháº£o SÃ¡t Äá»‹a Cháº¥t Tá»« A - Z | ThÄƒm DÃ² Äá»‹a Cháº¥t CÃ´ng TrÃ¬nh" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
-</div>
-<p><em>Video: Quy TrÃ¬nh Kháº£o SÃ¡t Äá»‹a Cháº¥t Tá»« A - Z | ThÄƒm DÃ² Äá»‹a Cháº¥t CÃ´ng TrÃ¬nh (Äá»‹a Cháº¥t ACAO).</em></p>
-
-!!! info "Ã nghÄ©a há»c thuáº­t & Thá»±c tiá»…n"
-    Giá»›i thiá»‡u thá»±c táº¿ toÃ n bá»™ cÃ¡c bÆ°á»›c khoan kháº£o sÃ¡t hiá»‡n trÆ°á»ng, Ä‘Ã³ng thÃ­ nghiá»‡m SPT, láº¥y máº«u Ä‘áº¥t nguyÃªn dáº¡ng báº±ng á»‘ng Shelby vÃ  thá»­ nghiá»‡m trong phÃ²ng phá»¥c vá»¥ cÃ´ng tÃ¡c thiáº¿t káº¿ ná»n mÃ³ng theo tiÃªu chuáº©n xÃ¢y dá»±ng Viá»‡t Nam.
-
 ---
 
 > **PhÃ¡n Ä‘oÃ¡n ká»¹ thuáº­t lÃ  trÃªn háº¿t.** Sá»• tay cung cáº¥p cÃ´ng thá»©c vÃ  kinh nghiá»‡m, nhÆ°ng
 > má»—i cÃ´ng trÃ¬nh cÃ³ Ä‘iá»u kiá»‡n ná»n riÃªng â€” káº¿t quáº£ tÃ­nh toÃ¡n pháº£i Ä‘Æ°á»£c kiá»ƒm chá»©ng báº±ng
 > kháº£o sÃ¡t thá»±c Ä‘á»‹a vÃ  phÃ¡n Ä‘oÃ¡n cá»§a ká»¹ sÆ° cÃ³ nÄƒng lá»±c.
 
+---
 
 ## Video công nghệ & Tư liệu thực hành liên quan
 

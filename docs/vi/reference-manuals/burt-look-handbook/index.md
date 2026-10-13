@@ -135,16 +135,6 @@ gá»‘c lÃ  nguá»“n cÃ³ tháº©m quyá»n cho má»i báº£ng v�
 - HÃ£y yÃªu cáº§u [GTI Doctor](../../gti-doctor.md) trÃ­ch xuáº¥t chÃ­nh xÃ¡c báº£ng hoáº·c há»‡
   thá»©c tÆ°Æ¡ng quan tá»« tá»‡p PDF gá»‘c khi báº¡n cáº§n má»™t con sá»‘ cá»¥ thá»ƒ.
 
-## Video bÃ i giáº£ng tham kháº£o liÃªn quan
-
-<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/xZx1e38ljZA" title="Geotechnical Investigations - Are they a Waste of Money?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
-</div>
-<p><em>Video: Geotechnical Investigations - Are they a Waste of Money? (Dr. Burt Look / AGS / DGDC Ltd.).</em></p>
-
-!!! info "Ã nghÄ©a há»c thuáº­t & Thá»±c tiá»…n"
-    BÃ i thuyáº¿t trÃ¬nh chuyÃªn Ä‘á» cá»§a chÃ­nh tÃ¡c giáº£ Burt Look phÃ¢n tÃ­ch táº§m quan trá»ng sá»‘ng cÃ²n cá»§a kháº£o sÃ¡t hiá»‡n trÆ°á»ng, chi phÃ­ tÆ°Æ¡ng Ä‘á»‘i so vá»›i rá»§i ro sá»± cá»‘ ná»n mÃ³ng, vÃ  cÃ¡ch chuyá»ƒn hÃ³a sá»‘ liá»‡u hiá»‡n trÆ°á»ng (SPT, CPT, RQD) thÃ nh thÃ´ng sá»‘ thiáº¿t káº¿ thá»±c táº¿.
-
 ---
 
 > **An toÃ n vÃ  tÃ­nh cáº­p nháº­t.** CÃ¡c há»‡ thá»©c tÆ°Æ¡ng quan pháº£n Ã¡nh thá»±c hÃ nh khoáº£ng
@@ -154,6 +144,7 @@ gá»‘c lÃ  nguá»“n cÃ³ tháº©m quyá»n cho má»i báº£ng v�
 > dáº«n vÃ  quy Ä‘á»‹nh phÃ¡p lÃ½ Ã¡p dá»¥ng trÆ°á»›c khi sá»­ dá»¥ng chÃºng cho thiáº¿t káº¿ hoáº·c há»“ sÆ¡
 > trÃ¬nh cÆ¡ quan quáº£n lÃ½.
 
+---
 
 ## Video công nghệ & Tư liệu thực hành liên quan
 

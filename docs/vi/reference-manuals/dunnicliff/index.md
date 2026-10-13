@@ -51,24 +51,10 @@ TÃ i liá»‡u Ä‘Æ°á»£c cÃ´ Ä‘á»ng vÃ  phÃ¢n chia cÃ³ 
 - **Káº¿t ná»‘i liÃªn chuyÃªn khoa**: CÃ¡c chÆ°Æ¡ng há» thiáº¿t bá»‹ káº¿t ná»‘i trá»±c tiáº¿p vá»›i cáº©m nang [GiÃ¡m sÃ¡t hiá»‡u nÄƒng Ä‘áº­p (ASCE MOP-135)](../monitoring-dam-performance/index.md) vÃ  [An toÃ n Ä‘áº­p cháº¥t tháº£i (ICOLD/CDA)](../tailings-dam-safety/index.md).
 - **Há»i Ä‘Ã¡p cÃ¹ng [GTI Doctor](../../gti-doctor.md)**: Trá»£ lÃ½ AI cÃ³ thá»ƒ giáº£i Ä‘Ã¡p chi tiáº¿t cÃ¡c cÃ´ng thá»©c toÃ¡n há»c, thÃ´ng sá»‘ ká»¹ thuáº­t vÃ  tÃ¬nh huá»‘ng thá»±c Ä‘á»‹a tá»« toÃ n bá»™ 616 Ä‘oáº¡n dá»¯ liá»‡u gá»‘c cá»§a Dunnicliff.
 
-## Video cÃ´ng nghá»‡ & TÆ° liá»‡u thá»±c hÃ nh liÃªn quan
-
-<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/0tLX-O9dOQk" title="Orica Digital Solutions' Geosolutions' Geotechnical Specialist Services (GSS)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
-</div>
-<p><em>Video (Nguá»“n chÃ­nh â€” Orica): Dá»‹ch vá»¥ ChuyÃªn gia Äá»‹a ká»¹ thuáº­t ToÃ n diá»‡n Orica Digital Solutions GeoSolutions (GSS).</em></p>
-
-!!! tip "TÆ° liá»‡u thá»±c hÃ nh bá»• trá»£ tá»« RST Instruments (@RSTgeotechnical)"
-    **Quy trÃ¬nh Ä‘o ban Ä‘áº§u:** [Taking Initial Vibrating Wire Piezometer Readings](https://www.youtube.com/watch?v=HJISt9or_Dw){ target="_blank" }  
-    **NhÃ  sáº£n xuáº¥t:** RST Instruments (@RSTgeotechnical)  
-    **MÃ´ táº£:** HÆ°á»›ng dáº«n thá»±c hÃ nh láº¥y sá»‘ Ä‘á»c cÆ¡ sá»Ÿ (baseline readings) cho Ã¡p káº¿ dÃ¢y rung trÆ°á»›c khi láº¯p Ä‘áº·t theo Ä‘Ãºng cÃ´ng thá»©c Ä‘áº£m báº£o Ä‘á»™ tin cáº­y cá»§a Dunnicliff.  
-    [:material-youtube: **Xem video RST Instruments**](https://www.youtube.com/watch?v=HJISt9or_Dw){ .md-button target="_blank" }
-
----
-
 !!! quote "PhÃ¡n Ä‘oÃ¡n ká»¹ thuáº­t lÃ  cÃ´ng cá»¥ Ä‘o Ä‘áº¯c lá»±c nháº¥t"
     Thiáº¿t bá»‹ chá»‰ lÃ  phÆ°Æ¡ng tiá»‡n há»— trá»£, khÃ´ng bao giá» thay tháº¿ Ä‘Æ°á»£c phÃ¡n Ä‘oÃ¡n vÃ  sá»± nháº¡y bÃ©n thá»±c Ä‘á»‹a cá»§a má»™t ká»¹ sÆ° Ä‘á»‹a ká»¹ thuáº­t cÃ³ nÄƒng lá»±c.
 
+---
 
 ## Video công nghệ & Tư liệu thực hành liên quan
 

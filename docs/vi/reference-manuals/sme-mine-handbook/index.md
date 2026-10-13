@@ -105,16 +105,6 @@ mÃ  thÆ° viá»‡n nÃ y Ä‘Æ°á»£c xÃ¢y dá»±ng trÃªn Ä‘Ã
   vÃ  [An toÃ n Ä‘áº­p tháº£i](../tailings-dam-safety/index.md) Ä‘á»ƒ cÃ³ chiá»u sÃ¢u phÃ­a dÃ¢n dá»¥ng.
 - Há»i [GTI Doctor](../../gti-doctor.md) Ä‘á»ƒ trÃ­ch xuáº¥t chi tiáº¿t tá»« kho tÆ° liá»‡u rá»™ng hÆ¡n.
 
-## Video bÃ i giáº£ng tham kháº£o liÃªn quan
-
-<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/Aif4UvrGjBo" title="Rock Slope Investigations (Prof. Erik Eberhardt)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
-</div>
-<p><em>Video: Rock Slope Investigations (Prof. Erik Eberhardt / UBC / Pirate Geology).</em></p>
-
-!!! info "Ã nghÄ©a há»c thuáº­t & Thá»±c tiá»…n"
-    BÃ i giáº£ng cá»§a tÃ¡c giáº£ chÃ­nh ChÆ°Æ¡ng 8.5 Sá»• tay SME vá» Ä‘iá»u tra Ä‘á»‹a cháº¥t cÃ´ng trÃ¬nh mÃ¡i dá»‘c Ä‘Ã¡, Ä‘Ã¡nh giÃ¡ hÆ°á»›ng vÃ  ma sÃ¡t khe ná»©t, Æ°á»›c tÃ­nh thÃ´ng sá»‘ khá»‘i Ä‘Ã¡ vÃ  thiáº¿t káº¿ há»‡ thá»‘ng quan tráº¯c chuyá»ƒn vá»‹ mÃ¡i dá»‘c má» lá»™ thiÃªn vÃ  háº§m má» ngáº§m.
-
 ---
 
 > **An toÃ n vÃ  tÃ­nh thá»i sá»±.** CÃ´ng nghá»‡ viá»…n thÃ¡m vÃ  cáº£m biáº¿n khÃ´ng dÃ¢y Ä‘Ã£ tiáº¿n bá»™
@@ -124,6 +114,7 @@ mÃ  thÆ° viá»‡n nÃ y Ä‘Æ°á»£c xÃ¢y dá»±ng trÃªn Ä‘Ã
 > thuáº­t hiá»‡n hÃ nh** cá»§a thiáº¿t bá»‹ vá»›i nhÃ  cung cáº¥p trÆ°á»›c khi dÃ¹ng cho thiáº¿t káº¿ hoáº·c
 > há»“ sÆ¡ tuÃ¢n thá»§.
 
+---
 
 ## Video công nghệ & Tư liệu thực hành liên quan
 

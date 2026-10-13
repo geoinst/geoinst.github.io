@@ -69,21 +69,12 @@ nghiá»‡m táº¡i chá»—, chá»n thÃ´ng sá»‘ vÃ  Ä‘áº¥t 
   vÃ  [FHWA](../fhwa/index.md).
 - **Há»i [GTI Doctor](../../gti-doctor.md)** Ä‘á»ƒ tra toÃ n vÄƒn sá»• tay nguá»“n.
 
-## Video bÃ i giáº£ng tham kháº£o liÃªn quan
-
-<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/N3lD4C3vg1k" title="CEEN 641 - Lecture 1 - Crash Course Review of Basic Soil Mechanics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
-</div>
-<p><em>Video: CEEN 641 - Lecture 1 - Crash Course Review of Basic Soil Mechanics (Advanced Geotechnical Engineering).</em></p>
-
-!!! info "Ã nghÄ©a há»c thuáº­t & Thá»±c tiá»…n"
-    BÃ i giáº£ng tá»•ng Ã´n cÃ´ Ä‘á»ng vÃ  trá»±c quan vá» toÃ n bá»™ cÃ¡c nguyÃªn lÃ½ cÆ¡ báº£n cá»§a cÆ¡ há»c Ä‘áº¥t: sÆ¡ Ä‘á»“ 3 pha, dung trá»ng, giá»›i háº¡n Atterberg, biá»ƒu Ä‘á»“ dáº»o Casagrande, phÃ¢n loáº¡i Ä‘áº¥t USCS vÃ  Ã½ nghÄ©a cá»§a á»©ng suáº¥t há»¯u hiá»‡u.
-
 ---
 
 > **ThÃ´ng sá»‘ khÃ´ng pháº£i chÃ¢n lÃ½.** Má»i thÃ´ng sá»‘ Ä‘áº¥t Ä‘á»u mang báº¥t Ä‘á»‹nh; ká»¹ thuáº­t tá»‘t bao
 > biÃªn Ä‘á»™ Ä‘Ã³ vÃ  thiáº¿t káº¿ theo dáº£i giÃ¡ trá»‹, khÃ´ng pháº£i má»™t con sá»‘ duy nháº¥t.
 
+---
 
 ## Video công nghệ & Tư liệu thực hành liên quan
 

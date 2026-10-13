@@ -77,22 +77,13 @@ há»‡ thá»‘ng Ä‘á»• tháº£i, há»‡ thá»‘ng xáº£ trÃ 
 sÃ¡t** á»Ÿ Ä‘Ã¢y nghÄ©a lÃ  sá»± káº¿t há»£p giá»¯a quan sÃ¡t cá»§a con ngÆ°á»i vÃ  Ä‘o Ä‘áº¡c báº±ng thiáº¿t
 bá»‹ nháº±m xÃ¡c nháº­n cÆ¡ sá»Ÿ Ä‘ang hoáº¡t Ä‘á»™ng nhÆ° ká»³ vá»ng.
 
-## Video bÃ i giáº£ng tham kháº£o liÃªn quan
-
-<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/vi6zMy3oiBc" title="ICOLD Course - Fundamental Tailings Dam Safety Part 1: Intro and overview of Bulletin 194" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
-</div>
-<p><em>Video: ICOLD Course - Fundamental Tailings Dam Safety Part 1: Intro and overview of Bulletin 194 (ICOLD Tailings Committee).</em></p>
-
-!!! info "Ã nghÄ©a há»c thuáº­t & Thá»±c tiá»…n"
-    KhÃ³a há»c chÃ­nh thá»©c cá»§a ICOLD vá» an toÃ n cÆ¡ sá»Ÿ lÆ°u giá»¯ bÃ¹n tháº£i quáº·ng má» (TSF), phÃ¢n tÃ­ch bá»‘i cáº£nh, cáº¥u trÃºc vÃ  ná»™i dung cá»‘t lÃµi cá»§a Báº£n tin Ká»¹ thuáº­t ICOLD Bulletin 194, cÃ¡c cÆ¡ cháº¿ phÃ¡ hoáº¡i dÃ²ng cháº£y / hÃ³a lá»ng tÄ©nh vÃ  yÃªu cáº§u quan tráº¯c Ä‘áº­p.
-
 ---
 
 > **An toÃ n lÃªn trÆ°á»›c.** Dá»¯ liá»‡u thiáº¿t bá»‹ há»— trá»£, nhÆ°ng khÃ´ng bao giá» thay tháº¿,
 > cÃ´ng tÃ¡c kiá»ƒm tra trá»±c quan cÃ³ trÃ¬nh Ä‘á»™ vÃ  nÄƒng lá»±c phÃ¡n Ä‘oÃ¡n ká»¹ thuáº­t cá»§a má»™t
 > ká»¹ sÆ° bÃ¹n tháº£i cÃ³ trÃ¬nh Ä‘á»™ cÃ¹ng chÆ°Æ¡ng trÃ¬nh an toÃ n Ä‘áº­p cá»§a cÆ¡ sá»Ÿ.
 
+---
 
 ## Video công nghệ & Tư liệu thực hành liên quan
 

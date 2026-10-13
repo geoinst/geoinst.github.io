@@ -54,24 +54,13 @@ CÃ¡c chÆ°Æ¡ng cÃ²n láº¡i cá»§a sÃ¡ch (4 nÃºi lá»­a, 8 thá�
 lÅ©, 16 bÄƒng hÃ , 17 bá» biá»ƒn, 18 Ä‘áº¡i dÆ°Æ¡ng, 19 khÃ­ háº­u, 20 tÃ i nguyÃªn, 21 tÃ¢y Canada, 22
 nguá»“n gá»‘c Quáº£ Äáº¥t) náº±m ngoÃ i pháº¡m vi Ä‘á»‹a ká»¹ thuáº­t cá»§a trang nÃ y vÃ  khÃ´ng Ä‘Æ°á»£c tá»•ng há»£p.
 
-## Video bÃ i giáº£ng tham kháº£o liÃªn quan
-
-<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/ypH6dR7YGfU" title="Intro to Geology: Crash Course Geology #1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
-</div>
-<p><em>Video: Intro to Geology: Crash Course Geology #1 (CrashCourse).</em></p>
-
-!!! info "Ã nghÄ©a há»c thuáº­t & Thá»±c tiá»…n"
-    Giá»›i thiá»‡u tá»•ng quan vÃ  sinh Ä‘á»™ng vá» khoa há»c Ä‘á»‹a cháº¥t, cÃ¡c lá»›p cáº¥u trÃºc bÃªn trong Quáº£ Äáº¥t, kiáº¿n táº¡o máº£ng, vÃ²ng tuáº§n hoÃ n Ä‘Ã¡ vÃ  nguá»“n gá»‘c hÃ¬nh thÃ nh Ä‘á»‹a hÃ¬nh Ä‘á»‹a máº¡o tÆ°Æ¡ng thÃ­ch trá»±c tiáº¿p vá»›i cÃ¡c ná»™i dung trong giÃ¡o trÃ¬nh *Physical Geology*.
-
----
-
 ## GTI Doctor
 
 Trá»£ lÃ½ [GTI Doctor](../../gti-doctor.md) láº­p chá»‰ má»¥c kho tÆ° liá»‡u cá»§a trang. Há»i trá»£ lÃ½ vá»
 phong hoÃ¡ Ä‘Ã¡, nÆ°á»›c dÆ°á»›i Ä‘áº¥t hay cÆ¡ cháº¿ trÆ°á»£t mÃ¡i dá»‘c â€” trá»£ lÃ½ sáº½ tráº£ lá»i dá»±a trÃªn cÃ¡c trang
 nÃ y vÃ  trÃªn cáº©m nang.
 
+---
 
 ## Video công nghệ & Tư liệu thực hành liên quan
 

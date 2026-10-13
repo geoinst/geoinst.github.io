@@ -246,17 +246,6 @@ Sá»± gáº¯n káº¿t há»¯u cÆ¡ cá»§a toÃ n bá»™ 16 bá»™ t
 
 ---
 
-## Video bÃ i giáº£ng tham kháº£o liÃªn quan
-
-<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/31cHhZItfL0" title="Geotechnical Monitoring Results Analysis & Interpretation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
-</div>
-<p><em>Video: Geotechnical Monitoring Results Analysis & Interpretation (Dionisis Koumoutsakos / IAEG Channel).</em></p>
-
-!!! info "Ã nghÄ©a há»c thuáº­t & Thá»±c tiá»…n"
-    BÃ i thuyáº¿t trÃ¬nh chuyÃªn sÃ¢u liÃªn káº¿t toÃ n diá»‡n chuá»—i dá»¯ liá»‡u tá»« cáº£m biáº¿n hiá»‡n trÆ°á»ng, xá»­ lÃ½ tÃ­n hiá»‡u tá»± Ä‘á»™ng ADAQS, phÃ¢n tÃ­ch xu hÆ°á»›ng dá»‹ch chuyá»ƒn vÃ  á»©ng suáº¥t ngáº§m Ä‘áº¿n quy trÃ¬nh ra quyáº¿t Ä‘á»‹nh cáº£nh bÃ¡o sá»›m phÃ²ng ngá»«a sá»± cá»‘ tháº£m há»a cÃ´ng trÃ¬nh.
-
-
 ## Video công nghệ & Tư liệu thực hành liên quan
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">

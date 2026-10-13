@@ -68,22 +68,13 @@ sá»­ dá»¥ng há»‡ Ä‘Æ¡n vá»‹ phá»• biáº¿n nháº¥t cho
 thiáº¿t. "Performance" (hiá»‡u nÄƒng) nghÄ©a lÃ  hÃ nh vi quan sÃ¡t Ä‘Æ°á»£c cá»§a con Ä‘áº­p so
 vá»›i hÃ nh vi ká»³ vá»ng cá»§a nÃ³.
 
-## Video bÃ i giáº£ng tham kháº£o liÃªn quan
-
-<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/q3P7oq3l7_A" title="Dam Performance Monitoring, Instrumentation, and Data Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
-</div>
-<p><em>Video: Dam Performance Monitoring, Instrumentation, and Data Analysis (Dam Safety BC / Canadian Dam Association).</em></p>
-
-!!! info "Ã nghÄ©a há»c thuáº­t & Thá»±c tiá»…n"
-    Há»™i tháº£o chuyÃªn sÃ¢u vá» cÃ¡c phÆ°Æ¡ng phÃ¡p quan tráº¯c hiá»‡u nÄƒng Ä‘áº­p, láº¯p Ä‘áº·t vÃ  hiá»‡u chuáº©n thiáº¿t bá»‹ (Ã¡p káº¿, Ä‘o biáº¿n dáº¡ng, Ä‘o lÆ°u lÆ°á»£ng tháº¥m), quy trÃ¬nh quáº£n lÃ½ cháº¥t lÆ°á»£ng sá»‘ liá»‡u vÃ  ra quyáº¿t Ä‘á»‹nh an toÃ n Ä‘áº­p theo triáº¿t lÃ½ ASCE MOP-135 vÃ  CDA.
-
 ---
 
 > **An toÃ n lÃ  trÃªn háº¿t.** Dá»¯ liá»‡u thiáº¿t bá»‹ há»— trá»£, nhÆ°ng khÃ´ng bao giá» thay tháº¿,
 > viá»‡c kiá»ƒm tra trá»±c quan cÃ³ Ä‘á»§ nÄƒng lá»±c vÃ  phÃ¡n Ä‘oÃ¡n ká»¹ thuáº­t cá»§a má»™t ká»¹ sÆ° Ä‘áº­p
 > cÃ³ Ä‘á»§ nÄƒng lá»±c hoáº·c chÆ°Æ¡ng trÃ¬nh an toÃ n Ä‘áº­p cá»§a chá»§ Ä‘áº§u tÆ°.
 
+---
 
 ## Video công nghệ & Tư liệu thực hành liên quan
 

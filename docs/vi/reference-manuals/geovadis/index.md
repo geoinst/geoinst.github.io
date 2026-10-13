@@ -71,17 +71,6 @@ XuyÃªn suá»‘t cÃ¡c cÃ´ng trÃ¬nh nghiÃªn cá»©u trong *GeoVadis (
 
 ---
 
-## Video bÃ i giáº£ng tham kháº£o liÃªn quan
-
-<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/50MqXh8Qgac" title="2025 G-I Web Conference Lunch & Learn: Seequent: Geotechnical Workflow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
-</div>
-<p><em>Video: 2025 G-I Web Conference Lunch & Learn: Seequent: Geotechnical Workflow (Geo-Institute of ASCE).</em></p>
-
-!!! info "Ã nghÄ©a há»c thuáº­t & Thá»±c tiá»…n"
-    BÃ i thuyáº¿t trÃ¬nh cáº­p nháº­t cÃ¡c tiáº¿n bá»™ má»›i nháº¥t vá» quy trÃ¬nh lÃ m viá»‡c Ä‘á»‹a ká»¹ thuáº­t sá»‘ hÃ³a, tÃ­ch há»£p mÃ´ hÃ¬nh 3D, dá»¯ liá»‡u quan tráº¯c hiá»‡n trÆ°á»ng vÃ  cÃ¡c cÃ´ng cá»¥ mÃ´ phá»ng sá»‘ tiÃªn tiáº¿n tÆ°Æ¡ng á»©ng vá»›i cÃ¡c chá»§ Ä‘á» Ä‘á»™t phÃ¡ trong ká»· yáº¿u GeoVadis.
-
-
 ## Video công nghệ & Tư liệu thực hành liên quan
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
