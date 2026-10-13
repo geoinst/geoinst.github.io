@@ -141,6 +141,18 @@ nav:
               - "Ch.12 Hiệu chuẩn, Bảo trì & Lắp đặt": vi/reference-manuals/fhwa/chapter-12-calibration-installation.md
               - "Ch.13 Thu thập, Diễn giải & Báo cáo dữ liệu": vi/reference-manuals/fhwa/chapter-13-data-interpretation.md
               - "Ch.14 Tài liệu tham khảo & Phụ lục": vi/reference-manuals/fhwa/chapter-14-references-appendices.md
+          - "FHWA — Tường đất có cốt (MSE) & Mái dốc đất có cốt":
+              - Tổng quan: vi/reference-manuals/fhwa-mse-walls/index.md
+              - "Ch.1 Giới thiệu": vi/reference-manuals/fhwa-mse-walls/chapter-01-introduction.md
+              - "Ch.2 Hệ thống & Đánh giá dự án": vi/reference-manuals/fhwa-mse-walls/chapter-02-systems-project-evaluation.md
+              - "Ch.3 Nguyên lý cốt gia cường đất & Thông số thiết kế": vi/reference-manuals/fhwa-mse-walls/chapter-03-soil-reinforcement-principles.md
+              - "Ch.4 Thiết kế tường MSE": vi/reference-manuals/fhwa-mse-walls/chapter-04-design-mse-walls.md
+              - "Ch.5 Tường MSE hình học phức tạp": vi/reference-manuals/fhwa-mse-walls/chapter-05-complex-geometries.md
+              - "Ch.6 Mái dốc đất có cốt (RSS): Đánh giá dự án": vi/reference-manuals/fhwa-mse-walls/chapter-06-rss-project-evaluation.md
+              - "Ch.7 Thiết kế mái dốc đất có cốt": vi/reference-manuals/fhwa-mse-walls/chapter-07-design-rss.md
+              - "Ch.8 Phương thức hợp đồng & Định mức kỹ thuật": vi/reference-manuals/fhwa-mse-walls/chapter-08-contracting-specifications.md
+              - "Ch.9 Kiểm tra hiện trường & Quan trắc hiệu năng": vi/reference-manuals/fhwa-mse-walls/chapter-09-field-inspection-monitoring.md
+              - "Ch.10 Tài liệu tham khảo & Phụ lục": vi/reference-manuals/fhwa-mse-walls/chapter-10-references-appendices.md
           - "Kỹ thuật móng (phạm vi công cộng)":
               - Tổng quan: vi/reference-manuals/foundation-engineering/index.md
               - "Ch.1 Giới thiệu & Nguồn tài liệu": vi/reference-manuals/foundation-engineering/chapter-01-introduction.md
@@ -332,6 +344,18 @@ nav:
           - "Ch.12 Calibration, Maintenance & Installation": reference-manuals/fhwa/chapter-12-calibration-installation.md
           - "Ch.13 Data Collection, Interpretation & Reporting": reference-manuals/fhwa/chapter-13-data-interpretation.md
           - "Ch.14 References & Appendices": reference-manuals/fhwa/chapter-14-references-appendices.md
+      - "FHWA — MSE Walls & Reinforced Soil Slopes":
+          - Overview: reference-manuals/fhwa-mse-walls/index.md
+          - "Ch.1 Introduction": reference-manuals/fhwa-mse-walls/chapter-01-introduction.md
+          - "Ch.2 Systems & Project Evaluation": reference-manuals/fhwa-mse-walls/chapter-02-systems-project-evaluation.md
+          - "Ch.3 Soil Reinforcement Principles & Design Properties": reference-manuals/fhwa-mse-walls/chapter-03-soil-reinforcement-principles.md
+          - "Ch.4 Design of MSE Walls": reference-manuals/fhwa-mse-walls/chapter-04-design-mse-walls.md
+          - "Ch.5 MSE Walls with Complex Geometries": reference-manuals/fhwa-mse-walls/chapter-05-complex-geometries.md
+          - "Ch.6 Reinforced Soil Slopes: Project Evaluation": reference-manuals/fhwa-mse-walls/chapter-06-rss-project-evaluation.md
+          - "Ch.7 Design of Reinforced Soil Slopes": reference-manuals/fhwa-mse-walls/chapter-07-design-rss.md
+          - "Ch.8 Contracting Methods & Specifications": reference-manuals/fhwa-mse-walls/chapter-08-contracting-specifications.md
+          - "Ch.9 Field Inspection & Performance Monitoring": reference-manuals/fhwa-mse-walls/chapter-09-field-inspection-monitoring.md
+          - "Ch.10 References & Appendices": reference-manuals/fhwa-mse-walls/chapter-10-references-appendices.md
       - "Foundation Engineering (public domain)":
           - Overview: reference-manuals/foundation-engineering/index.md
           - "Ch.1 Introduction & Sources": reference-manuals/foundation-engineering/chapter-01-introduction.md

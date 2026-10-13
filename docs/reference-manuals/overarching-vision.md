@@ -6,7 +6,7 @@ lang_alt: vi/reference-manuals/overarching-vision/
 # The Grand Vision: From Earth's Crust to Real-Time Monitoring & Disaster Prevention
 
 !!! info "Executive Synthesis & Foundational Framework"
-    This overarching guide synthesizes the entire geotechnical corpus hosted on this platform—spanning **Physical Geology**, **Soil Mechanics**, **Foundation Engineering**, **Rock Engineering (Hoek)**, **Dam & Tailings Safety**, **Advanced Instrumentation (Dunnicliff / FHWA)**, **CFEM 2022** and **SME Mining Instrumentation (Ch. 8.5)**, the **Burt investigation-and-design data tables**, and the latest **GeoVadis Frontiers (Volumes 1–3)**. It articulates the grand engineering vision connecting planetary earth processes to daily sensor telemetry, explaining why geotechnical instrumentation and **ADAQS** are indispensable to preventing catastrophic disasters and ensuring the lifelong resilience of civil infrastructure.
+    This overarching guide synthesizes the entire geotechnical corpus hosted on this platform—spanning **Physical Geology**, **Soil Mechanics**, **Foundation Engineering**, **Rock Engineering (Hoek)**, **Dam & Tailings Safety**, **Advanced Instrumentation (Dunnicliff / FHWA)**, **CFEM 2022** and **SME Mining Instrumentation (Ch. 8.5)**, the **Burt investigation-and-design data tables**, the **FHWA MSE Walls & Reinforced Soil Slopes design manual**, and the latest **GeoVadis Frontiers (Volumes 1–3)**. It articulates the grand engineering vision connecting planetary earth processes to daily sensor telemetry, explaining why geotechnical instrumentation and **ADAQS** are indispensable to preventing catastrophic disasters and ensuring the lifelong resilience of civil infrastructure.
 
 ---
 
@@ -80,11 +80,13 @@ graph TD
     CFEM["13. CFEM 2022 Ch.25 — Geotechnical Instrumentation & Monitoring (Choquet)<br/>Canadian field manual: sensors, data quality, standards"]:::monitor
     SME["14. SME Mining Eng. Handbook Ch.8.5 — Mining Instrumentation (Eberhardt & Stead)<br/>Geotechnical instrumentation for mining & tailings"]:::monitor
     BURT["15. Burt — Handbook of Geotechnical Investigation & Design Tables<br/>Data book: correlations, rules of thumb, design tables"]:::design
+    MSE["16. FHWA — MSE Walls & Reinforced Soil Slopes (NHI-00-043)<br/>Design & Construction: soil reinforcement, MSE walls, reinforced slopes"]:::design
     ADA["ADAQS & Compliance Hub<br/>Automated Systems, Sensor Fusion, Decree 114, TCVN 9398"]:::system
 
     PG --> SM --> PRE --> FE --> DAM & TLG
     FE --> HB
-    FE --> BURT
+    FE --> BURT & MSE
+    MSE --> FHW
     SM --> DUN & FHW & CFEM & SME
     DAM & TLG --> DUN
     DUN & FHW & CFEM & SME --> ADA
@@ -94,7 +96,7 @@ graph TD
 ### The Knowledge Progression:
 1. **The Origin & Lithology (*Physical Geology*):** Teaches how volcanic basalts, tectonic fault gouges, marine sediments, and glacial till deposits formed their macro-fabrics and groundwater regimes.
 2. **The Fundamental Physics (*Soil Mechanics* & *Practical Rock Engineering*):** Translates geological strata into mechanics: grain size distribution, Atterberg limits, permeability $k$, compressibility $C_c$, undrained shear strength $s_u$, and the effective stress tensor. *Practical Rock Engineering* (Hoek) extends this into **rock mechanics** — GSI, discontinuity shear, in-situ stresses, and acceptable-design philosophy for rock slopes, tunnels, and rock foundations.
-3. **The Design Synthesis (*Foundation Engineering*, *Geotechnical Engineer's Handbook* & *Burt*):** Calculates how to distribute superstructure loads safely through shallow spread footings, deep bored piles, barrettes, and mechanically stabilized earth (MSE) walls — and *Burt's Handbook of Geotechnical Investigation and Design Tables* supplies the **correlations and design tables** (SPT → strength, CPT → soil type, RQD → rock bearing capacity, PI → modulus) that turn that theory into spreadsheet-ready numbers.
+3. **The Design Synthesis (*Foundation Engineering*, *Geotechnical Engineer's Handbook* & *Burt*):** Calculates how to distribute superstructure loads safely through shallow spread footings, deep bored piles, barrettes, and mechanically stabilized earth (MSE) walls — and *Burt's Handbook of Geotechnical Investigation and Design Tables* supplies the **correlations and design tables** (SPT → strength, CPT → soil type, RQD → rock bearing capacity, PI → modulus) that turn that theory into spreadsheet-ready numbers. The **FHWA *MSE Walls and Reinforced Soil Slopes* manual** then carries the reinforced-soil part of that synthesis to full design — pullout mechanics, external and internal stability, and the specifications and field inspection that make an MSE wall or reinforced slope buildable.
 4. **The High-Risk Asset Frontiers (*Dams & Tailings Safety*):** Establishes the fatal failure mechanisms of critical water-retaining and mine-tailings embankments: piping, hydraulic fracturing, foundation sliding, and flow liquefaction.
 5. **The Diagnostic Philosophy (*Dunnicliff, FHWA, CFEM 2022* & *SME Mining Instrumentation*):** Introduces the **Observational Method** (Peck, 1969), teaching engineers how to form specific geotechnical questions and select the exact instrument family to answer each question — broadened by the **CFEM 2022 Ch. 25** Canadian instrumentation-and-monitoring field manual and the **SME Mining Engineering Handbook Ch. 8.5** treatment of geotechnical instrumentation for mining and tailings.
 6. **The Technological Frontier (*GeoVadis Volumes 1–3*):** Advances the profession into machine learning surrogate models, physics-informed neural networks (PINNs), biopolymer stabilization, bio-cementation (MICP), advanced seismic look-ahead tunnel geophysics, and climate-resilient road alignments.

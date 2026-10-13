@@ -6,7 +6,7 @@ lang_alt: reference-manuals/overarching-vision/
 # Tầm nhìn Tổng thể: Từ Cấu trúc Trái đất đến Quan trắc Thời gian thực & Phòng ngừa Thảm họa
 
 !!! info "Khung Tổng hợp Chiến lược & Nền tảng Kỹ thuật"
-    Chương chuyên khảo tổng thể này liên kết và thống nhất toàn bộ kho tri thức địa kỹ thuật trên nền tảng—bao gồm **Địa chất Vật lý**, **Cơ học Đất**, **Kỹ thuật Móng**, **Thực hành Đá (Hoek)**, **An toàn Đập & Đập Thải**, **Thiết bị Quan trắc Nâng cao (Dunnicliff / FHWA)**, **CFEM 2022** và **Thiết bị Quan trắc Khai khoáng SME (Ch. 8.5)**, **Bảng tra cứu & Thiết kế của Burt**, cùng các tiến bộ mới nhất trong **GeoVadis (Tập 1–3)**. Tài liệu này kiến tạo tầm nhìn kỹ thuật toàn cảnh, kết nối từ tiến trình kiến tạo hàng triệu năm của vỏ Trái Đất đến từng xung tín hiệu cảm biến truyền theo thời gian thực (mili-giây), lý giải vì sao thiết bị quan trắc địa kỹ thuật và hệ thống **ADAQS** là chìa khóa then chốt để phòng chống thảm họa và bảo vệ sự bền vững trọn đời của các công trình hạ tầng quốc gia.
+    Chương chuyên khảo tổng thể này liên kết và thống nhất toàn bộ kho tri thức địa kỹ thuật trên nền tảng—bao gồm **Địa chất Vật lý**, **Cơ học Đất**, **Kỹ thuật Móng**, **Thực hành Đá (Hoek)**, **An toàn Đập & Đập Thải**, **Thiết bị Quan trắc Nâng cao (Dunnicliff / FHWA)**, **CFEM 2022** và **Thiết bị Quan trắc Khai khoáng SME (Ch. 8.5)**, **Bảng tra cứu & Thiết kế của Burt**, **sổ tay thiết kế Tường đất có cốt (MSE) & Mái dốc đất có cốt của FHWA**, cùng các tiến bộ mới nhất trong **GeoVadis (Tập 1–3)**. Tài liệu này kiến tạo tầm nhìn kỹ thuật toàn cảnh, kết nối từ tiến trình kiến tạo hàng triệu năm của vỏ Trái Đất đến từng xung tín hiệu cảm biến truyền theo thời gian thực (mili-giây), lý giải vì sao thiết bị quan trắc địa kỹ thuật và hệ thống **ADAQS** là chìa khóa then chốt để phòng chống thảm họa và bảo vệ sự bền vững trọn đời của các công trình hạ tầng quốc gia.
 
 ---
 
@@ -80,11 +80,13 @@ graph TD
     CFEM["13. CFEM 2022 Ch.25 — Quan trắc & Giám sát Địa kỹ thuật (Choquet)<br/>Sổ tay hiện trường Canada: cảm biến, chất lượng dữ liệu, tiêu chuẩn"]:::monitor
     SME["14. SME Cẩm nang Kỹ thuật Mỏ Ch.8.5 — Thiết bị Quan trắc Khai khoáng (Eberhardt & Stead)<br/>Thiết bị quan trắc địa kỹ thuật cho khai khoáng & đập thải"]:::monitor
     BURT["15. Burt — Cẩm nang Tra cứu & Thiết kế Địa kỹ thuật<br/>Sổ tay dữ liệu: hệ thức tương quan, quy tắc kinh nghiệm, bảng thiết kế"]:::design
+    MSE["16. FHWA — Tường đất có cốt (MSE) & Mái dốc đất có cốt (NHI-00-043)<br/>Thiết kế & Thi công: cốt gia cường đất, tường MSE, mái dốc có cốt"]:::design
     ADA["Hệ thống ADAQS & Tuân thủ Pháp lý<br/>Đo đạc tự động, Hợp nhất cảm biến, Nghị định 114, TCVN 9398"]:::system
 
     PG --> SM --> PRE --> FE --> DAM & TLG
     FE --> HB
-    FE --> BURT
+    FE --> BURT & MSE
+    MSE --> FHW
     SM --> DUN & FHW & CFEM & SME
     DAM & TLG --> DUN
     DUN & FHW & CFEM & SME --> ADA
@@ -94,7 +96,7 @@ graph TD
 ### Tiến trình Khái niệm:
 1. **Khởi nguyên Địa tầng (*Địa chất Vật lý*):** Giúp người kỹ sư thấu hiểu cách thức các khối đá basalt mác-ma, đới dập vỡ đứt gãy, trầm tích sét hồ bão hòa và sông băng đã tạo dựng nên môi trường đất đá ngầm và cơ chế thủy văn.
 2. **Quy luật Cơ học (*Cơ học Đất* & *Thực hành Đá*):** Chuyển hóa các cấu trúc địa chất thành các phương trình cơ học: cấp phối hạt, giới hạn Atterberg, hệ số thấm $k$, chỉ số nén $C_c$, sức kháng cắt không thoát nước $s_u$, và ten-xơ ứng suất hữu hiệu. *Thực hành Đá (Hoek)* mở rộng nguyên lý này sang **cơ học đá** — GSI, cắt mặt bất liên tục, ứng suất nguyên sinh, và triết lý thiết kế chấp nhận được cho mái dốc đá, hầm và móng đá.
-3. **Truyền lực Nền móng (*Kỹ thuật Móng*, *Cẩm nang Trần Văn Việt* & *Burt*):** Hướng dẫn tính toán phân bố tải trọng siêu công trình xuống tầng đất đỡ thông qua móng đơn, móng băng, móng bè cọc, cọc khoan nhồi, tường vây barrette và tường đất có cốt (MSE). *Cẩm nang Tra cứu & Thiết kế Địa kỹ thuật của Burt* cung cấp **các hệ thức tương quan và bảng thiết kế** (SPT → cường độ, CPT → loại đất, RQD → sức chịu tải đá, PI → mô đun) để biến lý thuyết thành những con số sẵn sàng nhập bảng tính.
+3. **Truyền lực Nền móng (*Kỹ thuật Móng*, *Cẩm nang Trần Văn Việt* & *Burt*):** Hướng dẫn tính toán phân bố tải trọng siêu công trình xuống tầng đất đỡ thông qua móng đơn, móng băng, móng bè cọc, cọc khoan nhồi, tường vây barrette và tường đất có cốt (MSE). *Cẩm nang Tra cứu & Thiết kế Địa kỹ thuật của Burt* cung cấp **các hệ thức tương quan và bảng thiết kế** (SPT → cường độ, CPT → loại đất, RQD → sức chịu tải đá, PI → mô đun) để biến lý thuyết thành những con số sẵn sàng nhập bảng tính. Sổ tay **Tường đất có cốt (MSE) & Mái dốc đất có cốt của FHWA** sau đó đưa phần đất có cốt của sự tổng hợp đó tới thiết kế trọn vẹn — cơ học nhổ, ổn định ngoài và trong, cùng định mức kỹ thuật và kiểm tra hiện trường để thi công được một bức tường MSE hay mái dốc có cốt.
 4. **Hạ tầng Rủi ro Cực đại (*An toàn Đập & Đập Thải*):** Làm rõ các cơ chế phá hoại thảm khốc: xói ngầm thân đập, bục đáy do áp lực ngược, mất ổn định trượt mái đập khi rút nước nhanh, và hóa lỏng dòng chảy của bùn quặng thải.
 5. **Triết lý Chẩn đoán (*Dunnicliff, FHWA, CFEM 2022* & *Thiết bị Quan trắc Khai khoáng SME*):** Đưa ra **Phương pháp Quan sát (Observational Method)** của Ralph B. Peck, dạy kỹ sư cách đặt câu hỏi địa kỹ thuật cụ thể để lựa chọn đúng chủng loại cảm biến đo đạc — được mở rộng bởi sổ tay hiện trường **CFEM 2022 Ch.25** (Canada) về quan trắc & giám sát và chương **SME Cẩm nang Kỹ thuật Mỏ Ch.8.5** về thiết bị quan trắc địa kỹ thuật cho khai khoáng và đập thải.
 6. **Công nghệ Tiên phong (*GeoVadis Tập 1, 2, 3*):** Mở rộng tầm nhìn sang mô hình học máy thay thế (surrogate models), mạng nơ-ron thông tin vật lý (PINNs), vật liệu sinh học biopolymer, kết tủa canxit vi sinh (MICP), thăm dò địa chấn trước gương hầm, và thiết kế đường thích ứng biến đổi khí hậu.
@@ -240,4 +242,4 @@ Không có **Cơ học Đất**, kỹ sư không thể định lượng được
 Không có **Kỹ thuật Móng**, công trình không thể đứng vững trên nền đất.  
 Không có **Thiết bị Quan trắc và Hệ thống ADAQS**, kỹ sư sẽ hoàn toàn mù quáng trước những biến đổi ngầm, đẩy công trình vào nguy cơ thảm họa.
 
-Sự gắn kết hữu cơ của toàn bộ 15 bộ tài liệu trong cơ sở tri thức này biến kỹ thuật địa kỹ thuật từ một bộ môn đầy bất định thành một **khoa học dự báo, định lượng và chủ động bảo vệ tính mạng con người**.
+Sự gắn kết hữu cơ của toàn bộ 16 bộ tài liệu trong cơ sở tri thức này biến kỹ thuật địa kỹ thuật từ một bộ môn đầy bất định thành một **khoa học dự báo, định lượng và chủ động bảo vệ tính mạng con người**.

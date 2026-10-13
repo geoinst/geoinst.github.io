@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 460" font-family="Inter, Arial, sans-serif">
+  <rect width="780" height="460" fill="#ffffff"/>
+  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Generic cross-section of a reinforced soil slope (RSS)</text>
+
+  <!-- existing ground (right) -->
+  <rect x="560" y="120" width="200" height="260" fill="#e3d5b3"/>
+  <text x="660" y="240" text-anchor="middle" font-size="13" font-weight="600" fill="#7a6633">Existing</text>
+  <text x="660" y="258" text-anchor="middle" font-size="13" font-weight="600" fill="#7a6633">ground</text>
+
+  <!-- reinforced fill trapezoid -->
+  <polygon points="160,380 330,120 560,120 560,380" fill="#f4ecd8" stroke="#e0d3b0"/>
+
+  <!-- reinforcement layers -->
+  <g stroke="#b45309" stroke-width="4.5" stroke-linecap="round">
+    <line x1="181" y1="350" x2="555" y2="350"/>
+    <line x1="207" y1="310" x2="555" y2="310"/>
+    <line x1="233" y1="270" x2="555" y2="270"/>
+    <line x1="259" y1="230" x2="555" y2="230"/>
+    <line x1="285" y1="190" x2="555" y2="190"/>
+    <line x1="311" y1="150" x2="555" y2="150"/>
+  </g>
+
+  <!-- critical slip surface -->
+  <path d="M 430,120 C 300,205 205,300 165,378" fill="none" stroke="#c2410c" stroke-width="2.5" stroke-dasharray="8 5"/>
+
+  <!-- vegetated face band -->
+  <line x1="160" y1="380" x2="330" y2="120" stroke="#3f9142" stroke-width="9" stroke-linecap="round"/>
+
+  <!-- foundation soil -->
+  <rect x="30" y="380" width="730" height="60" fill="#d8d2c4"/>
+  <text x="60" y="416" font-size="13" font-weight="600" fill="#6f6a5c">Foundation soil</text>
+
+  <!-- face angle arc -->
+  <path d="M 218,380 Q 208,356 191,334" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+  <text x="228" y="368" font-size="13" font-weight="700" fill="#1d4ed8">β</text>
+
+  <!-- labels -->
+  <text x="330" y="112" text-anchor="middle" font-size="11" fill="#8a7748">crest</text>
+  <text x="392" y="286" text-anchor="middle" font-size="13" font-weight="600" fill="#8a6d1f">Reinforced fill</text>
+  <text x="392" y="304" text-anchor="middle" font-size="11" fill="#a08b45">(wrap face, vegetated or armored)</text>
+
+  <line x1="470" y1="330" x2="470" y2="352" stroke="#666" stroke-width="1" stroke-dasharray="3 3"/>
+  <text x="470" y="326" text-anchor="middle" font-size="12" font-weight="600" fill="#8a3f06">Reinforcement layers</text>
+
+  <line x1="300" y1="250" x2="336" y2="232" stroke="#c2410c" stroke-width="1" stroke-dasharray="3 3"/>
+  <text x="250" y="246" text-anchor="end" font-size="12" font-weight="600" fill="#9a3412">Critical slip surface</text>
+
+  <line x1="250" y1="300" x2="245" y2="288" stroke="#2f6f32" stroke-width="1" stroke-dasharray="3 3"/>
+  <text x="140" y="316" font-size="12" font-weight="600" fill="#2f6f32">Vegetated face</text>
+
+  <!-- toe marker -->
+  <circle cx="160" cy="380" r="4" fill="#444"/>
+  <text x="150" y="398" text-anchor="end" font-size="11" fill="#555">toe</text>
+
+  <text x="30" y="452" font-size="10.5" fill="#777">After FHWA-NHI-00-043, Ch. 6–7. Stability is governed by the critical slip surface, not by rigid-body equilibrium.</text>
+</svg>
