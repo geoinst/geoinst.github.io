@@ -89,7 +89,8 @@ này cô đọng cấu trúc đó thành các trang sau:
     Soil Slopes: Design & Construction Guidelines* (394 trang), FHWA-NHI-00-043,
     tháng 3 năm 2001. Là **công trình của chính phủ Hoa Kỳ thuộc phạm vi công
     cộng** (phân phối không hạn chế). Được đăng tải tại đây để bản 2001 (đã được
-    thay thế) vẫn có thể trích dẫn song song với bản GEC-11 hiện hành.
+    thay thế) vẫn có thể trích dẫn song song với bản GEC-11 hiện hành. Trang bìa
+    của bên phân phối thứ ba đã được gỡ bỏ, nên tệp bắt đầu từ trang bìa của FHWA.
 
     [:material-file-download: **Tải sổ tay gốc (tiếng Anh, PDF)**](https://geoinst.github.io/assets/fhwa-mse-walls/fhwa-nhi-00-043-original.pdf){ .md-button }
 

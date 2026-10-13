@@ -90,7 +90,8 @@ This reference consolidates that structure into the following pages:
     Reinforced Soil Slopes: Design & Construction Guidelines* (394 pp.),
     FHWA-NHI-00-043, March 2001. A **U.S. Government work in the public domain**
     (distribution unrestricted). Hosted here so the superseded 2001 edition remains
-    citable alongside the current GEC-11 reissue.
+    citable alongside the current GEC-11 reissue. The third-party distributor's
+    cover page has been removed, so the file begins at the FHWA title page.
 
     [:material-file-download: **Download the original manual (English, PDF)**](https://geoinst.github.io/assets/fhwa-mse-walls/fhwa-nhi-00-043-original.pdf){ .md-button }
 
