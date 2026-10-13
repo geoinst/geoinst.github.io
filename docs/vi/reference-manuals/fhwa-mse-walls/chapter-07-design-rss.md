@@ -16,7 +16,7 @@ Vì mặt trượt tới hạn không biết trước, thiết kế mang tính l
 cốt cần thiết, kiểm tra rằng cốt huy động được lực của nó bằng sức kháng nhổ, rồi tìm
 lại mặt trượt tới hạn với cốt đã đưa vào.
 
-![Figure: rss-slope-anatomy](../../../assets/figures/rss-slope-anatomy.svg)
+![Figure: rss-slope-anatomy](../../../assets/figures/rss-slope-anatomy-vi.svg)
 
 **Hình.** Mặt cắt ngang điển hình của mái dốc đất có cốt: các lớp cốt gia cường kéo dài
 từ mặt dốc phủ thực vật vào tận đất ổn định phía sau mặt trượt tới hạn, với mặt dốc

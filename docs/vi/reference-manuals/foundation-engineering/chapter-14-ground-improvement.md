@@ -37,7 +37,7 @@ giảm nhẹ hóa lỏng. Đây thường là giải pháp kinh tế nhất cho 
 - **Thoát nước** — giếng thoát đứng, bấc thấm (wick drain) và giếng ngang tăng tốc cố kết và
   hạ áp lực nước lỗ rỗng.
 
-![Figure: foundation-ground-improvement](../../../assets/figures/foundation-ground-improvement.svg)
+![Figure: foundation-ground-improvement](../../../assets/figures/foundation-ground-improvement-vi.svg)
 
 **Hình.** Các phương pháp gia cố nền phổ biến: thay thế rung / cột đá, đầm chặt động, phụt vữa tia và bấc thấm thoát nước đứng (theo hướng dẫn gia cố nền của FHWA).
 

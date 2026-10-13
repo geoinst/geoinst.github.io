@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 360" font-family="Inter, Arial, sans-serif">
+  <rect width="780" height="360" fill="#ffffff"/>
+  <text x="390" y="24" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Hộp đo áp lực đất — ứng suất tổng và ứng suất tiếp xúc</text>
+
+  <!-- Panel A: contact stress cell against a wall -->
+  <g>
+    <text x="195" y="52" text-anchor="middle" font-size="13" font-weight="700" fill="#222">Hộp đo ứng suất tiếp xúc (tường)</text>
+    <rect x="60" y="80" width="30" height="230" fill="#9a9a9a"/>
+    <rect x="90" y="80" width="230" height="230" fill="#e8d9b0"/>
+    <line x1="90" y1="80" x2="320" y2="80" stroke="#8a7f5f" stroke-width="2"/>
+    <!-- cell flush with wall face -->
+    <rect x="92" y="170" width="10" height="46" fill="#8e44ad"/>
+    <line x1="102" y1="193" x2="250" y2="193" stroke="#8e44ad" stroke-width="1.5" stroke-dasharray="5 4"/>
+    <text x="215" y="210" text-anchor="middle" font-size="11" fill="#8e44ad">Hộp đo ngang bằng mặt</text>
+    <text x="45" y="200" text-anchor="middle" font-size="11" fill="#444" transform="rotate(-90 45 200)">Tường</text>
+    <text x="205" y="140" text-anchor="middle" font-size="11" fill="#444">Đất</text>
+  </g>
+
+  <!-- Panel B: total stress cell buried in fill -->
+  <g>
+    <text x="585" y="52" text-anchor="middle" font-size="13" font-weight="700" fill="#222">Hộp đo ứng suất tổng (trong đất đắp)</text>
+    <rect x="430" y="80" width="300" height="230" fill="#e8d9b0"/>
+    <!-- embankment over fill -->
+    <polygon points="430,80 585,30 740,80" fill="#c79a5b"/>
+    <!-- buried cell -->
+    <rect x="560" y="170" width="52" height="10" fill="#8e44ad"/>
+    <line x1="586" y1="180" x2="586" y2="250" stroke="#8e44ad" stroke-width="1.5" stroke-dasharray="5 4"/>
+    <text x="586" y="266" text-anchor="middle" font-size="11" fill="#8e44ad">Hộp đo trong đất đắp</text>
+    <text x="585" y="130" text-anchor="middle" font-size="11" fill="#444">Tải trọng đắp</text>
+  </g>
+
+  <text x="390" y="340" text-anchor="middle" font-size="11" fill="#999">Chọn độ cứng hộp đo khớp với nền: hộp quá cứng đọc cao; quá mềm đọc thấp. Phỏng theo Dunnicliff, Ch. 10.</text>
+</svg>

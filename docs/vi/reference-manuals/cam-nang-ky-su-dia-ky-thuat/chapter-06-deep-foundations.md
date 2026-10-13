@@ -66,7 +66,7 @@ trong đó $Q_p$ là sức kháng mũi và $Q_f$ là ma sát thành.
 ### 6.5.6 Theo công thức đóng cọc (PDT)
 ### 6.5.7 Cọc đơn ngàm trong đá
 
-![Figure: foundation-pile-load-transfer](../../../assets/figures/foundation-pile-load-transfer.svg)
+![Figure: foundation-pile-load-transfer](../../../assets/figures/foundation-pile-load-transfer-vi.svg)
 
 **Hình.** Truyền tải trong cọc: sức kháng mũi cộng ma sát thành.
 

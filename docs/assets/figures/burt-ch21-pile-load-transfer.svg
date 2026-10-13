@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 460" font-family="Inter, Arial, sans-serif">
   <rect width="780" height="460" fill="#ffffff"/>
-  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Pile load transfer — shaft friction and base resistance</text>
+  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Truyền tải trọng cọc — ma sát thân và sức kháng mũi</text>
 
   <!-- LEFT: pile -->
-  <text x="200" y="56" text-anchor="middle" font-size="13" font-weight="700" fill="#1d4ed8">Where the load goes</text>
+  <text x="200" y="56" text-anchor="middle" font-size="13" font-weight="700" fill="#1d4ed8">Tải trọng đi đâu</text>
 
   <!-- soil -->
   <rect x="60" y="90" width="280" height="290" fill="#e8e0cf" stroke="#a8a29e"/>
   <!-- weak layer -->
   <rect x="60" y="180" width="280" height="60" fill="#d6d3d1"/>
-  <text x="76" y="216" font-size="9.5" fill="#57534e">soft layer</text>
+  <text x="76" y="216" font-size="9.5" fill="#57534e">lớp mềm</text>
   <!-- pile -->
   <rect x="186" y="90" width="28" height="250" fill="#a8a29e" stroke="#57534e" stroke-width="2"/>
   <!-- base -->
@@ -18,7 +18,7 @@
   <!-- load arrow -->
   <path d="M200 46 L200 84" stroke="#dc2626" stroke-width="3"/>
   <path d="M193 76 L200 88 L207 76" fill="#dc2626"/>
-  <text x="216" y="60" font-size="11" font-weight="700" fill="#dc2626">applied load</text>
+  <text x="216" y="60" font-size="11" font-weight="700" fill="#dc2626">tải trọng tác dụng</text>
 
   <!-- shaft friction arrows -->
   <g stroke="#0f766e" stroke-width="2">
@@ -31,44 +31,44 @@
     <line x1="150" y1="310" x2="182" y2="310"/><path d="M176 306 L184 310 L176 314" fill="#0f766e"/>
     <line x1="250" y1="310" x2="218" y2="310"/><path d="M224 306 L216 310 L224 314" fill="#0f766e"/>
   </g>
-  <text x="112" y="106" font-size="10.5" font-weight="700" fill="#0f766e">shaft friction</text>
+  <text x="112" y="106" font-size="10.5" font-weight="700" fill="#0f766e">ma sát thân</text>
 
   <!-- base arrow -->
   <path d="M200 368 L200 388" stroke="#b45309" stroke-width="3"/>
   <path d="M193 380 L200 390 L207 380" fill="#b45309"/>
-  <text x="212" y="384" font-size="10.5" font-weight="700" fill="#b45309">base resistance</text>
+  <text x="212" y="384" font-size="10.5" font-weight="700" fill="#b45309">sức kháng mũi</text>
 
   <rect x="60" y="392" width="280" height="32" fill="#eef4ff" stroke="#c7d7f5"/>
   <text x="74" y="413" font-size="11" font-weight="700" fill="#1e3a8a">Q_ult = Q_shaft + Q_base</text>
 
   <!-- RIGHT: formulas -->
-  <text x="580" y="56" text-anchor="middle" font-size="13" font-weight="700" fill="#1d4ed8">The working numbers</text>
+  <text x="580" y="56" text-anchor="middle" font-size="13" font-weight="700" fill="#1d4ed8">Các giá trị làm việc</text>
 
   <rect x="390" y="76" width="360" height="150" fill="#f8fafc" stroke="#cbd5e1"/>
-  <text x="404" y="98" font-size="11.5" font-weight="700" fill="#334155">Shaft resistance from the N value</text>
+  <text x="404" y="98" font-size="11.5" font-weight="700" fill="#334155">Sức kháng thân từ giá trị N</text>
   <line x1="404" y1="108" x2="736" y2="108" stroke="#e2e8f0"/>
   <g font-size="10.5" fill="#475569">
-    <text x="404" y="128">Driven pile in sand</text><text x="736" y="128" text-anchor="end">f_s ≈ 2 N (kPa)</text>
-    <text x="404" y="148">Bored pile in sand</text><text x="736" y="148" text-anchor="end">f_s ≈ 1 N (kPa)</text>
-    <text x="404" y="168">Base resistance</text><text x="736" y="168" text-anchor="end">q_b ≈ 40–100 N (kPa)</text>
-    <text x="404" y="188">Uplift capacity</text><text x="736" y="188" text-anchor="end">50–70 % of compression</text>
-    <text x="404" y="208">Validity</text><text x="736" y="208" text-anchor="end">N ≤ 50</text>
+    <text x="404" y="128">Cọc đóng trong cát</text><text x="736" y="128" text-anchor="end">f_s ≈ 2 N (kPa)</text>
+    <text x="404" y="148">Cọc khoan trong cát</text><text x="736" y="148" text-anchor="end">f_s ≈ 1 N (kPa)</text>
+    <text x="404" y="168">Sức kháng mũi</text><text x="736" y="168" text-anchor="end">q_b ≈ 40–100 N (kPa)</text>
+    <text x="404" y="188">Sức chịu nhổ</text><text x="736" y="188" text-anchor="end">50–70 % của nén</text>
+    <text x="404" y="208">Hiệu lực</text><text x="736" y="208" text-anchor="end">N ≤ 50</text>
   </g>
 
   <rect x="390" y="240" width="360" height="110" fill="#fff7ed" stroke="#fed7aa"/>
-  <text x="404" y="262" font-size="11.5" font-weight="700" fill="#9a3412">Factors of safety</text>
+  <text x="404" y="262" font-size="11.5" font-weight="700" fill="#9a3412">Hệ số an toàn</text>
   <line x1="404" y1="272" x2="736" y2="272" stroke="#fed7aa"/>
   <g font-size="10.5" fill="#7c2d12">
-    <text x="404" y="292">Shallow foundation, static</text><text x="736" y="292" text-anchor="end">2.5 – 3.0</text>
-    <text x="404" y="310">Shallow foundation, seismic</text><text x="736" y="310" text-anchor="end">1.5 – 2.0</text>
-    <text x="404" y="328">Sliding</text><text x="736" y="328" text-anchor="end">≥ 1.5</text>
-    <text x="404" y="346">Eccentricity</text><text x="736" y="346" text-anchor="end">e ≤ L/6</text>
+    <text x="404" y="292">Móng nông, tĩnh</text><text x="736" y="292" text-anchor="end">2.5 – 3.0</text>
+    <text x="404" y="310">Móng nông, động đất</text><text x="736" y="310" text-anchor="end">1.5 – 2.0</text>
+    <text x="404" y="328">Trượt</text><text x="736" y="328" text-anchor="end">≥ 1.5</text>
+    <text x="404" y="346">Độ lệch tâm</text><text x="736" y="346" text-anchor="end">e ≤ L/6</text>
   </g>
 
   <rect x="390" y="364" width="360" height="70" fill="#f0fdf4" stroke="#bbf7d0"/>
-  <text x="404" y="386" font-size="10.5" fill="#166534" font-weight="600">Time effect: a pile driven into clay gains capacity</text>
-  <text x="404" y="404" font-size="10.5" fill="#166534" font-weight="600">as pore pressures dissipate — do not test it too early,</text>
-  <text x="404" y="422" font-size="10.5" fill="#166534" font-weight="600">or you will under-credit the pile and waste money.</text>
+  <text x="404" y="386" font-size="10.5" fill="#166534" font-weight="600">Hiệu ứng thời gian: cọc đóng vào sét tăng sức chịu tải</text>
+  <text x="404" y="404" font-size="10.5" fill="#166534" font-weight="600">khi áp lực lỗ rỗng tiêu tán — đừng thử quá sớm,</text>
+  <text x="404" y="422" font-size="10.5" fill="#166534" font-weight="600">nếu không sẽ đánh giá thấp cọc và lãng phí tiền.</text>
 
-  <text x="30" y="452" font-size="10.5" fill="#777">After Burt G. Look (2007), Ch. 21 — soil foundations and pile capacity. Original diagram.</text>
+  <text x="30" y="452" font-size="10.5" fill="#777">Theo Burt G. Look (2007), Ch. 21 — móng đất và sức chịu tải cọc. Sơ đồ gốc.</text>
 </svg>

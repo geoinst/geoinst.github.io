@@ -58,7 +58,7 @@ Các bước dưới đây tương ứng với **Bảng 1-1** của sổ tay.
 9. Báo cáo kết luận.
 10. **Triển khai** — hành động theo kết luận.
 
-![Figure: fhwa-planning-workflow](../../../assets/figures/fhwa-planning-workflow.svg)
+![Figure: fhwa-planning-workflow](../../../assets/figures/fhwa-planning-workflow-vi.svg)
 
 **Hình.** Quy trình lập kế hoạch có hệ thống: xác định điều kiện → dự đoán cơ chế → xác định câu hỏi → chọn thông số → chọn thiết bị và vị trí → lập ngân sách và thông số kỹ thuật → lắp đặt → thu thập, xử lý, diễn giải và triển khai (theo FHWA-HI-98-034, Ch. 6).
 

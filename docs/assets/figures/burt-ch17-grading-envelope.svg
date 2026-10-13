@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 460" font-family="Inter, Arial, sans-serif">
   <rect width="780" height="460" fill="#ffffff"/>
-  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Fill specification — the grading envelope and what it controls</text>
+  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Quy định vật liệu đắp — đường bao cấp phối và điều nó kiểm soát</text>
 
   <!-- sieve curve -->
-  <text x="300" y="58" text-anchor="middle" font-size="13" font-weight="700" fill="#1d4ed8">Specification by grading envelope</text>
+  <text x="300" y="58" text-anchor="middle" font-size="13" font-weight="700" fill="#1d4ed8">Quy định bằng đường bao cấp phối</text>
 
   <line x1="70" y1="320" x2="470" y2="320" stroke="#334155" stroke-width="2"/>
   <line x1="70" y1="320" x2="70" y2="80" stroke="#334155" stroke-width="2"/>
-  <text x="270" y="352" text-anchor="middle" font-size="12" font-weight="700" fill="#334155">Sieve size (mm) — logarithmic</text>
-  <text x="30" y="200" text-anchor="middle" font-size="12" font-weight="700" fill="#334155" transform="rotate(-90 30 200)">% passing</text>
+  <text x="270" y="352" text-anchor="middle" font-size="12" font-weight="700" fill="#334155">Cỡ sàng (mm) — thang logarit</text>
+  <text x="30" y="200" text-anchor="middle" font-size="12" font-weight="700" fill="#334155" transform="rotate(-90 30 200)">% lọt sàng</text>
 
   <g font-size="10" fill="#64748b" text-anchor="middle">
     <text x="90" y="336">0.075</text><text x="180" y="336">0.6</text><text x="270" y="336">5</text>
@@ -33,13 +33,13 @@
   <polygon points="90,88 180,132 270,196 360,262 450,300 450,320 90,320" fill="#dbeafe" opacity="0.55"/>
   <polyline points="90,88 180,132 270,196 360,262 450,300" fill="none" stroke="#1d4ed8" stroke-width="2.5"/>
   <polyline points="90,116 180,164 270,226 360,290 450,318" fill="none" stroke="#1d4ed8" stroke-width="2.5" stroke-dasharray="6 4"/>
-  <text x="330" y="212" font-size="11" font-weight="700" fill="#1d4ed8">upper limit</text>
-  <text x="330" y="272" font-size="11" font-weight="700" fill="#1d4ed8">lower limit</text>
-  <text x="120" y="300" font-size="10.5" fill="#1e3a8a">any grading inside the band is acceptable</text>
+  <text x="330" y="212" font-size="11" font-weight="700" fill="#1d4ed8">giới hạn trên</text>
+  <text x="330" y="272" font-size="11" font-weight="700" fill="#1d4ed8">giới hạn dưới</text>
+  <text x="120" y="300" font-size="10.5" fill="#1e3a8a">mọi cấp phối nằm trong dải đều đạt</text>
 
   <!-- right: table -->
   <rect x="496" y="70" width="256" height="150" fill="#f8fafc" stroke="#cbd5e1"/>
-  <text x="510" y="92" font-size="11.5" font-weight="700" fill="#334155">Drainage aggregate</text>
+  <text x="510" y="92" font-size="11.5" font-weight="700" fill="#334155">Cốt liệu thoát nước</text>
   <line x1="510" y1="102" x2="738" y2="102" stroke="#e2e8f0"/>
   <g font-size="10.5" fill="#475569">
     <text x="510" y="122">40 mm</text><text x="738" y="122" text-anchor="end">100 %</text>
@@ -52,21 +52,21 @@
 
   <!-- why -->
   <rect x="496" y="232" width="256" height="142" fill="#fff7ed" stroke="#fed7aa"/>
-  <text x="510" y="254" font-size="11" font-weight="700" fill="#9a3412">What the spec must pin down</text>
+  <text x="510" y="254" font-size="11" font-weight="700" fill="#9a3412">Quy định phải xác định rõ</text>
   <line x1="510" y1="264" x2="738" y2="264" stroke="#fed7aa"/>
   <g font-size="10.5" fill="#7c2d12">
-    <text x="510" y="282">• acceptance criteria</text>
-    <text x="510" y="300">• the test method for each</text>
-    <text x="510" y="318">• the test frequency</text>
-    <text x="510" y="336">• who pays for a failure</text>
+    <text x="510" y="282">• tiêu chí nghiệm thu</text>
+    <text x="510" y="300">• phương pháp thử cho từng chỉ tiêu</text>
+    <text x="510" y="318">• tần suất thử</text>
+    <text x="510" y="336">• ai chịu chi phí khi không đạt</text>
   </g>
-  <text x="510" y="360" font-size="10.5" fill="#b91c1c" font-weight="600">An over-strict spec costs money and</text>
-  <text x="510" y="374" font-size="10.5" fill="#b91c1c" font-weight="600">buys nothing (§17.1).</text>
+  <text x="510" y="360" font-size="10.5" fill="#b91c1c" font-weight="600">Quy định quá nghiêm tốn kém và</text>
+  <text x="510" y="374" font-size="10.5" fill="#b91c1c" font-weight="600">không mang lại gì (§17.1).</text>
 
   <!-- bottom band -->
   <rect x="70" y="382" width="682" height="52" fill="#eef4ff" stroke="#c7d7f5"/>
-  <text x="84" y="404" font-size="11" fill="#1e3a8a" font-weight="600">Typical testing frequencies: density 1 per 500–1000 m³ · moisture 1 per 500 m³ · grading 1 per 2000–5000 m³.</text>
-  <text x="84" y="422" font-size="11" fill="#1e3a8a" font-weight="600">Under-testing does not show up in the paperwork — it shows up years later, as settlement.</text>
+  <text x="84" y="404" font-size="11" fill="#1e3a8a" font-weight="600">Tần suất thử điển hình: dung trọng 1/500–1000 m³ · độ ẩm 1/500 m³ · cấp phối 1/2000–5000 m³.</text>
+  <text x="84" y="422" font-size="11" fill="#1e3a8a" font-weight="600">Thử thiếu không thể hiện trên giấy tờ — nó xuất hiện nhiều năm sau, dưới dạng lún.</text>
 
-  <text x="30" y="452" font-size="10.5" fill="#777">After Burt G. Look (2007), Ch. 17 — fill specifications. Original diagram.</text>
+  <text x="30" y="452" font-size="10.5" fill="#777">Theo Burt G. Look (2007), Ch. 17 — quy định vật liệu đắp. Sơ đồ gốc.</text>
 </svg>

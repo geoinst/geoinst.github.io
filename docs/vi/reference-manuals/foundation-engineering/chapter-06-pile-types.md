@@ -36,7 +36,7 @@ Cọc chịu tải huy động sức kháng ở hai nơi:
 Tải không phân bố đều: nó giảm dần theo độ sâu khi đất tiếp nhận. Ở tải làm việc, cả hai
 thành phần đều huy động, nhưng tỷ lệ của chúng phụ thuộc mặt cắt đất và độ cứng của cọc.
 
-![Figure: foundation-pile-load-transfer](../../../assets/figures/foundation-pile-load-transfer.svg)
+![Figure: foundation-pile-load-transfer](../../../assets/figures/foundation-pile-load-transfer-vi.svg)
 
 **Hình.** Truyền tải trong cọc: tải dọc trục giảm theo độ sâu khi ma sát thành bên và sức kháng mũi huy động; cảm biến đo biến dạng (strain gauge) và thanh truyền chuyển vị (telltale) cho thấy phân bố (theo USACE EM 1110-2-2906 / FHWA GEC-12).
 

@@ -23,7 +23,7 @@ Phá hoại sức chịu tải xảy ra theo một trong ba cách, tùy mật đ
 - **Cắt xuyên (punching)** — móng xuyên vào đất, ít trồi mặt. Điển hình ở cát rời và sét
   yếu.
 
-![Figure: foundation-bearing-failure](../../../assets/figures/foundation-bearing-failure.svg)
+![Figure: foundation-bearing-failure](../../../assets/figures/foundation-bearing-failure-vi.svg)
 
 **Hình.** Các cơ chế phá hoại sức chịu tải: cắt tổng thể (giòn), cắt cục bộ và cắt xuyên (dẻo) (theo USACE EM 1110-1-1905).
 

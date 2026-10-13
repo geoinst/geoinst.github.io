@@ -116,7 +116,7 @@ Hình tượng bất hủ của John Dunnicliff: Toàn bộ quá trình quan tr�
 
 ---
 
-![Figure: dunnicliff-chain-25](../../../assets/figures/dunnicliff-chain-25.svg)
+![Figure: dunnicliff-chain-25](../../../assets/figures/dunnicliff-chain-25-vi.svg)
 
 **Hình.** Chuỗi 25 mắt xích của Dunnicliff - từ xác định nhu cầu dự án đến số đọc phục vụ quyết định. Đứt một mắt xích, cả chuỗi thất bại (Dunnicliff, Ch. 10 và 14).
 

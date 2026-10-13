@@ -123,7 +123,7 @@ Phương pháp cung tròn (Thụy Điển / Fellenius), trong đó hệ số an 
 mômen chống trượt và mômen gây trượt quanh tâm vòng tròn thử. Đây là phương pháp được
 Bishop mở rộng ở Chương 9 cho thi công đắp theo giai đoạn.
 
-![Figure: foundation-slope-stability](../../../assets/figures/foundation-slope-stability.svg)
+![Figure: foundation-slope-stability](../../../assets/figures/foundation-slope-stability-vi.svg)
 
 **Hình.** Phân tích ổn định mái dốc theo cung tròn.
 

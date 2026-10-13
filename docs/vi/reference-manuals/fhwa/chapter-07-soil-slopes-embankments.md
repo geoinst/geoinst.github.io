@@ -56,7 +56,7 @@ quả.
 tốc độ), **piezometer** (áp lực lỗ rỗng), **trắc đạc mặt ngoài** và **extensometer**
 (chuyển vị), và **máy đo mưa** (yếu tố kích hoạt).
 
-![Figure: fhwa-soil-slope-monitoring](../../../assets/figures/fhwa-soil-slope-monitoring.svg)
+![Figure: fhwa-soil-slope-monitoring](../../../assets/figures/fhwa-soil-slope-monitoring-vi.svg)
 
 **Hình.** Bố trí quan trắc điển hình cho mái dốc đất / nền đắp: inclinometer và piezometer trong mái dốc, bàn lún trên nền đắp và mốc trắc đạc (theo FHWA-HI-98-034, Ch. 7).
 

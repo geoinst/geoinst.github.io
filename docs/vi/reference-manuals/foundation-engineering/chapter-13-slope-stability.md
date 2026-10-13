@@ -36,7 +36,7 @@ năng thành các **mảnh thẳng đứng**:
 Phân tích tìm **mặt trượt tới hạn** — mặt cho hệ số an toàn nhỏ nhất. Phương pháp máy tính
 (ví dụ **STABL**, **SLOPE/W**) tự động hóa việc tìm kiếm.
 
-![Figure: foundation-slope-stability](../../../assets/figures/foundation-slope-stability.svg)
+![Figure: foundation-slope-stability](../../../assets/figures/foundation-slope-stability-vi.svg)
 
 **Hình.** Ổn định mái dốc bằng phương pháp phân mảnh: lực gây trượt và lực kháng trên mỗi mảnh, và việc tìm mặt trượt tới hạn (theo USACE EM 1110-2-1902).
 

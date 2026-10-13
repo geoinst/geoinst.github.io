@@ -36,7 +36,7 @@ và điểm tác dụng của lực ở $\tfrac{1}{3}H$ tính từ chân tườn
 
 Cùng khung lý thuyết với $c = 0$, kể thêm ảnh hưởng của ma sát tường và mặt đất dốc.
 
-![Figure: foundation-retaining-wall-forces](../../../assets/figures/foundation-retaining-wall-forces.svg)
+![Figure: foundation-retaining-wall-forces](../../../assets/figures/foundation-retaining-wall-forces-vi.svg)
 
 **Hình.** Áp lực đất tác dụng lên tường chắn.
 

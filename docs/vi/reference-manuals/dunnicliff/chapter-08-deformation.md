@@ -45,11 +45,11 @@ Chuỗi các đoạn cảm biến MEMS đo nghiêng gắn cố định liên ho�
 - **Thước đo hội tụ dây băng Invar (Tape Extensometer)**: Đo sự co hẹp hoặc mở rộng khoảng cách giữa các mốc gắn đối diện trên vách và vòm đường hầm với độ chính xác $\pm 0.05\text{ mm}$.
 - **Cảm biến đo nứt (Crackmeters)**: Cảm biến dây rung hoặc cơ học gắn bắc cầu qua khe nứt của kết cấu bê tông hoặc vách đá để theo dõi tốc độ phát triển vết nứt theo thời gian.
 
-![Figure: dunnicliff-inclinometer](../../../assets/figures/dunnicliff-inclinometer.svg)
+![Figure: dunnicliff-inclinometer](../../../assets/figures/dunnicliff-inclinometer-vi.svg)
 
 **Hình.** Inclinometer. Đầu dò (hoặc mảng cố định) trong ống vách đo chuyển vị ngang theo chiều sâu và xác định mặt trượt (Dunnicliff, Ch. 12).
 
-![Figure: dunnicliff-extensometer](../../../assets/figures/dunnicliff-extensometer.svg)
+![Figure: dunnicliff-extensometer](../../../assets/figures/dunnicliff-extensometer-vi.svg)
 
 **Hình.** Extensometer hố khoan đa điểm (MPBX). Các neo ở nhiều độ sâu cùng thanh dẫn tới đầu chuẩn cho thấy lún hoặc tách lớp theo chiều sâu (Dunnicliff, Ch. 12).
 

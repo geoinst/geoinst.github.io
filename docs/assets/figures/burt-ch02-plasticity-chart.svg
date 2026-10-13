@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 460" font-family="Inter, Arial, sans-serif">
   <rect width="780" height="460" fill="#ffffff"/>
-  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Plasticity chart — reading a soil from its Atterberg limits</text>
+  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Biểu đồ dẻo — đọc loại đất từ các giới hạn Atterberg</text>
 
   <!-- axes -->
   <line x1="90" y1="390" x2="620" y2="390" stroke="#334155" stroke-width="2"/>
   <line x1="90" y1="390" x2="90" y2="70" stroke="#334155" stroke-width="2"/>
-  <text x="355" y="420" text-anchor="middle" font-size="13" font-weight="700" fill="#334155">Liquid limit  LL (%)</text>
-  <text x="30" y="230" text-anchor="middle" font-size="13" font-weight="700" fill="#334155" transform="rotate(-90 30 230)">Plasticity index  PI (%)</text>
+  <text x="355" y="420" text-anchor="middle" font-size="13" font-weight="700" fill="#334155">Giới hạn chảy  LL (%)</text>
+  <text x="30" y="230" text-anchor="middle" font-size="13" font-weight="700" fill="#334155" transform="rotate(-90 30 230)">Chỉ số dẻo  PI (%)</text>
 
   <!-- x ticks 0..100 mapped 90..620 (5.3 px/unit) -->
   <g font-size="10" fill="#64748b" text-anchor="middle">
@@ -22,41 +22,41 @@
   <!-- A-line: PI = 0.73(LL-20), valid LL>25. from LL=20 (x=196) to LL=100 (x=620) -->
   <!-- PI at LL=20 is 0 ; PI at LL=100 is 58.4 -->
   <line x1="196" y1="390" x2="620" y2="78" stroke="#dc2626" stroke-width="2.5"/>
-  <text x="628" y="86" font-size="11.5" font-weight="700" fill="#dc2626">A-line</text>
+  <text x="628" y="86" font-size="11.5" font-weight="700" fill="#dc2626">Đường A</text>
   <text x="628" y="101" font-size="10" fill="#b91c1c">PI = 0.73(LL−20)</text>
 
   <!-- U-line -->
   <line x1="196" y1="390" x2="620" y2="52" stroke="#94a3b8" stroke-width="2" stroke-dasharray="6 4"/>
-  <text x="628" y="56" font-size="11" font-weight="600" fill="#64748b">U-line</text>
+  <text x="628" y="56" font-size="11" font-weight="600" fill="#64748b">Đường U</text>
 
   <!-- zone labels -->
   <text x="470" y="150" font-size="13" font-weight="700" fill="#0f766e">CH</text>
-  <text x="470" y="166" font-size="10" fill="#0f766e">fat / high-plasticity clay</text>
+  <text x="470" y="166" font-size="10" fill="#0f766e">sét béo / độ dẻo cao</text>
 
   <text x="330" y="210" font-size="13" font-weight="700" fill="#0f766e">CL</text>
-  <text x="330" y="226" font-size="10" fill="#0f766e">lean clay</text>
+  <text x="330" y="226" font-size="10" fill="#0f766e">sét gầy</text>
 
   <text x="556" y="230" font-size="13" font-weight="700" fill="#7c3aed">MH</text>
-  <text x="556" y="246" font-size="10" fill="#7c3aed">elastic silt</text>
+  <text x="556" y="246" font-size="10" fill="#7c3aed">bụi đàn hồi</text>
 
   <text x="440" y="300" font-size="13" font-weight="700" fill="#7c3aed">ML</text>
-  <text x="440" y="316" font-size="10" fill="#7c3aed">silt</text>
+  <text x="440" y="316" font-size="10" fill="#7c3aed">bụi</text>
 
   <!-- shaded example points -->
   <circle cx="360" cy="205" r="6" fill="#1d4ed8"/>
-  <text x="372" y="200" font-size="10.5" font-weight="600" fill="#1d4ed8">sample A — CL</text>
+  <text x="372" y="200" font-size="10.5" font-weight="600" fill="#1d4ed8">mẫu A — CL</text>
   <circle cx="500" cy="130" r="6" fill="#1d4ed8"/>
-  <text x="512" y="126" font-size="10.5" font-weight="600" fill="#1d4ed8">sample B — CH</text>
+  <text x="512" y="126" font-size="10.5" font-weight="600" fill="#1d4ed8">mẫu B — CH</text>
 
   <!-- legend / method -->
   <rect x="640" y="300" width="118" height="122" fill="#f8fafc" stroke="#cbd5e1"/>
-  <text x="650" y="320" font-size="11" font-weight="700" fill="#334155">How to read it</text>
-  <text x="650" y="340" font-size="10" fill="#475569">1. Plot LL on x,</text>
-  <text x="650" y="354" font-size="10" fill="#475569">   PI on y.</text>
-  <text x="650" y="372" font-size="10" fill="#475569">2. Above A-line →</text>
-  <text x="650" y="386" font-size="10" fill="#475569">   clay (C).</text>
-  <text x="650" y="404" font-size="10" fill="#475569">3. Below → silt (M).</text>
-  <text x="650" y="418" font-size="10" fill="#475569">4. LL &gt; 50 → H (fat).</text>
+  <text x="650" y="320" font-size="11" font-weight="700" fill="#334155">Cách đọc</text>
+  <text x="650" y="340" font-size="10" fill="#475569">1. Đặt LL trên trục x,</text>
+  <text x="650" y="354" font-size="10" fill="#475569">   PI trên trục y.</text>
+  <text x="650" y="372" font-size="10" fill="#475569">2. Trên đường A →</text>
+  <text x="650" y="386" font-size="10" fill="#475569">   sét (C).</text>
+  <text x="650" y="404" font-size="10" fill="#475569">3. Dưới → bụi (M).</text>
+  <text x="650" y="418" font-size="10" fill="#475569">4. LL &gt; 50 → H (dẻo cao).</text>
 
-  <text x="30" y="452" font-size="10.5" fill="#777">After Burt G. Look (2007), Ch. 2 — Atterberg limits and USCS classification. Original diagram.</text>
+  <text x="30" y="452" font-size="10.5" fill="#777">Theo Burt G. Look (2007), Ch. 2 — giới hạn Atterberg và phân loại USCS. Sơ đồ gốc.</text>
 </svg>

@@ -76,7 +76,7 @@ theo độ sâu chi tiết, với số điểm đo không giới hạn và phầ
 tại mặt đất. Đổi lại là **quy trình lắp đặt phức tạp**, và thường chỉ đọc thủ công
 định kỳ.
 
-![Figure: dunnicliff-piezometer-types](../../../assets/figures/dunnicliff-piezometer-types.svg)
+![Figure: dunnicliff-piezometer-types](../../../assets/figures/dunnicliff-piezometer-types-vi.svg)
 
 **Hình.** So sánh các loại piezometer phổ biến: dây rung, khí nén, ống đứng hở và thủy lực hai ống (theo FHWA-HI-98-034, Ch. 2).
 
@@ -111,7 +111,7 @@ với đất thấm tương đối tốt.
     piezometer màng (trừ loại thông khí quyển) đều nhạy với thay đổi **áp suất khí
     quyển**.
 
-![Figure: dunnicliff-instrument-cross-section](../../../assets/figures/dunnicliff-instrument-cross-section.svg)
+![Figure: dunnicliff-instrument-cross-section](../../../assets/figures/dunnicliff-instrument-cross-section-vi.svg)
 
 **Hình.** Mặt cắt điển hình một hố khoan lắp đặt, thể hiện vùng lọc, lớp bịt và vữa lấp cô lập piezometer (theo FHWA-HI-98-034, Ch. 2).
 

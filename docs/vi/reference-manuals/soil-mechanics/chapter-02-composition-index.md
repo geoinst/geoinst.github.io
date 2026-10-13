@@ -13,7 +13,7 @@ tỷ số thể tích then chốt:
 - **Độ rỗng** $n = V_v / V$ — phần thể tích là lỗ rỗng.
 - **Độ bão hòa** $S = V_w / V_v$ — phần lỗ rỗng chứa nước.
 
-![Figure: soil-mechanics-phase-diagram](../../../assets/figures/soil-mechanics-phase-diagram.svg)
+![Figure: soil-mechanics-phase-diagram](../../../assets/figures/soil-mechanics-phase-diagram-vi.svg)
 
 **Hình.** Sơ đồ ba pha của đất: thể tích và trọng lượng hạt rắn, nước và không khí, cùng quan hệ giữa hệ số rỗng, độ rỗng và độ bão hòa (theo FHWA-NHI-06-088).
 

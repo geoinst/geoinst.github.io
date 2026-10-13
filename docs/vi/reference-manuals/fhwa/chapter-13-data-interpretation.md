@@ -38,7 +38,7 @@ Diễn giải hỏi *dữ liệu nghĩa là gì*, chứ không chỉ *con số l
   đọc đơn lẻ.
 - Cảnh giác **sai số thiết bị** trước khi kết luận nền ứng xử bất thường.
 
-![Figure: dunnicliff-data-timeline](../../../assets/figures/dunnicliff-data-timeline.svg)
+![Figure: dunnicliff-data-timeline](../../../assets/figures/dunnicliff-data-timeline-vi.svg)
 
 **Hình.** Diễn giải một chuỗi thời gian quan trắc: đường cơ sở, phản ứng thi công và xu hướng đang phát triển làm phát sinh hành động (theo FHWA-HI-98-034, Ch. 12–13).
 

@@ -43,7 +43,7 @@ nghiệm bơm hút).
 **Mạng dòng chảy** là lời giải đồ thị của phương trình Laplace: một họ đường dòng cắt
 một họ đường đẳng thế theo góc vuông.
 
-![Figure: soil-mechanics-flow-net](../../../assets/figures/soil-mechanics-flow-net.svg)
+![Figure: soil-mechanics-flow-net](../../../assets/figures/soil-mechanics-flow-net-vi.svg)
 
 **Hình.** Mạng dòng chảy cho dòng thấm dưới tường cừ.
 

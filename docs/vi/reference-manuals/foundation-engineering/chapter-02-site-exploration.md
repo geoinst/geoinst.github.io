@@ -54,7 +54,7 @@ phân tích ở các chương sau. Mặt cắt nên:
   đất đắp;
 - **cảnh báo tính biến đổi** — nơi đặc trưng thay đổi đột ngột trên khu đất.
 
-![Figure: foundation-site-investigation](../../../assets/figures/foundation-site-investigation.svg)
+![Figure: foundation-site-investigation](../../../assets/figures/foundation-site-investigation-vi.svg)
 
 **Hình.** Khảo sát dưới bề mặt: hố khoan lấy mẫu và thí nghiệm tại chỗ, cùng piezometer, tạo nên mặt cắt thiết kế (theo USACE EM 1110-1-1905 / hướng dẫn FHWA).
 

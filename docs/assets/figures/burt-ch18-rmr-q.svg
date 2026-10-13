@@ -1,24 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 460" font-family="Inter, Arial, sans-serif">
   <rect width="780" height="460" fill="#ffffff"/>
-  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Two ways to score a rock mass — RMR and the Q system</text>
+  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Hai cách cho điểm khối đá — RMR và hệ Q</text>
 
   <!-- RMR -->
-  <text x="215" y="58" text-anchor="middle" font-size="13" font-weight="700" fill="#1d4ed8">RMR — Bieniawski (sum of points)</text>
+  <text x="215" y="58" text-anchor="middle" font-size="13" font-weight="700" fill="#1d4ed8">RMR — Bieniawski (tổng điểm)</text>
   <rect x="40" y="70" width="350" height="30" fill="#1d4ed8"/>
-  <text x="215" y="90" text-anchor="middle" font-size="11.5" font-weight="700" fill="#ffffff">RMR = 5 parameters − orientation adjustment</text>
+  <text x="215" y="90" text-anchor="middle" font-size="11.5" font-weight="700" fill="#ffffff">RMR = 5 thông số − điều chỉnh hướng</text>
 
   <rect x="40" y="106" width="350" height="150" fill="#f8fafc" stroke="#cbd5e1"/>
   <g font-size="10.5" fill="#475569">
-    <text x="54" y="128">Intact rock strength</text><text x="376" y="128" text-anchor="end">0 – 15</text>
+    <text x="54" y="128">Cường độ đá nguyên khối</text><text x="376" y="128" text-anchor="end">0 – 15</text>
     <text x="54" y="148">RQD</text><text x="376" y="148" text-anchor="end">0 – 20</text>
-    <text x="54" y="168">Discontinuity spacing</text><text x="376" y="168" text-anchor="end">0 – 20</text>
-    <text x="54" y="188">Discontinuity condition</text><text x="376" y="188" text-anchor="end">0 – 30</text>
-    <text x="54" y="208">Groundwater</text><text x="376" y="208" text-anchor="end">0 – 15</text>
-    <text x="54" y="230" font-weight="700" fill="#b91c1c">Orientation adjustment</text><text x="376" y="230" text-anchor="end" font-weight="700" fill="#b91c1c">−12 … 0</text>
+    <text x="54" y="168">Khoảng cách khe nứt</text><text x="376" y="168" text-anchor="end">0 – 20</text>
+    <text x="54" y="188">Tình trạng khe nứt</text><text x="376" y="188" text-anchor="end">0 – 30</text>
+    <text x="54" y="208">Nước ngầm</text><text x="376" y="208" text-anchor="end">0 – 15</text>
+    <text x="54" y="230" font-weight="700" fill="#b91c1c">Điều chỉnh hướng</text><text x="376" y="230" text-anchor="end" font-weight="700" fill="#b91c1c">−12 … 0</text>
   </g>
   <line x1="54" y1="240" x2="376" y2="240" stroke="#e2e8f0"/>
 
-  <text x="215" y="252" text-anchor="middle" font-size="11" font-weight="700" fill="#334155">Total 0 – 100</text>
+  <text x="215" y="252" text-anchor="middle" font-size="11" font-weight="700" fill="#334155">Tổng 0 – 100</text>
 
   <!-- RMR classes -->
   <g>
@@ -33,55 +33,55 @@
     <text x="285" y="289">61–80</text><text x="355" y="289">81–100</text>
   </g>
   <g font-size="9.5" fill="#475569" text-anchor="middle">
-    <text x="75" y="314">very poor</text><text x="145" y="314">poor</text><text x="215" y="314">fair</text>
-    <text x="285" y="314">good</text><text x="355" y="314">very good</text>
+    <text x="75" y="314">rất kém</text><text x="145" y="314">kém</text><text x="215" y="314">trung bình</text>
+    <text x="285" y="314">tốt</text><text x="355" y="314">rất tốt</text>
   </g>
-  <text x="40" y="338" font-size="10.5" fill="#475569">Class I–V set the tunnel support and the</text>
-  <text x="40" y="354" font-size="10.5" fill="#475569">maximum unsupported span.</text>
+  <text x="40" y="338" font-size="10.5" fill="#475569">Cấp I–V quyết định kết cấu chống hầm và</text>
+  <text x="40" y="354" font-size="10.5" fill="#475569">nhịp không chống tối đa.</text>
 
   <!-- Q -->
-  <text x="580" y="58" text-anchor="middle" font-size="13" font-weight="700" fill="#0f766e">Q — Barton (product of ratios)</text>
+  <text x="580" y="58" text-anchor="middle" font-size="13" font-weight="700" fill="#0f766e">Q — Barton (tích các tỷ số)</text>
   <rect x="405" y="70" width="350" height="30" fill="#0f766e"/>
   <text x="580" y="90" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">Q = (RQD / Jn) × (Jr / Ja) × (Jw / SRF)</text>
 
   <g>
     <rect x="405" y="106" width="112" height="88" fill="#ccfbf1" stroke="#5eead4"/>
-    <text x="461" y="130" text-anchor="middle" font-size="11" font-weight="700" fill="#0f766e">Block size</text>
+    <text x="461" y="130" text-anchor="middle" font-size="11" font-weight="700" fill="#0f766e">Kích thước khối</text>
     <text x="461" y="152" text-anchor="middle" font-size="11" fill="#115e59">RQD / Jn</text>
-    <text x="461" y="174" text-anchor="middle" font-size="9.5" fill="#475569">how big are</text>
-    <text x="461" y="188" text-anchor="middle" font-size="9.5" fill="#475569">the blocks?</text>
+    <text x="461" y="174" text-anchor="middle" font-size="9.5" fill="#475569">khối lớn</text>
+    <text x="461" y="188" text-anchor="middle" font-size="9.5" fill="#475569">cỡ nào?</text>
 
     <rect x="524" y="106" width="112" height="88" fill="#ccfbf1" stroke="#5eead4"/>
-    <text x="580" y="130" text-anchor="middle" font-size="11" font-weight="700" fill="#0f766e">Friction</text>
+    <text x="580" y="130" text-anchor="middle" font-size="11" font-weight="700" fill="#0f766e">Ma sát</text>
     <text x="580" y="152" text-anchor="middle" font-size="11" fill="#115e59">Jr / Ja</text>
-    <text x="580" y="174" text-anchor="middle" font-size="9.5" fill="#475569">how rough, how</text>
-    <text x="580" y="188" text-anchor="middle" font-size="9.5" fill="#475569">filled?</text>
+    <text x="580" y="174" text-anchor="middle" font-size="9.5" fill="#475569">nhám thế nào,</text>
+    <text x="580" y="188" text-anchor="middle" font-size="9.5" fill="#475569">lấp gì?</text>
 
     <rect x="643" y="106" width="112" height="88" fill="#ccfbf1" stroke="#5eead4"/>
-    <text x="699" y="130" text-anchor="middle" font-size="11" font-weight="700" fill="#0f766e">Stress</text>
+    <text x="699" y="130" text-anchor="middle" font-size="11" font-weight="700" fill="#0f766e">Ứng suất</text>
     <text x="699" y="152" text-anchor="middle" font-size="11" fill="#115e59">Jw / SRF</text>
-    <text x="699" y="174" text-anchor="middle" font-size="9.5" fill="#475569">water and</text>
-    <text x="699" y="188" text-anchor="middle" font-size="9.5" fill="#475569">squeezing?</text>
+    <text x="699" y="174" text-anchor="middle" font-size="9.5" fill="#475569">nước và</text>
+    <text x="699" y="188" text-anchor="middle" font-size="9.5" fill="#475569">đất chảy?</text>
   </g>
 
   <!-- Q classes -->
   <rect x="405" y="206" width="350" height="50" fill="#f0fdfa" stroke="#99f6e4"/>
-  <text x="419" y="226" font-size="10.5" fill="#115e59">Q 0.001–0.01 exceptionally poor · 0.1–1 very poor ·</text>
-  <text x="419" y="244" font-size="10.5" fill="#115e59">1–10 fair · 10–40 good · 40–100 very good · &gt; 100 extremely good</text>
+  <text x="419" y="226" font-size="10.5" fill="#115e59">Q 0,001–0,01 cực kém · 0,1–1 rất kém ·</text>
+  <text x="419" y="244" font-size="10.5" fill="#115e59">1–10 trung bình · 10–40 tốt · 40–100 rất tốt · &gt; 100 cực tốt</text>
 
   <!-- what Q predicts -->
   <rect x="405" y="272" width="350" height="102" fill="#f8fafc" stroke="#cbd5e1"/>
-  <text x="419" y="292" font-size="11" font-weight="700" fill="#334155">Q also predicts</text>
+  <text x="419" y="292" font-size="11" font-weight="700" fill="#334155">Q còn dự báo</text>
   <g font-size="10.5" fill="#475569">
-    <text x="419" y="312">• support pressure and unsupported span</text>
-    <text x="419" y="330">• rock-mass c and φ, and deformation</text>
-    <text x="419" y="348">• P-wave velocity, Lugeon, advance rate</text>
-    <text x="419" y="366">• relative tunnelling cost</text>
+    <text x="419" y="312">• áp lực chống và nhịp không chống</text>
+    <text x="419" y="330">• c và φ của khối đá, và biến dạng</text>
+    <text x="419" y="348">• vận tốc sóng P, Lugeon, tốc độ đào</text>
+    <text x="419" y="366">• chi phí đào hầm tương đối</text>
   </g>
 
   <rect x="40" y="382" width="715" height="52" fill="#fff7ed" stroke="#fed7aa"/>
-  <text x="54" y="404" font-size="11" fill="#9a3412">Use both systems. They disagree because they weight different things — the disagreement is the useful part.</text>
-  <text x="54" y="422" font-size="11" fill="#9a3412">Either way, the output is a rock-mass strength and modulus far below the intact values (§9.8).</text>
+  <text x="54" y="404" font-size="11" fill="#9a3412">Dùng cả hai hệ. Chúng khác nhau vì đánh trọng số các yếu tố khác nhau — chính sự khác biệt đó là phần hữu ích.</text>
+  <text x="54" y="422" font-size="11" fill="#9a3412">Dù cách nào, kết quả là cường độ và mô đun khối đá thấp hơn nhiều so với giá trị nguyên khối (§9.8).</text>
 
-  <text x="30" y="452" font-size="10.5" fill="#777">After Burt G. Look (2007), Ch. 18 — rock mass classification systems. Original diagram.</text>
+  <text x="30" y="452" font-size="10.5" fill="#777">Theo Burt G. Look (2007), Ch. 18 — các hệ phân loại khối đá. Sơ đồ gốc.</text>
 </svg>

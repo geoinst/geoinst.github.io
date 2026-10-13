@@ -79,7 +79,7 @@ Với mỗi PFM đáng tin cậy, kỹ sư xác định:
 
 Sự ánh xạ này là cầu nối từ Chương 2 đến Chương 4.
 
-![Figure: dam-failure-modes](../../../assets/figures/dam-failure-modes.svg)
+![Figure: dam-failure-modes](../../../assets/figures/dam-failure-modes-vi.svg)
 
 **Hình.** Các mode phá hoại tiềm ẩn của đập đắp: tràn qua đỉnh, xói mòn trong (piping), mất ổn định mái dốc và thấm qua nền (phạm vi ASCE MOP-135).
 

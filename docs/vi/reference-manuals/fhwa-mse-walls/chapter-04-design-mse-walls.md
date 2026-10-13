@@ -32,7 +32,7 @@ mà cốt cứng áp đặt.
 hơn theo độ sâu và mô hình **nêm neo** được dùng, với hệ số áp lực đất ngang lấy bằng
 giá trị chủ động $K_a$ (hoặc cao hơn một chút tùy phương pháp thiết kế).
 
-![Figure: mse-wall-anatomy](../../../assets/figures/mse-wall-anatomy.svg)
+![Figure: mse-wall-anatomy](../../../assets/figures/mse-wall-anatomy-vi.svg)
 
 **Hình.** Mặt cắt ngang điển hình của tường MSE: tấm mặt tường, cột thoát nước và
 tầng lọc phía sau mặt tường, các lớp cốt gia cường nằm ngang xuyên qua đất đắp có cốt,

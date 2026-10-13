@@ -1,62 +1,62 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 460" font-family="Inter, Arial, sans-serif">
   <rect width="780" height="460" fill="#ffffff"/>
-  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Variability, distribution shape and the reliability index</text>
+  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Biến thiên, dạng phân bố và chỉ số độ tin cậy</text>
 
   <!-- LEFT: distributions -->
-  <text x="200" y="58" text-anchor="middle" font-size="13" font-weight="700" fill="#1d4ed8">Same mean, different tails</text>
+  <text x="200" y="58" text-anchor="middle" font-size="13" font-weight="700" fill="#1d4ed8">Cùng giá trị trung bình, đuôi khác nhau</text>
 
   <line x1="50" y1="220" x2="360" y2="220" stroke="#334155" stroke-width="1.5"/>
-  <text x="205" y="240" text-anchor="middle" font-size="11" fill="#334155">strength / permeability</text>
+  <text x="205" y="240" text-anchor="middle" font-size="11" fill="#334155">cường độ / độ thấm</text>
 
   <!-- normal -->
   <path d="M60 220 C120 220 130 100 205 100 C280 100 290 220 350 220" fill="none" stroke="#1d4ed8" stroke-width="2.5"/>
-  <text x="205" y="92" text-anchor="middle" font-size="11" font-weight="700" fill="#1d4ed8">normal</text>
-  <text x="205" y="76" text-anchor="middle" font-size="10" fill="#64748b">symmetric — can go negative</text>
+  <text x="205" y="92" text-anchor="middle" font-size="11" font-weight="700" fill="#1d4ed8">chuẩn</text>
+  <text x="205" y="76" text-anchor="middle" font-size="10" fill="#64748b">đối xứng — có thể âm</text>
 
   <!-- lognormal -->
   <path d="M60 220 C110 220 118 128 175 128 C240 128 270 220 350 220" fill="none" stroke="#b45309" stroke-width="2.5" stroke-dasharray="7 4"/>
-  <text x="196" y="150" font-size="11" font-weight="700" fill="#b45309">lognormal</text>
-  <text x="196" y="166" font-size="10" fill="#92400e">long right tail — never negative</text>
+  <text x="196" y="150" font-size="11" font-weight="700" fill="#b45309">loga chuẩn</text>
+  <text x="196" y="166" font-size="10" fill="#92400e">đuôi phải dài — không bao giờ âm</text>
 
   <rect x="50" y="252" width="310" height="96" fill="#fff7ed" stroke="#fed7aa"/>
-  <text x="64" y="274" font-size="11" font-weight="700" fill="#9a3412">Strength and permeability cannot be negative.</text>
-  <text x="64" y="294" font-size="10.5" fill="#7c2d12">Use lognormal for these; the choice changes the</text>
-  <text x="64" y="310" font-size="10.5" fill="#7c2d12">failure probability in the tail by a large factor.</text>
-  <text x="64" y="332" font-size="10.5" fill="#b91c1c" font-weight="600">Residual soil has the highest COV — 40–70 %.</text>
+  <text x="64" y="274" font-size="11" font-weight="700" fill="#9a3412">Cường độ và độ thấm không thể âm.</text>
+  <text x="64" y="294" font-size="10.5" fill="#7c2d12">Dùng loga chuẩn cho các đại lượng này; lựa chọn này thay đổi</text>
+  <text x="64" y="310" font-size="10.5" fill="#7c2d12">xác suất phá hoại ở đuôi rất nhiều lần.</text>
+  <text x="64" y="332" font-size="10.5" fill="#b91c1c" font-weight="600">Đất tàn tích có COV cao nhất — 40–70 %.</text>
 
   <!-- RIGHT: beta chart -->
-  <text x="580" y="58" text-anchor="middle" font-size="13" font-weight="700" fill="#1d4ed8">Reliability index and failure probability</text>
+  <text x="580" y="58" text-anchor="middle" font-size="13" font-weight="700" fill="#1d4ed8">Chỉ số độ tin cậy và xác suất phá hoại</text>
 
   <rect x="420" y="76" width="330" height="180" fill="#f8fafc" stroke="#cbd5e1"/>
   <g font-size="11" fill="#334155">
-    <text x="436" y="100" font-weight="700">Structure / slope</text>
-    <text x="700" y="100" font-weight="700" text-anchor="end">β target</text>
+    <text x="436" y="100" font-weight="700">Công trình / mái dốc</text>
+    <text x="700" y="100" font-weight="700" text-anchor="end">β mục tiêu</text>
   </g>
   <line x1="436" y1="110" x2="734" y2="110" stroke="#e2e8f0"/>
   <g font-size="10.5" fill="#475569">
-    <text x="436" y="130">Temporary works</text><text x="734" y="130" text-anchor="end">1.5 – 2.0</text>
-    <text x="436" y="150">Ordinary structures</text><text x="734" y="150" text-anchor="end">2.5 – 3.0</text>
-    <text x="436" y="170">Critical structures</text><text x="734" y="170" text-anchor="end">3.5 – 4.0</text>
-    <text x="436" y="190">Dams, nuclear</text><text x="734" y="190" text-anchor="end">4.0 – 5.0</text>
+    <text x="436" y="130">Công trình tạm</text><text x="734" y="130" text-anchor="end">1.5 – 2.0</text>
+    <text x="436" y="150">Công trình thông thường</text><text x="734" y="150" text-anchor="end">2.5 – 3.0</text>
+    <text x="436" y="170">Công trình quan trọng</text><text x="734" y="170" text-anchor="end">3.5 – 4.0</text>
+    <text x="436" y="190">Đập, điện hạt nhân</text><text x="734" y="190" text-anchor="end">4.0 – 5.0</text>
   </g>
   <line x1="436" y1="202" x2="734" y2="202" stroke="#e2e8f0"/>
-  <text x="436" y="222" font-size="10.5" fill="#0f766e" font-weight="700">β = (FS − 1) / COV    (lognormal, first order)</text>
-  <text x="436" y="242" font-size="10.5" fill="#b91c1c">β = 3.0  ≈  10⁻³ failure probability</text>
+  <text x="436" y="222" font-size="10.5" fill="#0f766e" font-weight="700">β = (FS − 1) / COV    (loga chuẩn, bậc một)</text>
+  <text x="436" y="242" font-size="10.5" fill="#b91c1c">β = 3,0  ≈  xác suất phá hoại 10⁻³</text>
 
   <!-- tolerable risk -->
-  <text x="420" y="284" font-size="12" font-weight="700" fill="#334155">Tolerable annual failure probability</text>
+  <text x="420" y="284" font-size="12" font-weight="700" fill="#334155">Xác suất phá hoại hằng năm dung thứ</text>
   <g>
     <rect x="420" y="294" width="330" height="24" fill="#dcfce7" stroke="#86efac"/>
-    <text x="434" y="311" font-size="10.5" fill="#166534">New slope, occupied — 10⁻⁴ to 10⁻⁵ per year</text>
+    <text x="434" y="311" font-size="10.5" fill="#166534">Mái dốc mới, có người — 10⁻⁴ đến 10⁻⁵ mỗi năm</text>
     <rect x="420" y="320" width="330" height="24" fill="#fef9c3" stroke="#fde047"/>
-    <text x="434" y="337" font-size="10.5" fill="#854d0e">Existing slope, occupied — 10⁻³ to 10⁻⁴</text>
+    <text x="434" y="337" font-size="10.5" fill="#854d0e">Mái dốc hiện hữu, có người — 10⁻³ đến 10⁻⁴</text>
     <rect x="420" y="346" width="330" height="24" fill="#fee2e2" stroke="#fca5a5"/>
-    <text x="434" y="363" font-size="10.5" fill="#991b1b">Temporary slope — 10⁻² to 10⁻³</text>
+    <text x="434" y="363" font-size="10.5" fill="#991b1b">Mái dốc tạm — 10⁻² đến 10⁻³</text>
   </g>
 
-  <text x="420" y="392" font-size="10.5" fill="#475569">The tolerable threshold depends on the consequence,</text>
-  <text x="420" y="408" font-size="10.5" fill="#475569">not on the geology alone — the same ground is acceptable</text>
-  <text x="420" y="424" font-size="10.5" fill="#475569">under a car park and unacceptable under a hospital.</text>
+  <text x="420" y="392" font-size="10.5" fill="#475569">Ngưỡng dung thứ phụ thuộc vào hậu quả,</text>
+  <text x="420" y="408" font-size="10.5" fill="#475569">không chỉ vào địa chất — cùng một nền đất có thể chấp nhận được</text>
+  <text x="420" y="424" font-size="10.5" fill="#475569">dưới bãi đỗ xe nhưng không chấp nhận được dưới bệnh viện.</text>
 
-  <text x="30" y="452" font-size="10.5" fill="#777">After Burt G. Look (2007), Ch. 10 — material and testing variability. Original diagram.</text>
+  <text x="30" y="452" font-size="10.5" fill="#777">Theo Burt G. Look (2007), Ch. 10 — biến thiên vật liệu và thử nghiệm. Sơ đồ gốc.</text>
 </svg>

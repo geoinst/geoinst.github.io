@@ -62,7 +62,7 @@ vị của mặt tường và đất được giữ.
 **Thiết bị phù hợp** (Bảng 9-5) thường gồm: **cảm biến đo tải trọng (load cell)** trên neo, **thiết bị đo nghiêng (inclinometer)**
 và **điểm trắc đạc**.
 
-![Figure: fhwa-retaining-structure-monitoring](../../../assets/figures/fhwa-retaining-structure-monitoring.svg)
+![Figure: fhwa-retaining-structure-monitoring](../../../assets/figures/fhwa-retaining-structure-monitoring-vi.svg)
 
 **Hình.** Quan trắc cho kết cấu chắn đất: inclinometer sau tường, load cell trên thanh chống/neo, hộp đo áp lực ở chân tường và điểm lún trên nền lân cận (theo FHWA-HI-98-034, Ch. 9).
 

@@ -70,11 +70,11 @@ có sẵn sớm.
 | Mất ổn định mái dốc | Chuyển động, nứt | Khảo sát, inclinometer, extensometer |
 | Phá hoại nền móng | Lún lệch, góc nghiêng | Khảo sát, piezometer, tiltmeter |
 
-![Figure: tailings-construction-methods](../../../assets/figures/tailings-construction-methods.svg)
+![Figure: tailings-construction-methods](../../../assets/figures/tailings-construction-methods-vi.svg)
 
 **Hình.** Các phương pháp đắp đập bùn thải. Phương pháp thượng nguồn nằm trên bùn thải lỏng, bão hòa và có rủi ro cao nhất (ICOLD Bulletin 194).
 
-![Figure: tailings-facility](../../../assets/figures/tailings-facility.svg)
+![Figure: tailings-facility](../../../assets/figures/tailings-facility-vi.svg)
 
 **Hình.** Các thành phần chính của cơ sở lưu giữ bùn thải: đập đắp, bãi bùn, hồ nước bề mặt, tháp xả tràn, mặt nước thấm và lưu lượng an toàn (ICOLD Bulletin 194).
 

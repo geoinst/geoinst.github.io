@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 460" font-family="Inter, Arial, sans-serif">
   <rect width="780" height="460" fill="#ffffff"/>
-  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Investigation effort across the project phases</text>
+  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Nỗ lực khảo sát theo các giai đoạn dự án</text>
 
   <!-- phase columns -->
   <g>
@@ -11,40 +11,40 @@
   </g>
 
   <g font-size="13" font-weight="700" fill="#1d4ed8" text-anchor="middle">
-    <text x="124" y="80">Concept / feasibility</text>
-    <text x="300" y="80">Preliminary design</text>
-    <text x="476" y="80">Detailed design</text>
-    <text x="654" y="80">Construction</text>
+    <text x="124" y="80">Ý tưởng / tiền khả thi</text>
+    <text x="300" y="80">Thiết kế sơ bộ</text>
+    <text x="476" y="80">Thiết kế chi tiết</text>
+    <text x="654" y="80">Thi công</text>
   </g>
 
   <g font-size="10.5" fill="#334155">
-    <text x="52" y="102">Desk study, geology maps,</text>
-    <text x="52" y="117">aerial photos, walk-over</text>
-    <text x="52" y="132">Regional model; fatal-flaw</text>
-    <text x="52" y="147">screening of options</text>
-    <text x="52" y="170" font-weight="700" fill="#1e3a8a">Low cost, high leverage</text>
+    <text x="52" y="102">Nghiên cứu tài liệu, bản đồ địa chất,</text>
+    <text x="52" y="117">ảnh hàng không, khảo sát thị sát</text>
+    <text x="52" y="132">Mô hình vùng; sàng lọc lỗi</text>
+    <text x="52" y="147">nghiêm trọng của phương án</text>
+    <text x="52" y="170" font-weight="700" fill="#1e3a8a">Chi phí thấp, đòn bẩy cao</text>
 
-    <text x="228" y="102">Targeted boreholes and</text>
-    <text x="228" y="117">in-situ tests</text>
-    <text x="228" y="132">Ground model; parameter</text>
-    <text x="228" y="147">ranges for outline design</text>
-    <text x="228" y="170" font-weight="700" fill="#1e3a8a">Confirm / reject hypotheses</text>
+    <text x="228" y="102">Hố khoan mục tiêu và</text>
+    <text x="228" y="117">thí nghiệm hiện trường</text>
+    <text x="228" y="132">Mô hình nền; dải thông số</text>
+    <text x="228" y="147">cho thiết kế sơ bộ</text>
+    <text x="228" y="170" font-weight="700" fill="#1e3a8a">Xác nhận / bác bỏ giả thuyết</text>
 
-    <text x="404" y="102">Dense grid, lab testing,</text>
-    <text x="404" y="117">monitoring wells</text>
-    <text x="404" y="132">Design parameters,</text>
-    <text x="404" y="147">settlement and stability</text>
-    <text x="404" y="170" font-weight="700" fill="#1e3a8a">Reduce residual risk</text>
+    <text x="404" y="102">Mạng dày, thí nghiệm phòng,</text>
+    <text x="404" y="117">giếng quan trắc</text>
+    <text x="404" y="132">Thông số thiết kế,</text>
+    <text x="404" y="147">lún và ổn định</text>
+    <text x="404" y="170" font-weight="700" fill="#1e3a8a">Giảm rủi ro còn lại</text>
 
-    <text x="580" y="102">Verification, as-built</text>
-    <text x="580" y="117">records, performance</text>
-    <text x="580" y="132">monitoring</text>
-    <text x="580" y="147">Confirm design assumptions</text>
-    <text x="580" y="170" font-weight="700" fill="#1e3a8a">Observational method</text>
+    <text x="580" y="102">Kiểm chứng, hồ sơ</text>
+    <text x="580" y="117">hoàn công, quan trắc</text>
+    <text x="580" y="132">hiệu năng</text>
+    <text x="580" y="147">Xác nhận giả thuyết thiết kế</text>
+    <text x="580" y="170" font-weight="700" fill="#1e3a8a">Phương pháp quan trắc</text>
   </g>
 
   <!-- rising effort staircase -->
-  <text x="40" y="238" font-size="12" font-weight="700" fill="#444">Investigation effort (and cost)</text>
+  <text x="40" y="238" font-size="12" font-weight="700" fill="#444">Nỗ lực khảo sát (và chi phí)</text>
   <g>
     <rect x="40" y="300" width="168" height="34" fill="#93b4ee"/>
     <rect x="216" y="272" width="168" height="62" fill="#6f97e4"/>
@@ -59,9 +59,9 @@
 
   <!-- note -->
   <rect x="40" y="352" width="700" height="76" fill="#fff7ed" stroke="#fed7aa"/>
-  <text x="54" y="374" font-size="12" font-weight="700" fill="#9a3412">The cost is front-loaded but tiny relative to the project — while the design decisions it enables are not.</text>
-  <text x="54" y="394" font-size="11" fill="#7c2d12">A small anomaly that is harmless for a large embankment can govern a narrow strip footing (relevance of scale, §1.3).</text>
-  <text x="54" y="412" font-size="11" fill="#7c2d12">Drilling is to confirm or reject a hypothesis — never to "see what is there" (§1.7).</text>
+  <text x="54" y="374" font-size="12" font-weight="700" fill="#9a3412">Chi phí dồn vào giai đoạn đầu nhưng rất nhỏ so với công trình — trong khi các quyết định thiết kế mà nó cho phép thì không.</text>
+  <text x="54" y="394" font-size="11" fill="#7c2d12">Một dị thường nhỏ vô hại với nền đắp lớn lại có thể quyết định với móng băng hẹp (ý nghĩa của tỷ lệ, §1.3).</text>
+  <text x="54" y="412" font-size="11" fill="#7c2d12">Khoan là để xác nhận hoặc bác bỏ giả thuyết — không phải để "xem có gì" (§1.7).</text>
 
-  <text x="30" y="452" font-size="10.5" fill="#777">After Burt G. Look, Handbook of Geotechnical Investigation and Design Tables (2007), Ch. 1. Original diagram.</text>
+  <text x="30" y="452" font-size="10.5" fill="#777">Theo Burt G. Look, Cẩm nang Tra cứu &amp; Thiết kế Địa kỹ thuật (2007), Ch. 1. Sơ đồ gốc.</text>
 </svg>

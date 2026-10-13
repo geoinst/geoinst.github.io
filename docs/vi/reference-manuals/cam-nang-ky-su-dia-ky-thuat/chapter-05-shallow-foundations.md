@@ -45,7 +45,7 @@ mặt phá hoại phát triển.
 Công thức tải trọng giới hạn tổng quát cho tải trọng thẳng đứng đúng tâm trên móng
 băng nằm ngang trong nền đồng nhất, từ đó suy ra các công thức sức chịu tải cổ điển.
 
-![Figure: foundation-bearing-failure](../../../assets/figures/foundation-bearing-failure.svg)
+![Figure: foundation-bearing-failure](../../../assets/figures/foundation-bearing-failure-vi.svg)
 
 **Hình.** Các cơ chế phá hoại sức chịu tải dưới móng nông.
 
@@ -78,7 +78,7 @@ chiều sâu.
 ### 5.3.2 Độ lún cố kết theo phương pháp phân tầng
 Chia tầng chịu nén thành các lớp nhỏ và cộng dồn phần đóng góp của chúng.
 
-![Figure: foundation-settlement](../../../assets/figures/foundation-settlement.svg)
+![Figure: foundation-settlement](../../../assets/figures/foundation-settlement-vi.svg)
 
 **Hình.** Các thành phần độ lún dưới móng.
 

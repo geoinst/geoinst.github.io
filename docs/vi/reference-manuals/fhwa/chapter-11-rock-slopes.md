@@ -40,7 +40,7 @@ rỗng chi phối nó, để định hướng xử lý và kiểm chứng hiệu
 độ), **piezometer** (áp lực nước khe nứt), **extensometer**, **load cell** trên neo, và
 **máy đo mưa**.
 
-![Figure: fhwa-rock-slope-monitoring](../../../assets/figures/fhwa-rock-slope-monitoring.svg)
+![Figure: fhwa-rock-slope-monitoring](../../../assets/figures/fhwa-rock-slope-monitoring-vi.svg)
 
 **Hình.** Quan trắc cho mái dốc đá: extensometer và inclinometer phát hiện chuyển vị khối, piezometer đo áp lực nước khe nứt, load cell trên neo và trắc đạc mặt ngoài (theo FHWA-HI-98-034, Ch. 11).
 

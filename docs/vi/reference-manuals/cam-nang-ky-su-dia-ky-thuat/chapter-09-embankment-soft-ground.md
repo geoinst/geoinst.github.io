@@ -37,7 +37,7 @@ có được đắp tiếp hay không.
 
 **Bệ phản áp** ở chân mái dốc làm tăng hệ số an toàn mà không cần bỏ bớt khối đắp.
 
-![Figure: foundation-slope-stability](../../../assets/figures/foundation-slope-stability.svg)
+![Figure: foundation-slope-stability](../../../assets/figures/foundation-slope-stability-vi.svg)
 
 **Hình.** Phân tích ổn định theo cung tròn dùng cho đắp theo giai đoạn.
 
@@ -50,7 +50,7 @@ có được đắp tiếp hay không.
 Bấc thấm (PVD), giếng cát và gia tải trước được dùng để tăng nhanh tốc độ cố kết, nhờ
 đó thi công được sớm hơn.
 
-![Figure: soil-mechanics-consolidation](../../../assets/figures/soil-mechanics-consolidation.svg)
+![Figure: soil-mechanics-consolidation](../../../assets/figures/soil-mechanics-consolidation-vi.svg)
 
 **Hình.** Cố kết: đường cong $e$–$\log\sigma'$ và đường cong thời gian–lún.
 
@@ -72,7 +72,7 @@ quá trình cố kết: khi áp lực nước lỗ rỗng dư tiêu tán, ứng 
 tăng lên. Xem [Dunnicliff Ch. 6](../dunnicliff/chapter-06-piezometers.md) và
 [FHWA Ch. 2](../fhwa/chapter-02-groundwater-pressure.md).
 
-![Figure: dunnicliff-piezometer-types](../../../assets/figures/dunnicliff-piezometer-types.svg)
+![Figure: dunnicliff-piezometer-types](../../../assets/figures/dunnicliff-piezometer-types-vi.svg)
 
 **Hình.** So sánh các loại áp kế phổ biến.
 
@@ -82,7 +82,7 @@ tăng lên. Xem [Dunnicliff Ch. 6](../dunnicliff/chapter-06-piezometers.md) và
 **ống đo nghiêng** (inclinometer casing). Đây là chỉ báo sớm nhất của mất ổn định tại
 chân mái dốc. Xem [Dunnicliff Ch. 8](../dunnicliff/chapter-08-deformation.md).
 
-![Figure: dunnicliff-inclinometer](../../../assets/figures/dunnicliff-inclinometer.svg)
+![Figure: dunnicliff-inclinometer](../../../assets/figures/dunnicliff-inclinometer-vi.svg)
 
 **Hình.** Ống đo nghiêng và đầu đo để xác định chuyển vị ngang.
 
@@ -92,7 +92,7 @@ chân mái dốc. Xem [Dunnicliff Ch. 8](../dunnicliff/chapter-08-deformation.md
 đầu vào tải trọng cho các tính toán lún và ổn định. Xem
 [Dunnicliff Ch. 7](../dunnicliff/chapter-07-stress.md).
 
-![Figure: dunnicliff-earth-pressure-cell](../../../assets/figures/dunnicliff-earth-pressure-cell.svg)
+![Figure: dunnicliff-earth-pressure-cell](../../../assets/figures/dunnicliff-earth-pressure-cell-vi.svg)
 
 **Hình.** Hộp đo áp lực đất chôn ở đáy khối đắp.
 

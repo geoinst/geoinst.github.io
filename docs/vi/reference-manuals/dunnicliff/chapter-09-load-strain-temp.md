@@ -50,7 +50,7 @@ $$P_{\text{hiệu chỉnh}} = P_{\text{đo}} + C_T \cdot (T - T_0)$$
 
 - **Ứng dụng công trình**: Đo nhiệt thủy hóa bê tông khối lớn trong đài móng cọc khoan nhồi, trụ tháp cầu và khối đập bê tông để kiểm soát gradient nhiệt độ chống nứt nẻ.
 
-![Figure: dunnicliff-load-cell-strain-gage](../../../assets/figures/dunnicliff-load-cell-strain-gage.svg)
+![Figure: dunnicliff-load-cell-strain-gage](../../../assets/figures/dunnicliff-load-cell-strain-gage-vi.svg)
 
 **Hình.** Cảm biến đo tải trọng và đầu đo biến dạng. Cảm biến đo tải trọng lỗ rỗng đo lực neo/thanh chống; đầu đo sister-bar đo biến dạng trong thanh thép (Dunnicliff, Ch. 13).
 

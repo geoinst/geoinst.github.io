@@ -1,23 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 460" font-family="Inter, Arial, sans-serif">
   <rect width="780" height="460" fill="#ffffff"/>
-  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Earth pressure — the wall moves, the pressure changes</text>
+  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Áp lực đất — tường dịch chuyển, áp lực thay đổi</text>
 
   <!-- three panels -->
   <!-- at rest -->
   <g>
-    <text x="140" y="58" text-anchor="middle" font-size="12" font-weight="700" fill="#1d4ed8">At rest</text>
+    <text x="140" y="58" text-anchor="middle" font-size="12" font-weight="700" fill="#1d4ed8">Tại chỗ</text>
     <rect x="100" y="76" width="18" height="150" fill="#78716c"/>
     <rect x="118" y="76" width="120" height="150" fill="#e8e0cf"/>
     <!-- triangular pressure -->
     <polygon points="118,76 118,226 176,226" fill="#93c5fd" opacity="0.75"/>
     <text x="196" y="150" font-size="10.5" fill="#1d4ed8" font-weight="700">K₀</text>
-    <text x="140" y="248" text-anchor="middle" font-size="10.5" fill="#475569">no movement</text>
+    <text x="140" y="248" text-anchor="middle" font-size="10.5" fill="#475569">không dịch chuyển</text>
     <text x="140" y="264" text-anchor="middle" font-size="10.5" fill="#334155" font-weight="600">K₀ = 1 − sin φ′</text>
   </g>
 
   <!-- active -->
   <g>
-    <text x="390" y="58" text-anchor="middle" font-size="12" font-weight="700" fill="#0f766e">Active</text>
+    <text x="390" y="58" text-anchor="middle" font-size="12" font-weight="700" fill="#0f766e">Chủ động</text>
     <rect x="350" y="76" width="18" height="150" fill="#78716c"/>
     <rect x="368" y="76" width="120" height="150" fill="#e8e0cf"/>
     <polygon points="368,76 368,226 424,226" fill="#5eead4" opacity="0.8"/>
@@ -25,45 +25,45 @@
     <path d="M348 160 L320 160" stroke="#0f766e" stroke-width="2.5"/>
     <path d="M328 153 L318 160 L328 167" fill="#0f766e"/>
     <text x="446" y="150" font-size="10.5" fill="#0f766e" font-weight="700">K_a</text>
-    <text x="390" y="248" text-anchor="middle" font-size="10.5" fill="#475569">wall yields ~0.1–0.5 % H</text>
+    <text x="390" y="248" text-anchor="middle" font-size="10.5" fill="#475569">tường dịch ~0,1–0,5 % H</text>
     <text x="390" y="264" text-anchor="middle" font-size="10.5" fill="#334155" font-weight="600">K_a = tan²(45 − φ/2)</text>
   </g>
 
   <!-- passive -->
   <g>
-    <text x="640" y="58" text-anchor="middle" font-size="12" font-weight="700" fill="#b45309">Passive</text>
+    <text x="640" y="58" text-anchor="middle" font-size="12" font-weight="700" fill="#b45309">Bị động</text>
     <rect x="600" y="76" width="18" height="150" fill="#78716c"/>
     <rect x="618" y="76" width="120" height="150" fill="#e8e0cf"/>
     <polygon points="618,76 618,226 740,226" fill="#fdba74" opacity="0.85"/>
     <path d="M602 160 L640 160" stroke="#b45309" stroke-width="2.5"/>
     <path d="M632 153 L642 160 L632 167" fill="#b45309"/>
     <text x="700" y="120" font-size="10.5" fill="#b45309" font-weight="700">K_p</text>
-    <text x="640" y="248" text-anchor="middle" font-size="10.5" fill="#475569">wall pushed into soil 2–10 % H</text>
+    <text x="640" y="248" text-anchor="middle" font-size="10.5" fill="#475569">tường đẩy vào đất 2–10 % H</text>
     <text x="640" y="264" text-anchor="middle" font-size="10.5" fill="#334155" font-weight="600">K_p = tan²(45 + φ/2)</text>
   </g>
 
   <line x1="30" y1="286" x2="750" y2="286" stroke="#e2e8f0"/>
 
   <!-- K0 vs OCR -->
-  <text x="30" y="310" font-size="12" font-weight="700" fill="#334155">Overconsolidation raises K₀</text>
+  <text x="30" y="310" font-size="12" font-weight="700" fill="#334155">Cố kết trước làm tăng K₀</text>
   <rect x="30" y="320" width="350" height="120" fill="#f8fafc" stroke="#cbd5e1"/>
   <g font-size="10.5" fill="#475569">
-    <text x="44" y="342">Sand, normally consolidated</text><text x="366" y="342" text-anchor="end">0.4 – 0.5</text>
-    <text x="44" y="362">Clay, normally consolidated</text><text x="366" y="362" text-anchor="end">0.5 – 0.7</text>
-    <text x="44" y="382">Overconsolidated clay</text><text x="366" y="382" text-anchor="end">0.8 – 2.0</text>
-    <text x="44" y="402">Heavily OC / compacted fill</text><text x="366" y="402" text-anchor="end">up to 2.0+</text>
+    <text x="44" y="342">Cát, cố kết thường</text><text x="366" y="342" text-anchor="end">0.4 – 0.5</text>
+    <text x="44" y="362">Sét, cố kết thường</text><text x="366" y="362" text-anchor="end">0.5 – 0.7</text>
+    <text x="44" y="382">Sét cố kết trước</text><text x="366" y="382" text-anchor="end">0.8 – 2.0</text>
+    <text x="44" y="402">OC mạnh / đất đắp đầm chặt</text><text x="366" y="402" text-anchor="end">đến 2,0+</text>
   </g>
   <line x1="44" y1="412" x2="366" y2="412" stroke="#e2e8f0"/>
   <text x="44" y="430" font-size="10.5" fill="#1d4ed8" font-weight="700">K₀(OC) = K₀(NC) · OCR^sin φ′</text>
 
   <!-- wall friction -->
   <rect x="400" y="320" width="350" height="120" fill="#fff7ed" stroke="#fed7aa"/>
-  <text x="414" y="342" font-size="11" font-weight="700" fill="#9a3412">Two traps that catch designers</text>
+  <text x="414" y="342" font-size="11" font-weight="700" fill="#9a3412">Hai cái bẫy với người thiết kế</text>
   <line x1="414" y1="352" x2="736" y2="352" stroke="#fed7aa"/>
-  <text x="414" y="372" font-size="10.5" fill="#7c2d12">1. A stiff wall never reaches active pressure —</text>
-  <text x="414" y="388" font-size="10.5" fill="#7c2d12">   it feels at-rest, which is higher.</text>
-  <text x="414" y="408" font-size="10.5" fill="#7c2d12">2. Wall friction (δ) cuts active pressure by 10–30 %,</text>
-  <text x="414" y="424" font-size="10.5" fill="#7c2d12">   but only if the wall can mobilise it.</text>
+  <text x="414" y="372" font-size="10.5" fill="#7c2d12">1. Tường cứng không bao giờ đạt áp lực chủ động —</text>
+  <text x="414" y="388" font-size="10.5" fill="#7c2d12">   nó chịu trạng thái tại chỗ, vốn lớn hơn.</text>
+  <text x="414" y="408" font-size="10.5" fill="#7c2d12">2. Ma sát tường (δ) giảm áp lực chủ động 10–30 %,</text>
+  <text x="414" y="424" font-size="10.5" fill="#7c2d12">   nhưng chỉ khi tường huy động được nó.</text>
 
-  <text x="30" y="452" font-size="10.5" fill="#777">After Burt G. Look (2007), Ch. 19 — earth pressures. Original diagram.</text>
+  <text x="30" y="452" font-size="10.5" fill="#777">Theo Burt G. Look (2007), Ch. 19 — áp lực đất. Sơ đồ gốc.</text>
 </svg>

@@ -31,7 +31,7 @@ Các yếu tố chính:
 
 Tỷ số kích thước cao và độ cứng hộp đo tương thích với đất đều giúp giảm thiểu sai số đo.
 
-![Figure: dunnicliff-earth-pressure-cell](../../../assets/figures/dunnicliff-earth-pressure-cell.svg)
+![Figure: dunnicliff-earth-pressure-cell](../../../assets/figures/dunnicliff-earth-pressure-cell-vi.svg)
 
 **Hình.** Hộp đo áp lực đất đặt chôn: hộp đo dẹt với cảm biến đọc ứng suất tổng vuông góc với mặt; chất lượng lắp đặt và độ cứng tương thích quyết định độ chính xác (theo FHWA-HI-98-034, Ch. 4).
 

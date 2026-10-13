@@ -29,7 +29,7 @@ $$S_c = \frac{C_c H}{1+e_0}\log\frac{\sigma'_{v0}+\Delta\sigma}{\sigma'_{v0}}$$
 Với sét quá cố kết, dùng **chỉ số nén lại** tới $\sigma'_p$, và $C_c$ vượt quá. **Tỷ số quá
 cố kết** $OCR = \sigma'_p / \sigma'_{v0}$ cho biết sét là NC ($OCR=1$) hay OC ($OCR>1$).
 
-![Figure: soil-mechanics-consolidation](../../../assets/figures/soil-mechanics-consolidation.svg)
+![Figure: soil-mechanics-consolidation](../../../assets/figures/soil-mechanics-consolidation-vi.svg)
 
 **Hình.** Cố kết: đường cong e–log σ′ cho $C_c$, $C_r$ và áp lực tiền cố kết, cùng đường cong thời gian–lún để suy ra $c_v$ (theo USACE EM 1110-1-1904).
 

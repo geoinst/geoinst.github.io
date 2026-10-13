@@ -29,7 +29,7 @@ Hiệu chuẩn thiết lập quan hệ giữa tín hiệu thô của thiết b�
 - Ghi **hệ số hiệu chuẩn, điểm không và dải đo**, và mang theo chúng qua mọi số đọc.
 - Để ý **trôi** — sự thay đổi chậm của điểm không hoặc dải đo theo thời gian.
 
-![Figure: dunnicliff-calibration](../../../assets/figures/dunnicliff-calibration.svg)
+![Figure: dunnicliff-calibration](../../../assets/figures/dunnicliff-calibration-vi.svg)
 
 **Hình.** Hiệu chuẩn chuyển tín hiệu thô của thiết bị thành giá trị kỹ thuật; ghi lại điểm không và dải đo là điều thiết yếu để dữ liệu đáng tin cậy (theo FHWA-HI-98-034, Ch. 12).
 

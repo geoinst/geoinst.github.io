@@ -41,7 +41,7 @@ tải–lún. Cọc khoan nhồi cho phép lắp thiết bị vào bê tông tư
 lồng thép), **hộp đo áp lực đất tiếp xúc** ở đáy, **cụm thanh truyền chuyển vị (telltale)** (chuyển vị giữa
 các đoạn) và **cảm biến đo tải trọng (load cell)**.
 
-![Figure: fhwa-deep-foundation-monitoring](../../../assets/figures/fhwa-deep-foundation-monitoring.svg)
+![Figure: fhwa-deep-foundation-monitoring](../../../assets/figures/fhwa-deep-foundation-monitoring-vi.svg)
 
 **Hình.** Quan trắc truyền tải cho thí nghiệm tải móng sâu: cảm biến đo biến dạng / thanh thép đo biến dạng phụ (sister bar) dọc thân cọc, thanh truyền chuyển vị (telltale) cho chuyển vị giữa các đoạn, cùng cảm biến đo tải trọng và hộp đo áp lực đất ở mũi (theo FHWA-HI-98-034, Ch. 8).
 

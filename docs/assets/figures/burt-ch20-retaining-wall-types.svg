@@ -1,23 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 460" font-family="Inter, Arial, sans-serif">
   <rect width="780" height="460" fill="#ffffff"/>
-  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Retaining walls — type, drainage and the failure surface</text>
+  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Tường chắn — loại, thoát nước và mặt trượt</text>
 
   <!-- wall types -->
   <g>
     <!-- gravity -->
-    <text x="110" y="56" text-anchor="middle" font-size="11" font-weight="700" fill="#1d4ed8">Gravity</text>
+    <text x="110" y="56" text-anchor="middle" font-size="11" font-weight="700" fill="#1d4ed8">Trọng lực</text>
     <path d="M60 200 L70 90 L150 90 L160 200 Z" fill="#a8a29e" stroke="#57534e"/>
     <rect x="60" y="200" width="100" height="16" fill="#78716c"/>
-    <text x="110" y="232" text-anchor="middle" font-size="9.5" fill="#475569">&lt; 3 m, mass</text>
+    <text x="110" y="232" text-anchor="middle" font-size="9.5" fill="#475569">&lt; 3 m, khối</text>
 
     <!-- cantilever -->
-    <text x="290" y="56" text-anchor="middle" font-size="11" font-weight="700" fill="#1d4ed8">Cantilever</text>
+    <text x="290" y="56" text-anchor="middle" font-size="11" font-weight="700" fill="#1d4ed8">Công xôn</text>
     <rect x="270" y="90" width="14" height="126" fill="#a8a29e" stroke="#57534e"/>
     <rect x="240" y="200" width="120" height="16" fill="#a8a29e" stroke="#57534e"/>
     <text x="290" y="232" text-anchor="middle" font-size="9.5" fill="#475569">3 – 8 m</text>
 
     <!-- MSE -->
-    <text x="470" y="56" text-anchor="middle" font-size="11" font-weight="700" fill="#1d4ed8">Reinforced soil (MSE)</text>
+    <text x="470" y="56" text-anchor="middle" font-size="11" font-weight="700" fill="#1d4ed8">Đất có cốt (MSE)</text>
     <rect x="440" y="90" width="120" height="126" fill="#f4ecd8" stroke="#ded1ae"/>
     <g stroke="#b45309" stroke-width="3">
       <line x1="446" y1="112" x2="556" y2="112"/>
@@ -26,23 +26,23 @@
       <line x1="446" y1="196" x2="556" y2="196"/>
     </g>
     <rect x="428" y="90" width="12" height="126" fill="#9aa0a6" stroke="#6f757b"/>
-    <text x="470" y="232" text-anchor="middle" font-size="9.5" fill="#475569">3 – 20 m, frictional</text>
+    <text x="470" y="232" text-anchor="middle" font-size="9.5" fill="#475569">3 – 20 m, ma sát</text>
 
     <!-- anchored -->
-    <text x="660" y="56" text-anchor="middle" font-size="11" font-weight="700" fill="#1d4ed8">Anchored / nailed</text>
+    <text x="660" y="56" text-anchor="middle" font-size="11" font-weight="700" fill="#1d4ed8">Neo / đinh đất</text>
     <rect x="636" y="90" width="12" height="126" fill="#a8a29e" stroke="#57534e"/>
     <g stroke="#0f766e" stroke-width="2">
       <line x1="648" y1="110" x2="740" y2="126"/>
       <line x1="648" y1="146" x2="740" y2="162"/>
       <line x1="648" y1="182" x2="740" y2="198"/>
     </g>
-    <text x="660" y="232" text-anchor="middle" font-size="9.5" fill="#475569">any height</text>
+    <text x="660" y="232" text-anchor="middle" font-size="9.5" fill="#475569">mọi chiều cao</text>
   </g>
 
   <line x1="30" y1="248" x2="750" y2="248" stroke="#e2e8f0"/>
 
   <!-- failure surface -->
-  <text x="30" y="272" font-size="12" font-weight="700" fill="#334155">MSE wall — the potential failure surface sets the reinforcement length</text>
+  <text x="30" y="272" font-size="12" font-weight="700" fill="#334155">Tường MSE — mặt trượt tiềm năng quyết định chiều dài cốt</text>
   <rect x="30" y="284" width="430" height="140" fill="#f8fafc" stroke="#cbd5e1"/>
   <rect x="52" y="300" width="14" height="108" fill="#9aa0a6"/>
   <rect x="66" y="300" width="200" height="108" fill="#f4ecd8"/>
@@ -55,7 +55,7 @@
   </g>
   <!-- failure surface -->
   <path d="M72 300 L200 408" stroke="#dc2626" stroke-width="2.5" stroke-dasharray="7 4"/>
-  <text x="150" y="340" font-size="10" fill="#dc2626" font-weight="700" transform="rotate(42 150 340)">failure surface</text>
+  <text x="150" y="340" font-size="10" fill="#dc2626" font-weight="700" transform="rotate(42 150 340)">mặt trượt</text>
   <!-- L dimension -->
   <g stroke="#2563eb" stroke-width="1.5">
     <line x1="72" y1="420" x2="266" y2="420"/>
@@ -66,14 +66,14 @@
 
   <!-- drainage -->
   <rect x="480" y="284" width="270" height="140" fill="#fff7ed" stroke="#fed7aa"/>
-  <text x="494" y="306" font-size="11.5" font-weight="700" fill="#9a3412">Drainage is not optional</text>
+  <text x="494" y="306" font-size="11.5" font-weight="700" fill="#9a3412">Thoát nước là bắt buộc</text>
   <line x1="494" y1="316" x2="736" y2="316" stroke="#fed7aa"/>
-  <text x="494" y="336" font-size="10.5" fill="#7c2d12">Backfill a wall without drainage and water</text>
-  <text x="494" y="352" font-size="10.5" fill="#7c2d12">adds a full hydrostatic load on top of the</text>
-  <text x="494" y="368" font-size="10.5" fill="#7c2d12">earth pressure — often doubling the force.</text>
-  <text x="494" y="392" font-size="10.5" fill="#9a3412" font-weight="600">Provide: weep holes, a stone drain, a filter,</text>
-  <text x="494" y="408" font-size="10.5" fill="#9a3412" font-weight="600">and a surface seal behind the wall.</text>
+  <text x="494" y="336" font-size="10.5" fill="#7c2d12">Đắp sau tường mà không thoát nước thì nước</text>
+  <text x="494" y="352" font-size="10.5" fill="#7c2d12">sẽ cộng thêm toàn bộ tải thủy tĩnh lên trên</text>
+  <text x="494" y="368" font-size="10.5" fill="#7c2d12">áp lực đất — thường gấp đôi lực tác dụng.</text>
+  <text x="494" y="392" font-size="10.5" fill="#9a3412" font-weight="600">Cần có: lỗ thoát nước, rãnh đá, tầng lọc,</text>
+  <text x="494" y="408" font-size="10.5" fill="#9a3412" font-weight="600">và lớp bịt mặt sau tường.</text>
 
   <rect x="30" y="436" width="720" height="1" fill="none"/>
-  <text x="30" y="452" font-size="10.5" fill="#777">After Burt G. Look (2007), Ch. 20 — retaining walls and reinforced soil. Original diagram.</text>
+  <text x="30" y="452" font-size="10.5" fill="#777">Theo Burt G. Look (2007), Ch. 20 — tường chắn và đất có cốt. Sơ đồ gốc.</text>
 </svg>

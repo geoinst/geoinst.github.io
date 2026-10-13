@@ -27,7 +27,7 @@ Lưới được vẽ sao cho các phần tử **"vuông"**. Từ đó kỹ sư 
 - **áp lực nước lỗ rỗng** (do đó đẩy nổi) tại mọi điểm;
 - **gradient thoát** ở mặt hạ lưu, yếu tố quyết định xói ngầm.
 
-![Figure: soil-mechanics-flow-net](../../../assets/figures/soil-mechanics-flow-net.svg)
+![Figure: soil-mechanics-flow-net](../../../assets/figures/soil-mechanics-flow-net-vi.svg)
 
 **Hình.** Lưới thấm dưới tường cừ: đường dòng và đường đẳng thế cho lưu lượng thấm, đẩy nổi và gradient thoát (theo hướng dẫn thấm của USACE).
 

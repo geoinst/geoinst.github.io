@@ -50,7 +50,7 @@ cách hạ đầu dò tới các mốc từ tính hoặc cảm ứng:
 - **Đầu đo nam châm / công tắc lưỡi gà** — đầu dò phát hiện các vòng nam châm được
   gắn vữa ở các độ sâu chọn trước.
 
-![Figure: dunnicliff-extensometer](../../../assets/figures/dunnicliff-extensometer.svg)
+![Figure: dunnicliff-extensometer](../../../assets/figures/dunnicliff-extensometer-vi.svg)
 
 **Hình.** Nguyên lý extensometer dạng đầu dò và cố định: các mốc/điểm neo ở độ sâu ghi nhận chuyển vị so với mốc chuẩn ổn định (theo FHWA-HI-98-034, Ch. 3).
 
@@ -81,7 +81,7 @@ Các biến thể:
   quan trắc liên tục, tự động.
 - **Chỉ báo mặt trượt** — phát hiện độ sâu mà ống vách bị cắt.
 
-![Figure: dunnicliff-inclinometer](../../../assets/figures/dunnicliff-inclinometer.svg)
+![Figure: dunnicliff-inclinometer](../../../assets/figures/dunnicliff-inclinometer-vi.svg)
 
 **Hình.** Nguyên lý inclinometer: đầu dò di chuyển dọc ống đo nghiêng, độ nghiêng tích lũy cho ra profile độ võng theo độ sâu (theo FHWA-HI-98-034, Ch. 3).
 

@@ -43,7 +43,7 @@ Mọi báo cáo quan trắc gửi cho Chủ đầu tư và Tư vấn giám sát 
 - So sánh biến dạng thực tế với các giá trị dự báo trong thuyết minh thiết kế.
 - Kết luận rõ ràng: Công trình đang ở trạng thái **Bình thường (Normal)**, **Cần theo dõi sát (Attention)** hay **Nguy hiểm (Alarm)**, đi kèm khuyến nghị giải pháp xử lý cụ thể.
 
-![Figure: dunnicliff-data-timeline](../../../assets/figures/dunnicliff-data-timeline.svg)
+![Figure: dunnicliff-data-timeline](../../../assets/figures/dunnicliff-data-timeline-vi.svg)
 
 **Hình.** Từ đường cơ sở đến vận hành. Đánh giá thay đổi so với đường cơ sở và vẽ số đọc theo biến số dẫn động (Dunnicliff, Ch. 18).
 

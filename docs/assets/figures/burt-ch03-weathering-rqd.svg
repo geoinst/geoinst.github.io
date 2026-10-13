@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 460" font-family="Inter, Arial, sans-serif">
   <rect width="780" height="460" fill="#ffffff"/>
-  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Weathering profile and the rock quality designation (RQD)</text>
+  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Mặt cắt phong hóa và chỉ số chất lượng đá (RQD)</text>
 
   <!-- LEFT: weathering profile -->
-  <text x="150" y="56" text-anchor="middle" font-size="13" font-weight="700" fill="#1d4ed8">Weathering grades (top → down)</text>
+  <text x="150" y="56" text-anchor="middle" font-size="13" font-weight="700" fill="#1d4ed8">Cấp phong hóa (trên → dưới)</text>
   <g>
     <rect x="40" y="70" width="220" height="52" fill="#b58a5a"/>
     <rect x="40" y="122" width="220" height="52" fill="#c39a6b"/>
@@ -13,26 +13,26 @@
     <rect x="40" y="330" width="220" height="52" fill="#f2eee6"/>
   </g>
   <g font-size="11" fill="#3f2f1a">
-    <text x="52" y="92" font-weight="700">VI — residual soil</text>
-    <text x="52" y="108">soil, original fabric destroyed</text>
-    <text x="52" y="144" font-weight="700">V — extremely weathered</text>
-    <text x="52" y="160">discoloured, core crumbles</text>
-    <text x="52" y="196" font-weight="700">IV — highly weathered</text>
-    <text x="52" y="212">weak, breaks by hand</text>
-    <text x="52" y="248" font-weight="700">III — moderately weathered</text>
-    <text x="52" y="264">stained, breaks with hammer</text>
-    <text x="52" y="300" font-weight="700">II — slightly weathered</text>
-    <text x="52" y="316">discolouration on joints only</text>
-    <text x="52" y="352" font-weight="700">I — fresh rock</text>
-    <text x="52" y="368">unweathered, intact</text>
+    <text x="52" y="92" font-weight="700">VI — đất tàn tích</text>
+    <text x="52" y="108">đất, cấu trúc nguyên thủy bị phá hủy</text>
+    <text x="52" y="144" font-weight="700">V — phong hóa hoàn toàn</text>
+    <text x="52" y="160">đổi màu, lõi vụn</text>
+    <text x="52" y="196" font-weight="700">IV — phong hóa mạnh</text>
+    <text x="52" y="212">yếu, vỡ bằng tay</text>
+    <text x="52" y="248" font-weight="700">III — phong hóa vừa</text>
+    <text x="52" y="264">có vết bẩn, vỡ bằng búa</text>
+    <text x="52" y="300" font-weight="700">II — phong hóa nhẹ</text>
+    <text x="52" y="316">chỉ đổi màu dọc khe nứt</text>
+    <text x="52" y="352" font-weight="700">I — đá tươi</text>
+    <text x="52" y="368">chưa phong hóa, nguyên dạng</text>
   </g>
 
   <!-- RIGHT: RQD core run -->
-  <text x="560" y="56" text-anchor="middle" font-size="13" font-weight="700" fill="#1d4ed8">RQD = Σ (intact pieces ≥ 100 mm) ÷ total run</text>
+  <text x="560" y="56" text-anchor="middle" font-size="13" font-weight="700" fill="#1d4ed8">RQD = Σ (đoạn nguyên vẹn ≥ 100 mm) ÷ chiều dài khoan</text>
 
   <!-- core barrel outline -->
   <rect x="300" y="80" width="520" height="46" fill="#f1f5f9" stroke="#94a3b8"/>
-  <text x="316" y="72" font-size="10.5" fill="#475569">Core run = 1.0 m</text>
+  <text x="316" y="72" font-size="10.5" fill="#475569">Đoạn khoan = 1,0 m</text>
 
   <!-- intact core pieces with fractures -->
   <g>
@@ -53,16 +53,16 @@
 
   <!-- tally -->
   <rect x="300" y="150" width="520" height="150" fill="#f8fafc" stroke="#cbd5e1"/>
-  <text x="316" y="172" font-size="12" font-weight="700" fill="#334155">Counting rule</text>
-  <text x="316" y="194" font-size="11" fill="#475569">Pieces ≥ 100 mm count in full: 200 + 230 + 310 = 740 mm</text>
-  <text x="316" y="214" font-size="11" fill="#475569">Pieces &lt; 100 mm are discarded: 60 and 40 mm</text>
+  <text x="316" y="172" font-size="12" font-weight="700" fill="#334155">Quy tắc đếm</text>
+  <text x="316" y="194" font-size="11" fill="#475569">Đoạn ≥ 100 mm được tính toàn bộ: 200 + 230 + 310 = 740 mm</text>
+  <text x="316" y="214" font-size="11" fill="#475569">Đoạn &lt; 100 mm bị loại bỏ: 60 và 40 mm</text>
   <text x="316" y="240" font-size="12" font-weight="700" fill="#0f766e">RQD = 740 / 1000 = 74 %</text>
   <line x1="316" y1="252" x2="804" y2="252" stroke="#e2e8f0"/>
-  <text x="316" y="272" font-size="11" fill="#475569">Discontinuities must be natural — drilling breaks are ignored.</text>
-  <text x="316" y="290" font-size="11" fill="#475569">Measured along the core axis; RQD is directional.</text>
+  <text x="316" y="272" font-size="11" fill="#475569">Khe nứt phải là tự nhiên — bỏ qua các vết vỡ do khoan.</text>
+  <text x="316" y="290" font-size="11" fill="#475569">Đo dọc trục lõi; RQD có tính định hướng.</text>
 
   <!-- RQD scale -->
-  <text x="300" y="330" font-size="11.5" font-weight="700" fill="#334155">RQD quality bands</text>
+  <text x="300" y="330" font-size="11.5" font-weight="700" fill="#334155">Dải chất lượng theo RQD</text>
   <g>
     <rect x="300" y="340" width="104" height="26" fill="#dc2626"/>
     <rect x="404" y="340" width="104" height="26" fill="#f97316"/>
@@ -75,9 +75,9 @@
     <text x="664" y="357">75–90</text><text x="768" y="357">90–100</text>
   </g>
   <g font-size="10" fill="#475569" text-anchor="middle">
-    <text x="352" y="382">very poor</text><text x="456" y="382">poor</text><text x="560" y="382">fair</text>
-    <text x="664" y="382">good</text><text x="768" y="382">excellent</text>
+    <text x="352" y="382">rất kém</text><text x="456" y="382">kém</text><text x="560" y="382">trung bình</text>
+    <text x="664" y="382">tốt</text><text x="768" y="382">rất tốt</text>
   </g>
 
-  <text x="30" y="452" font-size="10.5" fill="#777">After Burt G. Look (2007), Ch. 3 — weathering grades, RQD and discontinuity spacing. Original diagram.</text>
+  <text x="30" y="452" font-size="10.5" fill="#777">Theo Burt G. Look (2007), Ch. 3 — cấp phong hóa, RQD và khoảng cách khe nứt. Sơ đồ gốc.</text>
 </svg>

@@ -57,7 +57,7 @@ Biến dạng mạnh nhất khi được tương quan: một khảo sát bề m�
     Đập đất lún khi chúng cố kết; những năm đầu xác định tốc độ lún
     bình thường. Sự tăng tốc sau này nổi bật rõ ràng so với đường cơ sở đó.
 
-![Figure: dam-deformation](../../../assets/figures/dam-deformation.svg)
+![Figure: dam-deformation](../../../assets/figures/dam-deformation-vi.svg)
 
 **Hình.** Giám sát biến dạng: mốc khảo sát trên đỉnh đập (lún, dịch chuyển hạ lưu) cùng inclinometer cho biến dạng trong (phạm vi ASCE MOP-135).
 

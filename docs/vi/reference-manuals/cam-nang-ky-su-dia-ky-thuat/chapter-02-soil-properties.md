@@ -71,7 +71,7 @@ Trạng thái ứng suất tại một điểm được biểu diễn bằng **v
 pháp và ứng suất cắt trên một mặt bất kỳ qua điểm đó. Đây là cơ sở của tiêu chuẩn sức
 kháng dùng xuyên suốt cuốn sách.
 
-![Figure: soil-mechanics-mohr-coulomb](../../../assets/figures/soil-mechanics-mohr-coulomb.svg)
+![Figure: soil-mechanics-mohr-coulomb](../../../assets/figures/soil-mechanics-mohr-coulomb-vi.svg)
 
 **Hình.** Đường bao phá hoại Mohr–Coulomb và vòng tròn Mohr (theo FHWA-NHI-06-088).
 
@@ -86,7 +86,7 @@ tả chảy dẻo và phá hoại.
 tiêu tán và ứng suất hữu hiệu tăng lên. Lý thuyết cố kết một chiều của Terzaghi là nền
 tảng để dự báo lún theo thời gian.
 
-![Figure: soil-mechanics-consolidation](../../../assets/figures/soil-mechanics-consolidation.svg)
+![Figure: soil-mechanics-consolidation](../../../assets/figures/soil-mechanics-consolidation-vi.svg)
 
 **Hình.** Cố kết: đường cong $e$–$\log\sigma'$ và đường cong thời gian–lún (theo USACE EM 1110-1-1904).
 

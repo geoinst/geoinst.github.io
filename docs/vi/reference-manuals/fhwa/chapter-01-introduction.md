@@ -89,7 +89,7 @@ Sau khi học xong tài liệu này, người đọc cần có khả năng:
    liệu, xử lý và trình bày, diễn giải và báo cáo.
 5. Áp dụng **quy tắc vàng** cho mọi thiết bị trong dự án.
 
-![Figure: fhwa-applications-matrix](../../../assets/figures/fhwa-applications-matrix.svg)
+![Figure: fhwa-applications-matrix](../../../assets/figures/fhwa-applications-matrix-vi.svg)
 
 **Hình.** Nhóm thiết bị nào trả lời các câu hỏi mà mỗi loại công trình đặt ra — bản đồ cho các Chương 7–11 (theo FHWA-HI-98-034, Ch. 7–11).
 

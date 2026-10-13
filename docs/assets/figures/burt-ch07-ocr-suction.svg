@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 460" font-family="Inter, Arial, sans-serif">
   <rect width="780" height="460" fill="#ffffff"/>
-  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Overconsolidation ratio and the soil suction pF scale</text>
+  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Hệ số cố kết trước và thang lực hút đất pF</text>
 
   <!-- LEFT: e-log p curve -->
-  <text x="210" y="56" text-anchor="middle" font-size="13" font-weight="700" fill="#1d4ed8">e — log σ′v curve</text>
+  <text x="210" y="56" text-anchor="middle" font-size="13" font-weight="700" fill="#1d4ed8">Đường cong e — log σ′v</text>
 
   <line x1="70" y1="330" x2="360" y2="330" stroke="#334155" stroke-width="2"/>
   <line x1="70" y1="330" x2="70" y2="76" stroke="#334155" stroke-width="2"/>
   <text x="215" y="356" text-anchor="middle" font-size="11.5" font-weight="700" fill="#334155">log σ′v</text>
-  <text x="34" y="205" text-anchor="middle" font-size="11.5" font-weight="700" fill="#334155" transform="rotate(-90 34 205)">void ratio  e</text>
+  <text x="34" y="205" text-anchor="middle" font-size="11.5" font-weight="700" fill="#334155" transform="rotate(-90 34 205)">hệ số rỗng  e</text>
 
   <!-- recompression line (flat) -->
   <line x1="80" y1="120" x2="215" y2="146" stroke="#1d4ed8" stroke-width="2.5"/>
@@ -18,8 +18,8 @@
   <!-- sigma'p marker -->
   <line x1="215" y1="146" x2="215" y2="330" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="5 4"/>
   <text x="215" y="348" text-anchor="middle" font-size="11.5" font-weight="700" fill="#dc2626">σ′p</text>
-  <text x="222" y="126" font-size="10.5" fill="#1d4ed8" font-weight="600">recompression (Cr)</text>
-  <text x="252" y="228" font-size="10.5" fill="#1d4ed8" font-weight="600">virgin (Cc)</text>
+  <text x="222" y="126" font-size="10.5" fill="#1d4ed8" font-weight="600">nén lại (Cr)</text>
+  <text x="252" y="228" font-size="10.5" fill="#1d4ed8" font-weight="600">nén nguyên sinh (Cc)</text>
 
   <!-- sigma'v0 marker -->
   <line x1="160" y1="130" x2="160" y2="330" stroke="#0f766e" stroke-width="1.5" stroke-dasharray="5 4"/>
@@ -27,10 +27,10 @@
 
   <rect x="70" y="366" width="290" height="52" fill="#f8fafc" stroke="#cbd5e1"/>
   <text x="82" y="386" font-size="11.5" font-weight="700" fill="#334155">OCR = σ′p / σ′v0</text>
-  <text x="82" y="404" font-size="10.5" fill="#475569">NC ≈ 1 · lightly OC 1–2 · OC 2–4 · heavily OC &gt; 4</text>
+  <text x="82" y="404" font-size="10.5" fill="#475569">NC ≈ 1 · OC nhẹ 1–2 · OC 2–4 · OC mạnh &gt; 4</text>
 
   <!-- RIGHT: pF scale -->
-  <text x="575" y="56" text-anchor="middle" font-size="13" font-weight="700" fill="#1d4ed8">Soil suction — the pF scale</text>
+  <text x="575" y="56" text-anchor="middle" font-size="13" font-weight="700" fill="#1d4ed8">Lực hút đất — thang pF</text>
 
   <!-- vertical scale bar -->
   <g>
@@ -50,22 +50,22 @@
   <text x="414" y="74" font-size="10.5" fill="#475569" text-anchor="end">pF</text>
 
   <g font-size="11" fill="#1e293b">
-    <text x="496" y="106" font-weight="700">Saturated</text>
-    <text x="496" y="122" font-size="10" fill="#475569">pF 0 — positive pore pressure</text>
+    <text x="496" y="106" font-weight="700">Bão hòa</text>
+    <text x="496" y="122" font-size="10" fill="#475569">pF 0 — áp lực lỗ rỗng dương</text>
 
-    <text x="496" y="172" font-weight="700">Field capacity</text>
-    <text x="496" y="188" font-size="10" fill="#475569">≈ pF 2 — water drains freely</text>
+    <text x="496" y="172" font-weight="700">Dung lượng đồng ruộng</text>
+    <text x="496" y="188" font-size="10" fill="#475569">≈ pF 2 — nước thoát tự do</text>
 
-    <text x="496" y="248" font-weight="700">Wilting point</text>
-    <text x="496" y="264" font-size="10" fill="#475569">≈ pF 4.2 — plants can no longer extract</text>
+    <text x="496" y="248" font-weight="700">Điểm héo cây</text>
+    <text x="496" y="264" font-size="10" fill="#475569">≈ pF 4,2 — cây không còn hút được nước</text>
 
-    <text x="496" y="318" font-weight="700">Oven dry</text>
+    <text x="496" y="318" font-weight="700">Khô trong lò sấy</text>
     <text x="496" y="334" font-size="10" fill="#475569">pF &gt; 6</text>
   </g>
 
   <rect x="420" y="418" width="340" height="1" fill="none"/>
-  <text x="420" y="430" font-size="10.5" fill="#b91c1c" font-weight="600">Suction governs the behaviour of unsaturated soil —</text>
-  <text x="420" y="444" font-size="10.5" fill="#b91c1c" font-weight="600">common in Vietnam and the tropics.</text>
+  <text x="420" y="430" font-size="10.5" fill="#b91c1c" font-weight="600">Lực hút chi phối ứng xử của đất không bão hòa —</text>
+  <text x="420" y="444" font-size="10.5" fill="#b91c1c" font-weight="600">phổ biến ở Việt Nam và vùng nhiệt đới.</text>
 
-  <text x="30" y="452" font-size="10.5" fill="#777">After Burt G. Look (2007), Ch. 7 — OCR, preconsolidation stress and soil suction. Original diagram.</text>
+  <text x="30" y="452" font-size="10.5" fill="#777">Theo Burt G. Look (2007), Ch. 7 — OCR, ứng suất tiền cố kết và lực hút đất. Sơ đồ gốc.</text>
 </svg>

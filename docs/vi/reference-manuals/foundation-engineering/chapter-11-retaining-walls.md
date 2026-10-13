@@ -27,7 +27,7 @@ Mọi tường chắn được kiểm tra ba cơ chế phá hoại:
 Cũng cần kiểm tra **ổn định mái dốc** tổng thể ([Chương 13](chapter-13-slope-stability.md)),
 vì tường và khối đất được giữ có thể phá hoại như một khối.
 
-![Figure: foundation-retaining-wall-forces](../../../assets/figures/foundation-retaining-wall-forces.svg)
+![Figure: foundation-retaining-wall-forces](../../../assets/figures/foundation-retaining-wall-forces-vi.svg)
 
 **Hình.** Lực tác dụng lên tường công-xôn: áp lực đất ngang và áp lực nước đẩy tường, được kháng bởi trọng lượng, ma sát đáy và áp lực bị động ở chân (theo USACE EM 1110-2-2502).
 

@@ -17,7 +17,7 @@ dạng dùng $c_u$ và $\phi_u = 0$:
 
 $$\tau_f = c_u$$
 
-![Figure: soil-mechanics-mohr-coulomb](../../../assets/figures/soil-mechanics-mohr-coulomb.svg)
+![Figure: soil-mechanics-mohr-coulomb](../../../assets/figures/soil-mechanics-mohr-coulomb-vi.svg)
 
 **Hình.** Đường bao phá hoại Mohr–Coulomb: sức kháng cắt $\tau_f = c' + \sigma'\tan\phi'$, với vòng tròn phá hoại tiếp xúc đường bao (theo FHWA-NHI-06-088).
 

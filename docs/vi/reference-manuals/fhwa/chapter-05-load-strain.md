@@ -24,7 +24,7 @@ và với quan trắc thanh chống, neo và thanh giằng trong kết cấu ch�
   trong kích có thể mang **sai số hệ thống** do ma sát, nên kích phải được **hiệu
   chuẩn**.
 
-![Figure: dunnicliff-load-cell-strain-gage](../../../assets/figures/dunnicliff-load-cell-strain-gage.svg)
+![Figure: dunnicliff-load-cell-strain-gage](../../../assets/figures/dunnicliff-load-cell-strain-gage-vi.svg)
 
 **Hình.** Cảm biến đo tải trọng và cảm biến đo biến dạng: cảm biến đo tải trọng đo lực cấu kiện, còn cảm biến đo biến dạng dán và dây rung đo biến dạng (theo FHWA-HI-98-034, Ch. 5).
 

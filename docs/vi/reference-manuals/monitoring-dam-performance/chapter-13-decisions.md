@@ -55,7 +55,7 @@ Một chương trình tốt biết học hỏi. Mỗi bất thường, dù lành
 đều cập nhật đường cơ sở, các ngưỡng và kế hoạch. Trong suốt tuổi thọ của đập, bản
 thân chương trình giám sát được cải thiện.
 
-![Figure: dam-decision-flow](../../../assets/figures/dam-decision-flow.svg)
+![Figure: dam-decision-flow](../../../assets/figures/dam-decision-flow-vi.svg)
 
 **Hình.** Từ số đọc đến quyết định: kiểm tra so với đường cơ sở, so sánh với ứng xử mong đợi, rồi hành động (phạm vi ASCE MOP-135).
 

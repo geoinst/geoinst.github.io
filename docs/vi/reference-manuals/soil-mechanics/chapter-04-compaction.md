@@ -21,7 +21,7 @@ Với một nỗ lực đầm chặt cho trước, tồn tại một **độ ẩ
 
 **Đường cong đầm chặt** (dung trọng khô theo độ ẩm) là cơ sở kiểm soát hiện trường.
 
-![Figure: soil-mechanics-compaction-curve](../../../assets/figures/soil-mechanics-compaction-curve.svg)
+![Figure: soil-mechanics-compaction-curve](../../../assets/figures/soil-mechanics-compaction-curve-vi.svg)
 
 **Hình.** Đường cong đầm chặt: dung trọng khô đạt cực đại tại độ ẩm tối ưu; nỗ lực đầm chặt cao hơn nâng đường cong lên (theo FHWA-NHI-06-088).
 

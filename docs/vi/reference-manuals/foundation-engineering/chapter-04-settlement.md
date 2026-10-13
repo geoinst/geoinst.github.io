@@ -23,7 +23,7 @@ Tổng lún gồm ba phần:
 3. **Lún thứ cấp (từ biến)** — thay đổi thể tích tiếp diễn ở ứng suất hữu hiệu không
    đổi, đặc biệt ở sét hữu cơ và sét yếu.
 
-![Figure: foundation-settlement](../../../assets/figures/foundation-settlement.svg)
+![Figure: foundation-settlement](../../../assets/figures/foundation-settlement-vi.svg)
 
 **Hình.** Ba thành phần lún của móng — tức thời, cố kết sơ cấp và thứ cấp — tích lũy theo thời gian (theo USACE EM 1110-1-1904).
 
