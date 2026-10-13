@@ -1,5 +1,6 @@
 ---
 lang: vi
+lang_alt: reference-manuals/burt-look-handbook/
 ---
 # Chương 16 — Địa kỹ thuật tổng hợp (Geosynthetics)
 

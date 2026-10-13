@@ -1,5 +1,6 @@
 ---
 lang: vi
+lang_alt: reference-manuals/burt-look-handbook/
 ---
 # Chương 1 — Khảo sát khu đất
 

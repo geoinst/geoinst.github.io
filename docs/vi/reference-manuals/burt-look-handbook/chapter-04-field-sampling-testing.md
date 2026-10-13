@@ -1,5 +1,6 @@
 ---
 lang: vi
+lang_alt: reference-manuals/burt-look-handbook/
 ---
 # Chương 4 — Lấy mẫu và thử nghiệm hiện trường
 

@@ -1,5 +1,6 @@
 ---
 lang: vi
+lang_alt: reference-manuals/burt-look-handbook/
 ---
 # Chương 2 — Phân loại đất
 

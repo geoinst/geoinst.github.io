@@ -1,5 +1,6 @@
 ---
 lang: vi
+lang_alt: reference-manuals/burt-look-handbook/
 ---
 # Chương 5 — Thông số cường độ đất từ phân loại và thử nghiệm
 

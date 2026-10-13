@@ -1,5 +1,6 @@
 ---
 lang: vi
+lang_alt: reference-manuals/burt-look-handbook/
 ---
 # Chương 15 — Đánh giá địa hình, thoát nước và xói mòn
 

@@ -1,5 +1,7 @@
 /* Language toggle rendered inside Material's announce banner.
-   Only appears on pages that declare `lang_alt:` in their front matter. */
+   Rendered on every page. The "other language" link comes from `lang_alt:`
+   when the page declares it; otherwise it falls back to that language's home
+   (EN pages -> /vi/, VI pages -> /). */
 
 .lang-switch {
   display: flex;

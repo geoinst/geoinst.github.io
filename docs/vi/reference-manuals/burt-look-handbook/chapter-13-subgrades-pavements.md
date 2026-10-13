@@ -1,5 +1,6 @@
 ---
 lang: vi
+lang_alt: reference-manuals/burt-look-handbook/
 ---
 # Chương 13 — Nền đường và mặt đường (Subgrades and pavements)
 

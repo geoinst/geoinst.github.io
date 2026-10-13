@@ -1,5 +1,6 @@
 ---
 lang: vi
+lang_alt: reference-manuals/burt-look-handbook/
 ---
 # Chương 6 — Thông số cường độ đá từ phân loại và thử nghiệm
 

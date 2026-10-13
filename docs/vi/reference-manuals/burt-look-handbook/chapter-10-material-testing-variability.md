@@ -1,5 +1,6 @@
 ---
 lang: vi
+lang_alt: reference-manuals/burt-look-handbook/
 ---
 # Chương 10 — Sự biến thiên của vật liệu và thử nghiệm
 
