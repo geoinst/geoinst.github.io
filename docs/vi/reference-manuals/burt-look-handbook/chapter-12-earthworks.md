@@ -8,6 +8,10 @@ Chương này chuyển **mô tả đất và đá** thành quyết định **thi
 bằng gì, hệ số nở rời, chiều dày lớp đầm, thiết bị đầm nào phù hợp, và mức đầm chặt
 cần đạt cho từng ứng dụng.
 
+![Figure: burt-ch12-compaction-curve](../../../assets/figures/burt-ch12-compaction-curve.svg)
+
+**Hình.** Đường cong đầm chặt: độ ẩm tối ưu và dung trọng khô lớn nhất, so sánh đầm chuẩn với đầm cải tiến và đường không có lỗ rỗng.
+
 ## 12.1 Các vấn đề của công tác đất
 
 Bảng của mục này liệt kê các câu hỏi thi công then chốt: **đào được hay phải nổ**,

@@ -8,6 +8,10 @@ Chương này gom các bảng về **vật liệu địa kỹ thuật tổng h�
 chức năng, sức kháng xuyên tĩnh, phân loại độ bền vững (G-rating), và các ứng dụng
 trong mặt đường, lọc và gia cố.
 
+![Figure: burt-ch16-geosynthetic-functions](../../../assets/figures/burt-ch16-geosynthetic-functions.svg)
+
+**Hình.** Sáu chức năng của địa kỹ thuật tổng hợp (phân cách, gia cố, lọc, thoát nước, chống thấm, chống xói) và phân loại độ bền vững G-rating.
+
 ## 16.1 Các loại địa kỹ thuật tổng hợp
 
 **Bảng 16.1 — Các loại chính.**

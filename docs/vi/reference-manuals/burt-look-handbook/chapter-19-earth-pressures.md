@@ -7,6 +7,10 @@ lang_alt: reference-manuals/burt-look-handbook/
 Chương này gom các bảng về **áp lực đất**: phân bố, hệ số áp lực tại chỗ K₀ và biến
 thiên theo OCR, chuyển động liên quan, áp lực chủ động/bị động, và ma sát tường.
 
+![Figure: burt-ch19-earth-pressure-states](../../../assets/figures/burt-ch19-earth-pressure-states.svg)
+
+**Hình.** Ba trạng thái áp lực đất — tại chỗ, chủ động và bị động — và ảnh hưởng của cố kết trước làm tăng K₀.
+
 ## 19.1 Áp lực đất
 
 Bảng của mục này giới thiệu **ba trạng thái** áp lực đất — **tại chỗ (at-rest)**, **chủ

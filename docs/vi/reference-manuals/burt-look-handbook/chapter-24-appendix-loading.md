@@ -8,6 +8,10 @@ Phụ lục này gom các bảng **tải trọng** dùng khi thiết kế: giá 
 rời khối, áp lực chất tải, tải trọng thi công, áp lực nền của thiết bị, và biến thiên
 ứng suất đứng trong đất.
 
+![Figure: burt-ch24-stress-distribution](../../../assets/figures/burt-ch24-stress-distribution.svg)
+
+**Hình.** Phân bố ứng suất đứng dưới móng theo lý thuyết Boussinesq, áp lực chất tải và áp lực nền của thiết bị thi công.
+
 ## 24.1 Giá trị đặc trưng của vật rời khối (bulk solids)
 
 **Bảng 24.1 — Trọng lượng đơn vị của vật liệu rời.**

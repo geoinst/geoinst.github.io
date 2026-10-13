@@ -8,6 +8,10 @@ lang_alt: reference-manuals/burt-look-handbook/
 đất** thành **thông số cường độ** dùng được trong thiết kế — và cảnh báo về sai số
 của chính các hệ thức tương quan đó.
 
+![Figure: burt-ch05-strength-correlations](../../../assets/figures/burt-ch05-strength-correlations.svg)
+
+**Hình.** Hai họ hệ thức tương quan từ N₆₀: góc ma sát cho đất hạt rời và cường độ không thoát nước cho đất dính. Mỗi hệ thức là một dải, không phải một đường.
+
 ## 5.1 Sai số trong đo lường
 
 Xu hướng của ngành là **giảm thí nghiệm phòng để thay bằng hệ thức tương quan từ

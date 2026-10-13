@@ -8,6 +8,10 @@ Cường độ quyết định **liệu** công trình có phá hoại; **mô đ
 công trình **biến dạng bao nhiêu**. Chương này gom các định nghĩa mô đun, các giá trị
 điển hình, và các hệ thức tương quan SPT/CPT → mô đun cho đất và đá.
 
+![Figure: burt-ch11-modulus-degradation](../../../assets/figures/burt-ch11-modulus-degradation.svg)
+
+**Hình.** Mô đun suy giảm theo mức biến dạng: từ G₀ ở biến dạng rất nhỏ xuống còn khoảng 0,1 E₀ ở biến dạng 1 %, kèm dải biến dạng theo ứng dụng.
+
 ## 11.1 Định nghĩa mô đun
 
 **Bảng 11.1 — Các loại mô đun.**

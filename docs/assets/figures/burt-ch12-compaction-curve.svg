@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 460" font-family="Inter, Arial, sans-serif">
+  <rect width="780" height="460" fill="#ffffff"/>
+  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">The compaction curve — optimum moisture and maximum density</text>
+
+  <!-- axes -->
+  <line x1="100" y1="360" x2="560" y2="360" stroke="#334155" stroke-width="2"/>
+  <line x1="100" y1="360" x2="100" y2="70" stroke="#334155" stroke-width="2"/>
+  <text x="330" y="392" text-anchor="middle" font-size="13" font-weight="700" fill="#334155">Moisture content  w (%)</text>
+  <text x="38" y="215" text-anchor="middle" font-size="13" font-weight="700" fill="#334155" transform="rotate(-90 38 215)">Dry density  ρd</text>
+
+  <g font-size="10" fill="#64748b" text-anchor="middle">
+    <text x="100" y="376">5</text><text x="190" y="376">10</text><text x="280" y="376">15</text>
+    <text x="370" y="376">20</text><text x="460" y="376">25</text><text x="550" y="376">30</text>
+  </g>
+
+  <!-- zero air voids curve -->
+  <path d="M120 84 C190 130 250 208 300 274 C340 328 370 356 400 360"
+        fill="none" stroke="#94a3b8" stroke-width="2" stroke-dasharray="7 4"/>
+  <text x="212" y="176" font-size="11" font-weight="600" fill="#64748b">Zero air voids</text>
+
+  <!-- standard compaction curve -->
+  <path d="M120 300 C170 250 210 214 260 200 C310 186 350 196 420 232 C470 258 510 290 545 322"
+        fill="none" stroke="#1d4ed8" stroke-width="3"/>
+  <!-- modified curve (higher, shifted left) -->
+  <path d="M130 268 C180 214 215 178 262 166 C312 154 352 166 420 202 C470 228 512 262 548 300"
+        fill="none" stroke="#0f766e" stroke-width="3" stroke-dasharray="8 4"/>
+
+  <!-- peaks -->
+  <circle cx="258" cy="199" r="6" fill="#1d4ed8"/>
+  <line x1="258" y1="199" x2="258" y2="360" stroke="#1d4ed8" stroke-width="1.2" stroke-dasharray="4 3"/>
+  <circle cx="262" cy="165" r="6" fill="#0f766e"/>
+  <line x1="262" y1="165" x2="262" y2="360" stroke="#0f766e" stroke-width="1.2" stroke-dasharray="4 3"/>
+
+  <text x="270" y="192" font-size="11" font-weight="700" fill="#1d4ed8">Standard — MDD, OMC</text>
+  <text x="272" y="158" font-size="11" font-weight="700" fill="#0f766e">Modified — higher MDD, lower OMC</text>
+
+  <!-- labels -->
+  <text x="150" y="322" font-size="10.5" fill="#475569">dry side</text>
+  <text x="150" y="338" font-size="10" fill="#94a3b8">stiff, hard to compact</text>
+  <text x="470" y="320" font-size="10.5" fill="#475569">wet side</text>
+  <text x="470" y="336" font-size="10" fill="#94a3b8">soft, "bull's head"</text>
+
+  <!-- right panel -->
+  <rect x="588" y="70" width="164" height="180" fill="#f8fafc" stroke="#cbd5e1"/>
+  <text x="600" y="92" font-size="11.5" font-weight="700" fill="#334155">Standard vs modified</text>
+  <line x1="600" y1="102" x2="740" y2="102" stroke="#e2e8f0"/>
+  <g font-size="10" fill="#475569">
+    <text x="600" y="122">Energy</text><text x="740" y="122" text-anchor="end">1× vs 4.5×</text>
+    <text x="600" y="142">Layers × blows</text><text x="740" y="142" text-anchor="end">3×25 vs 5×25</text>
+    <text x="600" y="162">OMC</text><text x="740" y="162" text-anchor="end">higher vs lower</text>
+    <text x="600" y="182">MDD</text><text x="740" y="182" text-anchor="end">lower vs higher</text>
+  </g>
+  <line x1="600" y1="194" x2="740" y2="194" stroke="#e2e8f0"/>
+  <text x="600" y="214" font-size="10" fill="#b91c1c" font-weight="700">"98 %" means nothing</text>
+  <text x="600" y="230" font-size="10" fill="#b91c1c" font-weight="700">without the reference</text>
+  <text x="600" y="246" font-size="10" fill="#b91c1c" font-weight="700">test named.</text>
+
+  <rect x="588" y="262" width="164" height="98" fill="#fff7ed" stroke="#fed7aa"/>
+  <text x="600" y="282" font-size="11" font-weight="700" fill="#9a3412">Bulking</text>
+  <text x="600" y="302" font-size="10" fill="#7c2d12">Sand 1.10–1.15</text>
+  <text x="600" y="318" font-size="10" fill="#7c2d12">Clay 1.20–1.40</text>
+  <text x="600" y="334" font-size="10" fill="#7c2d12">Blasted rock 1.40–1.60</text>
+  <text x="600" y="352" font-size="10" fill="#b91c1c">1 m³ rock → 1.5 m³ to haul</text>
+
+  <!-- key point -->
+  <rect x="100" y="404" width="652" height="34" fill="#eef4ff" stroke="#c7d7f5"/>
+  <text x="114" y="425" font-size="11" fill="#1e3a8a" font-weight="600">Clay compacted wet of optimum is far less permeable than the same clay compacted dry — moisture control beats density control for linings (§8.7).</text>
+
+  <text x="30" y="452" font-size="10.5" fill="#777">After Burt G. Look (2007), Ch. 12 — earthworks, compaction and bulking. Original diagram.</text>
+</svg>

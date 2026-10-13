@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 460" font-family="Inter, Arial, sans-serif">
+  <rect width="780" height="460" fill="#ffffff"/>
+  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Movements — inclinometer profiles and angular distortion damage</text>
+
+  <!-- LEFT: inclinometer -->
+  <text x="185" y="56" text-anchor="middle" font-size="13" font-weight="700" fill="#1d4ed8">Inclinometer: lateral movement vs depth</text>
+
+  <!-- ground -->
+  <rect x="50" y="86" width="230" height="300" fill="#e8e0cf" stroke="#a8a29e"/>
+  <!-- excavation -->
+  <path d="M50 86 L50 210 L110 210 L110 86 Z" fill="#ffffff" stroke="#a8a29e"/>
+  <text x="80" y="160" text-anchor="middle" font-size="9.5" fill="#57534e" transform="rotate(-90 80 160)">excavation</text>
+  <!-- casing -->
+  <line x1="130" y1="86" x2="130" y2="386" stroke="#334155" stroke-width="2" stroke-dasharray="6 3"/>
+  <!-- stable base -->
+  <rect x="50" y="330" width="230" height="56" fill="#a8a29e"/>
+  <text x="165" y="362" text-anchor="middle" font-size="9.5" fill="#ffffff" font-weight="600">firm stratum (reference)</text>
+
+  <!-- displacement profile -->
+  <path d="M130 90 C170 120 190 160 196 210 C200 250 178 290 140 330"
+        fill="none" stroke="#dc2626" stroke-width="3"/>
+  <!-- zero line -->
+  <line x1="130" y1="86" x2="130" y2="330" stroke="#94a3b8" stroke-width="1.2"/>
+  <!-- arrows -->
+  <g stroke="#dc2626" stroke-width="1.6">
+    <line x1="130" y1="120" x2="166" y2="120"/><path d="M160 116 L168 120 L160 124" fill="#dc2626"/>
+    <line x1="130" y1="170" x2="188" y2="170"/><path d="M182 166 L190 170 L182 174" fill="#dc2626"/>
+    <line x1="130" y1="220" x2="196" y2="220"/><path d="M190 216 L198 220 L190 224" fill="#dc2626"/>
+    <line x1="130" y1="270" x2="172" y2="270"/><path d="M166 266 L174 270 L166 274" fill="#dc2626"/>
+  </g>
+  <text x="210" y="212" font-size="10" fill="#dc2626" font-weight="700">max Δ</text>
+  <text x="140" y="400" font-size="10.5" fill="#475569">Reading rule: accumulate from the anchored base.</text>
+  <text x="140" y="416" font-size="10.5" fill="#475569">Read in two opposite directions (0° / 180°) to cancel</text>
+  <text x="140" y="432" font-size="10.5" fill="#475569">probe bias. Error grows with the length of the run.</text>
+
+  <!-- RIGHT: damage chart -->
+  <text x="580" y="56" text-anchor="middle" font-size="13" font-weight="700" fill="#1d4ed8">Damage from angular distortion</text>
+
+  <rect x="400" y="72" width="360" height="150" fill="#f8fafc" stroke="#cbd5e1"/>
+  <text x="414" y="94" font-size="11.5" font-weight="700" fill="#334155">Angular distortion  β = Δ / L</text>
+  <line x1="414" y1="104" x2="736" y2="104" stroke="#e2e8f0"/>
+  <g>
+    <rect x="414" y="112" width="322" height="24" fill="#dcfce7"/>
+    <text x="428" y="129" font-size="10.5" fill="#166534">&lt; 1/500 — no damage</text>
+    <rect x="414" y="136" width="322" height="24" fill="#fef9c3"/>
+    <text x="428" y="153" font-size="10.5" fill="#854d0e">1/500 – 1/300 — cracking of finishes</text>
+    <rect x="414" y="160" width="322" height="24" fill="#ffedd5"/>
+    <text x="428" y="177" font-size="10.5" fill="#9a3412">1/300 – 1/150 — structural damage</text>
+    <rect x="414" y="184" width="322" height="24" fill="#fee2e2"/>
+    <text x="428" y="201" font-size="10.5" fill="#991b1b">&gt; 1/150 — severe, possibly unsafe</text>
+  </g>
+  <text x="414" y="220" font-size="10" fill="#475569">Damage depends on the pair (β, horizontal strain) — not on settlement alone.</text>
+
+  <!-- settlement behind excavation -->
+  <rect x="400" y="240" width="360" height="110" fill="#f8fafc" stroke="#cbd5e1"/>
+  <text x="414" y="262" font-size="11.5" font-weight="700" fill="#334155">Settlement behind an excavation</text>
+  <line x1="414" y1="272" x2="736" y2="272" stroke="#e2e8f0"/>
+  <g font-size="10.5" fill="#475569">
+    <text x="414" y="292">Sand</text><text x="736" y="292" text-anchor="end">0.1 – 0.3 % of H</text>
+    <text x="414" y="310">Stiff clay</text><text x="736" y="310" text-anchor="end">0.1 – 0.3 % of H</text>
+    <text x="414" y="328">Soft clay</text><text x="736" y="328" text-anchor="end">0.3 – 1.0 % of H</text>
+    <text x="414" y="346">Very soft clay</text><text x="736" y="346" text-anchor="end">1.0 – 2.0 % of H</text>
+  </g>
+
+  <rect x="400" y="362" width="360" height="72" fill="#eef4ff" stroke="#c7d7f5"/>
+  <text x="414" y="384" font-size="10.5" fill="#1e3a8a" font-weight="600">Tolerable-movement thresholds are the basis of the</text>
+  <text x="414" y="402" font-size="10.5" fill="#1e3a8a" font-weight="600">trigger levels used in monitoring plans — a reading only</text>
+  <text x="414" y="420" font-size="10.5" fill="#1e3a8a" font-weight="600">means something against a pre-agreed limit.</text>
+
+  <text x="30" y="452" font-size="10.5" fill="#777">After Burt G. Look (2007), Ch. 23 — movements, inclinometers and tolerable limits. Original diagram.</text>
+</svg>

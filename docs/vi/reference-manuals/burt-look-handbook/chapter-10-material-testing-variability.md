@@ -9,6 +9,10 @@ cẩm nang: vì sao cùng một dữ liệu lại cho nhiều câu trả lời k
 thiên (COV)** điển hình của từng phép thử, và **xác suất phá hoại** chấp nhận được
 theo loại công trình.
 
+![Figure: burt-ch10-variability-reliability](../../../assets/figures/burt-ch10-variability-reliability.svg)
+
+**Hình.** Cùng một giá trị trung bình, phân bố chuẩn và loga chuẩn cho đuôi khác nhau; chỉ số độ tin cậy β và xác suất phá hoại dung thứ theo hậu quả.
+
 ## 10.1 Sự biến thiên của vật liệu
 
 **Bảng 10.1 — Hệ số biến thiên (COV) điển hình.**

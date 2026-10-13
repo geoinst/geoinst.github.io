@@ -8,6 +8,10 @@ Chương này gom các bảng cho **nền đường (subgrade) và kết cấu m
 nền, ảnh hưởng của sét trương nở, CBR, ổn định đất bằng phụ gia, và các hệ thức
 tương quan **mô đun ↔ CBR**.
 
+![Figure: burt-ch13-pavement-layers](../../../assets/figures/burt-ch13-pavement-layers.svg)
+
+**Hình.** Cấu tạo các lớp mặt đường với giá trị CBR và mô đun điển hình, cùng quan hệ E ≈ 5–10 × CBR và cảnh báo về sét trương nở.
+
 ## 13.1 Các loại nền đường
 
 Bảng của mục này phân loại **nền đường** theo **loại đất và hành vi thể tích** — từ

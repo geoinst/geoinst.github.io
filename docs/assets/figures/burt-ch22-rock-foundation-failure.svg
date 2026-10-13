@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 460" font-family="Inter, Arial, sans-serif">
+  <rect width="780" height="460" fill="#ffffff"/>
+  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Rock foundations — how a footing on rock actually fails</text>
+
+  <!-- four failure modes -->
+  <!-- 1 uniaxial -->
+  <g>
+    <text x="110" y="56" text-anchor="middle" font-size="11" font-weight="700" fill="#1d4ed8">Uniaxial</text>
+    <rect x="30" y="70" width="160" height="30" fill="#a8a29e"/>
+    <rect x="30" y="100" width="160" height="110" fill="#d6d3d1" stroke="#78716c"/>
+    <path d="M80 70 L80 90 M140 70 L140 90" stroke="#dc2626" stroke-width="2.5"/>
+    <path d="M74 84 L80 94 L86 84" fill="#dc2626"/>
+    <path d="M134 84 L140 94 L146 84" fill="#dc2626"/>
+    <text x="110" y="232" text-anchor="middle" font-size="9.5" fill="#475569">small footing, intact rock</text>
+    <text x="110" y="248" text-anchor="middle" font-size="9.5" fill="#475569">fails as a compression test</text>
+  </g>
+
+  <!-- 2 splitting -->
+  <g>
+    <text x="300" y="56" text-anchor="middle" font-size="11" font-weight="700" fill="#1d4ed8">Splitting</text>
+    <rect x="220" y="70" width="160" height="30" fill="#a8a29e"/>
+    <rect x="220" y="100" width="160" height="110" fill="#d6d3d1" stroke="#78716c"/>
+    <line x1="300" y1="100" x2="300" y2="210" stroke="#dc2626" stroke-width="2.5"/>
+    <line x1="288" y1="130" x2="312" y2="130" stroke="#dc2626" stroke-width="2"/>
+    <text x="300" y="232" text-anchor="middle" font-size="9.5" fill="#475569">vertical crack opens</text>
+    <text x="300" y="248" text-anchor="middle" font-size="9.5" fill="#475569">below the loaded area</text>
+  </g>
+
+  <!-- 3 shear zone -->
+  <g>
+    <text x="490" y="56" text-anchor="middle" font-size="11" font-weight="700" fill="#1d4ed8">Shear zone</text>
+    <rect x="410" y="70" width="160" height="30" fill="#a8a29e"/>
+    <rect x="410" y="100" width="160" height="110" fill="#d6d3d1" stroke="#78716c"/>
+    <path d="M430 140 L560 180" stroke="#b45309" stroke-width="6" opacity="0.7"/>
+    <path d="M430 200 L500 150 L560 165" fill="none" stroke="#dc2626" stroke-width="2.5"/>
+    <text x="490" y="232" text-anchor="middle" font-size="9.5" fill="#475569">weak seam or fault</text>
+    <text x="490" y="248" text-anchor="middle" font-size="9.5" fill="#475569">slips outward</text>
+  </g>
+
+  <!-- 4 punching -->
+  <g>
+    <text x="680" y="56" text-anchor="middle" font-size="11" font-weight="700" fill="#1d4ed8">Punching</text>
+    <rect x="600" y="70" width="160" height="26" fill="#a8a29e"/>
+    <rect x="600" y="96" width="160" height="24" fill="#cbd5e1"/>
+    <rect x="600" y="120" width="160" height="90" fill="#e8e0cf"/>
+    <path d="M640 70 L640 140 M760 70 L760 140" stroke="#dc2626" stroke-width="2.5" stroke-dasharray="5 3"/>
+    <path d="M660 26 L660 66 M700 26 L700 66 M740 26 L740 66" stroke="#b45309" stroke-width="2.5"/>
+    <text x="680" y="232" text-anchor="middle" font-size="9.5" fill="#475569">thin rock over soft ground</text>
+    <text x="680" y="248" text-anchor="middle" font-size="9.5" fill="#475569">punches through</text>
+  </g>
+
+  <line x1="30" y1="268" x2="750" y2="268" stroke="#e2e8f0"/>
+
+  <!-- tables -->
+  <text x="30" y="292" font-size="12" font-weight="700" fill="#334155">Bearing capacity from RQD (allowable, MPa)</text>
+  <rect x="30" y="302" width="350" height="132" fill="#f8fafc" stroke="#cbd5e1"/>
+  <g font-size="10.5" fill="#475569">
+    <text x="44" y="324">RQD 90 – 100 %</text><text x="366" y="324" text-anchor="end">3.0 – 4.0</text>
+    <text x="44" y="344">RQD 75 – 90 %</text><text x="366" y="344" text-anchor="end">2.0 – 3.0</text>
+    <text x="44" y="364">RQD 50 – 75 %</text><text x="366" y="364" text-anchor="end">1.0 – 2.0</text>
+    <text x="44" y="384">RQD 25 – 50 %</text><text x="366" y="384" text-anchor="end">0.5 – 1.0</text>
+    <text x="44" y="404">RQD &lt; 25 %</text><text x="366" y="404" text-anchor="end">&lt; 0.5</text>
+  </g>
+  <line x1="44" y1="414" x2="366" y2="414" stroke="#e2e8f0"/>
+  <text x="44" y="430" font-size="10" fill="#b91c1c">Joint spacing can cut this by a further 20–80 %.</text>
+
+  <rect x="400" y="302" width="350" height="132" fill="#fff7ed" stroke="#fed7aa"/>
+  <text x="414" y="324" font-size="11" font-weight="700" fill="#9a3412">Shaft resistance of a bored pile in rock</text>
+  <line x1="414" y1="334" x2="736" y2="334" stroke="#fed7aa"/>
+  <g font-size="10.5" fill="#7c2d12">
+    <text x="414" y="354">Smooth socket</text><text x="736" y="354" text-anchor="end">100 – 300 kPa</text>
+    <text x="414" y="372">Rough socket</text><text x="736" y="372" text-anchor="end">300 – 700 kPa</text>
+    <text x="414" y="390">Very rough</text><text x="736" y="390" text-anchor="end">700 – 1500 kPa</text>
+    <text x="414" y="408">Saw-tooth</text><text x="736" y="408" text-anchor="end">1500 – 3000 kPa</text>
+  </g>
+  <line x1="414" y1="418" x2="736" y2="418" stroke="#fed7aa"/>
+  <text x="414" y="432" font-size="10" fill="#b91c1c">Roughness of the drilled socket is the dominant variable.</text>
+
+  <text x="30" y="452" font-size="10.5" fill="#777">After Burt G. Look (2007), Ch. 22 — rock foundations. Original diagram.</text>
+</svg>

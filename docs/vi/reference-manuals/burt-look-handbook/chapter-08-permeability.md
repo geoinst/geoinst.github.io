@@ -8,6 +8,10 @@ lang_alt: reference-manuals/burt-look-handbook/
 ổn định thấm của công trình. Chương này gom các **giá trị điển hình** và các **hệ
 thức tương quan** giữa độ thấm, cấp phối, phân loại đất và hệ số cố kết c<sub>v</sub>.
 
+![Figure: burt-ch08-permeability-scale](../../../assets/figures/burt-ch08-permeability-scale.svg)
+
+**Hình.** Thang độ thấm theo bậc độ lớn từ sỏi sạch đến sét, so sánh với vật liệu kỹ thuật, kèm quan hệ Hazen và liên hệ với hệ số cố kết.
+
 ## 8.1 Giá trị độ thấm điển hình
 
 **Bảng 8.1 — Độ thấm điển hình của các loại đất (m/s).**

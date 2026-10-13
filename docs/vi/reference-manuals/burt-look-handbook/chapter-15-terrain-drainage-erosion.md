@@ -8,6 +8,10 @@ Chương này gom các bảng về **đọc địa hình** (ảnh hàng không, 
 **thiết kế hệ thống thoát nước ngầm**, và **kiểm soát xói mòn** — phần "đọc đất và
 nước" ít được các sổ tay khác đề cập.
 
+![Figure: burt-ch15-terrain-drainage-erosion](../../../assets/figures/burt-ch15-terrain-drainage-erosion.svg)
+
+**Hình.** Thang vận tốc trượt lở (WP/WLI), các biện pháp thoát nước ngầm và vận tốc xói cho phép theo vật liệu.
+
 ## 15.1 Đánh giá địa hình
 
 Bảng của mục này hướng dẫn **đọc địa hình** để suy ra điều kiện nền: địa hình dốc →

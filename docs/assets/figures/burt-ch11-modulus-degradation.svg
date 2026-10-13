@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 460" font-family="Inter, Arial, sans-serif">
+  <rect width="780" height="460" fill="#ffffff"/>
+  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Modulus is not a constant — it depends on strain level</text>
+
+  <!-- axes -->
+  <line x1="90" y1="350" x2="700" y2="350" stroke="#334155" stroke-width="2"/>
+  <line x1="90" y1="350" x2="90" y2="70" stroke="#334155" stroke-width="2"/>
+  <text x="395" y="382" text-anchor="middle" font-size="13" font-weight="700" fill="#334155">Shear strain  γ (%) — logarithmic</text>
+  <text x="34" y="210" text-anchor="middle" font-size="13" font-weight="700" fill="#334155" transform="rotate(-90 34 210)">E / E₀   (G / G₀)</text>
+
+  <!-- x ticks: 0.0001 .. 10 mapped log -->
+  <g font-size="10" fill="#64748b" text-anchor="middle">
+    <text x="110" y="366">0.0001</text><text x="218" y="366">0.001</text><text x="326" y="366">0.01</text>
+    <text x="434" y="366">0.1</text><text x="542" y="366">1</text><text x="650" y="366">10</text>
+  </g>
+  <g stroke="#e2e8f0" stroke-width="1">
+    <line x1="110" y1="70" x2="110" y2="350"/>
+    <line x1="218" y1="70" x2="218" y2="350"/>
+    <line x1="326" y1="70" x2="326" y2="350"/>
+    <line x1="434" y1="70" x2="434" y2="350"/>
+    <line x1="542" y1="70" x2="542" y2="350"/>
+    <line x1="650" y1="70" x2="650" y2="350"/>
+  </g>
+
+  <!-- y ticks 0..1 -->
+  <g font-size="10" fill="#64748b" text-anchor="end">
+    <text x="84" y="354">0</text><text x="84" y="284">0.25</text><text x="84" y="214">0.50</text>
+    <text x="84" y="144">0.75</text><text x="84" y="74">1.0</text>
+  </g>
+  <g stroke="#e2e8f0" stroke-width="1">
+    <line x1="90" y1="280" x2="700" y2="280"/>
+    <line x1="90" y1="210" x2="700" y2="210"/>
+    <line x1="90" y1="140" x2="700" y2="140"/>
+  </g>
+
+  <!-- degradation curve -->
+  <path d="M110 78 C160 80 190 96 240 132 C290 168 330 206 400 250 C470 292 540 322 650 344"
+        fill="none" stroke="#1d4ed8" stroke-width="3"/>
+
+  <!-- application bands -->
+  <g>
+    <rect x="96" y="60" width="76" height="300" fill="#dbeafe" opacity="0.55"/>
+    <rect x="172" y="60" width="100" height="300" fill="#bfdbfe" opacity="0.45"/>
+    <rect x="272" y="60" width="108" height="300" fill="#93c5fd" opacity="0.35"/>
+    <rect x="380" y="60" width="130" height="300" fill="#60a5fa" opacity="0.28"/>
+    <rect x="510" y="60" width="190" height="300" fill="#3b82f6" opacity="0.22"/>
+  </g>
+  <g font-size="10" font-weight="700" fill="#1e3a8a" text-anchor="middle">
+    <text x="134" y="52">Dynamic</text>
+    <text x="222" y="52">Machine</text>
+    <text x="326" y="52">Retaining</text>
+    <text x="445" y="52">Shallow</text>
+    <text x="605" y="52">Slope /</text>
+  </g>
+  <g font-size="9.5" fill="#1e3a8a" text-anchor="middle">
+    <text x="222" y="66">foundations</text>
+    <text x="326" y="66">walls, cuts</text>
+    <text x="445" y="66">foundations</text>
+    <text x="605" y="66">embankment</text>
+  </g>
+
+  <!-- value callouts -->
+  <circle cx="110" cy="78" r="5" fill="#1d4ed8"/>
+  <text x="122" y="100" font-size="10.5" font-weight="700" fill="#1d4ed8">G₀ = ρ Vs²</text>
+
+  <circle cx="326" cy="204" r="5" fill="#1d4ed8"/>
+  <text x="338" y="198" font-size="10.5" fill="#334155">≈ 0.5 E₀</text>
+
+  <circle cx="542" cy="322" r="5" fill="#dc2626"/>
+  <text x="500" y="312" font-size="10.5" font-weight="700" fill="#dc2626">≈ 0.1 E₀ at 1 %</text>
+
+  <!-- warning box -->
+  <rect x="420" y="392" width="280" height="42" fill="#fee2e2" stroke="#fca5a5"/>
+  <text x="434" y="412" font-size="11" font-weight="700" fill="#991b1b">Picking the wrong modulus is the</text>
+  <text x="434" y="428" font-size="11" font-weight="700" fill="#991b1b">commonest settlement error.</text>
+
+  <text x="90" y="412" font-size="10.5" fill="#475569">E = 2G(1 + ν)</text>
+  <text x="90" y="428" font-size="10.5" fill="#475569">Match the modulus to the strain level of the problem.</text>
+
+  <text x="30" y="452" font-size="10.5" fill="#777">After Burt G. Look (2007), Ch. 11 — deformation parameters. Original diagram.</text>
+</svg>

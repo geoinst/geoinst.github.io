@@ -8,6 +8,10 @@ Chương này gom các bảng để **viết và kiểm tra quy định kỹ thu
 phát triển quy định, yêu cầu chất lượng cốt liệu, yêu cầu đắp lèn, cấp phối vật liệu
 thoát nước, và tần suất thử nghiệm.
 
+![Figure: burt-ch17-grading-envelope](../../../assets/figures/burt-ch17-grading-envelope.svg)
+
+**Hình.** Quy định vật liệu đắp bằng đường bao cấp phối: mọi cấp phối nằm trong dải đều đạt, kèm cấp phối vật liệu thoát nước điển hình.
+
 ## 17.1 Phát triển quy định kỹ thuật
 
 Bảng của mục này hướng dẫn **xây dựng quy định kỹ thuật** cho công tác đất: xác định

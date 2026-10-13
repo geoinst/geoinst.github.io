@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 460" font-family="Inter, Arial, sans-serif">
+  <rect width="780" height="460" fill="#ffffff"/>
+  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Rock is not the rock mass — how discontinuities cut the properties</text>
+
+  <!-- intact block -->
+  <text x="140" y="60" text-anchor="middle" font-size="13" font-weight="700" fill="#1d4ed8">Intact rock</text>
+  <rect x="50" y="76" width="180" height="130" fill="#cbd5e1" stroke="#64748b" stroke-width="2"/>
+  <text x="140" y="146" text-anchor="middle" font-size="11" fill="#334155">laboratory specimen</text>
+  <text x="140" y="228" text-anchor="middle" font-size="11" font-weight="700" fill="#334155">qu, E — from the core</text>
+
+  <!-- arrow -->
+  <path d="M248 141 L296 141" stroke="#475569" stroke-width="3"/>
+  <path d="M288 133 L300 141 L288 149" fill="#475569"/>
+  <text x="272" y="128" text-anchor="middle" font-size="10.5" fill="#475569">in situ</text>
+
+  <!-- rock mass block with joints -->
+  <text x="480" y="60" text-anchor="middle" font-size="13" font-weight="700" fill="#b45309">Rock mass</text>
+  <rect x="310" y="76" width="300" height="130" fill="#e7e2d8" stroke="#78716c" stroke-width="2"/>
+  <g stroke="#57534e" stroke-width="1.6">
+    <line x1="360" y1="76" x2="345" y2="206"/>
+    <line x1="430" y1="76" x2="420" y2="206"/>
+    <line x1="505" y1="76" x2="500" y2="206"/>
+    <line x1="565" y1="76" x2="575" y2="206"/>
+    <line x1="310" y1="120" x2="610" y2="112"/>
+    <line x1="310" y1="160" x2="610" y2="168"/>
+  </g>
+  <text x="460" y="228" text-anchor="middle" font-size="11" font-weight="700" fill="#334155">joints · bedding · faults · weathering</text>
+
+  <!-- reduction table -->
+  <rect x="640" y="76" width="110" height="130" fill="#f8fafc" stroke="#cbd5e1"/>
+  <text x="695" y="98" text-anchor="middle" font-size="11" font-weight="700" fill="#334155">Joints / m</text>
+  <line x1="652" y1="108" x2="738" y2="108" stroke="#e2e8f0"/>
+  <text x="695" y="128" text-anchor="middle" font-size="10.5" fill="#475569">1 → 0.9–1.0</text>
+  <text x="695" y="148" text-anchor="middle" font-size="10.5" fill="#475569">5 → 0.6–0.8</text>
+  <text x="695" y="168" text-anchor="middle" font-size="10.5" fill="#475569">10 → 0.4–0.6</text>
+  <text x="695" y="188" text-anchor="middle" font-size="10.5" fill="#b91c1c">&gt; 20 → 0.2–0.4</text>
+
+  <!-- property bars -->
+  <text x="50" y="272" font-size="12" font-weight="700" fill="#334155">Property retained as a fraction of the intact value</text>
+
+  <g>
+    <rect x="50" y="286" width="300" height="26" fill="#cbd5e1"/>
+    <rect x="50" y="286" width="150" height="26" fill="#b45309"/>
+    <text x="58" y="304" font-size="10.5" fill="#ffffff" font-weight="700">Strength</text>
+    <text x="360" y="304" font-size="10.5" fill="#334155">commonly 20–50 %</text>
+
+    <rect x="50" y="322" width="300" height="26" fill="#cbd5e1"/>
+    <rect x="50" y="322" width="110" height="26" fill="#b45309"/>
+    <text x="58" y="340" font-size="10.5" fill="#ffffff" font-weight="700">Modulus</text>
+    <text x="360" y="340" font-size="10.5" fill="#334155">often 10–30 %</text>
+
+    <rect x="50" y="358" width="300" height="26" fill="#cbd5e1"/>
+    <rect x="50" y="358" width="30" height="26" fill="#b45309"/>
+    <text x="58" y="376" font-size="10.5" fill="#ffffff" font-weight="700">Permeability</text>
+    <text x="360" y="376" font-size="10.5" fill="#334155">intact rock is near-impermeable</text>
+  </g>
+
+  <rect x="480" y="286" width="270" height="98" fill="#fff7ed" stroke="#fed7aa"/>
+  <text x="494" y="308" font-size="11" font-weight="700" fill="#9a3412">Why it matters</text>
+  <text x="494" y="328" font-size="10.5" fill="#7c2d12">Designing with intact-rock strength</text>
+  <text x="494" y="344" font-size="10.5" fill="#7c2d12">overestimates the foundation and the</text>
+  <text x="494" y="360" font-size="10.5" fill="#7c2d12">slope by a factor of two or more.</text>
+  <text x="494" y="376" font-size="10.5" fill="#b91c1c" font-weight="600">Use RMR / Q to bridge the gap (§18).</text>
+
+  <text x="30" y="452" font-size="10.5" fill="#777">After Burt G. Look (2007), Ch. 9 — rock properties and discontinuity effects. Original diagram.</text>
+</svg>

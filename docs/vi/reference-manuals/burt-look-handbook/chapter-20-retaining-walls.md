@@ -8,6 +8,10 @@ Chương này gom các bảng về **tường chắn**: các loại tường, t�
 ngàm, tường **đất có cốt (reinforced soil)**, neo đất (soil nails), và tường neo
 (anchored walls).
 
+![Figure: burt-ch20-retaining-wall-types](../../../assets/figures/burt-ch20-retaining-wall-types.svg)
+
+**Hình.** Các loại tường chắn, mặt trượt tiềm năng quyết định chiều dài cốt của tường đất có cốt, và vai trò bắt buộc của thoát nước sau tường.
+
 ## 20.1 Các loại tường
 
 **Bảng 20.1 — Các loại tường chắn.**

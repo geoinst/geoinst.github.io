@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 460" font-family="Inter, Arial, sans-serif">
+  <rect width="780" height="460" fill="#ffffff"/>
+  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Permeability — one order of magnitude at a time</text>
+
+  <!-- log scale bar -->
+  <text x="40" y="60" font-size="12" font-weight="700" fill="#334155">Coefficient of permeability k (m/s), logarithmic</text>
+
+  <!-- the bar -->
+  <g>
+    <rect x="40" y="74" width="700" height="46" fill="#eff6ff"/>
+  </g>
+  <!-- decade gridlines -->
+  <g stroke="#bfdbfe" stroke-width="1">
+    <line x1="110" y1="74" x2="110" y2="120"/>
+    <line x1="180" y1="74" x2="180" y2="120"/>
+    <line x1="250" y1="74" x2="250" y2="120"/>
+    <line x1="320" y1="74" x2="320" y2="120"/>
+    <line x1="390" y1="74" x2="390" y2="120"/>
+    <line x1="460" y1="74" x2="460" y2="120"/>
+    <line x1="530" y1="74" x2="530" y2="120"/>
+    <line x1="600" y1="74" x2="600" y2="120"/>
+    <line x1="670" y1="74" x2="670" y2="120"/>
+  </g>
+  <g font-size="9" fill="#64748b" text-anchor="middle">
+    <text x="40" y="132">10⁰</text><text x="110" y="132">10⁻¹</text><text x="180" y="132">10⁻²</text>
+    <text x="250" y="132">10⁻³</text><text x="320" y="132">10⁻⁴</text><text x="390" y="132">10⁻⁵</text>
+    <text x="460" y="132">10⁻⁶</text><text x="530" y="132">10⁻⁷</text><text x="600" y="132">10⁻⁸</text>
+    <text x="670" y="132">10⁻⁹</text><text x="740" y="132">10⁻¹⁰</text>
+  </g>
+
+  <!-- soil bands -->
+  <g opacity="0.9">
+    <rect x="40" y="146" width="110" height="24" fill="#a16207"/>
+    <rect x="110" y="146" width="140" height="24" fill="#ca8a04"/>
+    <rect x="210" y="146" width="140" height="24" fill="#eab308"/>
+    <rect x="320" y="146" width="140" height="24" fill="#a3a3a3"/>
+    <rect x="420" y="146" width="180" height="24" fill="#78716c"/>
+    <rect x="560" y="146" width="180" height="24" fill="#57534e"/>
+  </g>
+  <g font-size="10.5" fill="#ffffff" font-weight="700" text-anchor="middle">
+    <text x="95" y="163">Clean gravel</text>
+    <text x="180" y="163">Gravel–sand</text>
+    <text x="280" y="163">Clean sand</text>
+    <text x="390" y="163">Fine sand, silty sand</text>
+    <text x="510" y="163">Silt</text>
+    <text x="650" y="163">Clay</text>
+  </g>
+
+  <!-- engineering materials comparison -->
+  <text x="40" y="200" font-size="12" font-weight="700" fill="#334155">For comparison — engineered materials</text>
+  <g>
+    <rect x="40" y="212" width="320" height="22" fill="#dbeafe" stroke="#93c5fd"/>
+    <text x="52" y="228" font-size="10.5" fill="#1e3a8a">Drainage aggregate</text>
+    <rect x="420" y="212" width="180" height="22" fill="#e0e7ff" stroke="#a5b4fc"/>
+    <text x="432" y="228" font-size="10.5" fill="#3730a3">Asphalt concrete</text>
+    <rect x="600" y="212" width="140" height="22" fill="#ede9fe" stroke="#c4b5fd"/>
+    <text x="612" y="228" font-size="10.5" fill="#5b21b6">HDPE liner</text>
+  </g>
+
+  <!-- notes -->
+  <rect x="40" y="252" width="340" height="120" fill="#f8fafc" stroke="#cbd5e1"/>
+  <text x="56" y="274" font-size="11.5" font-weight="700" fill="#1d4ed8">Hazen, for clean sand</text>
+  <text x="56" y="298" font-size="11" fill="#334155">k (m/s) ≈ 0,01 × D₁₀²   [D₁₀ in mm]</text>
+  <line x1="56" y1="310" x2="364" y2="310" stroke="#e2e8f0"/>
+  <text x="56" y="330" font-size="10.5" fill="#475569">Valid for fairly uniform sand only.</text>
+  <text x="56" y="348" font-size="10.5" fill="#b91c1c">Well-graded soil is less permeable than</text>
+  <text x="56" y="364" font-size="10.5" fill="#b91c1c">Hazen predicts — fines block the voids.</text>
+
+  <rect x="400" y="252" width="340" height="120" fill="#f8fafc" stroke="#cbd5e1"/>
+  <text x="416" y="274" font-size="11.5" font-weight="700" fill="#0f766e">Consolidation and drainage</text>
+  <text x="416" y="298" font-size="11" fill="#334155">c_v = k / (m_v · γ_w)</text>
+  <line x1="416" y1="310" x2="724" y2="310" stroke="#e2e8f0"/>
+  <text x="416" y="330" font-size="10.5" fill="#475569">T_v = c_v t / d² ·  50% → T_v = 0,197</text>
+  <text x="416" y="348" font-size="10.5" fill="#475569">90% → T_v = 0,848</text>
+  <text x="416" y="366" font-size="10.5" fill="#b91c1c">Same k but more compressible = slower.</text>
+
+  <rect x="40" y="384" width="700" height="42" fill="#fff7ed" stroke="#fed7aa"/>
+  <text x="56" y="404" font-size="11" fill="#9a3412">In rock, permeability is the permeability of the joints, not of the intact rock — and it scales with the cube of joint aperture (§8.18–8.19).</text>
+  <text x="56" y="420" font-size="11" fill="#9a3412">Report k as a band and state the number of orders of magnitude, never a single value.</text>
+
+  <text x="30" y="452" font-size="10.5" fill="#777">After Burt G. Look (2007), Ch. 8 — permeability and its influence. Original diagram.</text>
+</svg>

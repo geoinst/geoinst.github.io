@@ -9,6 +9,10 @@ tính chất vật lý và cường độ cắt** của đá: trọng lượng, 
 độ cắt theo vật liệu và theo **nguồn gốc địa chất**, và đặc biệt là **cường độ cắt
 của khe nứt**.
 
+![Figure: burt-ch09-rock-mass-reduction](../../../assets/figures/burt-ch09-rock-mass-reduction.svg)
+
+**Hình.** Ảnh hưởng của khe nứt: cường độ và mô đun của khối đá chỉ còn một phần nhỏ so với đá nguyên, còn độ thấm lại do khe nứt quyết định.
+
 ## 9.1 Tính chất kỹ thuật chung của các loại đá phổ biến
 
 **Bảng 9.1 — Tính chất điển hình (dải rộng do biến thiên tự nhiên).**

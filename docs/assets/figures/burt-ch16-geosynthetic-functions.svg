@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 460" font-family="Inter, Arial, sans-serif">
+  <rect width="780" height="460" fill="#ffffff"/>
+  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Geosynthetics — one material family, six distinct jobs</text>
+
+  <!-- six panels -->
+  <!-- 1 separation -->
+  <g>
+    <rect x="40" y="60" width="220" height="118" fill="#f8fafc" stroke="#cbd5e1"/>
+    <text x="150" y="82" text-anchor="middle" font-size="11.5" font-weight="700" fill="#1d4ed8">Separation</text>
+    <rect x="60" y="94" width="180" height="24" fill="#78716c"/>
+    <line x1="60" y1="122" x2="240" y2="122" stroke="#1d4ed8" stroke-width="3.5"/>
+    <rect x="60" y="126" width="180" height="24" fill="#e8e0cf"/>
+    <text x="150" y="168" text-anchor="middle" font-size="9.5" fill="#475569">keeps aggregate out of the subgrade</text>
+  </g>
+
+  <!-- 2 reinforcement -->
+  <g>
+    <rect x="280" y="60" width="220" height="118" fill="#f8fafc" stroke="#cbd5e1"/>
+    <text x="390" y="82" text-anchor="middle" font-size="11.5" font-weight="700" fill="#1d4ed8">Reinforcement</text>
+    <rect x="300" y="94" width="180" height="56" fill="#e8e0cf"/>
+    <g stroke="#b45309" stroke-width="3">
+      <line x1="304" y1="108" x2="476" y2="108"/>
+      <line x1="304" y1="124" x2="476" y2="124"/>
+      <line x1="304" y1="140" x2="476" y2="140"/>
+    </g>
+    <text x="390" y="168" text-anchor="middle" font-size="9.5" fill="#475569">takes tension the soil cannot</text>
+  </g>
+
+  <!-- 3 filtration -->
+  <g>
+    <rect x="520" y="60" width="220" height="118" fill="#f8fafc" stroke="#cbd5e1"/>
+    <text x="630" y="82" text-anchor="middle" font-size="11.5" font-weight="700" fill="#1d4ed8">Filtration</text>
+    <rect x="540" y="94" width="180" height="30" fill="#e8e0cf"/>
+    <line x1="540" y1="126" x2="720" y2="126" stroke="#0f766e" stroke-width="3" stroke-dasharray="4 3"/>
+    <rect x="540" y="128" width="180" height="22" fill="#cbd5e1"/>
+    <text x="630" y="168" text-anchor="middle" font-size="9.5" fill="#475569">water passes, soil is retained</text>
+  </g>
+
+  <!-- 4 drainage -->
+  <g>
+    <rect x="40" y="192" width="220" height="118" fill="#f8fafc" stroke="#cbd5e1"/>
+    <text x="150" y="214" text-anchor="middle" font-size="11.5" font-weight="700" fill="#1d4ed8">Drainage</text>
+    <rect x="60" y="226" width="180" height="60" fill="#e8e0cf"/>
+    <path d="M100 234 L120 234 L120 280 L100 280" fill="none" stroke="#2563eb" stroke-width="3"/>
+    <path d="M114 272 L120 284 L126 272" fill="#2563eb"/>
+    <text x="150" y="300" text-anchor="middle" font-size="9.5" fill="#475569">in-plane flow along the plane</text>
+  </g>
+
+  <!-- 5 containment -->
+  <g>
+    <rect x="280" y="192" width="220" height="118" fill="#f8fafc" stroke="#cbd5e1"/>
+    <text x="390" y="214" text-anchor="middle" font-size="11.5" font-weight="700" fill="#1d4ed8">Containment</text>
+    <rect x="300" y="226" width="180" height="20" fill="#e8e0cf"/>
+    <line x1="300" y1="250" x2="480" y2="250" stroke="#7c3aed" stroke-width="3.5"/>
+    <rect x="300" y="254" width="180" height="32" fill="#dbeafe"/>
+    <text x="390" y="300" text-anchor="middle" font-size="9.5" fill="#475569">geomembrane blocks flow entirely</text>
+  </g>
+
+  <!-- 6 erosion control -->
+  <g>
+    <rect x="520" y="192" width="220" height="118" fill="#f8fafc" stroke="#cbd5e1"/>
+    <text x="630" y="214" text-anchor="middle" font-size="11.5" font-weight="700" fill="#1d4ed8">Erosion control</text>
+    <path d="M540 286 L600 226 L720 226 L720 286 Z" fill="#e8e0cf" stroke="#a8a29e"/>
+    <g stroke="#0f766e" stroke-width="2">
+      <line x1="560" y1="276" x2="620" y2="234"/>
+      <line x1="585" y1="276" x2="645" y2="234"/>
+      <line x1="610" y1="276" x2="670" y2="234"/>
+      <line x1="635" y1="276" x2="695" y2="234"/>
+    </g>
+    <text x="630" y="300" text-anchor="middle" font-size="9.5" fill="#475569">holds the surface against flow</text>
+  </g>
+
+  <!-- G-rating table -->
+  <text x="40" y="340" font-size="12" font-weight="700" fill="#334155">G-rating — robustness against installation damage</text>
+  <g>
+    <rect x="40" y="350" width="140" height="26" fill="#fee2e2"/>
+    <rect x="180" y="350" width="140" height="26" fill="#ffedd5"/>
+    <rect x="320" y="350" width="140" height="26" fill="#fef9c3"/>
+    <rect x="460" y="350" width="140" height="26" fill="#dcfce7"/>
+    <rect x="600" y="350" width="140" height="26" fill="#d1fae5"/>
+  </g>
+  <g font-size="10" fill="#1e293b" text-anchor="middle" font-weight="700">
+    <text x="110" y="367">G1 — harshest</text>
+    <text x="250" y="367">G2</text>
+    <text x="390" y="367">G3</text>
+    <text x="530" y="367">G4</text>
+    <text x="670" y="367">G5 — mildest</text>
+  </g>
+  <g font-size="9.5" fill="#475569" text-anchor="middle">
+    <text x="110" y="390">sharp rock, heavy plant</text>
+    <text x="250" y="390">moderate</text>
+    <text x="390" y="390">average</text>
+    <text x="530" y="390">light</text>
+    <text x="670" y="390">fine soil, light plant</text>
+  </g>
+
+  <text x="40" y="424" font-size="10.5" fill="#475569">Overlap is not optional: 300–600 mm minimum, and a poor overlap defeats a reinforcement function entirely.</text>
+  <text x="40" y="440" font-size="10.5" fill="#b91c1c" font-weight="600">Reinforcement can cut pavement thickness by 20–40 % — but only if the correct function was specified.</text>
+
+  <text x="30" y="452" font-size="10.5" fill="#777">After Burt G. Look (2007), Ch. 16 — geosynthetics. Original diagram.</text>
+</svg>

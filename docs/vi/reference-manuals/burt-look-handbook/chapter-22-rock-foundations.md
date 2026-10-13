@@ -8,6 +8,10 @@ Chương này gom các bảng về **móng đặt trên đá**: sức chịu t�
 hoại**, sức chịu tải nén cho từng dạng, các **hệ số sức chịu tải**, và sức kháng của
 **cọc trong đá**.
 
+![Figure: burt-ch22-rock-foundation-failure](../../../assets/figures/burt-ch22-rock-foundation-failure.svg)
+
+**Hình.** Bốn dạng phá hoại của móng trên đá (một trục, tách vỡ, vùng trượt, đâm thủng), sức chịu tải theo RQD và sức kháng thân cọc khoan theo độ nhám.
+
 ## 22.1 Sức chịu tải đá theo RQD
 
 **Bảng 22.1 — Sức chịu tải cho phép theo RQD.**

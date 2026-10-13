@@ -8,6 +8,10 @@ Chương này gom các bảng về **ổn định mái dốc**: hệ số an to�
 hữu, mái dốc của đập và kênh, mái dốc ngầm nước, ổn định động đất, và toàn bộ phần
 **mái dốc đá** (rơi đá, hệ số phục hồi, biện pháp gia cố).
 
+![Figure: burt-ch14-slope-failure-modes](../../../assets/figures/burt-ch14-slope-failure-modes.svg)
+
+**Hình.** Bốn cơ chế phá hoại mái dốc (phẳng, nêm, lật trong đá; trượt tròn trong đất) và các hệ số an toàn tối thiểu tương ứng.
+
 ## 14.1 Đo mái dốc
 
 Bảng của mục này đưa **cách biểu diễn độ dốc** (tỷ lệ 1:n, phần trăm, góc) và

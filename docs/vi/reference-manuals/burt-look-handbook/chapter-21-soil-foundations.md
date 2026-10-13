@@ -8,6 +8,10 @@ Chương này gom các bảng về **móng trên đất**: kỹ thuật xử lý
 chịu tải, lún, và toàn bộ phần **cọc** (sức chịu tải, ma sát thân, sức kháng mũi, hệ
 số an toàn, tải trọng ngang).
 
+![Figure: burt-ch21-pile-load-transfer](../../../assets/figures/burt-ch21-pile-load-transfer.svg)
+
+**Hình.** Truyền tải trọng của cọc: ma sát thân và sức kháng mũi, cùng các giá trị làm việc và hệ số an toàn điển hình.
+
 ## 21.1 Kỹ thuật xử lý nền
 
 **Bảng 21.1 — Biện pháp xử lý nền.**

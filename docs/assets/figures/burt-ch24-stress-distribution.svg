@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 460" font-family="Inter, Arial, sans-serif">
+  <rect width="780" height="460" fill="#ffffff"/>
+  <text x="390" y="26" text-anchor="middle" font-size="18" font-weight="700" fill="#222">Loading — surcharge, construction plant and stress spread</text>
+
+  <!-- LEFT: stress bulbs -->
+  <text x="200" y="56" text-anchor="middle" font-size="13" font-weight="700" fill="#1d4ed8">Vertical stress below a footing</text>
+
+  <rect x="60" y="70" width="280" height="20" fill="#78716c"/>
+  <text x="200" y="64" text-anchor="middle" font-size="10" fill="#475569">strip footing, width B</text>
+
+  <!-- bulbs at 0.2, 0.4, 0.6, 0.8 q -->
+  <g fill="none" stroke-width="2">
+    <path d="M90 90 C70 140 90 220 200 320 C310 220 330 140 310 90" stroke="#1e3a8a"/>
+    <path d="M110 90 C100 140 120 200 200 272 C280 200 300 140 290 90" stroke="#2563eb"/>
+    <path d="M130 90 C126 140 142 180 200 224 C258 180 274 140 270 90" stroke="#60a5fa"/>
+    <path d="M150 90 C150 140 162 160 200 176 C238 160 250 140 250 90" stroke="#93c5fd"/>
+  </g>
+  <g font-size="10" fill="#1e3a8a">
+    <text x="316" y="150">0.2 q</text>
+    <text x="288" y="200">0.4 q</text>
+    <text x="258" y="240">0.6 q</text>
+    <text x="236" y="176">0.8 q</text>
+  </g>
+  <text x="200" y="344" text-anchor="middle" font-size="10.5" fill="#475569">Stress decays with depth — deeper layers matter less.</text>
+  <text x="200" y="360" text-anchor="middle" font-size="10.5" fill="#475569">Boussinesq / Newmark charts give the fraction.</text>
+
+  <rect x="60" y="376" width="280" height="58" fill="#eef4ff" stroke="#c7d7f5"/>
+  <text x="74" y="398" font-size="10.5" fill="#1e3a8a" font-weight="600">Settlement = Σ over layers of the</text>
+  <text x="74" y="416" font-size="10.5" fill="#1e3a8a" font-weight="600">compressibility × the stress increment</text>
+  <text x="74" y="430" font-size="10.5" fill="#1e3a8a" font-weight="600">in that layer.</text>
+
+  <!-- RIGHT: loads -->
+  <text x="580" y="56" text-anchor="middle" font-size="13" font-weight="700" fill="#1d4ed8">Loads worth memorising</text>
+
+  <rect x="390" y="72" width="360" height="132" fill="#f8fafc" stroke="#cbd5e1"/>
+  <text x="404" y="94" font-size="11.5" font-weight="700" fill="#334155">Surcharge</text>
+  <line x1="404" y1="104" x2="736" y2="104" stroke="#e2e8f0"/>
+  <g font-size="10.5" fill="#475569">
+    <text x="404" y="124">Pedestrians</text><text x="736" y="124" text-anchor="end">3 – 5 kPa</text>
+    <text x="404" y="142">Light traffic</text><text x="736" y="142" text-anchor="end">10 – 20 kPa</text>
+    <text x="404" y="160">Heavy traffic / containers</text><text x="736" y="160" text-anchor="end">20 – 40 kPa</text>
+    <text x="404" y="178">Rail</text><text x="736" y="178" text-anchor="end">30 – 50 kPa</text>
+    <text x="404" y="196" font-weight="700" fill="#1d4ed8">Default road allowance</text><text x="736" y="196" text-anchor="end" font-weight="700" fill="#1d4ed8">10 – 20 kPa</text>
+  </g>
+
+  <rect x="390" y="216" width="360" height="132" fill="#fff7ed" stroke="#fed7aa"/>
+  <text x="404" y="238" font-size="11.5" font-weight="700" fill="#9a3412">Ground bearing pressure of plant</text>
+  <line x1="404" y1="248" x2="736" y2="248" stroke="#fed7aa"/>
+  <g font-size="10.5" fill="#7c2d12">
+    <text x="404" y="268">Tracked dozer / excavator</text><text x="736" y="268" text-anchor="end">50 – 120 kPa</text>
+    <text x="404" y="286">Rubber-tyred truck</text><text x="736" y="286" text-anchor="end">200 – 500 kPa</text>
+    <text x="404" y="304">Vibratory roller</text><text x="736" y="304" text-anchor="end">300 – 600 kPa</text>
+    <text x="404" y="322">Crawler crane</text><text x="736" y="322" text-anchor="end">200 – 400 kPa</text>
+    <text x="404" y="340" font-weight="700" fill="#b91c1c">A roller can exceed a house footing load.</text>
+  </g>
+
+  <rect x="390" y="360" width="360" height="74" fill="#f0fdf4" stroke="#bbf7d0"/>
+  <text x="404" y="382" font-size="10.5" fill="#166534" font-weight="600">Design temporary haul roads and working platforms</text>
+  <text x="404" y="400" font-size="10.5" fill="#166534" font-weight="600">against the plant pressure, not against the finished</text>
+  <text x="404" y="418" font-size="10.5" fill="#166534" font-weight="600">structure's load — construction is often the critical case.</text>
+
+  <text x="30" y="452" font-size="10.5" fill="#777">After Burt G. Look (2007), Ch. 24 — appendix on loading. Original diagram.</text>
+</svg>

@@ -8,6 +8,10 @@ Chương này là **người bạn đồng hành định lượng** của các t
 các **giới hạn chuyển vị** cho móng, tường, mái dốc, cầu đường — và đặc biệt là phần
 **chuyển vị trong ống đo nghiêng (inclinometer)**.
 
+![Figure: burt-ch23-inclinometer-movements](../../../assets/figures/burt-ch23-inclinometer-movements.svg)
+
+**Hình.** Profil chuyển vị ngang đo bằng ống đo nghiêng và phân loại mức độ hư hại theo độ xiên góc và biến dạng ngang.
+
 ## 23.1 Các loại chuyển vị
 
 **Bảng 23.1 — Các loại chuyển vị.**

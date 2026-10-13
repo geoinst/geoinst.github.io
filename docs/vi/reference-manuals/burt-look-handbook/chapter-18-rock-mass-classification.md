@@ -8,6 +8,10 @@ Chương này gom hai **hệ thống phân loại khối đá** chuẩn của th
 (Bieniawski)** và **hệ Q (Na Uy, Barton)** — cùng các bảng dự báo **hỗ trợ hầm, nhịp
 không hỗ trợ, áp lực hỗ trợ và chi phí** từ hệ Q.
 
+![Figure: burt-ch18-rmr-q](../../../assets/figures/burt-ch18-rmr-q.svg)
+
+**Hình.** Hai hệ thống phân loại khối đá: RMR (tổng điểm năm thông số trừ điều chỉnh hướng khe nứt) và hệ Q (tích ba tỷ số).
+
 ## 18.1 Các hệ thống đánh giá khối đá
 
 Bảng của mục này so sánh **RMR, Q, RMI, GSI** — phạm vi áp dụng và ưu nhược điểm.
