@@ -115,9 +115,9 @@ giả và nhà xuất bản. Trang này là **bản tóm lược độc lập**,
 ## Video công nghệ & Tư liệu thực hành liên quan
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/2FDCUjBCzN8" title="2025 Reese Lecture: Donald Bruce: What Quality Really Means in Specialty Geotechnical Construction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/s4ft0x6aPoc" title="RSTAR Affinity Field Utility App – Complete Workflow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
 </div>
-<p><em>Bài giảng Danh dự (Geo-Institute of ASCE): Bài giảng Reese 2025 — TS. Donald Bruce: Bản chất Thực sự của Chất lượng trong Thi công Địa kỹ thuật Chuyên biệt, Phun vữa Áp lực, Neo đất và Phán đoán Kỹ thuật Hiện trường.</em></p>
+<p><em>Video Thực hành Hiện trường Tiêu biểu (RST Instruments): Ứng dụng RSTAR Affinity Field Utility — Toàn bộ Quy trình Triển khai Hiện trường, Hiệu chuẩn Cảm biến và Xử lý Dữ liệu Kỹ thuật.</em></p>
 
 !!! tip "Tư liệu thực hành bổ trợ từ RST Instruments & Measurand (Terra Insights)"
     - **RST Instruments (@RSTgeotechnical):** [Inclinometer Casing Installation](https://www.youtube.com/watch?v=H2MVAVbOGdg){ target="_blank" }  

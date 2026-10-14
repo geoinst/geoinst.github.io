@@ -87,9 +87,9 @@ kỹ thuật cụ thể**. Nếu không có câu hỏi, thì không nên có thi
 ## Video công nghệ & Tư liệu thực hành liên quan
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/795fB1FJxzc" title="Geo-Congress 2024: Ralph B. Peck Lecture: Jorge Zornberg: Roadways on Expansive Clays" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/f3NMguxiZSE" title="Rail settlement round-table: Monitoring with Measurand’s ShapeArray™" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
 </div>
-<p><em>Bài giảng Danh dự Ralph B. Peck 2024 (Geo-Institute of ASCE): GS. Jorge Zornberg — Nền Đường bộ Giao thông trên Đất Biến dạng: Bản chất Kỹ thuật, Xử lý và Quan trắc Địa kỹ thuật Công trình Giao thông.</em></p>
+<p><em>Hội thảo Kỹ thuật Bàn tròn (Measurand / Terra Insights): Quan trắc Độ lún Công trình Giao thông và Hạ tầng Nền đường với Cảm biến ShapeArray.</em></p>
 
 !!! tip "Tư liệu thực hành bổ trợ từ RST Instruments & Measurand (Terra Insights)"
     - **RST Instruments (@RSTgeotechnical):** [Inclinometer Casing Installation](https://www.youtube.com/watch?v=H2MVAVbOGdg){ target="_blank" }  

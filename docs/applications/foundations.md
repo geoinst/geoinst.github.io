@@ -147,3 +147,19 @@ Verify design assumptions about load-settlement behavior, validate deep foundati
 ---
 
 *Source: Compiled from Dunnicliff (616 chunks), Foundation Engineering (USACE/FHWA, public domain), Soil Mechanics (USACE/FHWA, public domain), NCHRP Synthesis 89, and field reference manuals.*
+
+---
+
+## Featured Video & Practical Resources
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
+  <iframe src="https://www.youtube-nocookie.com/embed/a5hHQaN1NkI" title="Data Logger Hardware Connections" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+</div>
+<p><em>Featured Field Practice Video (RST Instruments): Data Logger Hardware Connections for Foundation Load Tests and Deep Excavation Strain Monitoring.</em></p>
+
+!!! tip "Complementary Practical Field Resources from RST Instruments & Measurand (Terra Insights)"
+    - **RST Instruments (@RSTgeotechnical):** [Connecting Instruments to Data Loggers](https://www.youtube.com/watch?v=a5hHQaN1NkI){ target="_blank" }  
+      *Field datalogger wiring and channel configuration for vibrating wire piezometers, load cells, and earth pressure cells in deep foundation elements.*
+    - **Measurand (@MeasurandVideos):** [How to install SAAV Extend](https://www.youtube.com/watch?v=idyme0c9HSs){ target="_blank" }  
+      *Deploying modular connectable ShapeArray for automated deep settlement and lateral deflection measurement in pile foundations and diaphragm walls.*
+

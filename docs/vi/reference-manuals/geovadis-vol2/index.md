@@ -72,9 +72,9 @@ Các nghiên cứu thực nghiệm và ứng dụng công trình trong Tập 2 l
 ## Video công nghệ & Tư liệu thực hành liên quan
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/luUIdMVkSqM" title="2014 Ralph B. Peck Lecture: Youssef Hashash: Modeling & Monitoring Technologies for Deep Excavations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/GXANvXwFuNE" title="Webinar ShapeArrays monitoring Measurand Geo obs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
 </div>
-<p><em>Bài giảng Danh dự Ralph B. Peck 2014 (Geo-Institute of ASCE): GS. Youssef Hashash — Công nghệ Mô hình hóa và Quan trắc Hố đào Sâu trong Đô thị (Deep Excavations Modeling & Monitoring).</em></p>
+<p><em>Hội thảo Kỹ thuật Chuyên sâu (Measurand / Terra Insights): Ứng dụng Cảm biến ShapeArray Giám sát Chuyển vị Ngầm và Hệ Hố đào Sâu trong Đô thị.</em></p>
 
 !!! tip "Tư liệu thực hành bổ trợ từ RST Instruments & Measurand (Terra Insights)"
     - **RST Instruments (@RSTgeotechnical):** [Inclinometer Casing Installation](https://www.youtube.com/watch?v=H2MVAVbOGdg){ target="_blank" }  

@@ -126,9 +126,9 @@ structural elements of a conventional retaining wall.
 ## Featured Video & Practical Resources
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/CDrUisu6Gfw" title="Summer School S01 E02: Ben Leshchinsky: MSE Walls and Reinforced Soil" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/518Mx-65rI0" title="Real-time deflection monitoring with ShapeArray" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
 </div>
-<p><em>Featured Keynote Lecture (Geo-Institute of ASCE): Summer School Session by Prof. Ben Leshchinsky — MSE Walls and Reinforced Soil: Mechanics, Design, and Performance Monitoring.</em></p>
+<p><em>Featured Technical Presentation (Measurand / Terra Insights): Real-Time 3D Deflection and Subsurface Deformation Monitoring for Retaining Structures and MSE Walls.</em></p>
 
 !!! tip "Complementary Practical Field Resources from RST Instruments & Measurand (Terra Insights)"
     - **RST Instruments (@RSTgeotechnical):** [Inclinometer Casing Installation](https://www.youtube.com/watch?v=H2MVAVbOGdg){ target="_blank" }  

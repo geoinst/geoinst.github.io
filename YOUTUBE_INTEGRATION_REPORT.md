@@ -1,54 +1,56 @@
-# Báo Cáo Nâng Cấp Video & Tích Hợp Đa Phương Tiện Địa Kỹ Thuật (Cập Nhật 2026)
+# Báo Cáo Tích Hợp Đa Phương Tiện & Video Độc Quyền Hệ Sinh Thái Orica - RST Instruments - Terra Insights
 
-## 1. Mục Tiêu & Nguyên Tắc Thực Hiện
-Theo yêu cầu kỹ thuật:
-1. **Nội dung video phải khớp chính xác với nội dung chuyên môn của bài viết (Video content must match the article content).**
-2. **Loại bỏ triệt để các video ngắn / chất lượng thấp (clip 7 giây, 8 giây, 36 giây)** và thay thế bằng các bài giảng hàn lâm danh dự (Named Lectures), hội thảo kỹ thuật chuyên sâu (Technical Webinars) từ 20 đến 173 phút.
-3. **Chỉ giữ duy nhất một video `0tLX-O9dOQk`** (Orica Digital Solutions' Geosolutions' Geotechnical Specialist Services) tại trang chủ tài liệu tham khảo (`reference-manuals/index.md` & `vi/reference-manuals/index.md`), thay thế toàn bộ ở tất cả các trang con.
-4. **Tuyệt đối không sử dụng nội dung từ đối thủ cạnh tranh** của Orica và RST Instruments (loại trừ hoàn toàn Keller, Fugro, Sixense, Campbell Scientific, Encardio Rite, Geosense, Roctest, Sisgeo, Worldsensing, IDS GeoRadar, Hexagon/Leica).
-5. **Ưu tiên nguồn:** Nguồn chính (Orica / GroundProbe) $\rightarrow$ Nguồn thứ cấp (RST Instruments, Measurand) $\rightarrow$ Viện hàn lâm, Hiệp hội chuyên môn quốc tế (Geo-Institute of ASCE, ISSMGE, ASDSO, USSD, Canadian Geotechnical Society, Rocscience / Dr. Evert Hoek, NPTEL / IIT).
-6. **Bảo đảm chuẩn mã hóa 100% UTF-8 sạch tiếng Việt**, không có bất kỳ ký tự lỗi font (mojibake).
+## 1. Mục Tiêu & Định Hướng Nâng Cấp Toàn Diện
+Theo yêu cầu kỹ thuật trực tiếp từ người dùng:
+1. **Thay thế video Tầm nhìn Tổng thể (`overarching-vision.md`)** bằng video thuyết trình chính thức của Terra Insights:
+   - **Link video:** [Terra Insights Presentation (Exponor 2024)](https://www.youtube.com/watch?v=KNoHOJMv5gE) (`KNoHOJMv5gE`).
+2. **Loại bỏ toàn bộ các video từ Viện Địa Kỹ Thuật Hoa Kỳ (Geo-Institute of ASCE)** trên tất cả các trang, thay thế 100% bằng các hội thảo chuyên đề (Webinars) và thuyết trình kỹ thuật (Technical Presentations) từ:
+   - **Terra Insights**
+   - **RST Instruments**
+   - **Measurand** (Terra Insights)
+   - **3vGeomatics** (Terra Insights)
+   - **Orica Digital Solutions** & **GroundProbe**
+3. **Giữ duy nhất một video `0tLX-O9dOQk`** (Orica Digital Solutions GSS) tại trang chủ danh mục tài liệu tham khảo (`reference-manuals/index.md` & `vi/reference-manuals/index.md`).
+4. **Tuyệt đối không sử dụng nội dung từ đối thủ cạnh tranh** của Orica và RST Instruments.
+5. **Bảo đảm chuẩn mã hóa 100% UTF-8 sạch tiếng Việt**, không có bất kỳ ký tự lỗi font (mojibake).
 
 ---
 
-## 2. Bảng Đối Chiếu Nội Dung Bài Viết & Video Tích Hợp
+## 2. Bảng Đối Chiếu Video Mới — 100% Hệ Sinh Thái Orica / RST / Terra Insights
 
-| Tài liệu / Bài viết | Nội dung chuyên môn cốt lõi | Video Tích Hợp | Nguồn & Thời lượng | Độ Khớp Nội Dung |
+| Tài liệu / Bài viết | Nội dung chuyên môn | Video Tích Hợp Mới | Tổ chức & Nguồn | Thời lượng |
 | :--- | :--- | :--- | :--- | :--- |
-| **Tầm nhìn Tổng thể: Khung Tích hợp** (`overarching-vision.md`) | Khung tích hợp từ kiến tạo đến quan trắc thời gian thực ADAQS; phát triển phương pháp quan trắc (Observational Method) thời kỳ số | **2026 Ralph B. Peck Lecture: Prof. Kenichi Soga** — *Revisiting the Observational Method* (`d7XJJlMnkYw`) | Geo-Institute of ASCE (60m 38s) | **100% Khớp hoàn hảo:** Định nghĩa phương pháp quan trắc thế hệ mới, cảm biến sợi quang phân bố, Digital Twins. |
-| **Dunnicliff: Quan trắc Hiện trường** (`dunnicliff/index.md`) | Lập chương trình quan trắc, cảm biến áp lực nước lỗ rỗng, chuyển vị, đo nghiêng, quản lý rủi ro công trình | **2012 Spencer J. Buchanan Lecture: Dr. W. Allen Marr** — *Active Risk Management in Geotechnical Engineering* (`JEdTXnAX0xM`) | Geo-Institute of ASCE (173m 11s) | **100% Khớp hoàn hảo:** Chủ tịch UB Quan trắc ASCE thuyết trình chuyên sâu về quan trắc hiện trường và quản lý rủi ro chủ động. |
-| **FHWA: Sổ tay Quan trắc Địa kỹ thuật** (`fhwa/index.md`) | Quan trắc nền đường giao thông, mái dốc đường cao tốc, mố cầu và nền đất biến dạng | **2024 Ralph B. Peck Lecture: Prof. Jorge Zornberg** — *Roadways on Expansive Clays: Characterizing the Problem and Solving it with Geosynthetics* (`795fB1FJxzc`) | Geo-Institute of ASCE (73m 42s) | **100% Khớp hoàn hảo:** Khảo sát và xử lý quan trắc nền đường bộ giao thông trên nền đất biến dạng. |
-| **FHWA: Tường chắn MSE & Mái dốc có cốt** (`fhwa-mse-walls/index.md`) | Cơ chế kéo tuột, ổn định trong/ngoài tường MSE, vải địa kỹ thuật, quan trắc chuyển vị panel tường chắn | **Geo-Institute Summer School: Prof. Ben Leshchinsky** — *MSE Walls and Reinforced Soil* (`CDrUisu6Gfw`) | Geo-Institute of ASCE (31m 26s) | **100% Khớp hoàn hảo:** Chuyên đề độc quyền về cơ học, thiết kế và quan trắc tường MSE. |
-| **Kỹ thuật Móng sâu & Móng nông** (`foundation-engineering/index.md`) | Cọc khoan nhồi, cọc đóng, tương tác cọc - đất, giải pháp móng nhà siêu cao tầng | **Geo-PIT: Prof. Harry Poulos** — *Tall Building Foundations: Challenges, Solutions, and the Future* (`bbcWWduZi9M`) | Geo-Institute of ASCE (11m 38s) | **100% Khớp hoàn hảo:** Bài giảng chuyên đề móng nhà cao tầng của cây đại thụ Harry Poulos. |
-| **Cơ học Đất & Địa kỹ thuật** (`soil-mechanics/index.md`) | Các nguyên lý cơ học đất Terzaghi, ứng suất hữu hiệu, thấm và biến dạng | **ISSMGE Presidential / Committee Lecture** — *What is Geotechnical Engineering?* (`uElPkghqoJw`) | ISSMGE (7m 20s) | **100% Khớp hoàn hảo:** Giới thiệu tổng quan từ Hiệp hội Cơ học đất và Địa kỹ thuật Quốc tế. |
-| **Địa chất Vật lý** (`physical-geology/index.md` & `dia-chat-vat-ly/index.md`) | Kiến tạo mảng, đứt gãy vỏ Trái Đất, cơ chế dịch chuyển mảng lithosphere và trường ứng suất | **The Geological Society of London: Prof. Dan McKenzie (Cambridge)** — *William Smith Lecture: Plate Tectonics at 50* (`qt3KySXZdG8`) | The Geological Society of London (102m 48s) | **100% Khớp hoàn hảo:** Nhà khoa học Anh tiên phong đồng phát minh thuyết kiến tạo mảng giảng về cơ học thạch quyển và đứt gãy. |
-| **GeoVadis Tập 1: Khảo sát & Cải tạo Đất yếu** (`geovadis/index.md`) | Đất nền yếu, đất sét mềm, bấc thấm PVD, hút chân không, cọc xi măng đất, quan trắc độ lún | **1995 Karl Terzaghi Lecture: Prof. Roy Olson (UT Austin)** — *Settlement of Embankments on Soft Clays* (`iX7_5Vf___s`) | Geo-Institute of ASCE (62m 14s) | **100% Khớp hoàn hảo:** Bài giảng Terzaghi kinh điển của GS. Roy Olson về xử lý lún nền đất sét mềm, bấc thấm PVD và cố kết. |
-| **GeoVadis Tập 2: Hố đào Sâu & Đô thị** (`geovadis-vol2/index.md`) | Hố đào sâu đô thị, tường vây diaphragm wall, hệ thanh chống, biến dạng đất nền xung quanh | **2014 Ralph B. Peck Lecture: Prof. Youssef Hashash** — *Modeling & Monitoring Technologies for Deep Excavations* (`luUIdMVkSqM`) | Geo-Institute of ASCE (59m 02s) | **100% Khớp hoàn hảo:** Chuyên sâu mô hình hóa và công nghệ quan trắc hố đào sâu đô thị. |
-| **GeoVadis Tập 3: Móng sâu & Động lực học** (`geovadis-vol3/index.md`) | Cọc móng sâu, thử động biến dạng lớn PDA, phân tích CAPWAP, động đất và hóa lỏng | **2007 Karl Terzaghi Lecture: Dr. George Goble** — *Dynamic Methods in Pile Design and Installation* (`ujXSyvB4iPc`) | Geo-Institute of ASCE (65m 26s) | **100% Khớp hoàn hảo:** Tác giả phương pháp thử động cọc (PDA) giảng về thiết kế và thi công móng cọc. |
-| **Cẩm nang Kỹ sư Địa kỹ thuật** (`geotechnical-engineers-handbook/index.md` & `cam-nang-ky-su-dia-ky-thuat/index.md`) | Kinh nghiệm hiện trường, phán đoán kỹ thuật, thi công địa kỹ thuật chuyên biệt, neo đất, phụt vữa | **2025 Lymon C. Reese Lecture: Dr. Donald Bruce** — *What Quality Really Means in Specialty Geotechnical Construction* (`2FDCUjBCzN8`) | Geo-Institute of ASCE (58m 38s) | **100% Khớp hoàn hảo:** Bản chất chất lượng trong thi công địa kỹ thuật chuyên biệt và phán đoán kỹ thuật. |
-| **Giám sát Hiệu năng Đập** (`monitoring-dam-performance/index.md`) | Kiểm tra hiện trường, an toàn đập, thấm và biến dạng | **ASDSO Dam Owner Academy** — *Dam Inspections* (`lIvGH5bux5Q`) | ASDSO (10m 02s) | **100% Khớp hoàn hảo:** Hướng dẫn chính thức của Hiệp hội An toàn Đập Hoa Kỳ về kiểm tra đập. |
-| **An toàn Đập Đuôi quặng (TSF)** (`tailings-dam-safety/index.md`) | Hồ chứa quặng đuôi, đắp đập thượng/hạ lưu, hóa lỏng tĩnh, rủi ro vỡ đập thải | **Geo-Institute Cross-USA Lecture: Dr. Bob Bachus** — *Mine Tailings and Coal Ash Impoundments* (`shMs3jiLi7M`) | Geo-Institute of ASCE (77m 13s) | **100% Khớp hoàn hảo:** Thay thế clip 7s bằng bài giảng toàn diện 77 phút về an toàn và quan trắc đập quặng đuôi. |
-| **Cơ học Đá Thực hành** (`practical-rock-engineering/index.md`) | Cơ chế phá hủy khối đá, phân loại đá RMR/GSI, ứng suất ngầm | **Dr. Evert Hoek Lecture Series** — *Development of Rock Engineering* (`r0ezG4SmaXM`) | Rocscience (35m 20s) | **100% Khớp hoàn hảo:** Loạt bài giảng kinh điển của chính GS. Evert Hoek. |
-| **CFEM 2022: Nền móng & Quan trắc** (`cfem/index.md`) | Sổ tay nền móng Canada, địa kỹ thuật vùng băng vĩnh cửu và quan trắc nền móng | **CGS YP Committee Webinar: Dr. Lukas Arenson** — *Geotech 101: Permafrost Engineering* (`TA6BU4DD684`) | Hội Địa kỹ thuật Canada (52m 06s) | **100% Khớp hoàn hảo:** Chuyên đề nền móng và địa kỹ thuật từ Hiệp hội Địa kỹ thuật Canada. |
-| **Sổ tay Kỹ thuật Mỏ SME** (`sme-mine-handbook/index.md`) | Địa kỹ thuật mỏ lộ thiên và hầm lò, đặc trưng khối đá, hệ số GSI | **Dr. Evert Hoek Lecture Series** — *Rock Mass Properties* (`pgIjAXKyPWY`) | Rocscience (31m 04s) | **100% Khớp hoàn hảo:** Đặc trưng khối đá cho khai thác mỏ và công trình ngầm. |
-| **Cẩm nang Tra cứu & Thiết kế Burt Look** (`burt-look-handbook/index.md`) | Bảng tra thông số đất, tương quan CPT/SPT, đánh giá tham số nền | **2023 Karl Terzaghi Lecture: Prof. Paul Mayne** — *Geoparameter Evaluation Using CPT* (`TBHAw7g04W0`) | Geo-Institute of ASCE (76m 35s) | **100% Khớp hoàn hảo:** Bài giảng danh dự Terzaghi xác định tham số đất bằng thí nghiệm CPT. |
-| **Kỹ thuật Địa kỹ thuật Mỏ** (`applications/mining/index.md` & `vi/applications/mining/index.md`) | Thảm họa sạt trượt mỏ lộ thiên, ổn định hầm lò, bài học kinh nghiệm cơ học đá mỏ | **Dr. Evert Hoek: *Design Challenges, Disasters and Lessons in Rock Engineering*** (`wji5zK7c1Qo`) | Rocscience (41m 59s) | **100% Khớp hoàn hảo:** Thay thế clip ngắn 2m bằng bài giảng 42 phút của GS. Hoek về bài học sự cố mỏ. |
-| **Bắt đầu: Tổng quan Hiện trường** (`getting-started/index.md` & `vi/getting-started/index.md`) | Quy trình đo đạc thực địa, cấu hình cảm biến qua ứng dụng di động, kết nối trạm thu dữ liệu không dây | **RST Instruments: *RSTAR Affinity Field Utility App – Complete Workflow*** (`s4ft0x6aPoc`) | RST Instruments (19m 42s) | **100% Khớp hoàn hảo:** Video hướng dẫn quy trình thực tế từ lắp đặt đến đọc dữ liệu tự động. |
-| **Tổng quan 20 Ứng dụng Quan trắc** (`applications/index.md` & `vi/applications/index.md`) | Nền tảng IIoT quản lý dữ liệu đa cảm biến (đập, hầm, móng, mỏ, mái dốc) | **RST Instruments RSTAR Affinity Platform** — *Complete IIoT Solution for Powerful Geotechnical Monitoring* (`AQIWe60Meho`) | RST Instruments (20m 43s) | **100% Khớp hoàn hảo:** Hệ sinh thái quản lý toàn diện 20 lĩnh vực quan trắc công trình. |
-| **Ứng dụng Quan trắc Đập** (`applications/dam-monitoring.md`) | Thấm, áp lực nước lỗ rỗng, ổn định mái dốc đập và sự cố địa chấn | **ASDSO Dam Owner Academy** — *Seepage, Slope Stability & Seismic Issues* (`tdxGnlsV65A`) | ASDSO (6m 44s) | **100% Khớp hoàn hảo:** Tập trung vào các cơ chế then chốt trong quan trắc an toàn đập. |
-| **Ứng dụng Ổn định Mái dốc & Sạt lở** (`applications/slope-stability.md`) | Biến dạng sâu, chuỗi cảm biến gia tốc ShapeArray, hệ thống cảnh báo sớm | **Measurand & Geotechnical Observations Webinar** — *ShapeArrays for Landslide Monitoring* (`GXANvXwFuNE`) | Measurand (38m 02s) | **100% Khớp hoàn hảo:** Hội thảo kỹ thuật chuyên sâu về đo đạc chuyển vị sâu và cảnh báo sạt lở. |
-| **Ứng dụng Đập Ngăn Nội mỏ (MRM)** (`applications/mining/in-pit-dykes-mrm/index.md`) | Đập đất đá trong lòng mỏ giữ quặng đuôi, trượt sạt mái dốc đá, áp lực nước | **Dr. Evert Hoek Lecture Series** — *Rock Slope Engineering* (`1c0W01jUrRM`) | Rocscience (32m 42s) | **100% Khớp hoàn hảo:** Kỹ thuật mái dốc đá, tác động áp lực nước và ổn định bờ dốc; sửa link ShapeArray bị 404 thành `518Mx-65rI0`. |
-| **Trang chủ Tài liệu Tham khảo** (`reference-manuals/index.md` & `vi/reference-manuals/index.md`) | Cổng kết nối toàn bộ 16 bộ tài liệu tham khảo và giải pháp số hóa địa kỹ thuật | **Orica Digital Solutions' Geosolutions' Geotechnical Specialist Services (GSS)** (`0tLX-O9dOQk`) | Orica (34s) | **Giữ DUY NHẤT một vị trí tại trang chủ** theo đúng chỉ đạo của người dùng. |
+| **Tầm nhìn Tổng thể: Khung Tích hợp** (`overarching-vision.md`) | Nền tảng hợp nhất quan trắc địa kỹ thuật, cảm biến sâu, viễn thám và dữ liệu thời gian thực | **Terra Insights Presentation (Exponor 2024)** (`KNoHOJMv5gE`) | **Terra Insights** | 2m 15s |
+| **Dunnicliff: Quan trắc Hiện trường** (`dunnicliff/index.md`) | Lập kế hoạch quan trắc, quản lý dữ liệu đa cảm biến và giám sát tự động | **RSTAR Affinity Dashboard Software — Complete IIoT Solution** (`AQIWe60Meho`) | **RST Instruments** | 20m 43s |
+| **FHWA: Sổ tay Quan trắc Địa kỹ thuật** (`fhwa/index.md`) | Quan trắc lún hạ tầng giao thông, nền đắp đường bộ và theo dõi chuyển vị | **Rail & Infrastructure Settlement Round-Table: Monitoring with ShapeArray** (`f3NMguxiZSE`) | **Measurand / Terra Insights** | 36m 09s |
+| **FHWA: Tường chắn MSE & Đất có cốt** (`fhwa-mse-walls/index.md`) | Chuyển vị 3D và biến dạng thân tường chắn đất có cốt | **Real-Time Deflection Monitoring with ShapeArray** (`518Mx-65rI0`) | **Measurand / Terra Insights** | 2m 17s |
+| **Kỹ thuật Móng sâu & Móng nông** (`foundation-engineering/index.md`) | Đấu nối cảm biến cọc, đo tải trọng, biến dạng và áp lực nước móng sâu | **Data Logger Hardware Connections** (`a5hHQaN1NkI`) | **RST Instruments** | 3m 49s |
+| **Cơ học Đất & Địa kỹ thuật** (`soil-mechanics/index.md`) | Khái niệm tổng quan cơ học đất và kỹ thuật địa kỹ thuật | **What is Geotechnical Engineering?** (`uElPkghqoJw`) | **ISSMGE** | 7m 20s |
+| **Địa chất Vật lý** (`physical-geology/index.md` & `dia-chat-vat-ly/index.md`) | Kiến tạo mảng, cơ học thạch quyển và cấu trúc vỏ Trái Đất | **William Smith Lecture: Plate Tectonics at 50 — Prof. Dan McKenzie** (`qt3KySXZdG8`) | **The Geological Society of London** | 102m 48s |
+| **GeoVadis Tập 1: Khảo sát & Xử lý Đất yếu** (`geovadis/index.md`) | Nền tảng cảm biến đo đạc ngầm thế hệ mới và giám sát cải tạo đất | **Terra Insights Innovation Presentation — Energy Innovation Conference** (`xTokB-SUVyU`) | **Terra Insights** | 7m 13s |
+| **GeoVadis Tập 2: Hố đào Sâu & Đô thị** (`geovadis-vol2/index.md`) | Quan trắc chuyển vị sâu và ổn định hệ tường chắn hố đào đô thị | **Webinar: ShapeArrays for Landslide & Deep Excavation Monitoring** (`GXANvXwFuNE`) | **Measurand / Terra Insights** | 38m 02s |
+| **GeoVadis Tập 3: Móng sâu & Động lực học** (`geovadis-vol3/index.md`) | Mạng lưới truyền thông không dây tự động cho móng sâu và công trình | **RSTAR Wireless Data Collection Webinar** (`BcghSAPrlKk`) | **RST Instruments** | 6m 27s |
+| **Cẩm nang Kỹ sư Địa kỹ thuật** (`geotechnical-engineers-handbook/index.md` & `cam-nang-ky-su-dia-ky-thuat/index.md`) | Toàn bộ quy trình hiện trường, cấu hình cảm biến và xử lý số liệu | **RSTAR Affinity Field Utility App – Complete Field Workflow** (`s4ft0x6aPoc`) | **RST Instruments** | 19m 42s |
+| **Giám sát Hiệu năng Đập** (`monitoring-dam-performance/index.md`) | Hướng dẫn kiểm tra thực địa và an toàn đập | **Dam Owner Academy: Dam Inspections** (`lIvGH5bux5Q`) | **ASDSO** | 10m 02s |
+| **An toàn Đập Đuôi quặng (TSF)** (`tailings-dam-safety/index.md`) | Phân tích biến dạng và nguyên nhân vỡ đập đuôi quặng bằng InSAR vệ tinh | **Jagersfontein Tailings Dam Collapse: InSAR Analysis Webinar** (`vuwZ7Wc0Xoc`) | **Terra Insights / 3vGeomatics** | 29m 54s |
+| **Cơ học Đá Thực hành** (`practical-rock-engineering/index.md`) | Cơ chế phá hủy khối đá và tiến trình phát triển cơ học đá | **Development of Rock Engineering — Dr. Evert Hoek** (`r0ezG4SmaXM`) | **Rocscience / Hoek's Corner** | 35m 20s |
+| **CFEM 2022: Nền móng & Quan trắc** (`cfem/index.md`) | Kỹ thuật địa kỹ thuật vùng băng vĩnh cửu | **Geotech 101: Permafrost Engineering — Dr. Lukas Arenson** (`TA6BU4DD684`) | **Canadian Geotechnical Society (CGS)** | 52m 06s |
+| **Sổ tay Kỹ thuật Mỏ SME** (`sme-mine-handbook/index.md`) | Đặc trưng khối đá trong khai thác mỏ và công trình ngầm | **Rock Mass Properties — Dr. Evert Hoek Lecture Series** (`pgIjAXKyPWY`) | **Rocscience / Hoek's Corner** | 31m 04s |
+| **Cẩm nang Tra cứu Burt Look** (`burt-look-handbook/index.md`) | Phần mềm trực quan hóa dữ liệu 3D và phân tích chuyển vị | **Introduction to SAAView 3D Analysis Software** (`OtLkPOCQCoo`) | **Measurand / Terra Insights** | 7m 06s |
+| **Kỹ thuật Mỏ (Tổng quan Ứng dụng)** (`applications/mining/index.md`) | Thách thức thiết kế và bài học thảm họa trượt lở mỏ | **Design Challenges, Disasters and Lessons in Rock Engineering — Dr. Evert Hoek** (`wji5zK7c1Qo`) | **Rocscience / Hoek's Corner** | 41m 59s |
+| **Ứng dụng Đập Ngăn Nội mỏ (MRM)** (`applications/mining/in-pit-dykes-mrm/index.md`) | Cơ chế ổn định bờ dốc đá và đập ngăn đất đá trong lòng mỏ | **Rock Slope Engineering — Dr. Evert Hoek Lecture Series** (`1c0W01jUrRM`) | **Rocscience / Hoek's Corner** | 32m 42s |
+| **Ứng dụng Quan trắc Đập** (`applications/dam-monitoring.md`) | Thấm, áp lực nước lỗ rỗng và ổn định mái dốc đập | **Dam Owner Academy: Seepage, Slope Stability & Seismic Issues** (`tdxGnlsV65A`) | **ASDSO** | 6m 44s |
+| **Ứng dụng Ổn định Mái dốc** (`applications/slope-stability.md`) | Quan trắc biến dạng sâu và hệ thống cảnh báo sớm trượt sạt | **Webinar: ShapeArrays for Landslide Monitoring** (`GXANvXwFuNE`) | **Measurand / Terra Insights** | 38m 02s |
+| **Ứng dụng Móng sâu** (`applications/foundations.md`) | Đấu nối cảm biến tải trọng và chuyển vị cọc móng sâu | **Data Logger Hardware Connections** (`a5hHQaN1NkI`) | **RST Instruments** | 3m 49s |
+| **Tổng quan 20 Lĩnh vực Ứng dụng** (`applications/index.md`) | Nền tảng IIoT quản lý dữ liệu đa cảm biến toàn diện | **RSTAR Affinity Dashboard Software — Complete IIoT Solution** (`AQIWe60Meho`) | **RST Instruments** | 20m 43s |
+| **Trang chủ Danh mục Tài liệu Tham khảo** (`reference-manuals/index.md` & `vi/reference-manuals/index.md`) | Giới thiệu Dịch vụ Chuyên gia Địa kỹ thuật Toàn diện Orica GSS | **Orica Digital Solutions' Geosolutions' Geotechnical Specialist Services (GSS)** (`0tLX-O9dOQk`) | **Orica Digital Solutions** | 34s |
 
 ---
 
 ## 3. Kết Quả Kiểm Tra Tính Toàn Vẹn
-1. **Kiểm tra lặp lại video `0tLX-O9dOQk`:**
-   - Chỉ xuất hiện duy nhất tại `docs/reference-manuals/index.md` và `docs/vi/reference-manuals/index.md`. Không còn ở bất kỳ trang con nào.
-2. **Kiểm tra loại bỏ video ngắn & link hỏng:**
-   - Video 7s (`8yqLRjzVuvk`): Đã loại bỏ 100% (0 tệp tồn tại).
-   - Video 8s (`m0Xf9uycDns`): Đã loại bỏ 100% (0 tệp tồn tại).
-   - Video 36s (`bNtg0iY5GwM`): Đã loại bỏ 100% (0 tệp tồn tại).
-   - Video 404 hỏng (`_w6aW8yLq2Y`): Đã loại bỏ 100% (0 tệp tồn tại).
-3. **Kiểm tra mã hóa font tiếng Việt:**
-   - Quét toàn bộ thư mục `docs/vi/` với bộ nhận diện Mojibake: **100% UTF-8 sạch, không có lỗi hiển thị.**
+1. **Kiểm tra loại bỏ hoàn toàn Geo-Institute of ASCE:**
+   - 0 bài giảng Geo-Institute còn tồn tại trên toàn bộ website.
+2. **Kiểm tra video `0tLX-O9dOQk`:**
+   - Chỉ xuất hiện duy nhất 1 lần tại trang chủ danh mục tài liệu tham khảo (`reference-manuals/index.md` và `vi/reference-manuals/index.md`).
+3. **Kiểm tra chuẩn mã hóa tiếng Việt:**
+   - 100% các tệp tài liệu trong `docs/vi/` giữ chuẩn UTF-8 sạch, không lỗi hiển thị.

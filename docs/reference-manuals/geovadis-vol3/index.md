@@ -87,9 +87,9 @@ All Vietnamese translations follow the canonical 1-to-1 geotechnical terminology
 ## Featured Video & Practical Resources
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/ujXSyvB4iPc" title="2007 Karl Terzaghi Lecture: George Goble: Dynamic Methods in Pile Design and Installation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/BcghSAPrlKk" title="RSTAR Wireless Data Collection Webinar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
 </div>
-<p><em>Featured Keynote Lecture (Geo-Institute of ASCE): 2007 Karl Terzaghi Lecture by Dr. George Goble — Dynamic Methods in Pile Design and Installation (PDA, CAPWAP & Deep Foundation Performance).</em></p>
+<p><em>Featured Technical Webinar (RST Instruments): RSTAR Wireless Data Collection Webinar — Automated Sensor Telemetry Networks for Deep Foundations and Transportation Infrastructure.</em></p>
 
 !!! tip "Complementary Practical Field Resources from RST Instruments & Measurand (Terra Insights)"
     - **RST Instruments (@RSTgeotechnical):** [RSTAR Affinity Webinar](https://www.youtube.com/watch?v=BcghSAPrlKk){ target="_blank" }  

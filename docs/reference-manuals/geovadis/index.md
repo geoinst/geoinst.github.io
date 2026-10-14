@@ -74,9 +74,9 @@ Throughout *GeoVadis (Volume 1)*, experimental and field verification relies dir
 ## Featured Video & Practical Resources
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/iX7_5Vf___s" title="1995 Karl Terzaghi Lecture: Roy Olson: Settlement of Embankments on Soft Clays" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/xTokB-SUVyU" title="Terra Insights Innovation Presentation - Energy Innovation Conference 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
 </div>
-<p><em>Featured Keynote Lecture (Geo-Institute of ASCE): 1995 Karl Terzaghi Lecture by Prof. Roy Olson (University of Texas at Austin) — Settlement of Embankments on Soft Clays: Consolidation Theory, Preloading, Wick Drains, and Ground Improvement.</em></p>
+<p><em>Featured Keynote Presentation (Terra Insights): Terra Insights Innovation Presentation — Next-Generation Subsurface Sensor Platforms and Ground Improvement Monitoring.</em></p>
 
 !!! tip "Complementary Practical Field Resources from RST Instruments & Measurand (Terra Insights)"
     - **RST Instruments (@RSTgeotechnical):** [RSTAR Affinity Quick Dashboard Tour](https://www.youtube.com/watch?v=AQIWe60Meho){ target="_blank" }  

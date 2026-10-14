@@ -94,9 +94,9 @@ phạm vi công cộng** sau (công trình của Chính phủ Hoa Kỳ):
 ## Video công nghệ & Tư liệu thực hành liên quan
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/bbcWWduZi9M" title="Geo-PIT 2019: Harry Poulos: Tall Building Foundations: Challenges, Solutions, and the Future" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/a5hHQaN1NkI" title="Data Logger Hardware Connections" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
 </div>
-<p><em>Video bài giảng học thuật đỉnh cao (Nguồn: Viện Địa kỹ thuật ASCE Geo-Institute): Nền móng Công trình Cao tầng: Thách thức, Giải pháp và Tương lai do GS. Harry G. Poulos thuyết trình.</em></p>
+<p><em>Video Hướng dẫn Thực hành (RST Instruments): Đấu nối Phần cứng Datalogger cho Quan trắc Móng sâu, Thí nghiệm Cọc, Cảm biến Tải trọng và Biến dạng.</em></p>
 
 !!! tip "Tư liệu thực hành bổ trợ từ RST Instruments & Measurand (Terra Insights)"
     - **RST Instruments (@RSTgeotechnical):** [Connecting Instruments to Data Loggers](https://www.youtube.com/watch?v=a5hHQaN1NkI){ target="_blank" }  

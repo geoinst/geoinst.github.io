@@ -147,9 +147,9 @@ gốc là nguồn có thẩm quyền cho mọi bảng và hệ thức tương qu
 ## Video công nghệ & Tư liệu thực hành liên quan
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/TBHAw7g04W0" title="Geo-Congress 2023: Karl Terzaghi Lecture: Paul Mayne: Geoparameter Evaluation Using CPT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/OtLkPOCQCoo" title="Introduction to SAAView" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
 </div>
-<p><em>Video Bài giảng Danh dự Karl Terzaghi (Nguồn: Viện Địa kỹ thuật ASCE Geo-Institute): Xác định Chỉ tiêu Địa kỹ thuật và Tương quan Thực nghiệm Hiện trường bằng Thí nghiệm Xuyên Côn (CPT) do GS. Paul W. Mayne thuyết trình.</em></p>
+<p><em>Video Giới thiệu Phần mềm Kỹ thuật (Measurand / Terra Insights): Tổng quan Phần mềm SAAView — Trực quan hóa Dữ liệu 3D và Phân tích Chuyển vị Phục vụ Khảo sát & Thiết kế Địa kỹ thuật.</em></p>
 
 !!! tip "Tư liệu thực hành bổ trợ từ RST Instruments & Measurand (Terra Insights)"
     - **RST Instruments (@RSTgeotechnical):** [RST Instruments Field Utility App](https://www.youtube.com/watch?v=s4ft0x6aPoc){ target="_blank" }  

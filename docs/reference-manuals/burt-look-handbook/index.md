@@ -141,9 +141,9 @@ PDF is the authoritative source for every table and correlation.
 ## Featured Video & Practical Resources
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/TBHAw7g04W0" title="Geo-Congress 2023: Karl Terzaghi Lecture: Paul Mayne: Geoparameter Evaluation Using CPT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/OtLkPOCQCoo" title="Introduction to SAAView" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
 </div>
-<p><em>Featured Video (Karl Terzaghi Lecture — Geo-Institute of ASCE): Geoparameter Evaluation Using CPT and In-Situ Testing Correlations by Prof. Paul W. Mayne.</em></p>
+<p><em>Featured Technical Software Video (Measurand / Terra Insights): Introduction to SAAView — Advanced 3D Data Visualization and Deflection Analysis for Geotechnical Investigation.</em></p>
 
 !!! tip "Complementary Practical Field Resources from RST Instruments & Measurand (Terra Insights)"
     - **RST Instruments (@RSTgeotechnical):** [RST Instruments Field Utility App](https://www.youtube.com/watch?v=s4ft0x6aPoc){ target="_blank" }  

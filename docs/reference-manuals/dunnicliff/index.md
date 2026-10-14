@@ -80,9 +80,9 @@ installed and unread is worthless.
 ## Featured Video & Practical Resources
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/JEdTXnAX0xM" title="2012 Buchanan Lecture: Allen Marr: Active Risk Management in Geotechnical Engineering" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/AQIWe60Meho" title="RSTAR Affinity Dashboard Software – Complete IIoT Solution for Powerful Geotechnical Monitoring" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
 </div>
-<p><em>Featured Master Lecture (Geo-Institute of ASCE): 2012 Spencer J. Buchanan Lecture by Dr. W. Allen Marr — Active Risk Management in Geotechnical Engineering: Field Instrumentation, Performance Monitoring, and Real-Time Hazard Mitigation.</em></p>
+<p><em>Featured Technical Presentation (RST Instruments): RSTAR Affinity Dashboard Software — Complete Unified IIoT Solution for Field Performance Monitoring, Wireless Telemetry, and Multi-Sensor Network Management.</em></p>
 
 !!! tip "Complementary Practical Field Resources from RST Instruments & Measurand (Terra Insights)"
     - **RST Instruments (@RSTgeotechnical):** [Taking Initial Vibrating Wire Piezometer Readings](https://www.youtube.com/watch?v=HJISt9or_Dw){ target="_blank" }  

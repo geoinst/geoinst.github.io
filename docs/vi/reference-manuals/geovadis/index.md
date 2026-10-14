@@ -74,9 +74,9 @@ Xuyên suốt các công trình nghiên cứu trong *GeoVadis (Tập 1)*, dữ l
 ## Video công nghệ & Tư liệu thực hành liên quan
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/iX7_5Vf___s" title="1995 Karl Terzaghi Lecture: Roy Olson: Settlement of Embankments on Soft Clays" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/xTokB-SUVyU" title="Terra Insights Innovation Presentation - Energy Innovation Conference 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
 </div>
-<p><em>Bài giảng Danh dự Karl Terzaghi (Geo-Institute of ASCE): GS. Roy Olson (Đại học Texas tại Austin) — Độ lún của Đất đắp trên Nền Đất sét mềm: Lý thuyết Cố kết, Gia tải trước, Bấc thấm và Các Giải pháp Cải tạo Nền Đất yếu.</em></p>
+<p><em>Thuyết trình Đổi mới Sáng tạo (Terra Insights): Báo cáo Đổi mới Công nghệ Terra Insights — Nền tảng Cảm biến Đo đạc Ngầm Thế hệ mới và Giám sát Cải tạo Nền Đất.</em></p>
 
 !!! tip "Tư liệu thực hành bổ trợ từ RST Instruments & Measurand (Terra Insights)"
     - **RST Instruments (@RSTgeotechnical):** [RSTAR Affinity Quick Dashboard Tour](https://www.youtube.com/watch?v=AQIWe60Meho){ target="_blank" }  

@@ -86,9 +86,9 @@ bị nhằm xác nhận cơ sở đang hoạt động như kỳ vọng.
 ## Video công nghệ & Tư liệu thực hành liên quan
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/shMs3jiLi7M" title="Cross-USA Lecture with Bob Bachus: Mine Tailings and Coal Ash Impoundments" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/vuwZ7Wc0Xoc" title="Jagersfontein Tailings Dam collapse: InSAR analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
 </div>
-<p><em>Bài giảng Chuyên gia Toàn quốc (Geo-Institute of ASCE): TS. Bob Bachus — Đập Đuôi quặng (Mine Tailings) và Hồ chứa Xỉ than: Đặc trưng Địa kỹ thuật, Cơ chế Phá hủy và Quan trắc Ổn định Công trình.</em></p>
+<p><em>Hội thảo Chuyên sâu (Terra Insights / 3vGeomatics): Phân tích Sự cố Vỡ Đập Đuôi Quặng Jagersfontein — Công nghệ Radar Vệ tinh InSAR, Theo dõi Vận tốc Dịch chuyển và Cảnh báo Sớm Địa kỹ thuật.</em></p>
 
 !!! tip "Tư liệu thực hành bổ trợ từ RST Instruments & Measurand (Terra Insights)"
     - **RST Instruments (@RSTgeotechnical):** [RSTAR Affinity Quick Dashboard Tour](https://www.youtube.com/watch?v=AQIWe60Meho){ target="_blank" }  
