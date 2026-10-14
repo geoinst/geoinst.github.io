@@ -130,3 +130,19 @@ This Mining section links directly into the core engineering manuals and textboo
 - **[Dunnicliff — Geotechnical Instrumentation](../../reference-manuals/dunnicliff/index.md)**: Fundamental instrumentation principles, procurement, sensor calibration, and systematic planning.
 - **[FHWA Geotechnical Instrumentation Reference Manual](../../reference-manuals/fhwa/index.md)**: Deep foundations, rock cut slopes, and earth retaining structures.
 - **[The Grand Vision & Integrated Framework](../../reference-manuals/overarching-vision.md)**: The complete synthesis linking planetary crustal geology down to automated daily sensor telemetries.
+
+---
+
+## Featured Video & Practical Resources
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
+  <iframe src="https://www.youtube-nocookie.com/embed/wji5zK7c1Qo" title="Design Challenges, Disasters and Lessons in Rock Engineering" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+</div>
+<p><em>Featured Keynote Lecture (Rocscience): Dr. Evert Hoek — Design Challenges, Disasters and Lessons in Rock Engineering: Open Pit Failures, Underground Excavation Stability, and Mine Geomechanics.</em></p>
+
+!!! tip "Complementary Practical Field Resources from RST Instruments & Measurand (Terra Insights)"
+    - **RST Instruments (@RSTgeotechnical):** [Wireless Data Collection with RSTAR](https://www.youtube.com/watch?v=xFplwoCngEU){ target="_blank" }  
+      *Autonomous mine-wide geotechnical sensor networks for open-pit benches and tailings facilities.*
+    - **Measurand (@MeasurandVideos):** [Real-time deflection monitoring with ShapeArray](https://www.youtube.com/watch?v=518Mx-65rI0){ target="_blank" }  
+      *Continuous subsurface shear and movement tracking along mine highwalls and spoil dumps.*
+

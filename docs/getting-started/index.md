@@ -26,3 +26,12 @@ Welcome to the Geotechnical Instrumentation Knowledge Base. This site is an **in
 | Instrument specifications for a bid | [Instrument Categories →](categories.md) |
 | A field-installation checklist | [Reference Manuals](../reference-manuals/index.md) |
 | To ask a question in plain English | [GTI Doctor](../gti-doctor.md) |
+
+---
+
+## Featured Field Workflow Video
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
+  <iframe src="https://www.youtube-nocookie.com/embed/s4ft0x6aPoc" title="RSTAR Affinity Field Utility App – Complete Workflow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+</div>
+<p><em>Featured Practical Video (RST Instruments): RSTAR Affinity Field Utility App — Complete Field Deployment, Sensor Commissioning, and Wireless Workflow.</em></p>

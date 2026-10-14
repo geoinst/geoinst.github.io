@@ -27,3 +27,12 @@ Chào mừng đến với Cơ sở tri thức Thiết bị quan trắc địa k�
 | Thông số kỹ thuật thiết bị phục vụ thầu | [Danh mục thiết bị →](categories.md) |
 | Danh mục kiểm tra lắp đặt hiện trường | [Sổ tay tham khảo](../reference-manuals/index.md) |
 | Đặt câu hỏi bằng tiếng Anh tự nhiên | [GTI Doctor](../gti-doctor.md) |
+
+---
+
+## Video hướng dẫn quy trình thực địa tiêu biểu
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
+  <iframe src="https://www.youtube-nocookie.com/embed/s4ft0x6aPoc" title="RSTAR Affinity Field Utility App – Complete Workflow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+</div>
+<p><em>Video thực hành tiêu biểu (RST Instruments): Ứng dụng RSTAR Affinity Field Utility — Toàn bộ Quy trình Triển khai Hiện trường, Cấu hình Cảm biến và Đồng bộ Dữ liệu Không dây.</em></p>

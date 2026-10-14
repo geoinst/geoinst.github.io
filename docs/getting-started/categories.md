@@ -20,6 +20,8 @@ Geotechnical instruments are grouped by **what they measure**. The four foundati
 
 **Representative instruments**: Digital MEMS inclinometers, wireless tilt arrays..
 
+> [:material-youtube: **Field Practice: Inclinometer Casing Installation (RST Instruments)**](https://www.youtube.com/watch?v=H2MVAVbOGdg){ .md-button target="_blank" } [:material-youtube: **Technology Demo: Real-Time ShapeArray (Measurand)**](https://www.youtube.com/watch?v=518Mx-65rI0){ .md-button target="_blank" }
+
 ---
 
 ## 2. Subsurface Water
@@ -33,6 +35,8 @@ Geotechnical instruments are grouped by **what they measure**. The four foundati
 **Typical readout**: hydraulic head (m) vs time; pressure (kPa).
 
 **Representative instruments**: Vibrating wire piezometers, wireless piezometer nodes..
+
+> [:material-youtube: **Field Practice: Taking Baseline VW Piezometer Readings (RST Instruments)**](https://www.youtube.com/watch?v=HJISt9or_Dw){ .md-button target="_blank" }
 
 ---
 
@@ -48,6 +52,8 @@ Geotechnical instruments are grouped by **what they measure**. The four foundati
 
 **Representative instruments**: Borehole extensometers, magnetic extensometer spider systems..
 
+> [:material-youtube: **Field Practice: Installing SAAV Extend ShapeArray (Measurand)**](https://www.youtube.com/watch?v=idyme0c9HSs){ .md-button target="_blank" }
+
 ---
 
 ## 4. Load & Stress
@@ -61,6 +67,8 @@ Geotechnical instruments are grouped by **what they measure**. The four foundati
 **Typical readout**: load (kN) vs time; creep curves.
 
 **Representative instruments**: Vibrating-wire load cells and strain gauges for structural monitoring.
+
+> [:material-youtube: **Field Practice: Connecting Instruments to Dataloggers (RST Instruments)**](https://www.youtube.com/watch?v=a5hHQaN1NkI){ .md-button target="_blank" }
 
 ---
 

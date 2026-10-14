@@ -130,3 +130,19 @@ Chuyên mục Địa kỹ thuật Khai khoáng được kết nối chặt chẽ
 - **[Dunnicliff — Thiết bị quan trắc địa kỹ thuật](../../reference-manuals/dunnicliff/index.md)**: Các nguyên lý thiết bị căn bản, mua sắm, hiệu chuẩn cảm biến và 20 bước lập kế hoạch quan trắc.
 - **[FHWA — Sổ tay thiết bị quan trắc địa kỹ thuật](../../reference-manuals/fhwa/index.md)**: Móng sâu, mái dốc đá đào và các kết cấu chắn giữ áp lực đất đá.
 - **[Tầm nhìn Tổng thể & Khung Kỹ thuật Tích hợp](../../reference-manuals/overarching-vision.md)**: Khung tổng hòa kết nối kiến tạo thạch quyển địa cầu với hệ thống thu thập dữ liệu tự động ADAQS hàng ngày.
+
+---
+
+## Video công nghệ & Tư liệu thực hành liên quan
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
+  <iframe src="https://www.youtube-nocookie.com/embed/wji5zK7c1Qo" title="Design Challenges, Disasters and Lessons in Rock Engineering" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+</div>
+<p><em>Bài giảng Kinh điển (Rocscience): GS. Evert Hoek — Thách thức Thiết kế, Thảm họa và Bài học Kinh nghiệm trong Cơ học Đá Khai khoáng: Sự cố Trượt lở Mỏ Lộ thiên, Ổn định Hầm mỏ và Giám sát Địa kỹ thuật.</em></p>
+
+!!! tip "Tư liệu thực hành bổ trợ từ RST Instruments & Measurand (Terra Insights)"
+    - **RST Instruments (@RSTgeotechnical):** [Wireless Data Collection with RSTAR](https://www.youtube.com/watch?v=xFplwoCngEU){ target="_blank" }  
+      *Mạng lưới thu thập dữ liệu không dây tự động diện rộng cho các tầng khai thác mỏ và bãi thải.*
+    - **Measurand (@MeasurandVideos):** [Real-time deflection monitoring with ShapeArray](https://www.youtube.com/watch?v=518Mx-65rI0){ target="_blank" }  
+      *Theo dõi trượt cắt và dịch chuyển ngầm dọc theo bờ dốc mỏ lộ thiên và bãi thải.*
+
