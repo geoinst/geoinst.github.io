@@ -97,3 +97,19 @@ Phát hiện sự khởi phát của chuyển động sườn dốc trước khi
 ---
 
 *Nguồn: Tổng hợp từ Dunnicliff (616 chunks), Foundation Engineering (USACE/FHWA, phạm vi công cộng), Soil Mechanics (USACE/FHWA, phạm vi công cộng), NCHRP Synthesis 89, và các tài liệu tham khảo hiện trường.*
+
+---
+
+## Video công nghệ & Tư liệu thực hành liên quan
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
+  <iframe src="https://www.youtube-nocookie.com/embed/GXANvXwFuNE" title="Webinar ShapeArrays monitoring Measurand Geo obs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+</div>
+<p><em>Hội thảo Kỹ thuật Chuyên sâu (Measurand & Geotechnical Observations): Ứng dụng Cảm biến ShapeArray Giám sát Trượt sạt Mái dốc — Đo Chuyển vị Ngang Tự động Thời gian thực và Cảnh báo Sớm.</em></p>
+
+!!! tip "Tư liệu thực hành bổ trợ từ RST Instruments & Measurand (Terra Insights)"
+    - **RST Instruments (@RSTgeotechnical):** [Inclinometer Casing Installation](https://www.youtube.com/watch?v=H2MVAVbOGdg){ target="_blank" }  
+      *Kỹ thuật lắp đặt ống đo nghiêng trong hố khoan theo tiêu chuẩn FHWA để quan trắc mặt trượt sâu của mái dốc.*
+    - **Measurand (@MeasurandVideos):** [SAAView 3D Analysis Software](https://www.youtube.com/watch?v=OtLkPOCQCoo){ target="_blank" }  
+      *Phần mềm phân tích 3D trực quan hóa mặt trượt ngầm và dịch chuyển khối đất đá theo thời gian thực.*
+

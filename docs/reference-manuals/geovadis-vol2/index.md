@@ -72,9 +72,9 @@ The field implementations and laboratory research in Volume 2 interface directly
 ## Featured Video & Practical Resources
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/I6bdJXzuzlc" title="GroundProbe SSR-XT, SSR-FX, and SSR-Omni" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/luUIdMVkSqM" title="2014 Ralph B. Peck Lecture: Youssef Hashash: Modeling & Monitoring Technologies for Deep Excavations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
 </div>
-<p><em>Featured Video (Primary Source — Orica): GroundProbe SSR-XT, SSR-FX, and SSR-Omni slope monitoring radar systems.</em></p>
+<p><em>Featured Keynote Lecture (Geo-Institute of ASCE): 2014 Ralph B. Peck Lecture by Prof. Youssef Hashash — Modeling & Monitoring Technologies for Deep Excavations in Urban Environments.</em></p>
 
 !!! tip "Complementary Practical Field Resources from RST Instruments & Measurand (Terra Insights)"
     - **RST Instruments (@RSTgeotechnical):** [Inclinometer Casing Installation](https://www.youtube.com/watch?v=H2MVAVbOGdg){ target="_blank" }  

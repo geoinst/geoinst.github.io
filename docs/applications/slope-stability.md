@@ -96,3 +96,19 @@ Detect the onset of slope movement before failure, identify the shear surface, a
 ---
 
 *Source: Compiled from Dunnicliff (616 chunks), Foundation Engineering (USACE/FHWA, public domain), Soil Mechanics (USACE/FHWA, public domain), NCHRP Synthesis 89, and field reference manuals.*
+
+---
+
+## Featured Video & Practical Resources
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
+  <iframe src="https://www.youtube-nocookie.com/embed/GXANvXwFuNE" title="Webinar ShapeArrays monitoring Measurand Geo obs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+</div>
+<p><em>Featured Technical Webinar (Measurand & Geotechnical Observations): ShapeArrays for Landslide Monitoring — Automated Real-time Subsurface Displacement & Early Warning Systems.</em></p>
+
+!!! tip "Complementary Practical Field Resources from RST Instruments & Measurand (Terra Insights)"
+    - **RST Instruments (@RSTgeotechnical):** [Inclinometer Casing Installation](https://www.youtube.com/watch?v=H2MVAVbOGdg){ target="_blank" }  
+      *Standard field procedure for installing inclinometer casing in boreholes for deep lateral displacement tracking.*
+    - **Measurand (@MeasurandVideos):** [SAAView 3D Analysis Software](https://www.youtube.com/watch?v=OtLkPOCQCoo){ target="_blank" }  
+      *Visualization and 3D vector tracking of active landslide slip surfaces and mass movement zones.*
+

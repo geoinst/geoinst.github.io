@@ -231,3 +231,19 @@ Dưới đây là các hồ sơ công trình thực tế (Case Studies) được
 - [7. Hồ chứa bã thải quặng (TSFs) →](../reference-manuals/tailings-dam-safety/index.md)
 - [8. Ổn định sườn dốc & Sạt lở →](slope-stability.md)
 - [14 & 15. Địa kỹ thuật khai khoáng (Lộ thiên & Hầm lò) →](mining/index.md)
+
+---
+
+## Video công nghệ & Tư liệu thực hành tổng quan
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1.5rem 0 0.5rem 0;">
+  <iframe src="https://www.youtube-nocookie.com/embed/AQIWe60Meho" title="RSTAR Affinity Dashboard Software – Complete IIoT Solution for Powerful Geotechnical Monitoring" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+</div>
+<p><em>Video công nghệ tiêu điểm (RST Instruments): Phần mềm RSTAR Affinity Dashboard — Giải pháp IIoT Đồng bộ Hóa Toàn diện cho Giám sát Địa kỹ thuật và Kết cấu qua Toàn bộ 20 Lĩnh vực Ứng dụng.</em></p>
+
+!!! tip "Tư liệu thực hành bổ trợ từ RST Instruments & Measurand (Terra Insights)"
+    - **RST Instruments (@RSTgeotechnical):** [RSTAR Affinity Quick Dashboard Tour](https://www.youtube.com/watch?v=AQIWe60Meho){ target="_blank" }  
+      *Nền tảng quản lý cảm biến IIoT thống nhất cho truyền thông đo đạc thời gian thực và quản lý mạng lưới đa thiết bị.*
+    - **Measurand (@MeasurandVideos):** [Real-time deflection monitoring with ShapeArray](https://www.youtube.com/watch?v=518Mx-65rI0){ target="_blank" }  
+      *Hệ thống quan trắc biến dạng 3D sâu tự động kết nối vào các mạng lưới ADAQS tập trung.*
+

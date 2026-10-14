@@ -124,3 +124,19 @@ Detect seepage changes, internal erosion, and deformation in embankment / concre
 ---
 
 *Source: Compiled from Dunnicliff (616 chunks), Foundation Engineering (USACE/FHWA, public domain), Soil Mechanics (USACE/FHWA, public domain), NCHRP Synthesis 89, and field reference manuals.*
+
+---
+
+## Featured Video & Practical Resources
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
+  <iframe src="https://www.youtube-nocookie.com/embed/tdxGnlsV65A" title="Dam Owner Academy: Seepage, Slope Stability & Seismic Issues" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+</div>
+<p><em>Featured Video (Association of State Dam Safety Officials - ASDSO): Dam Owner Academy — Seepage, Slope Stability & Seismic Issues: Critical Mechanisms and Field Monitoring.</em></p>
+
+!!! tip "Complementary Practical Field Resources from RST Instruments & Measurand (Terra Insights)"
+    - **RST Instruments (@RSTgeotechnical):** [Taking Initial Vibrating Wire Piezometer Readings](https://www.youtube.com/watch?v=HJISt9or_Dw){ target="_blank" }  
+      *Standard baseline verification procedure for vibrating wire piezometers before installation in dam embankments and foundations.*
+    - **Measurand (@MeasurandVideos):** [Real-time deflection monitoring with ShapeArray](https://www.youtube.com/watch?v=518Mx-65rI0){ target="_blank" }  
+      *Continuous automated crest and internal core deformation monitoring for embankment dams with ShapeArray.*
+

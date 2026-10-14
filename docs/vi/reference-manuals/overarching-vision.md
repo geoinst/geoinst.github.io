@@ -249,9 +249,9 @@ Sự gắn kết hữu cơ của toàn bộ 16 bộ tài liệu trong cơ sở t
 ## Video công nghệ & Tư liệu thực hành liên quan
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/0tLX-O9dOQk" title="Orica Digital Solutions' Geosolutions' Geotechnical Specialist Services (GSS)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/d7XJJlMnkYw" title="Geo-Congress 2026: Ralph B. Peck Lecture: Kenichi Soga - Revisiting the Observational Method" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
 </div>
-<p><em>Video (Nguồn chính — Orica): Dịch vụ Chuyên gia Địa kỹ thuật Toàn diện Orica Digital Solutions GeoSolutions (GSS).</em></p>
+<p><em>Bài giảng Đỉnh cao (Geo-Institute of ASCE): Bài giảng Danh dự Ralph B. Peck 2026 — GS. Kenichi Soga: Tái định hình Phương pháp Quan trắc (Observational Method), Cảm biến Sợi quang Phân bố và Bản sao Số (Digital Twins) trong Quan trắc Địa kỹ thuật Hiện đại.</em></p>
 
 !!! tip "Tư liệu thực hành bổ trợ từ RST Instruments & Measurand (Terra Insights)"
     - **RST Instruments (@RSTgeotechnical):** [RSTAR Affinity Quick Dashboard Tour](https://www.youtube.com/watch?v=AQIWe60Meho){ target="_blank" }  

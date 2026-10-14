@@ -74,9 +74,9 @@ Xuyên suốt các công trình nghiên cứu trong *GeoVadis (Tập 1)*, dữ l
 ## Video công nghệ & Tư liệu thực hành liên quan
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/bNtg0iY5GwM" title="FRAGTrack: Advanced AI Fragmentation Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/gktykEMuCT0" title="2020 Ralph B. Peck Lecture: Anand Puppala: Problematic Soils" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
 </div>
-<p><em>Video (Nguồn chính — Orica): FRAGTrack — Trí tuệ nhân tạo (AI) đo đạc và phân tích kích thước mảnh vỡ đất đá tự động.</em></p>
+<p><em>Bài giảng Danh dự Ralph B. Peck 2020 (Geo-Institute of ASCE): TS. Anand Puppala — Đất Nền Phức tạp: Thách thức Khảo sát, Giải pháp Cải tạo Nền Đất yếu và Các Phương pháp Quan trắc Tiên tiến.</em></p>
 
 !!! tip "Tư liệu thực hành bổ trợ từ RST Instruments & Measurand (Terra Insights)"
     - **RST Instruments (@RSTgeotechnical):** [RSTAR Affinity Quick Dashboard Tour](https://www.youtube.com/watch?v=AQIWe60Meho){ target="_blank" }  

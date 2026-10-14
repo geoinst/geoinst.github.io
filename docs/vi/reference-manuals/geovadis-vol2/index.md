@@ -72,9 +72,9 @@ Các nghiên cứu thực nghiệm và ứng dụng công trình trong Tập 2 l
 ## Video công nghệ & Tư liệu thực hành liên quan
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/I6bdJXzuzlc" title="GroundProbe SSR-XT, SSR-FX, and SSR-Omni" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/luUIdMVkSqM" title="2014 Ralph B. Peck Lecture: Youssef Hashash: Modeling & Monitoring Technologies for Deep Excavations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
 </div>
-<p><em>Video (Nguồn chính — Orica): Hệ thống radar GroundProbe SSR-XT, SSR-FX và SSR-Omni quan trắc ổn định mái dốc và công trình ngầm.</em></p>
+<p><em>Bài giảng Danh dự Ralph B. Peck 2014 (Geo-Institute of ASCE): GS. Youssef Hashash — Công nghệ Mô hình hóa và Quan trắc Hố đào Sâu trong Đô thị (Deep Excavations Modeling & Monitoring).</em></p>
 
 !!! tip "Tư liệu thực hành bổ trợ từ RST Instruments & Measurand (Terra Insights)"
     - **RST Instruments (@RSTgeotechnical):** [Inclinometer Casing Installation](https://www.youtube.com/watch?v=H2MVAVbOGdg){ target="_blank" }  

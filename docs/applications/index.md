@@ -231,3 +231,19 @@ The following engineering case studies represent verified field deployments of O
 - [7. Tailings Storage Facilities (TSFs) →](../reference-manuals/tailings-dam-safety/index.md)
 - [8. Slope Stability & Landslides →](slope-stability.md)
 - [14 & 15. Mining Geotechnics (Open Pit & Underground) →](mining/index.md)
+
+---
+
+## Featured Technology Video & Practical Resources
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1.5rem 0 0.5rem 0;">
+  <iframe src="https://www.youtube-nocookie.com/embed/AQIWe60Meho" title="RSTAR Affinity Dashboard Software – Complete IIoT Solution for Powerful Geotechnical Monitoring" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+</div>
+<p><em>Featured Technology Video (RST Instruments): RSTAR Affinity Dashboard Software — Complete Unified IIoT Solution for Powerful Geotechnical Monitoring Across All 20 Infrastructure Domains.</em></p>
+
+!!! tip "Complementary Practical Field Resources from RST Instruments & Measurand (Terra Insights)"
+    - **RST Instruments (@RSTgeotechnical):** [RSTAR Affinity Quick Dashboard Tour](https://www.youtube.com/watch?v=AQIWe60Meho){ target="_blank" }  
+      *Unified IIoT sensor management platform for real-time geotechnical telemetry and multi-instrument network management.*
+    - **Measurand (@MeasurandVideos):** [Real-time deflection monitoring with ShapeArray](https://www.youtube.com/watch?v=518Mx-65rI0){ target="_blank" }  
+      *Automated 3D subterranean deformation tracking connecting to centralized ADAQS networks.*
+

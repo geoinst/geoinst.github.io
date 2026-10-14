@@ -74,9 +74,9 @@ Throughout *GeoVadis (Volume 1)*, experimental and field verification relies dir
 ## Featured Video & Practical Resources
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/bNtg0iY5GwM" title="FRAGTrack: Advanced AI Fragmentation Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/gktykEMuCT0" title="2020 Ralph B. Peck Lecture: Anand Puppala: Problematic Soils" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
 </div>
-<p><em>Featured Video (Primary Source — Orica): FRAGTrack: Advanced AI fragmentation analysis and computerized geological characterization.</em></p>
+<p><em>Featured Keynote Lecture (Geo-Institute of ASCE): 2020 Ralph B. Peck Lecture by Dr. Anand Puppala — Problematic Soils: Characterization Challenges, Innovative Solutions, Ground Improvement, and Novel Monitoring Methods.</em></p>
 
 !!! tip "Complementary Practical Field Resources from RST Instruments & Measurand (Terra Insights)"
     - **RST Instruments (@RSTgeotechnical):** [RSTAR Affinity Quick Dashboard Tour](https://www.youtube.com/watch?v=AQIWe60Meho){ target="_blank" }  

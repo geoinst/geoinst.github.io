@@ -172,3 +172,19 @@ có thể hình thành.
 > của riêng bạn** từ số liệu hiện trường hiện hành, hướng dẫn CDA/MAC hiện hành
 > và các quy định pháp lý áp dụng trước khi sử dụng chúng cho thiết kế hoặc hồ
 > sơ trình cơ quan quản lý.
+
+---
+
+## Video công nghệ & Tư liệu thực hành liên quan
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
+  <iframe src="https://www.youtube-nocookie.com/embed/1c0W01jUrRM" title="Rock Slope Engineering - Dr. Evert Hoek Lecture Series" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+</div>
+<p><em>Chuỗi Bài giảng Dr. Evert Hoek (Rocscience): Kỹ thuật Mái dốc Đá (Rock Slope Engineering), Cơ chế Phá hủy, Áp lực Nước lỗ rỗng và Ổn định Đập ngăn Đất đá Nội mỏ.</em></p>
+
+!!! tip "Tư liệu thực hành bổ trợ từ RST Instruments & Measurand (Terra Insights)"
+    - **RST Instruments (@RSTgeotechnical):** [RSTAR Affinity Quick Dashboard Tour](https://www.youtube.com/watch?v=AQIWe60Meho){ target="_blank" }  
+      *Nền tảng quản lý cảm biến IIoT thống nhất cho truyền dữ liệu quan trắc thời gian thực qua đê chắn nội mỏ.*
+    - **Measurand (@MeasurandVideos):** [Automated ShapeArray System](https://www.youtube.com/watch?v=518Mx-65rI0){ target="_blank" }  
+      *Hệ thống quan trắc biến dạng 3D sâu tự động kết nối vào các mạng lưới telemetry quan trắc đê bùn cát thải.*
+

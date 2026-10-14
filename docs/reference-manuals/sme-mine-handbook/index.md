@@ -117,9 +117,9 @@ of this library is built on:
 ## Featured Video & Practical Resources
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/I6bdJXzuzlc" title="GroundProbe's next-generation solution SSR-XT, SSR-FX, and SSR-Omni" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/pgIjAXKyPWY" title="Rock Mass Properties - Dr. Evert Hoek Lecture Series" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
 </div>
-<p><em>Featured Video (Primary Source — Orica): GroundProbe's next-generation solution SSR-XT, SSR-FX, and SSR-Omni for open-pit mining.</em></p>
+<p><em>Featured Keynote Lecture (Rocscience): Dr. Evert Hoek Lecture Series — Rock Mass Properties: In-situ Characterization, GSI System, and Underground & Open-Pit Rock Mechanics.</em></p>
 
 !!! tip "Complementary Practical Field Resources from RST Instruments & Measurand (Terra Insights)"
     - **RST Instruments (@RSTgeotechnical):** [Wireless Data Collection with RSTAR](https://www.youtube.com/watch?v=xFplwoCngEU){ target="_blank" }  

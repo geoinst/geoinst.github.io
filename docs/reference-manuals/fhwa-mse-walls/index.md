@@ -126,9 +126,9 @@ structural elements of a conventional retaining wall.
 ## Featured Video & Practical Resources
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/m0Xf9uycDns" title="GroundProbe SSR-XT Fast Wall Starter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/CDrUisu6Gfw" title="Summer School S01 E02: Ben Leshchinsky: MSE Walls and Reinforced Soil" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
 </div>
-<p><em>Featured Video (Primary Source — Orica): GroundProbe SSR-XT Fast Wall Starter deployment for retaining wall and cut slope monitoring.</em></p>
+<p><em>Featured Keynote Lecture (Geo-Institute of ASCE): Summer School Session by Prof. Ben Leshchinsky — MSE Walls and Reinforced Soil: Mechanics, Design, and Performance Monitoring.</em></p>
 
 !!! tip "Complementary Practical Field Resources from RST Instruments & Measurand (Terra Insights)"
     - **RST Instruments (@RSTgeotechnical):** [Inclinometer Casing Installation](https://www.youtube.com/watch?v=H2MVAVbOGdg){ target="_blank" }  

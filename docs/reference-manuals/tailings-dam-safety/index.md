@@ -86,9 +86,9 @@ facility is performing as expected.
 ## Featured Video & Practical Resources
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/8yqLRjzVuvk" title="GroundProbe Tailings Dam Monitoring Solution" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/shMs3jiLi7M" title="Cross-USA Lecture with Bob Bachus: Mine Tailings and Coal Ash Impoundments" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
 </div>
-<p><em>Featured Video (Primary Source — Orica): GroundProbe Tailings Dam Monitoring Solution for Tailings Storage Facilities (TSF).</em></p>
+<p><em>Featured Master Lecture (Geo-Institute of ASCE): Cross-USA Lecture by Dr. Bob Bachus — Mine Tailings and Coal Ash Impoundments: Geotechnical Characterization, Failure Modes, and Stability Monitoring.</em></p>
 
 !!! tip "Complementary Practical Field Resources from RST Instruments & Measurand (Terra Insights)"
     - **RST Instruments (@RSTgeotechnical):** [RSTAR Affinity Quick Dashboard Tour](https://www.youtube.com/watch?v=AQIWe60Meho){ target="_blank" }  

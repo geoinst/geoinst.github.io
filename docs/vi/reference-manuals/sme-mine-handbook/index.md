@@ -117,9 +117,9 @@ mà thư viện này được xây dựng trên đó:
 ## Video công nghệ & Tư liệu thực hành liên quan
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/I6bdJXzuzlc" title="GroundProbe's next-generation solution SSR-XT, SSR-FX, and SSR-Omni" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/pgIjAXKyPWY" title="Rock Mass Properties - Dr. Evert Hoek Lecture Series" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
 </div>
-<p><em>Video (Nguồn chính — Orica): Hệ thống radar GroundProbe SSR-XT, SSR-FX và SSR-Omni quan trắc bờ mỏ lộ thiên.</em></p>
+<p><em>Chuỗi Bài giảng Dr. Evert Hoek (Rocscience): Đặc trưng Khối Đá (Rock Mass Properties), Hệ chỉ số GSI và Cơ học Khối đá trong Khai thác Mỏ Lộ thiên và Hầm lò.</em></p>
 
 !!! tip "Tư liệu thực hành bổ trợ từ RST Instruments & Measurand (Terra Insights)"
     - **RST Instruments (@RSTgeotechnical):** [Wireless Data Collection with RSTAR](https://www.youtube.com/watch?v=xFplwoCngEU){ target="_blank" }  

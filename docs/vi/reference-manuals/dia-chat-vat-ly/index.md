@@ -65,9 +65,9 @@ này và trên cẩm nang.
 ## Video công nghệ & Tư liệu thực hành liên quan
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/qGkkXNxnxAo" title="Plate Tectonics | IIT Roorkee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/J4fd68KG3TY" title="Lecture - 30 Plate Tectonics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
 </div>
-<p><em>Video bài giảng đại học (Nguồn: Viện Công nghệ IIT Roorkee / NPTEL): Kiến tạo Mảng và Động lực học Vỏ Trái Đất trong Địa chất Vật lý.</em></p>
+<p><em>Bài giảng Học thuật Toàn diện (NPTEL / IIT Kharagpur): GS. Debasis Roy — Bài giảng 30: Kiến tạo Mảng (Plate Tectonics), Cơ chế Đứt gãy và Trường Ứng suất Vỏ Trái Đất trong Kỹ thuật Địa chất.</em></p>
 
 !!! tip "Tư liệu thực hành bổ trợ từ RST Instruments & Measurand (Terra Insights)"
     - **RST Instruments (@RSTgeotechnical):** [RST Geotechnical Overview](https://www.youtube.com/watch?v=g3GAmDL5rrM){ target="_blank" }  

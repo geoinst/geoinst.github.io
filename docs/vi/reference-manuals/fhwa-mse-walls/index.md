@@ -126,9 +126,9 @@ kết cấu nặng nề của tường chắn thông thường.
 ## Video công nghệ & Tư liệu thực hành liên quan
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/m0Xf9uycDns" title="GroundProbe SSR-XT Fast Wall Starter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/CDrUisu6Gfw" title="Summer School S01 E02: Ben Leshchinsky: MSE Walls and Reinforced Soil" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
 </div>
-<p><em>Video (Nguồn chính — Orica): Triển khai radar GroundProbe SSR-XT Fast Wall Starter quan trắc tường chắn và mái dốc.</em></p>
+<p><em>Bài giảng Chuyên đề (Geo-Institute of ASCE): GS. Ben Leshchinsky — Cơ học và Thiết kế Tường chắn Đất có Cốt (MSE Walls) & Đất Gia cố: Cơ chế Ứng xử và Quan trắc Biến dạng.</em></p>
 
 !!! tip "Tư liệu thực hành bổ trợ từ RST Instruments & Measurand (Terra Insights)"
     - **RST Instruments (@RSTgeotechnical):** [Inclinometer Casing Installation](https://www.youtube.com/watch?v=H2MVAVbOGdg){ target="_blank" }  

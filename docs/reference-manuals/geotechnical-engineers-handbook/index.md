@@ -121,9 +121,9 @@ tables, figures and worked examples.
 ## Featured Video & Practical Resources
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/0tLX-O9dOQk" title="Orica Digital Solutions' Geosolutions' Geotechnical Specialist Services (GSS)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/2FDCUjBCzN8" title="2025 Reese Lecture: Donald Bruce: What Quality Really Means in Specialty Geotechnical Construction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
 </div>
-<p><em>Featured Video (Primary Source — Orica): Orica Digital Solutions' Geosolutions' Geotechnical Specialist Services (GSS).</em></p>
+<p><em>Featured Keynote Lecture (Geo-Institute of ASCE): 2025 Lymon C. Reese Lecture by Dr. Donald Bruce — What Quality Really Means in Specialty Geotechnical Construction: Field Practice, Grouting, Anchors, and Engineering Judgment.</em></p>
 
 !!! tip "Complementary Practical Field Resources from RST Instruments & Measurand (Terra Insights)"
     - **RST Instruments (@RSTgeotechnical):** [Inclinometer Casing Installation](https://www.youtube.com/watch?v=H2MVAVbOGdg){ target="_blank" }  
