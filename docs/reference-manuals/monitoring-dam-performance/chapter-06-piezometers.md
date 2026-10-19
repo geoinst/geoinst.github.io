@@ -26,6 +26,11 @@ slope failure.
     at installation. A piezometer that was never properly saturated is a silent gap
     in the program. (See [Dunnicliff Ch. 9](../dunnicliff/index.md).)
 
+    <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1rem 0;">
+      <iframe src="https://www.youtube-nocookie.com/embed/HJISt9or_Dw" title="Taking Initial Vibrating Wire Piezometer Readings - RST Instruments" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+    </div>
+    <p><em>Field Practice Video (Source: RST Instruments / Terra Insights): De-airing, saturation procedure, and baseline zero readings for Vibrating Wire Piezometers prior to dam embankment installation.</em></p>
+
 ## 6.3 Where to place them
 
 Piezometer location follows the failure modes:

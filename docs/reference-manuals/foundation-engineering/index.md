@@ -95,13 +95,13 @@ This reference is an independent adaptation of the scope and structure of these
 ## Featured Video & Practical Resources
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/a5hHQaN1NkI" title="Data Logger Hardware Connections" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/wwI6Bpm2pmA" title="Webinar Recording - RSPile: Pile Capacity Analysis - Rocscience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
 </div>
-<p><em>Featured Field Practice Video (RST Instruments): Data Logger Hardware Connections for Deep Foundation Instrumentation, Load Cells, and Strain Gauges.</em></p>
+<p><em>Featured Technical Webinar (Source: Rocscience — Orica Digital Solutions Ecosystem): Deep Foundation Engineering & Pile Capacity Analysis in Multi-Layered Soils (FHWA/AASHTO Standards). Instructed by Dr. Ahmed Mufty.</em></p>
 
-!!! tip "Complementary Practical Field Resources from RST Instruments & Measurand (Terra Insights)"
-    - **RST Instruments (@RSTgeotechnical):** [Connecting Instruments to Data Loggers](https://www.youtube.com/watch?v=a5hHQaN1NkI){ target="_blank" }  
-      *Field datalogger wiring and channel configuration for vibrating wire piezometers, load cells, and earth pressure cells in deep foundation elements.*
+!!! tip "Complementary Practical Field Resources from Rocscience & Measurand (Terra Insights)"
+    - **Rocscience (@RocscienceSoft):** [RSPile Webinar Part II: Axial and Lateral Pile Analysis](https://www.youtube.com/watch?v=c3N3gA0v0P0){ target="_blank" }  
+      *Practical applications of axial and lateral pile design, group effects, and lateral deflection.*
     - **Measurand (@MeasurandVideos):** [SAAV Cyclical Installation](https://www.youtube.com/watch?v=YwQtxBBPS38){ target="_blank" }  
       *Installing ShapeArray in cyclical borehole monitoring casing for bored piles and deep shaft deflection profiling.*
 

@@ -94,13 +94,13 @@ phạm vi công cộng** sau (công trình của Chính phủ Hoa Kỳ):
 ## Video công nghệ & Tư liệu thực hành liên quan
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/a5hHQaN1NkI" title="Data Logger Hardware Connections" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/wwI6Bpm2pmA" title="Webinar Recording - RSPile: Pile Capacity Analysis - Rocscience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
 </div>
-<p><em>Video Hướng dẫn Thực hành (RST Instruments): Đấu nối Phần cứng Datalogger cho Quan trắc Móng sâu, Thí nghiệm Cọc, Cảm biến Tải trọng và Biến dạng.</em></p>
+<p><em>Chuyên đề Kỹ thuật Móng Sâu (Nguồn: Rocscience — Hệ sinh thái Orica Digital Solutions): Phân tích Sức chịu tải Cọc, Sức kháng Mũi và Ma sát Thành bên trong Địa tầng Nhiều lớp theo Tiêu chuẩn FHWA/AASHTO. Giảng viên: Dr. Ahmed Mufty.</em></p>
 
-!!! tip "Tư liệu thực hành bổ trợ từ RST Instruments & Measurand (Terra Insights)"
-    - **RST Instruments (@RSTgeotechnical):** [Connecting Instruments to Data Loggers](https://www.youtube.com/watch?v=a5hHQaN1NkI){ target="_blank" }  
-      *Đấu nối và cài đặt kênh cho áp kế, hộp đo áp lực đất (earth pressure cell) và load cell trong móng sâu.*
+!!! tip "Tư liệu thực hành bổ trợ từ Rocscience & Measurand (Terra Insights)"
+    - **Rocscience (@RocscienceSoft):** [RSPile Webinar Part II: Axial and Lateral Pile Analysis](https://www.youtube.com/watch?v=c3N3gA0v0P0){ target="_blank" }  
+      *Phân tích chuyển vị ngang và mô-men uốn của cọc chịu tải trọng động lực học và áp lực đất bên.*
     - **Measurand (@MeasurandVideos):** [SAAV Cyclical Installation](https://www.youtube.com/watch?v=YwQtxBBPS38){ target="_blank" }  
       *Lắp đặt cảm biến ShapeArray trong ống quan trắc cọc khoan nhồi và hố móng sâu.*
 

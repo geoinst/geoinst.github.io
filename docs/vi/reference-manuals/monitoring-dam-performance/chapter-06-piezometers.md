@@ -23,6 +23,11 @@ lang_alt: reference-manuals/monitoring-dam-performance/chapter-06-piezometers/
     trước và trong khi lắp đặt. Một áp kế chưa bao giờ được bão hòa đúng cách sẽ tạo ra dữ liệu giả tạo hoặc khoảng trống
     thầm lặng nguy hiểm trong chương trình giám sát an toàn đập. (Xem chi tiết tại [Dunnicliff Ch. 9](../dunnicliff/index.md)).
 
+    <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1rem 0;">
+      <iframe src="https://www.youtube-nocookie.com/embed/HJISt9or_Dw" title="Taking Initial Vibrating Wire Piezometer Readings - RST Instruments" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+    </div>
+    <p><em>Video Hướng dẫn Hiện trường (Nguồn: RST Instruments / Terra Insights): Quy trình bão hòa đầu lọc và đo kiểm tra giá trị zero ban đầu cho áp kế dây rung (Vibrating Wire Piezometer) trước khi lắp đặt vào công trình đập.</em></p>
+
 ## 6.3 Vị trí lắp đặt
 
 Vị trí lắp đặt áp kế tuân theo các dạng phá hoại (failure modes):
