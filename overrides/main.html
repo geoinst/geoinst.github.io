@@ -1,3 +1,27 @@
 {% extends "base.html" %}
 {% block extrahead %}{{ super() }}{% if page and page.meta and page.meta.lang_alt is defined %}<link rel="alternate" hreflang="{{ 'en' if page.meta.lang == 'vi' else 'vi' }}" href="{{ config.site_url }}{{ page.meta.lang_alt or '' }}">{% endif %}{% endblock %}
-{% block announce %}{% if page and page.meta %}{% set _is_vi = (page.meta.lang == 'vi') %}{% set _alt = page.meta.lang_alt if page.meta.lang_alt is defined else ('' if _is_vi else 'vi/') %}<div class="lang-switch"><span class="lang-switch__label">&#127760; {{ 'Ngôn ngữ' if _is_vi else 'Language' }}:</span>{% if _is_vi %}<span class="lang-switch__pill lang-switch__pill--active" aria-current="true">Tiếng Việt</span><a class="lang-switch__pill" href="{{ config.site_url }}{{ _alt or '' }}">English</a>{% else %}<a class="lang-switch__pill" href="{{ config.site_url }}{{ _alt or '' }}">Tiếng Việt</a><span class="lang-switch__pill lang-switch__pill--active" aria-current="true">English</span>{% endif %}</div>{% endif %}{% endblock %}
+{% block announce %}
+{% if page and (page.file.src_path == 'index.md' or page.file.src_path == 'vi/index.md' or page.url == '' or page.url == 'vi/') %}
+{% set _is_vi_landing = (page.meta and page.meta.lang == 'vi') or (page.file.src_path == 'vi/index.md') or (page.url == 'vi/') %}
+<!-- MIRROR-BANNER-START -->
+<div style="background:linear-gradient(135deg,#0f172a,#1e293b);color:#e2e8f0;padding:10px 20px;display:flex;align-items:center;gap:14px;flex-wrap:wrap;justify-content:center;text-align:center;font-size:0.9rem;font-family:'Inter',sans-serif;border-bottom:1px solid rgba(255,255,255,0.15);">
+  {% if _is_vi_landing %}
+  <span>&#128279; Đây là một trong hai máy chủ gương (mirror server) của Cơ sở Tri thức Địa kỹ thuật. Nếu trang tải chậm hoặc gián đoạn, vui lòng sử dụng máy chủ dự phòng:</span>
+  <a href="https://geoinst.github.io/vi/" style="color:#7dd3fc;font-weight:700;text-decoration:none;">geoinst.github.io</a>
+  <span style="opacity:.75;">hoặc</span>
+  <a href="https://rstaffinity.github.io/geoinst/vi/" style="color:#7dd3fc;font-weight:700;text-decoration:none;">rstaffinity.github.io/geoinst &rarr;</a>
+  {% else %}
+  <span>&#128279; This is one of two mirror servers of the Geotechnical Instrumentation Knowledge Base. If this page is slow or down, use the fallback server:</span>
+  <a href="https://geoinst.github.io/" style="color:#7dd3fc;font-weight:700;text-decoration:none;">geoinst.github.io</a>
+  <span style="opacity:.75;">or</span>
+  <a href="https://rstaffinity.github.io/geoinst/" style="color:#7dd3fc;font-weight:700;text-decoration:none;">rstaffinity.github.io/geoinst &rarr;</a>
+  {% endif %}
+</div>
+<!-- MIRROR-BANNER-END -->
+{% endif %}
+{% if page and page.meta %}
+{% set _is_vi = (page.meta.lang == 'vi') %}
+{% set _alt = page.meta.lang_alt if page.meta.lang_alt is defined else ('' if _is_vi else 'vi/') %}
+<div class="lang-switch"><span class="lang-switch__label">&#127760; {{ 'Ngôn ngữ' if _is_vi else 'Language' }}:</span>{% if _is_vi %}<span class="lang-switch__pill lang-switch__pill--active" aria-current="true">Tiếng Việt</span><a class="lang-switch__pill" href="{{ config.site_url }}{{ _alt or '' }}">English</a>{% else %}<a class="lang-switch__pill" href="{{ config.site_url }}{{ _alt or '' }}">Tiếng Việt</a><span class="lang-switch__pill lang-switch__pill--active" aria-current="true">English</span>{% endif %}</div>
+{% endif %}
+{% endblock %}
