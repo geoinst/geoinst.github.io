@@ -50,7 +50,7 @@ The reference manuals are integrated with three world-leading digital technology
 
 ---
 
-> **Copyright note.** This catalog lists only material the site may lawfully reproduce. The two copyrighted *Principles of … Engineering* textbooks that previously appeared here have been **removed** and replaced with the public-domain references above. The *Geotechnical Engineer's Handbook* is a **copyrighted Vietnamese work**; it is presented here as an **independent digest** (original summary text plus terminology), not as a reproduction of the original. *Physical Geology – 2nd Edition* is **CC BY 4.0** — an openly licensed work whose text and (CC BY / public-domain) figures may be reused with attribution.
+> **Copyright note.** This catalog lists only material the site may lawfully reproduce.
 
 ## GTI Doctor
 

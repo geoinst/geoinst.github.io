@@ -51,7 +51,7 @@ Hệ thống tài liệu tham khảo được tích hợp với ba nguồn tư l
 
 ---
 
-> **Lưu ý bản quyền.** Danh mục này chỉ liệt kê tài liệu mà trang web được phép sao chép hợp pháp. Hai giáo trình *Principles of … Engineering* có bản quyền trước đây đã được **gỡ bỏ** và thay bằng các tài liệu tham khảo thuộc phạm vi công cộng ở trên. Cuốn *Cẩm nang dùng cho kỹ sư địa kỹ thuật* là **tác phẩm tiếng Việt có bản quyền**; tại đây nó được trình bày dưới dạng **bản tổng hợp độc lập** (văn bản tóm lược nguyên bản cùng hệ thống thuật ngữ), không phải bản sao nguyên văn. *Physical Geology – 2nd Edition* mang giấy phép **CC BY 4.0** — tác phẩm mở, được phép dùng lại văn bản và hình minh hoạ (thuộc CC BY / phạm vi công cộng) miễn ghi nguồn.
+> **Lưu ý bản quyền.** Danh mục này chỉ liệt kê tài liệu mà trang web được phép sao chép hợp pháp.
 
 ## GTI Doctor
 
