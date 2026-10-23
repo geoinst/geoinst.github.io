@@ -26,7 +26,12 @@ jobs:
           python-version: '3.11'
       - name: Configure mirror site URL
         run: |
-          if [ "$GITHUB_REPOSITORY" = "rstaffinity/geoinst" ]; then
+          if [ "$GITHUB_REPOSITORY" = "rstaffinity/rstaffinity.github.io" ]; then
+            echo "Configuring mkdocs for root mirror repository rstaffinity/rstaffinity.github.io..."
+            sed -i 's|site_url: https://geoinst.github.io/|site_url: https://rstaffinity.github.io/|g' mkdocs.yml
+            sed -i 's|repo_url: https://github.com/geoinst/geoinst.github.io|repo_url: https://github.com/rstaffinity/rstaffinity.github.io|g' mkdocs.yml
+            sed -i 's|repo_name: geoinst/geoinst.github.io|repo_name: rstaffinity/rstaffinity.github.io|g' mkdocs.yml
+          elif [ "$GITHUB_REPOSITORY" = "rstaffinity/geoinst" ]; then
             echo "Configuring mkdocs for mirror repository rstaffinity/geoinst..."
             sed -i 's|site_url: https://geoinst.github.io/|site_url: https://rstaffinity.github.io/geoinst/|g' mkdocs.yml
             sed -i 's|repo_url: https://github.com/geoinst/geoinst.github.io|repo_url: https://github.com/rstaffinity/geoinst|g' mkdocs.yml
