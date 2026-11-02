@@ -317,6 +317,27 @@ nav:
           - Ma trận Nghị định 114 & TCVN 9398: vi/tuan-thu/nghi-dinh-114-tcvn-9398.md
       - "Hệ thống ADAQS": vi/adaqs/index.md
       - "Thuật ngữ Anh – Việt": vi/thuat-ngu/index.md
+  - "Español (ES)":
+      - Inicio: es/index.md
+      - "Primeros Pasos":
+          - Resumen: es/getting-started/index.md
+          - Categorías de Instrumentos: es/getting-started/categories.md
+          - Cómo Usar Este Sitio: es/getting-started/how-to-use.md
+      - "Aplicaciones":
+          - Índice: es/applications/index.md
+          - Estabilidad de Taludes: es/applications/slope-stability.md
+          - Monitoreo de Presas: es/applications/dam-monitoring.md
+          - Instrumentación de Túneles: es/applications/tunnels.md
+          - Cimentaciones y Excavaciones: es/applications/foundations.md
+          - "Geotecnia Minera":
+              - Índice: es/applications/mining/index.md
+              - "Estudio de Caso — Diques en Foso, Mina Muskeg River (2013)": es/applications/mining/in-pit-dykes-mrm/index.md
+      - "Manuales de Referencia":
+          - "La Gran Visión y Marco Integrado": es/reference-manuals/overarching-vision.md
+      - "Glosario": es/glossary/index.md
+      - "Marco Normativo (LatAm / España)": es/compliance/decree-114-tcvn-9398.md
+      - "Sandbox Interactivo": es/visualizer.md
+      - "GTI Doctor (IA)": es/gti-doctor.md
   - "Compliance (EN)":
       - Decree 114 / TCVN 9398 Matrix: compliance/decree-114-tcvn-9398.md
   - Getting Started:

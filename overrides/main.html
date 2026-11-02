@@ -1,5 +1,37 @@
 {% extends "base.html" %}
-{% block extrahead %}{{ super() }}{% if page and page.meta and page.meta.lang_alt is defined %}<link rel="alternate" hreflang="{{ 'en' if page.meta.lang == 'vi' else 'vi' }}" href="{{ config.site_url }}{{ page.meta.lang_alt or '' }}">{% endif %}{% endblock %}
+
+{% set _has_meta = (page and page.meta) %}
+{% set _lang = (page.meta.lang if (_has_meta and page.meta.lang is defined) else 'en') %}
+{% set _alt = (page.meta.lang_alt if (_has_meta and page.meta.lang_alt is defined) else '') %}
+{% set _purl = (page.url if page else '') %}
+
+{% if _lang == 'en' %}
+  {% set _en_url = _purl %}
+  {% set _vi_url = _alt %}
+  {% set _es_url = 'es/' ~ _purl %}
+{% elif _lang == 'vi' %}
+  {% set _en_url = _alt %}
+  {% set _vi_url = _purl %}
+  {% set _es_url = 'es/' ~ _alt %}
+{% else %}
+  {% set _en_url = _alt %}
+  {% set _vi_url = (page.meta.lang_alt_vi if (_has_meta and page.meta.lang_alt_vi is defined) else ('vi/' ~ _alt)) %}
+  {% set _es_url = _purl %}
+{% endif %}
+
+{% set _en_full = config.site_url ~ _en_url %}
+{% set _vi_full = config.site_url ~ _vi_url %}
+{% set _es_full = config.site_url ~ _es_url %}
+
+{% block extrahead %}{{ super() }}
+  {% if _has_meta %}
+  <link rel="alternate" hreflang="en" href="{{ _en_full }}">
+  <link rel="alternate" hreflang="es" href="{{ _es_full }}">
+  <link rel="alternate" hreflang="vi" href="{{ _vi_full }}">
+  <link rel="alternate" hreflang="x-default" href="{{ _en_full }}">
+  {% endif %}
+{% endblock %}
+
 {% block announce %}
 {% if page and (page.file.src_path == 'index.md' or page.file.src_path == 'vi/index.md' or page.url == '' or page.url == 'vi/') %}
 {% set _is_vi_landing = (page.meta and page.meta.lang == 'vi') or (page.file.src_path == 'vi/index.md') or (page.url == 'vi/') %}
@@ -20,8 +52,7 @@
 <!-- MIRROR-BANNER-END -->
 {% endif %}
 {% if page and page.meta %}
-{% set _is_vi = (page.meta.lang == 'vi') %}
-{% set _alt = page.meta.lang_alt if page.meta.lang_alt is defined else ('' if _is_vi else 'vi/') %}
-<div class="lang-switch"><span class="lang-switch__label">&#127760; {{ 'Ngôn ngữ' if _is_vi else 'Language' }}:</span>{% if _is_vi %}<span class="lang-switch__pill lang-switch__pill--active" aria-current="true">Tiếng Việt</span><a class="lang-switch__pill" href="{{ config.site_url }}{{ _alt or '' }}">English</a>{% else %}<a class="lang-switch__pill" href="{{ config.site_url }}{{ _alt or '' }}">Tiếng Việt</a><span class="lang-switch__pill lang-switch__pill--active" aria-current="true">English</span>{% endif %}</div>
+{% set _lang_label = 'Idioma' if _lang == 'es' else ('Ngôn ngữ' if _lang == 'vi' else 'Language') %}
+<div class="lang-switch"><span class="lang-switch__label">&#127760; {{ _lang_label }}:</span><a class="lang-switch__pill {{ 'lang-switch__pill--active' if _lang == 'en' else '' }}" href="{{ _en_full }}">English</a><a class="lang-switch__pill {{ 'lang-switch__pill--active' if _lang == 'es' else '' }}" href="{{ _es_full }}">Español</a><a class="lang-switch__pill {{ 'lang-switch__pill--active' if _lang == 'vi' else '' }}" href="{{ _vi_full }}">Tiếng Việt</a></div>
 {% endif %}
 {% endblock %}
