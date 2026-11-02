@@ -334,6 +334,22 @@ nav:
               - "Estudio de Caso — Diques en Foso, Mina Muskeg River (2013)": es/applications/mining/in-pit-dykes-mrm/index.md
       - "Manuales de Referencia":
           - "La Gran Visión y Marco Integrado": es/reference-manuals/overarching-vision.md
+          - "Burt — Manual de Investigación y Tablas de Diseño Geotécnico": es/reference-manuals/burt-look-handbook/index.md
+          - "CFEM 2022 — Manual Canadiense de Fundaciones (Cap. 25)": es/reference-manuals/cfem/index.md
+          - "Dunnicliff — Instrumentación Geotécnica para Monitoreo de Campo": es/reference-manuals/dunnicliff/index.md
+          - "FHWA — Manual de Referencia de Instrumentación Geotécnica": es/reference-manuals/fhwa/index.md
+          - "FHWA — Muros de Tierra Reforzada (MSE Walls, 2001)": es/reference-manuals/fhwa-mse-walls/index.md
+          - "Ingeniería de Cimentaciones": es/reference-manuals/foundation-engineering/index.md
+          - "Manual del Ingeniero Geotécnico": es/reference-manuals/geotechnical-engineers-handbook/index.md
+          - "GeoVadis Vol. 1": es/reference-manuals/geovadis/index.md
+          - "GeoVadis Vol. 2": es/reference-manuals/geovadis-vol2/index.md
+          - "GeoVadis Vol. 3": es/reference-manuals/geovadis-vol3/index.md
+          - "Monitoreo del Desempeño de Presas (ASCE MOP-135)": es/reference-manuals/monitoring-dam-performance/index.md
+          - "Geología Física": es/reference-manuals/physical-geology/index.md
+          - "Ingeniería de Rocas Práctica (Hoek)": es/reference-manuals/practical-rock-engineering/index.md
+          - "SME — Manual de Explotación Minera (Cap. 8.5)": es/reference-manuals/sme-mine-handbook/index.md
+          - "Mecánica de Suelos": es/reference-manuals/soil-mechanics/index.md
+          - "Seguridad de Presas de Relaves": es/reference-manuals/tailings-dam-safety/index.md
       - "Glosario": es/glossary/index.md
       - "Marco Normativo (LatAm / España)": es/compliance/decree-114-tcvn-9398.md
       - "Sandbox Interactivo": es/visualizer.md
