@@ -249,9 +249,9 @@ Sự gắn kết hữu cơ của toàn bộ 16 bộ tài liệu trong cơ sở t
 ## Video công nghệ & Tư liệu thực hành liên quan
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/KNoHOJMv5gE" title="Terra Insights Presentation (Exponor 2024)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/W0SGyrnaa-o" title="Giới thiệu GEOExplorerIQ™ (Orica Digital Solutions)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
 </div>
-<p><em>Thuyết trình Tiêu điểm (Terra Insights): Tổng quan Hệ sinh thái Terra Insights — Hợp nhất RST Instruments, Measurand, 3vGeomatics và Syscom Instruments trong Nền tảng Quan trắc Địa kỹ thuật & Không gian Địa lý Toàn diện.</em></p>
+<p><em>Video công nghệ: Giới thiệu GEOExplorerIQ™ — nền tảng quan trắc địa kỹ thuật và trí tuệ quyết định điện toán đám mây của Orica Digital Solutions.</em></p>
 
 !!! tip "Tư liệu thực hành bổ trợ từ RST Instruments & Measurand (Terra Insights)"
     - **RST Instruments (@RSTgeotechnical):** [RSTAR Affinity Quick Dashboard Tour](https://www.youtube.com/watch?v=AQIWe60Meho){ target="_blank" }  

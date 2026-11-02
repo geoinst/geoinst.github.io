@@ -252,9 +252,9 @@ Together, this integrated corpus transforms geotechnical engineering from an unc
 ## Featured Video & Practical Resources
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube-nocookie.com/embed/KNoHOJMv5gE" title="Terra Insights Presentation (Exponor 2024)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/W0SGyrnaa-o" title="Introducing GEOExplorerIQ™ (Orica Digital Solutions)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
 </div>
-<p><em>Featured Keynote Presentation (Terra Insights): Terra Insights Platform Overview — Unifying RST Instruments, Measurand, 3vGeomatics, and Syscom Instruments for Comprehensive Geospatial & Geotechnical Monitoring.</em></p>
+<p><em>Featured Video: Introducing GEOExplorerIQ™ — Orica Digital Solutions' cloud-native geotechnical monitoring & decision-intelligence platform.</em></p>
 
 !!! tip "Complementary Practical Field Resources from RST Instruments & Measurand (Terra Insights)"
     - **RST Instruments (@RSTgeotechnical):** [RSTAR Affinity Quick Dashboard Tour](https://www.youtube.com/watch?v=AQIWe60Meho){ target="_blank" }  
