@@ -32,20 +32,20 @@ y embalses). Está organizado en los siguientes capítulos:
 
 | # | Capítulo | Qué cubre |
 |---|---------|----------------|
-| 1 | [Introducción: Propósito, Alcance y Organización](../../../reference-manuals/monitoring-dam-performance/chapter-01-introduction.md) | Por qué importa el monitoreo; cómo se organiza esta referencia |
-| 2 | [Desempeño de la Presa y Modos de Falla Potenciales](../../../reference-manuals/monitoring-dam-performance/chapter-02-failure-modes.md) | Cómo fallan las presas y qué signos preceden a la falla |
-| 3 | [Filosofía de Monitoreo: Vigilancia Visual e Instrumentación](../../../reference-manuals/monitoring-dam-performance/chapter-03-philosophy.md) | Los dos pilares del monitoreo y cómo se complementan |
-| 4 | [Planificación de un Programa de Monitoreo de Presas](../../../reference-manuals/monitoring-dam-performance/chapter-04-planning.md) | Un proceso estructurado para definir qué, dónde y por qué monitorear |
-| 5 | [Familias de Instrumentos para Monitoreo de Presas](../../../reference-manuals/monitoring-dam-performance/chapter-05-instruments.md) | Sensores de topografía, geotécnicos, hidrológicos y estructurales de un vistazo |
-| 6 | [Piezómetros y Monitoreo de Presión de Poros](../../../reference-manuals/monitoring-dam-performance/chapter-06-piezometers.md) | Saturación, instalación y lectura de presión de poros |
-| 7 | [Monitoreo de Filtraciones, Escapes y Superficie Freática](../../../reference-manuals/monitoring-dam-performance/chapter-07-seepage.md) | Cuantificación e interpretación de filtraciones |
-| 8 | [Monitoreo de Deformación: Topografía y Sensores Geotécnicos](../../../reference-manuals/monitoring-dam-performance/chapter-08-deformation.md) | Monolitos de referencia, inclinómetros, extensómetros, inclinómetros de pendiente |
-| 9 | [Sistemas de Monitoreo Automatizado, Remoto y en Tiempo Real](../../../reference-manuals/monitoring-dam-performance/chapter-09-automated.md) | Adquisidores de datos, telemetría, umbrales y alarmas |
-| 10 | [Instalación, Operación y Mantenimiento](../../../reference-manuals/monitoring-dam-performance/chapter-10-iom.md) | Obtener datos confiables durante la vida útil del instrumento |
-| 11 | [Adquisición, Gestión de Datos y Bases de Datos](../../../reference-manuals/monitoring-dam-performance/chapter-11-data-management.md) | Frecuencias, validación y sistemas de datos |
-| 12 | [Evaluación, Presentación e Interpretación de Datos](../../../reference-manuals/monitoring-dam-performance/chapter-12-evaluation.md) | Gráficos, líneas base y separación de señal y ruido |
-| 13 | [Evaluación del Desempeño y Toma de Decisiones](../../../reference-manuals/monitoring-dam-performance/chapter-13-decisions.md) | De la anomalía a la acción |
-| 14 | [Historias de Caso](../../../reference-manuals/monitoring-dam-performance/chapter-14-case-histories.md) | Lecciones de programas de monitoreo reales |
+| 1 | [Introducción: Propósito, Alcance y Organización](chapter-01-introduction.md) | Por qué importa el monitoreo; cómo se organiza esta referencia |
+| 2 | [Desempeño de la Presa y Modos de Falla Potenciales](chapter-02-failure-modes.md) | Cómo fallan las presas y qué signos preceden a la falla |
+| 3 | [Filosofía de Monitoreo: Vigilancia Visual e Instrumentación](chapter-03-philosophy.md) | Los dos pilares del monitoreo y cómo se complementan |
+| 4 | [Planificación de un Programa de Monitoreo de Presas](chapter-04-planning.md) | Un proceso estructurado para definir qué, dónde y por qué monitorear |
+| 5 | [Familias de Instrumentos para Monitoreo de Presas](chapter-05-instruments.md) | Sensores de topografía, geotécnicos, hidrológicos y estructurales de un vistazo |
+| 6 | [Piezómetros y Monitoreo de Presión de Poros](chapter-06-piezometers.md) | Saturación, instalación y lectura de presión de poros |
+| 7 | [Monitoreo de Filtraciones, Escapes y Superficie Freática](chapter-07-seepage.md) | Cuantificación e interpretación de filtraciones |
+| 8 | [Monitoreo de Deformación: Topografía y Sensores Geotécnicos](chapter-08-deformation.md) | Monolitos de referencia, inclinómetros, extensómetros, inclinómetros de pendiente |
+| 9 | [Sistemas de Monitoreo Automatizado, Remoto y en Tiempo Real](chapter-09-automated.md) | Adquisidores de datos, telemetría, umbrales y alarmas |
+| 10 | [Instalación, Operación y Mantenimiento](chapter-10-iom.md) | Obtener datos confiables durante la vida útil del instrumento |
+| 11 | [Adquisición, Gestión de Datos y Bases de Datos](chapter-11-data-management.md) | Frecuencias, validación y sistemas de datos |
+| 12 | [Evaluación, Presentación e Interpretación de Datos](chapter-12-evaluation.md) | Gráficos, líneas base y separación de señal y ruido |
+| 13 | [Evaluación del Desempeño y Toma de Decisiones](chapter-13-decisions.md) | De la anomalía a la acción |
+| 14 | [Historias de Caso](chapter-14-case-histories.md) | Lecciones de programas de monitoreo reales |
 
 ---
 
@@ -54,9 +54,9 @@ y embalses). Está organizado en los siguientes capítulos:
 - **Comience por los Capítulos 2 y 4.** Los modos de falla y un plan estructurado
   son la base de todo buen programa de monitoreo.
 - **Enlácela con el resto de la base de conocimientos.** El capítulo
-  [Familias de Instrumentos](../../../reference-manuals/monitoring-dam-performance/chapter-05-instruments.md)
-  remite a los manuales [Dunnicliff](../../../reference-manuals/dunnicliff/index.md) y
-  [FHWA](../../../reference-manuals/fhwa/index.md) para procedimientos detallados de instalación.
+  [Familias de Instrumentos](chapter-05-instruments.md)
+  remite a los manuales   [Dunnicliff](../dunnicliff/index.md) y
+  [FHWA](../fhwa/index.md) para procedimientos detallados de instalación.
 - **Consulte al [GTI Doctor](../../../gti-doctor.md).** El asistente de IA puede
   responder preguntas de monitoreo desde el corpus más amplio.
 
