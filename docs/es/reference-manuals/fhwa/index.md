@@ -3,29 +3,94 @@ lang: es
 lang_alt: reference-manuals/fhwa/
 ---
 
-# FHWA — Manual de Referencia de Instrumentación Geotécnica
+# Manual de Referencia de Instrumentación Geotécnica (FHWA)
 
-!!! note "Traducción al español en preparación"
+!!! note "Acerca de esta referencia"
+    Esta es una **referencia técnica abierta y original** sobre instrumentación
+    geotécnica para obras de carreteras y transporte, redactada en lenguaje de
+    ingeniería sencillo. Está adaptada del alcance y la estructura del **Manual
+    de Referencia de Instrumentación Geotécnica de la FHWA**
+    (**FHWA-HI-98-034**, octubre de 1998) — Módulo 11 del curso de capacitación
+    del National Highway Institute *Geotechnical and Foundation Engineering* (NHI
+    Course No. 13241), escrito por **John Dunnicliff** para la Federal Highway
+    Administration. La fuente es un **trabajo del Gobierno de los EE. UU. de
+    dominio público**; no obstante, esta página es una adaptación independiente,
+    **no** una reproducción textual. Se ofrece para uso educativo y de campo, y
+    cada proyecto es único: la guía aquí forma criterio de ingeniería, no fija
+    normas mínimas. El manual completo está indexado en el asistente de IA
+    [GTI Doctor](../../../gti-doctor.md) para consultas más profundas.
 
-    El contenido completo de este manual aún no se ha traducido al español. Mientras tanto, consulte el **[manual completo en inglés](../../../reference-manuals/fhwa/index.md)**.
+El **Manual de Referencia de Instrumentación Geotécnica de la FHWA** es el
+manual de capacitación que convierte la teoría de la instrumentación geotécnica
+en un sistema listo para el campo para la **construcción de carreteras** —
+taludes de suelo y roca, terraplenes, cimentaciones profundas, estructuras de
+contención, mejoramiento de suelos y inyección. Comparte autor y filosofía de
+planificación sistemática con el libro de Dunnicliff, pero está escrito
+específicamente para el profesional del transporte: recomienda qué instrumentos
+usar para cada tipo de construcción, y aporta las listas de verificación y los
+ejercicios de estudiante empleados en el curso NHI.
 
-Esta página es un **índice en español** de *FHWA Geotechnical Instrumentation Reference Manual* y enumera los capítulos disponibles (en inglés):
+Esta referencia recorre el mismo arco: una visión general del hardware disponible
+para medir presión de agua subterránea, deformación, tensión total y
+carga/deformación; un **enfoque sistemático para planificar programas de
+monitoreo**; la selección de instrumentos para cada tipo de construcción; y las
+tareas de campo generales — calibración, mantenimiento, instalación, recolección,
+procesamiento, presentación, interpretación e informe de datos.
 
-## Capítulos
+---
 
-- [Chapter 1 — Introduction and the Key to Success](../../../reference-manuals/fhwa/chapter-01-introduction.md)
-- [Chapter 2 — Overview of Hardware for Groundwater Pressure](../../../reference-manuals/fhwa/chapter-02-groundwater-pressure.md)
-- [Chapter 3 — Overview of Hardware for Deformation](../../../reference-manuals/fhwa/chapter-03-deformation.md)
-- [Chapter 4 — Overview of Hardware for Total Stress in Soil](../../../reference-manuals/fhwa/chapter-04-total-stress.md)
-- [Chapter 5 — Load, Strain & Temperature](../../../reference-manuals/fhwa/chapter-05-load-strain.md)
-- [Chapter 6 — Systematic Approach to Planning Monitoring Programs](../../../reference-manuals/fhwa/chapter-06-planning.md)
-- [Chapter 7 — Instrumentation for Soil Slopes & Embankments](../../../reference-manuals/fhwa/chapter-07-soil-slopes-embankments.md)
-- [Chapter 8 — Instrumentation for Deep Foundations](../../../reference-manuals/fhwa/chapter-08-deep-foundations.md)
-- [Chapter 9 — Instrumentation for Earth Retaining Structures](../../../reference-manuals/fhwa/chapter-09-earth-retaining.md)
-- [Chapter 10 — Instrumentation for Ground Improvement & Temperature](../../../reference-manuals/fhwa/chapter-10-ground-improvement.md)
-- [Chapter 11 — Instrumentation for Rock Slopes](../../../reference-manuals/fhwa/chapter-11-rock-slopes.md)
-- [Chapter 12 — Calibration, Maintenance & Installation](../../../reference-manuals/fhwa/chapter-12-calibration-installation.md)
-- [Chapter 13 — Data Collection, Processing, Interpretation & Reporting](../../../reference-manuals/fhwa/chapter-13-data-interpretation.md)
-- [Chapter 14 — References & Appendices](../../../reference-manuals/fhwa/chapter-14-references-appendices.md)
+## Alcance de esta referencia
 
-*Véase también: [Glosario Geotécnico](../../glossary/index.md) · [Marco Normativo (LatAm / España)](../../compliance/decree-114-tcvn-9398.md)*
+Este libro sigue la organización del manual de la FHWA, consolidada en los
+siguientes capítulos:
+
+| # | Capítulo | Qué abarca |
+|---|----------|------------|
+| 1 | [Introducción y la Clave del Éxito](../../../reference-manuals/fhwa/chapter-01-introduction.md) | Alcance, el rol de la instrumentación y la cadena de 31 eslabones |
+| 2 | [Presión de Agua Subterránea](../../../reference-manuals/fhwa/chapter-02-groundwater-pressure.md) | Pozos de observación, tubo abierto, neumáticos, cuerda vibratoria, piezómetros multipunto |
+| 3 | [Deformación](../../../reference-manuals/fhwa/chapter-03-deformation.md) | Nivelación, grietas, tiltímetros, extensómetros, inclinómetros, TDR, emisión acústica |
+| 4 | [Tensión Total en el Suelo](../../../reference-manuals/fhwa/chapter-04-total-stress.md) | Células de presión de tierras de empotramiento y de contacto; células de carga de pilotes y fuste |
+| 5 | [Carga, Deformación y Temperatura](../../../reference-manuals/fhwa/chapter-05-load-strain.md) | Células de carga, galgas, barras hermanas, telltales, medición de temperatura |
+| 6 | [Enfoque Sistemático de la Planificación](../../../reference-manuals/fhwa/chapter-06-planning.md) | El proceso de planificación de 21 pasos; la regla de oro; especificaciones |
+| 7 | [Taludes de Suelo y Terraplenes](../../../reference-manuals/fhwa/chapter-07-soil-slopes-embankments.md) | Terraplenes sobre suelo blando, taludes de corte, deslizamientos en suelo |
+| 8 | [Cimentaciones Profundas](../../../reference-manuals/fhwa/chapter-08-deep-foundations.md) | Pilotes hincados y fustes perforados; instrumentación de transferencia de carga |
+| 9 | [Estructuras de Contención de Tierra](../../../reference-manuals/fhwa/chapter-09-earth-retaining.md) | Excavaciones apuntaladas, muros pantalla, muros MSE, clavado de suelo |
+| 10 | [Mejoramiento de Suelos y Temperatura](../../../reference-manuals/fhwa/chapter-10-ground-improvement.md) | Monitoreo de inyección y temperatura |
+| 11 | [Taludes de Roca](../../../reference-manuals/fhwa/chapter-11-rock-slopes.md) | Taludes de corte y deslizamientos en roca |
+| 12 | [Calibración, Mantenimiento e Instalación](../../../reference-manuals/fhwa/chapter-12-calibration-installation.md) | Pruebas de aceptación, calibración, registros de instalación |
+| 13 | [Recolección, Interpretación e Informe de Datos](../../../reference-manuals/fhwa/chapter-13-data-interpretation.md) | Frecuencias, procesamiento, gráficos de causa-efecto, informes |
+| 14 | [Referencias y Apéndices](../../../reference-manuals/fhwa/chapter-14-references-appendices.md) | Fuentes, la lista de verificación de planificación y ejemplos resueltos |
+
+---
+
+## Cómo usar esta referencia
+
+- **Empiece por el Capítulo 6.** El proceso sistemático de planificación es el eje de toda la disciplina — todo lo demás lo respalda.
+- **Luego lea el capítulo de su tipo de construcción.** Los capítulos 7–11 terminan cada uno con las *principales preguntas geotécnicas* para esa construcción y los instrumentos que pueden responderlas.
+- **Úsela con el resto de la base de conocimientos.** Los capítulos de instrumentos se cruzan con los libros [Dunnicliff](../../../reference-manuals/dunnicliff/index.md), [Seguridad de Presas de Relaves](../../../reference-manuals/tailings-dam-safety/index.md) y [Monitoreo del Desempeño de Presas (MOP-135)](../../../reference-manuals/monitoring-dam-performance/index.md) para teoría más profunda y aplicación específica por dominio.
+- **Consulte al [GTI Doctor](../../../gti-doctor.md).** El asistente de IA puede responder preguntas específicas sobre instrumentos a partir del corpus completo de FHWA y Dunnicliff.
+
+---
+
+## La regla de oro
+
+Cada instrumento de un proyecto debe seleccionarse y ubicarse para ayudar a
+responder una **pregunta geotécnica específica**. Si no hay pregunta, no debe
+haber instrumentación.
+
+> **El criterio es el instrumento.** Los instrumentos apoyan, pero nunca reemplazan, el criterio de ingeniería de un ingeniero geotécnico calificado.
+
+---
+
+## Video Destacado y Recursos Prácticos
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1rem;">
+  <iframe src="https://www.youtube-nocookie.com/embed/f3NMguxiZSE" title="Rail settlement round-table: Monitoring with Measurand’s ShapeArray™" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 6px;"></iframe>
+</div>
+<p><em>Mesa Redonda Técnica Destacada (Measurand / Terra Insights): Infraestructura de Transporte y Monitoreo de Asentamiento con Measurand ShapeArray.</em></p>
+
+!!! tip "Recursos Prácticos de Campo Complementarios de RST Instruments & Measurand (Terra Insights)"
+    - **RST Instruments (@RSTgeotechnical):** [Instalación de Camisa para Inclinómetro](https://www.youtube.com/watch?v=H2MVAVbOGdg){ target="_blank" }  
+      *Procedimiento de campo estándar para instalar camisa de inclinómetro en perforaciones para monitoreo de desplazamiento lateral profundo conforme a las guías de la FHWA.*
+    - **Measurand (@MeasurandVideos):** [Cómo instalar SAAV Extend: el ShapeArray conectable de Measurand](https://www.youtube.com/watch?v=idyme0c9HSs){ target="_blank" }  
+      *Instalación de arreglo modular de deformación profunda en perforaciones de infraestructura de transporte.*
