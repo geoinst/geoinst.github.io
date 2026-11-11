@@ -54,16 +54,16 @@ referencia consolida esa estructura en las siguientes páginas:
 
 | # | Capítulo | Qué abarca |
 |---|----------|------------|
-| 1 | [Introducción](../../../reference-manuals/fhwa-mse-walls/chapter-01-introduction.md) | Objetivos, alcance, documentos fuente, terminología y desarrollo histórico del suelo reforzado |
-| 2 | [Sistemas y Evaluación de Proyecto](../../../reference-manuals/fhwa-mse-walls/chapter-02-systems-project-evaluation.md) | Aplicaciones, ventajas y desventajas, costo relativo, tipos de sistema y de cara, tipos de refuerzo, relleno y evaluación de sitio |
-| 3 | [Principios de Refuerzo de Suelo y Propiedades de Diseño](../../../reference-manuals/fhwa-mse-walls/chapter-03-soil-reinforcement-principles.md) | Conceptos de suelo reforzado, arranque y cortante en interfaz, propiedades de cimentación/relleno/retenido, resistencia, corrosión, fluencia y factores de reducción por durabilidad |
-| 4 | [Diseño de Muros MSE](../../../reference-manuals/fhwa-mse-walls/chapter-04-design-mse-walls.md) | Estabilidad externa e interna, fuerza tensil y arranque, conexiones, cara, detalles de diseño y ejemplos resueltos de banda de acero y geosintético |
-| 5 | [Muros MSE con Geometrías Complejas](../../../reference-manuals/fhwa-mse-walls/chapter-05-complex-geometries.md) | Estribos de puente, muros superpuestos y espalda-con-espalda, cimentaciones escalonadas, taludes de sobrecarga y un ejemplo de diseño de estribo |
-| 6 | [Taludes de Suelo Reforzado (Empinados): Evaluación de Proyecto](../../../reference-manuals/fhwa-mse-walls/chapter-06-rss-project-evaluation.md) | Aplicaciones RSS, modos de falla, conceptos de diseño, construcción, tratamientos de cara e historias de casos |
-| 7 | [Diseño de Taludes de Suelo Reforzado](../../../reference-manuals/fhwa-mse-walls/chapter-07-design-rss.md) | Procedimiento paso a paso de diseño RSS, equilibrio límite con refuerzo, estabilidad externa e interna y diseño sísmico |
-| 8 | [Métodos de Contratación y Especificaciones](../../../reference-manuals/fhwa-mse-walls/chapter-08-contracting-specifications.md) | Contratación por método vs. por resultado final, diseño preliminar y final, diseños estándar, revisión y guía de especificaciones |
-| 9 | [Inspección de Campo y Monitoreo del Desempeño](../../../reference-manuals/fhwa-mse-walls/chapter-09-field-inspection-monitoring.md) | Revisión previa a construcción, inspección de materiales, control de construcción y tolerancias, y programas de monitoreo limitado vs. integral |
-| 10 | [Referencias y Apéndices](../../../reference-manuals/fhwa-mse-walls/chapter-10-references-appendices.md) | Fuentes, más Apéndices A–E: factores de arranque, reducción de fluencia, datos de costo, dimensiones de refuerzo y un análisis RSS |
+| 1 | [Introducción](chapter-01-introduction.md) | Objetivos, alcance, documentos fuente, terminología y desarrollo histórico del suelo reforzado |
+| 2 | [Sistemas y Evaluación de Proyecto](chapter-02-systems-project-evaluation.md) | Aplicaciones, ventajas y desventajas, costo relativo, tipos de sistema y de cara, tipos de refuerzo, relleno y evaluación de sitio |
+| 3 | [Principios de Refuerzo de Suelo y Propiedades de Diseño](chapter-03-soil-reinforcement-principles.md) | Conceptos de suelo reforzado, arranque y cortante en interfaz, propiedades de cimentación/relleno/retenido, resistencia, corrosión, fluencia y factores de reducción por durabilidad |
+| 4 | [Diseño de Muros MSE](chapter-04-design-mse-walls.md) | Estabilidad externa e interna, fuerza tensil y arranque, conexiones, cara, detalles de diseño y ejemplos resueltos de banda de acero y geosintético |
+| 5 | [Muros MSE con Geometrías Complejas](chapter-05-complex-geometries.md) | Estribos de puente, muros superpuestos y espalda-con-espalda, cimentaciones escalonadas, taludes de sobrecarga y un ejemplo de diseño de estribo |
+| 6 | [Taludes de Suelo Reforzado (Empinados): Evaluación de Proyecto](chapter-06-rss-project-evaluation.md) | Aplicaciones RSS, modos de falla, conceptos de diseño, construcción, tratamientos de cara e historias de casos |
+| 7 | [Diseño de Taludes de Suelo Reforzado](chapter-07-design-rss.md) | Procedimiento paso a paso de diseño RSS, equilibrio límite con refuerzo, estabilidad externa e interna y diseño sísmico |
+| 8 | [Métodos de Contratación y Especificaciones](chapter-08-contracting-specifications.md) | Contratación por método vs. por resultado final, diseño preliminar y final, diseños estándar, revisión y guía de especificaciones |
+| 9 | [Inspección de Campo y Monitoreo del Desempeño](chapter-09-field-inspection-monitoring.md) | Revisión previa a construcción, inspección de materiales, control de construcción y tolerancias, y programas de monitoreo limitado vs. integral |
+| 10 | [Referencias y Apéndices](chapter-10-references-appendices.md) | Fuentes, más Apéndices A–E: factores de arranque, reducción de fluencia, datos de costo, dimensiones de refuerzo y un análisis RSS |
 
 ---
 
