@@ -35,20 +35,20 @@ siguientes capítulos:
 
 | # | Capítulo | Qué abarca |
 |---|----------|------------|
-| 1 | [Introducción: Una Visión General](../../../reference-manuals/dunnicliff/chapter-01-overview.md) | Qué es la instrumentación geotécnica y por qué importa |
-| 2 | [Beneficios de la Instrumentación](../../../reference-manuals/dunnicliff/chapter-02-benefits.md) | Valor para diseño, construcción, operación y aspectos legales/correctivos |
-| 3 | [Enfoque Sistemático de la Planificación](../../../reference-manuals/dunnicliff/chapter-03-planning.md) | El eje: definir preguntas, seleccionar instrumentos, presupuestar |
-| 4 | [Adquisición y Arreglos Contractuales](../../../reference-manuals/dunnicliff/chapter-04-procurement.md) | Especificaciones, calibración, contratos, calificación |
-| 5 | [Incertidumbre y Adquisición de Datos](../../../reference-manuals/dunnicliff/chapter-05-uncertainty.md) | Exactitud, precisión, transductores, ADAS |
-| 6 | [Medición de la Presión de Agua Subterránea](../../../reference-manuals/dunnicliff/chapter-06-piezometers.md) | Piezómetros: tipos, saturación, instalación |
-| 7 | [Medición de la Tensión/Esfuerzo](../../../reference-manuals/dunnicliff/chapter-07-stress.md) | Tensión total en suelo; cambio de tensión en roca |
-| 8 | [Medición de la Deformación](../../../reference-manuals/dunnicliff/chapter-08-deformation.md) | Extensómetros, inclinómetros, tiltímetros, asentamiento, convergencia |
-| 9 | [Carga, Deformación y Temperatura](../../../reference-manuals/dunnicliff/chapter-09-load-strain-temp.md) | Células de carga, galgas, efectos de temperatura |
-| 10 | [Una Receta para la Confiabilidad](../../../reference-manuals/dunnicliff/chapter-10-recipe.md) | La receta de 25 ingredientes para un monitoreo confiable |
-| 11 | [Calibración y Mantenimiento](../../../reference-manuals/dunnicliff/chapter-11-calibration.md) | Mantener los instrumentos confiables en el tiempo |
-| 12 | [Instalación de Instrumentos](../../../reference-manuals/dunnicliff/chapter-12-installation.md) | Perforación, inyección de lechada, camisa, registros, calificaciones |
-| 13 | [Recolección e Interpretación de Datos](../../../reference-manuals/dunnicliff/chapter-13-data.md) | Frecuencias, validación, presentación, interpretación |
-| 14 | [Aplicaciones y la Cadena del Éxito](../../../reference-manuals/dunnicliff/chapter-14-applications.md) | Excavaciones, terraplenes, taludes, subterráneo, pilotes; la cadena de 25 eslabones |
+| 1 | [Introducción: Una Visión General](chapter-01-overview.md) | Qué es la instrumentación geotécnica y por qué importa |
+| 2 | [Beneficios de la Instrumentación](chapter-02-benefits.md) | Valor para diseño, construcción, operación y aspectos legales/correctivos |
+| 3 | [Enfoque Sistemático de la Planificación](chapter-03-planning.md) | El eje: definir preguntas, seleccionar instrumentos, presupuestar |
+| 4 | [Adquisición y Arreglos Contractuales](chapter-04-procurement.md) | Especificaciones, calibración, contratos, calificación |
+| 5 | [Incertidumbre y Adquisición de Datos](chapter-05-uncertainty.md) | Exactitud, precisión, transductores, ADAS |
+| 6 | [Medición de la Presión de Agua Subterránea](chapter-06-piezometers.md) | Piezómetros: tipos, saturación, instalación |
+| 7 | [Medición de la Tensión/Esfuerzo](chapter-07-stress.md) | Tensión total en suelo; cambio de tensión en roca |
+| 8 | [Medición de la Deformación](chapter-08-deformation.md) | Extensómetros, inclinómetros, tiltímetros, asentamiento, convergencia |
+| 9 | [Carga, Deformación y Temperatura](chapter-09-load-strain-temp.md) | Células de carga, galgas, efectos de temperatura |
+| 10 | [Una Receta para la Confiabilidad](chapter-10-recipe.md) | La receta de 25 ingredientes para un monitoreo confiable |
+| 11 | [Calibración y Mantenimiento](chapter-11-calibration.md) | Mantener los instrumentos confiables en el tiempo |
+| 12 | [Instalación de Instrumentos](chapter-12-installation.md) | Perforación, inyección de lechada, camisa, registros, calificaciones |
+| 13 | [Recolección e Interpretación de Datos](chapter-13-data.md) | Frecuencias, validación, presentación, interpretación |
+| 14 | [Aplicaciones y la Cadena del Éxito](chapter-14-applications.md) | Excavaciones, terraplenes, taludes, subterráneo, pilotes; la cadena de 25 eslabones |
 
 ---
 
