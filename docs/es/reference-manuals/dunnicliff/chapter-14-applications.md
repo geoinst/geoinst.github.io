@@ -55,7 +55,7 @@ decisión. Los eslabones abarcan planificación, adquisición, instalación, cal
 lectura, mantenimiento, manejo de datos y personas. **Rómpase cualquier eslabón y la
 cadena falla.** La receta (Capítulo 10) es la cadena hecha operativa.
 
-![Figure: dunnicliff-chain-25](../../assets/figures/dunnicliff-chain-25.svg)
+![Figure: dunnicliff-chain-25](../../../assets/figures/dunnicliff-chain-25.svg)
 
 **Figura.** La cadena de 25 eslabones de Dunnicliff - desde definir la necesidad del proyecto hasta una lectura que informa una decisión. Rómpase cualquier eslabón y la cadena falla (Dunnicliff, caps. 10 y 14).
 

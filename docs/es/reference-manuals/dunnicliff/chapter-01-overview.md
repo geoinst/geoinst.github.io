@@ -53,7 +53,7 @@ del monitoreo geotécnico para taludes, terraplenes, presas, túneles, cimentaci
 y excavaciones. Es contenido original y educativo adaptado del alcance de Dunnicliff;
 no es una reproducción del texto con derechos de autor.
 
-![Figure: dunnicliff-instrument-cross-section](../../assets/figures/dunnicliff-instrument-cross-section.svg)
+![Figure: dunnicliff-instrument-cross-section](../../../assets/figures/dunnicliff-instrument-cross-section.svg)
 
 **Figura.** Un terraplén de tierra instrumentado típico: monolito de referencia topográfica, extensómetro (MPBX), inclinómetro con sonda, piezómetro, célula de presión de tierras y represa de filtración, con la superficie freática (Dunnicliff, caps. 1 y 8).
 

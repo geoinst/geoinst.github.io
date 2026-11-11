@@ -46,7 +46,7 @@ defensibilidad de los datos durante la vida del instrumento.
     tendencias hasta que alguien nota una lectura físicamente imposible. Programe la
     verificación; no espere el número imposible.
 
-![Figure: dunnicliff-calibration](../../assets/figures/dunnicliff-calibration.svg)
+![Figure: dunnicliff-calibration](../../../assets/figures/dunnicliff-calibration.svg)
 
 **Figura.** Calibración. La relación entrada-salida (pendiente = factor de calibración), con cero, span e histéresis (Dunnicliff, caps. 7 y 16).
 

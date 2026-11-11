@@ -49,11 +49,11 @@ MPBX más un inclinómetro en la misma perforación es una combinación potente.
     de falla profundo es creíble, combine el monitoreo superficial con instrumentos de
     perforación a lo largo de ese plano.
 
-![Figure: dunnicliff-inclinometer](../../assets/figures/dunnicliff-inclinometer.svg)
+![Figure: dunnicliff-inclinometer](../../../assets/figures/dunnicliff-inclinometer.svg)
 
 **Figura.** Inclinómetro. Una sonda (o arreglo in-situ) en una cámara mide el desplazamiento lateral con la profundidad y localiza el plano de cizalle (Dunnicliff, cap. 12).
 
-![Figure: dunnicliff-extensometer](../../assets/figures/dunnicliff-extensometer.svg)
+![Figure: dunnicliff-extensometer](../../../assets/figures/dunnicliff-extensometer.svg)
 
 **Figura.** Extensómetro multipunto de perforación (MPBX). Anclas a varias profundidades y varillas a una cabeza de referencia revelan asentamiento o separación en profundidad (Dunnicliff, cap. 12).
 

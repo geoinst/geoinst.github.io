@@ -53,7 +53,7 @@ Las lecturas se convierten a **carga piezométrica**. Interprete frente a:
     VW ofrece una verificación independiente e infalible de que los datos automatizados
     tienen sentido físico.
 
-![Figure: dunnicliff-piezometer-types](../../assets/figures/dunnicliff-piezometer-types.svg)
+![Figure: dunnicliff-piezometer-types](../../../assets/figures/dunnicliff-piezometer-types.svg)
 
 **Figura.** Cuatro tipos comunes de piezómetro: cuerda vibratoria, neumático, tubo abierto y hidráulico de doble tubo (Dunnicliff, cap. 9).
 

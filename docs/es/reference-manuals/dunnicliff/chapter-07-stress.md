@@ -44,7 +44,7 @@ mayor confiabilidad que como valores absolutos, y corrélelas con la deformació
     Una célula mucho más rígida que el suelo circundante sobre-lee; mucho más blanda,
     sub-lee. Ajuste la célula al medio, o interprete con ese sesgo en mente.
 
-![Figure: dunnicliff-earth-pressure-cell](../../assets/figures/dunnicliff-earth-pressure-cell.svg)
+![Figure: dunnicliff-earth-pressure-cell](../../../assets/figures/dunnicliff-earth-pressure-cell.svg)
 
 **Figura.** Células de presión de tierras. Una célula de esfuerzo de contacto mide la presión contra una estructura; una célula de esfuerzo total se entierra en el relleno. Ajuste la rigidez de la célula al terreno (Dunnicliff, cap. 10).
 

@@ -51,7 +51,7 @@ deben referirse a un cero verificado.
     presión de poros mal interpretados. Mida y compense la temperatura donde los
     efectos térmicos sean plausibles.
 
-![Figure: dunnicliff-load-cell-strain-gage](../../assets/figures/dunnicliff-load-cell-strain-gage.svg)
+![Figure: dunnicliff-load-cell-strain-gage](../../../assets/figures/dunnicliff-load-cell-strain-gage.svg)
 
 **Figura.** Células de carga y galgas extensométricas. Una célula de carga de perforación central mide la fuerza de ancla o strut; una galga tipo sister-bar mide la deformación en una barra de refuerzo (Dunnicliff, cap. 13).
 

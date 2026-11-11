@@ -53,7 +53,7 @@ desviación dispara evaluación, no pánico —y la aceleración es la alerta m�
     Una serie de tiempo de presión de poros sola es difícil de leer; graficada contra
     el nivel de embalse o de lluvia, la relación —y cualquier anomalía— se vuelve obvia.
 
-![Figure: dunnicliff-data-timeline](../../assets/figures/dunnicliff-data-timeline.svg)
+![Figure: dunnicliff-data-timeline](../../../assets/figures/dunnicliff-data-timeline.svg)
 
 **Figura.** De la línea base a la operación. Juzgue el cambio contra la línea base y grafique las lecturas contra la variable impulsora (Dunnicliff, cap. 18).
 
