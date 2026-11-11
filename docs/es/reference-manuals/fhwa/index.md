@@ -46,20 +46,20 @@ siguientes capítulos:
 
 | # | Capítulo | Qué abarca |
 |---|----------|------------|
-| 1 | [Introducción y la Clave del Éxito](../../../reference-manuals/fhwa/chapter-01-introduction.md) | Alcance, el rol de la instrumentación y la cadena de 31 eslabones |
-| 2 | [Presión de Agua Subterránea](../../../reference-manuals/fhwa/chapter-02-groundwater-pressure.md) | Pozos de observación, tubo abierto, neumáticos, cuerda vibratoria, piezómetros multipunto |
-| 3 | [Deformación](../../../reference-manuals/fhwa/chapter-03-deformation.md) | Nivelación, grietas, tiltímetros, extensómetros, inclinómetros, TDR, emisión acústica |
-| 4 | [Tensión Total en el Suelo](../../../reference-manuals/fhwa/chapter-04-total-stress.md) | Células de presión de tierras de empotramiento y de contacto; células de carga de pilotes y fuste |
-| 5 | [Carga, Deformación y Temperatura](../../../reference-manuals/fhwa/chapter-05-load-strain.md) | Células de carga, galgas, barras hermanas, telltales, medición de temperatura |
-| 6 | [Enfoque Sistemático de la Planificación](../../../reference-manuals/fhwa/chapter-06-planning.md) | El proceso de planificación de 21 pasos; la regla de oro; especificaciones |
-| 7 | [Taludes de Suelo y Terraplenes](../../../reference-manuals/fhwa/chapter-07-soil-slopes-embankments.md) | Terraplenes sobre suelo blando, taludes de corte, deslizamientos en suelo |
-| 8 | [Cimentaciones Profundas](../../../reference-manuals/fhwa/chapter-08-deep-foundations.md) | Pilotes hincados y fustes perforados; instrumentación de transferencia de carga |
-| 9 | [Estructuras de Contención de Tierra](../../../reference-manuals/fhwa/chapter-09-earth-retaining.md) | Excavaciones apuntaladas, muros pantalla, muros MSE, clavado de suelo |
-| 10 | [Mejoramiento de Suelos y Temperatura](../../../reference-manuals/fhwa/chapter-10-ground-improvement.md) | Monitoreo de inyección y temperatura |
-| 11 | [Taludes de Roca](../../../reference-manuals/fhwa/chapter-11-rock-slopes.md) | Taludes de corte y deslizamientos en roca |
-| 12 | [Calibración, Mantenimiento e Instalación](../../../reference-manuals/fhwa/chapter-12-calibration-installation.md) | Pruebas de aceptación, calibración, registros de instalación |
-| 13 | [Recolección, Interpretación e Informe de Datos](../../../reference-manuals/fhwa/chapter-13-data-interpretation.md) | Frecuencias, procesamiento, gráficos de causa-efecto, informes |
-| 14 | [Referencias y Apéndices](../../../reference-manuals/fhwa/chapter-14-references-appendices.md) | Fuentes, la lista de verificación de planificación y ejemplos resueltos |
+| 1 | [Introducción y la Clave del Éxito](chapter-01-introduction.md) | Alcance, el rol de la instrumentación y la cadena de 31 eslabones |
+| 2 | [Presión de Agua Subterránea](chapter-02-groundwater-pressure.md) | Pozos de observación, tubo abierto, neumáticos, cuerda vibratoria, piezómetros multipunto |
+| 3 | [Deformación](chapter-03-deformation.md) | Nivelación, grietas, tiltímetros, extensómetros, inclinómetros, TDR, emisión acústica |
+| 4 | [Tensión Total en el Suelo](chapter-04-total-stress.md) | Células de presión de tierras de empotramiento y de contacto; células de carga de pilotes y fuste |
+| 5 | [Carga, Deformación y Temperatura](chapter-05-load-strain.md) | Células de carga, galgas, barras hermanas, telltales, medición de temperatura |
+| 6 | [Enfoque Sistemático de la Planificación](chapter-06-planning.md) | El proceso de planificación de 21 pasos; la regla de oro; especificaciones |
+| 7 | [Taludes de Suelo y Terraplenes](chapter-07-soil-slopes-embankments.md) | Terraplenes sobre suelo blando, taludes de corte, deslizamientos en suelo |
+| 8 | [Cimentaciones Profundas](chapter-08-deep-foundations.md) | Pilotes hincados y fustes perforados; instrumentación de transferencia de carga |
+| 9 | [Estructuras de Contención de Tierra](chapter-09-earth-retaining.md) | Excavaciones apuntaladas, muros pantalla, muros MSE, clavado de suelo |
+| 10 | [Mejoramiento de Suelos y Temperatura](chapter-10-ground-improvement.md) | Monitoreo de inyección y temperatura |
+| 11 | [Taludes de Roca](chapter-11-rock-slopes.md) | Taludes de corte y deslizamientos en roca |
+| 12 | [Calibración, Mantenimiento e Instalación](chapter-12-calibration-installation.md) | Pruebas de aceptación, calibración, registros de instalación |
+| 13 | [Recolección, Interpretación e Informe de Datos](chapter-13-data-interpretation.md) | Frecuencias, procesamiento, gráficos de causa-efecto, informes |
+| 14 | [Referencias y Apéndices](chapter-14-references-appendices.md) | Fuentes, la lista de verificación de planificación y ejemplos resueltos |
 
 ---
 
