@@ -38,21 +38,21 @@ organizado en los siguientes capítulos:
 
 | # | Capítulo | Qué cubre |
 |---|---------|----------------|
-| 1 | [Introducción: Propósito, Alcance y Organización](../../../reference-manuals/tailings-dam-safety/chapter-01-introduction.md) | Por qué la seguridad de relaves es distinta; cómo se organiza esta referencia |
-| 2 | [Instalaciones de Relaves y Cómo Fallan](../../../reference-manuals/tailings-dam-safety/chapter-02-facilities-and-failures.md) | Tipos de instalación y los modos de falla dominantes |
-| 3 | [Filosofía de Monitoreo para Relaves](../../../reference-manuals/tailings-dam-safety/chapter-03-philosophy.md) | La vigilancia visual y la instrumentación como pilares complementarios |
-| 4 | [Planificación de un Programa de Monitoreo de Relaves](../../../reference-manuals/tailings-dam-safety/chapter-04-planning.md) | Un proceso de planificación informado por el riesgo y dirigido por la consecuencia |
-| 5 | [Familias de Instrumentos para Relaves](../../../reference-manuals/tailings-dam-safety/chapter-05-instruments.md) | Herramientas topográficas, geotécnicas, hidrológicas y de teledetección de un vistazo |
-| 6 | [Monitoreo de Presión de Poros y Potencial de Licuefacción](../../../reference-manuals/tailings-dam-safety/chapter-06-pore-pressure.md) | El papel central de la presión de poros en las fallas de relaves |
-| 7 | [Monitoreo de Filtraciones y Superficie Freática](../../../reference-manuals/tailings-dam-safety/chapter-07-seepage.md) | Cuantificación e interpretación de filtraciones y geometría de playa |
-| 8 | [Monitoreo de Deformación: Topografía y Geotécnica](../../../reference-manuals/tailings-dam-safety/chapter-08-deformation.md) | Detección de movimiento superficial e interno |
-| 9 | [Sistemas Automatizados, Remotos y en Tiempo Real](../../../reference-manuals/tailings-dam-safety/chapter-09-automated.md) | Adquisidores de datos, telemetría, radar satelital y alarmas |
-| 10 | [Instalación, Operación y Mantenimiento](../../../reference-manuals/tailings-dam-safety/chapter-10-iom.md) | Sostener datos confiables durante la vida de la instalación |
-| 11 | [Adquisición, Gestión de Datos y Bases de Datos](../../../reference-manuals/tailings-dam-safety/chapter-11-data-management.md) | Frecuencias, validación y sistemas de datos |
-| 12 | [Evaluación e Interpretación de Datos](../../../reference-manuals/tailings-dam-safety/chapter-12-evaluation.md) | Líneas base, tendencias y separación de señal y ruido |
-| 13 | [Evaluación del Desempeño y Toma de Decisiones](../../../reference-manuals/tailings-dam-safety/chapter-13-decisions.md) | Disparadores, niveles de acción y respuesta de emergencia |
-| 14 | [Historias de Caso](../../../reference-manuals/tailings-dam-safety/chapter-14-case-histories.md) | Lecciones de incidentes de relaves significativos |
-| 15 | [Estudio de Caso: Presas de Relaves de Arenas Bituminosas del Norte de Alberta](../../../reference-manuals/tailings-dam-safety/chapter-15-oil-sands-northern-alberta.md) | Un estudio de caso detallado de la aplicación de las guías de seguridad de presas a relaves de arenas bituminosas (CDA / Golder) e instrumentación de diques in-pit (Albian) |
+| 1 | [Introducción: Propósito, Alcance y Organización](chapter-01-introduction.md) | Por qué la seguridad de relaves es distinta; cómo se organiza esta referencia |
+| 2 | [Instalaciones de Relaves y Cómo Fallan](chapter-02-facilities-and-failures.md) | Tipos de instalación y los modos de falla dominantes |
+| 3 | [Filosofía de Monitoreo para Relaves](chapter-03-philosophy.md) | La vigilancia visual y la instrumentación como pilares complementarios |
+| 4 | [Planificación de un Programa de Monitoreo de Relaves](chapter-04-planning.md) | Un proceso de planificación informado por el riesgo y dirigido por la consecuencia |
+| 5 | [Familias de Instrumentos para Relaves](chapter-05-instruments.md) | Herramientas topográficas, geotécnicas, hidrológicas y de teledetección de un vistazo |
+| 6 | [Monitoreo de Presión de Poros y Potencial de Licuefacción](chapter-06-pore-pressure.md) | El papel central de la presión de poros en las fallas de relaves |
+| 7 | [Monitoreo de Filtraciones y Superficie Freática](chapter-07-seepage.md) | Cuantificación e interpretación de filtraciones y geometría de playa |
+| 8 | [Monitoreo de Deformación: Topografía y Geotécnica](chapter-08-deformation.md) | Detección de movimiento superficial e interno |
+| 9 | [Sistemas Automatizados, Remotos y en Tiempo Real](chapter-09-automated.md) | Adquisidores de datos, telemetría, radar satelital y alarmas |
+| 10 | [Instalación, Operación y Mantenimiento](chapter-10-iom.md) | Sostener datos confiables durante la vida de la instalación |
+| 11 | [Adquisición, Gestión de Datos y Bases de Datos](chapter-11-data-management.md) | Frecuencias, validación y sistemas de datos |
+| 12 | [Evaluación e Interpretación de Datos](chapter-12-evaluation.md) | Líneas base, tendencias y separación de señal y ruido |
+| 13 | [Evaluación del Desempeño y Toma de Decisiones](chapter-13-decisions.md) | Disparadores, niveles de acción y respuesta de emergencia |
+| 14 | [Historias de Caso](chapter-14-case-histories.md) | Lecciones de incidentes de relaves significativos |
+| 15 | [Estudio de Caso: Presas de Relaves de Arenas Bituminosas del Norte de Alberta](chapter-15-oil-sands-northern-alberta.md) | Un estudio de caso detallado de la aplicación de las guías de seguridad de presas a relaves de arenas bituminosas (CDA / Golder) e instrumentación de diques in-pit (Albian) |
 
 ---
 
@@ -61,9 +61,9 @@ organizado en los siguientes capítulos:
 - **Comience por los Capítulos 2 y 4.** Los modos de falla y un plan informado por
   el riesgo son la base de todo buen programa de vigilancia de relaves.
 - **Enlácela con el resto de la base de conocimientos.** El capítulo
-  [Familias de Instrumentos](../../../reference-manuals/tailings-dam-safety/chapter-05-instruments.md)
-  remite a los manuales [Dunnicliff](../../../reference-manuals/dunnicliff/index.md) y
-  [FHWA](../../../reference-manuals/fhwa/index.md) para procedimientos detallados de instalación.
+  [Familias de Instrumentos](chapter-05-instruments.md)
+  remite a los manuales   [Dunnicliff](../dunnicliff/index.md) y
+  [FHWA](../fhwa/index.md) para procedimientos detallados de instalación.
 - **Consulte al [GTI Doctor](../../../gti-doctor.md).** El asistente de IA puede
   responder preguntas de monitoreo desde el corpus más amplio.
 
