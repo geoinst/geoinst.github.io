@@ -55,18 +55,18 @@ Este digest sigue los doce capítulos del libro fuente:
 
 | # | Capítulo | Qué abarca |
 | --- | --- | --- |
-| 1 | [Geología: Suelo y Roca](../../../reference-manuals/geotechnical-engineers-handbook/chapter-01-geology-soil-rock.md) | Estructura de la Tierra; roca ígnea, sedimentaria, metamórfica |
-| 2 | [Propiedades de Ingeniería de los Suelos de Cimentación](../../../reference-manuals/geotechnical-engineers-handbook/chapter-02-soil-properties.md) | Composición del suelo; propiedades físicas; elasticidad, Mohr, plasticidad, consolidación de Terzaghi, Menard |
-| 3 | [Agua Subterránea](../../../reference-manuals/geotechnical-engineers-handbook/chapter-03-groundwater.md) | Medio poroso, permeabilidad, capilaridad; agua en sedimentos granulares y karst |
-| 4 | [Investigación, Exploración y Ensayos](../../../reference-manuals/geotechnical-engineers-handbook/chapter-04-investigation-testing.md) | Clasificación y descripción de suelos y rocas; etapas de investigación; perforación, muestreo, geofísica; ensayos de campo y laboratorio |
-| 5 | [Análisis de Cimentaciones Superficiales](../../../reference-manuals/geotechnical-engineers-handbook/chapter-05-shallow-foundations.md) | Comportamiento bajo carga; capacidad de carga (teoría, CPT, PMT, SPT, roca); asentamiento |
-| 6 | [Análisis de Cimentaciones Profundas](../../../reference-manuals/geotechnical-engineers-handbook/chapter-06-deep-foundations.md) | Clasificación de pilotes; capacidad de pilote simple; fricción negativa, exprimido lateral; pilotes cargados lateralmente; grupos de pilotes; asentamiento |
-| 7 | [Análisis de Estabilidad de Taludes](../../../reference-manuals/geotechnical-engineers-handbook/chapter-07-slope-stability.md) | Tipos de movimiento; deslizamiento plano y de arco circular; soluciones simples |
-| 8 | [Análisis de Muros de Contención](../../../reference-manuals/geotechnical-engineers-handbook/chapter-08-retaining-walls.md) | Presión activa y pasiva; muros rígidos y flexibles; muros anclados, excavaciones apuntaladas |
-| 9 | [Terraplenes sobre Suelo Blando](../../../reference-manuals/geotechnical-engineers-handbook/chapter-09-embankment-soft-ground.md) | Estabilidad y asentamiento por consolidación; aceleración de la consolidación; **monitoreo y verificación**; materiales de relleno; pavimentos flexibles |
-| 10 | [Hidráulica de Ingeniería](../../../reference-manuals/geotechnical-engineers-handbook/chapter-10-hydraulics.md) | Ley de Darcy; redes de flujo; fuerzas de filtración; muros cortafugas, presas de tierra |
-| 11 | [Sismos y Obras de Construcción](../../../reference-manuals/geotechnical-engineers-handbook/chapter-11-earthquakes.md) | Características de los sismos; zonificación sísmica de Vietnam; diseño sísmico; licuefacción |
-| 12 | [Geoinformática en Geotecnia](../../../reference-manuals/geotechnical-engineers-handbook/chapter-12-geo-informatics.md) | TI en investigación de sitios y en análisis geotécnico |
+| 1 | [Geología: Suelo y Roca](chapter-01-geology-soil-rock.md) | Estructura de la Tierra; roca ígnea, sedimentaria, metamórfica |
+| 2 | [Propiedades de Ingeniería de los Suelos de Cimentación](chapter-02-soil-properties.md) | Composición del suelo; propiedades físicas; elasticidad, Mohr, plasticidad, consolidación de Terzaghi, Menard |
+| 3 | [Agua Subterránea](chapter-03-groundwater.md) | Medio poroso, permeabilidad, capilaridad; agua en sedimentos granulares y karst |
+| 4 | [Investigación, Exploración y Ensayos](chapter-04-investigation-testing.md) | Clasificación y descripción de suelos y rocas; etapas de investigación; perforación, muestreo, geofísica; ensayos de campo y laboratorio |
+| 5 | [Análisis de Cimentaciones Superficiales](chapter-05-shallow-foundations.md) | Comportamiento bajo carga; capacidad de carga (teoría, CPT, PMT, SPT, roca); asentamiento |
+| 6 | [Análisis de Cimentaciones Profundas](chapter-06-deep-foundations.md) | Clasificación de pilotes; capacidad de pilote simple; fricción negativa, exprimido lateral; pilotes cargados lateralmente; grupos de pilotes; asentamiento |
+| 7 | [Análisis de Estabilidad de Taludes](chapter-07-slope-stability.md) | Tipos de movimiento; deslizamiento plano y de arco circular; soluciones simples |
+| 8 | [Análisis de Muros de Contención](chapter-08-retaining-walls.md) | Presión activa y pasiva; muros rígidos y flexibles; muros anclados, excavaciones apuntaladas |
+| 9 | [Terraplenes sobre Suelo Blando](chapter-09-embankment-soft-ground.md) | Estabilidad y asentamiento por consolidación; aceleración de la consolidación; **monitoreo y verificación**; materiales de relleno; pavimentos flexibles |
+| 10 | [Hidráulica de Ingeniería](chapter-10-hydraulics.md) | Ley de Darcy; redes de flujo; fuerzas de filtración; muros cortafugas, presas de tierra |
+| 11 | [Sismos y Obras de Construcción](chapter-11-earthquakes.md) | Características de los sismos; zonificación sísmica de Vietnam; diseño sísmico; licuefacción |
+| 12 | [Geoinformática en Geotecnia](chapter-12-geo-informatics.md) | TI en investigación de sitios y en análisis geotécnico |
 
 ---
 
@@ -77,8 +77,8 @@ Este digest sigue los doce capítulos del libro fuente:
 - **El Capítulo 9 es el más cercano al enfoque de este sitio.** Su sección *Monitoreo y
   verificación* cubre monitoreo de asentamiento, medición de presión de poros,
   desplazamiento lateral y tensión vertical total bajo terraplenes. Léalo junto con los
-  manuales [Dunnicliff](../../../reference-manuals/dunnicliff/index.md) y
-  [FHWA](../../../reference-manuals/fhwa/index.md).
+  manuales [Dunnicliff](../dunnicliff/index.md) y
+  [FHWA](../fhwa/index.md).
 - **Use la tabla de terminología al final de cada capítulo.** Es lo más valioso que
   preserva este digest: los términos vietnamitas con sus equivalentes en inglés.
 - **Coteje con el glosario del sitio.** Vea el
