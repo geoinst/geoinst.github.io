@@ -16,7 +16,7 @@ lang_alt: reference-manuals/foundation-engineering/
     reproduce ningún libro de texto con derechos de autor. Se ofrece para uso
     educativo y de campo; cada proyecto es único y esta referencia busca formar
     criterio de ingeniería, no fijar normas mínimas. Los manuales subyacentes están
-    indexados en el asistente de IA [GTI Doctor](../../../gti-doctor.md) para
+    indexados en el asistente de IA [GTI Doctor](../../gti-doctor.md) para
     consultas más profundas.
 
 La **ingeniería de cimentaciones** es la disciplina de diseñar la interfaz entre una
@@ -89,7 +89,7 @@ Esta referencia es una adaptación independiente del alcance y la estructura de 
   se cruzan con los manuales   [Dunnicliff](../dunnicliff/index.md),
   [FHWA](../fhwa/index.md) y los de presas para el detalle
   específico de monitoreo.
-- **Consulte al [GTI Doctor](../../../gti-doctor.md)** para el texto de los manuales subyacentes.
+- **Consulte al [GTI Doctor](../../gti-doctor.md)** para el texto de los manuales subyacentes.
 
 > **El diseño es específico del sitio.** Ninguna referencia reemplaza una investigación
 > de sitio adecuada, y ninguna gráfica reemplaza el criterio de un ingeniero geotécnico calificado.

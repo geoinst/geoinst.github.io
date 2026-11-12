@@ -69,16 +69,16 @@ La **Tabla 5** es el artefacto transferible. Establece cuatro bandas independien
 | > 0.2 – < 1.0 | > 1.0 – < 2.0 | **Naranja** | Aumentar a dos veces por semana / diario |
 | > 1.0 | > 2.0 | **Rojo** | **Detener la construcción del dique** en esa área hasta que la tasa descienda |
 
-Nótese la estructura: el desencadenante es una **velocidad**, y la acción de la banda superior es una **paralización de construcción**, no una alarma. Esa es la misma lógica sobre la que se construye el [marco de acción ante desencadenantes ADAQS](/vi/adaqs/) del sitio, y es por ello que el artículo reporta que nunca se desarrollaron zonas de corte discretas — la construcción se detuvo o se ralentizó antes de que pudiera formarse una.
+Nótese la estructura: el desencadenante es una **velocidad**, y la acción de la banda superior es una **paralización de construcción**, no una alarma. Esa es la misma lógica sobre la que se construye el [marco de acción ante desencadenantes ADAQS](../../../../vi/adaqs/index.md) del sitio, y es por ello que el artículo reporta que nunca se desarrollaron zonas de corte discretas — la construcción se detuvo o se ralentizó antes de que pudiera formarse una.
 
 ---
 
 ## Por qué este artículo es relevante en esta base de conocimiento
 
-- Es el **complemento del lado minero** de [Seguridad de Presas de Relaves](../index.md) y [Seguridad de Presas de Relaves (Boletín 194 de ICOLD)](../../../../reference-manuals/tailings-dam-safety/index.md), que tratan las instalaciones de relaves externas. El confinamiento en tajo tiene una historia de fundación y una secuencia de construcción diferentes.
+- Es el **complemento del lado minero** de [Seguridad de Presas de Relaves](../index.md) y [Seguridad de Presas de Relaves (Boletín 194 de ICOLD)](../../../reference-manuals/tailings-dam-safety/index.md), que tratan las instalaciones de relaves externas. El confinamiento en tajo tiene una historia de fundación y una secuencia de construcción diferentes.
 - Su **tabla de límites de precaución** es un ejemplo publicado y trabajado de la lógica de desencadenantes descrita genéricamente en [Introducción](../../../getting-started/index.md).
 - Su sección de **tensión total y *K*<sub>o</sub>** es uno de los pocos conjuntos de datos de campo que vinculan células de presión de tierras instrumentadas con una evaluación de **fractura hidráulica** — un modo de falla que importa dondequiera que se desarrollen zonas de baja tensión cerca de estribos empinados.
-- Su planteamiento del **Método de Observación** (Peck, 1969) es la misma columna vertebral que recorre el manual de referencia [Dunnicliff](../../../../reference-manuals/dunnicliff/index.md) y la [FHWA](../../../../reference-manuals/fhwa/index.md).
+- Su planteamiento del **Método de Observación** (Peck, 1969) es la misma columna vertebral que recorre el manual de referencia [Dunnicliff](../../../reference-manuals/dunnicliff/index.md) y la [FHWA](../../../reference-manuals/fhwa/index.md).
 
 ---
 

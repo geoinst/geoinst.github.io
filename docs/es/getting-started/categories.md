@@ -78,4 +78,4 @@ Los instrumentos geotécnicos se agrupan por **lo que miden**. Las cuatro catego
 | --- | --- |
 | Encontrar especificaciones de instrumentos | [Categorías de Instrumentos →](categories.md) |
 | Ver despliegues del mundo real | [Aplicaciones →](../applications/index.md) |
-| Procedimientos de puesta en servicio / instalación | [Manuales de Referencia →](../../reference-manuals/index.md) |
+| Procedimientos de puesta en servicio / instalación | [Manuales de Referencia →](../reference-manuals/index.md) |

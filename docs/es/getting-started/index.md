@@ -15,7 +15,7 @@ Bienvenido a la Base de Conocimientos de Instrumentación Geotécnica. Este siti
 ## Qué contiene
 
 - **catálogo de instrumentos** — catálogo completo de la línea de productos: piezómetros, extensómetros, inclinómetros, registradores de datos y la plataforma inalámbrica. [Explorar →](categories.md)
-- **Manuales de referencia** — referencias consultables que incluyen *Geotechnical Instrumentation for Monitoring Field Performance* de Dunnicliff y el *Geotechnical Instrumentation Reference Manual* de la FHWA. [Explorar →](../../reference-manuals/index.md)
+- **Manuales de referencia** — referencias consultables que incluyen *Geotechnical Instrumentation for Monitoring Field Performance* de Dunnicliff y el *Geotechnical Instrumentation Reference Manual* de la FHWA. [Explorar →](../reference-manuals/index.md)
 - **Asistente de IA** — el chatbot **GTI Doctor** responde preguntas técnicas utilizando los manuales de este sitio como base de verdad. [Pruébelo →](../gti-doctor.md)
 
 ## Orientación rápida
@@ -24,7 +24,7 @@ Bienvenido a la Base de Conocimientos de Instrumentación Geotécnica. Este siti
 | --- | --- |
 | Una respuesta rápida de "qué instrumento debo usar" | [Categorías de Instrumentos](categories.md) |
 | Especificaciones de instrumentos para una licitación | [Categorías de Instrumentos →](categories.md) |
-| Una lista de verificación de instalación en campo | [Manuales de Referencia](../../reference-manuals/index.md) |
+| Una lista de verificación de instalación en campo | [Manuales de Referencia](../reference-manuals/index.md) |
 | Para hacer una pregunta en inglés sencillo | [GTI Doctor](../gti-doctor.md) |
 
 ---

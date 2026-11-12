@@ -63,7 +63,7 @@ geotécnico de este sitio y no se resumen aquí.
 
 ## GTI Doctor
 
-El asistente [GTI Doctor](../../../gti-doctor.md) indexa el corpus de referencia del
+El asistente [GTI Doctor](../../gti-doctor.md) indexa el corpus de referencia del
 sitio. Pregúntele sobre meteorización de roca, aguas subterráneas o mecanismos de
 falla de taludes y responderá desde estas páginas y el manual.
 

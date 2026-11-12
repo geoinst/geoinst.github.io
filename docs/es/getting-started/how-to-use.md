@@ -35,6 +35,6 @@ Si encuentra una referencia faltante o un enlace roto, contacte al responsable d
 
 ## Materiales fuente
 
-- PDF en `C:\Users\Henry\Downloads\Geotech books\` (18 archivos, 472 MB) — consulte la página de [Manuales de Referencia](../../reference-manuals/index.md) para el catálogo
+- PDF en `C:\Users\Henry\Downloads\Geotech books\` (18 archivos, 472 MB) — consulte la página de [Manuales de Referencia](../reference-manuals/index.md) para el catálogo
 
 > **Nota**: Todo el contenido de los manuales de referencia se reproduce o resume para uso educativo interno. Para el material original de los libros de texto, consulte a las editoriales.

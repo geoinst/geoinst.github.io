@@ -14,7 +14,7 @@ manual es:
 > Performance.* John Wiley & Sons, Inc., New York, 577 p.
 
 Esa obra —y la complementaria NCHRP Synthesis 89— son las referencias más profundas
-detrás de este módulo, y están indexadas en el asistente de IA [GTI Doctor](../../../gti-doctor.md). La cobertura
+detrás de este módulo, y están indexadas en el asistente de IA [GTI Doctor](../../gti-doctor.md). La cobertura
 instrumento por instrumento en la [referencia Dunnicliff](../dunnicliff/index.md) de este sitio complementa este manual.
 
 ## 14.2 Apéndices — el kit de herramientas de planificación
@@ -86,4 +86,4 @@ Evaluaciones sugeridas para el ejercicio de estudiante en
   planificación, y ejemplos resueltos.
 - Use el **Apéndice A** como su lista de verificación de planificación y los **Apéndices C–F** como
   plantillas para sus propios proyectos.
-- El [GTI Doctor](../../../gti-doctor.md) puede recuperar el corpus subyacente bajo demanda.
+- El [GTI Doctor](../../gti-doctor.md) puede recuperar el corpus subyacente bajo demanda.

@@ -108,7 +108,7 @@ fuente autorizada para cada tabla y correlación.
 - Su **Capítulo 23 (Movimientos)**, incluyendo los **movimientos en inclinómetros**, es
   el complemento cuantitativo a las filosofías de instrumentación de [Dunnicliff](../dunnicliff/index.md)
   y [FHWA](../fhwa/index.md) y a la lógica de movimiento tolerable usada en los
-  estudios de caso de [Minería](../../../applications/mining/index.md).
+  estudios de caso de [Minería](../../applications/mining/index.md).
 - Sus **Capítulos 4 (muestreo y ensayos de campo)** y **5–6 (resistencia por ensayos)**
   hacen explícito por qué los valores SPT o CPT *no corregidos* inducen a error en el
   diseño — la misma advertencia que plantea el [Manual de Explotación Minera SME
@@ -129,7 +129,7 @@ fuente autorizada para cada tabla y correlación.
 - Relacione con [Ingeniería de Cimentaciones](../foundation-engineering/index.md),
   [Ingeniería Práctica de Rocas](../practical-rock-engineering/index.md) y el
   [capítulo de instrumentación CFEM 2022](../cfem/index.md) para la profundidad de lado civil.
-- Pida al [GTI Doctor](../../../gti-doctor.md) que extraiga la tabla o correlación exacta
+- Pida al [GTI Doctor](../../gti-doctor.md) que extraiga la tabla o correlación exacta
   del PDF original cuando necesite un número.
 
 > **Seguridad y vigencia.** Las correlaciones reflejan la práctica de alrededor de 2007

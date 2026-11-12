@@ -57,7 +57,7 @@ y embalses). Está organizado en los siguientes capítulos:
   [Familias de Instrumentos](chapter-05-instruments.md)
   remite a los manuales   [Dunnicliff](../dunnicliff/index.md) y
   [FHWA](../fhwa/index.md) para procedimientos detallados de instalación.
-- **Consulte al [GTI Doctor](../../../gti-doctor.md).** El asistente de IA puede
+- **Consulte al [GTI Doctor](../../gti-doctor.md).** El asistente de IA puede
   responder preguntas de monitoreo desde el corpus más amplio.
 
 ---

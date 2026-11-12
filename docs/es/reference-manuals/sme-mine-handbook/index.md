@@ -81,18 +81,18 @@ el que se construye el resto de esta biblioteca:
 - Su **marco de criterios de selección** (rango, resolución, exactitud, precisión,
   conformidad, robustez, confiabilidad) es el vocabulario que este sitio usa cada vez
   que se especifica un instrumento —véase
-  [Primeros Pasos](../../../getting-started/index.md).
+  [Primeros Pasos](../../getting-started/index.md).
 - Su **tabla de transductores** (LVDT, cuerda vibratoria, acelerómetro, fibra óptica,
   MEMS) explica *por qué* cada instrumento se comporta como lo hace, y es el
-  complemento natural de los digests [Dunnicliff](../../../reference-manuals/dunnicliff/index.md)
-  y [FHWA](../../../reference-manuals/fhwa/index.md).
+  complemento natural de los digests [Dunnicliff](../dunnicliff/index.md)
+  y [FHWA](../fhwa/index.md).
 - Su **procedimiento de planificación de 20 pasos de Dunnicliff** es la columna
   vertebral detrás de la [arquitectura ADAQS de seis capas](../../../vi/adaqs/index.md)
   neutra al proveedor de este sitio.
 - Sus secciones de **esfuerzos in-situ** y **piezómetros** dan la base de mecánica de
   rocas y aguas subterráneas desde la cual
-  [Mecánica de Suelos](../../../reference-manuals/soil-mechanics/index.md) y
-  [Ingeniería de Cimentaciones](../../../reference-manuals/foundation-engineering/index.md)
+  [Mecánica de Suelos](../soil-mechanics/index.md) y
+  [Ingeniería de Cimentaciones](../foundation-engineering/index.md)
   se aproximan desde el lado del suelo.
 
 ---
@@ -105,12 +105,12 @@ el que se construye el resto de esta biblioteca:
   comprar nada —los pasos 1–8 son los más omitidos.
 - Trabaje **investigación antes que monitoreo**: el capítulo es explícito en que el
   monitoreo predictivo debe seguir a un período de monitoreo investigativo.
-- Enlácelo con [Dunnicliff](../../../reference-manuals/dunnicliff/index.md),
-  [FHWA](../../../reference-manuals/fhwa/index.md),
-  [Monitoreo del Desempeño de Presas](../../../reference-manuals/monitoring-dam-performance/index.md)
-  y [Seguridad de Presas de Relaves](../../../reference-manuals/tailings-dam-safety/index.md)
+- Enlácelo con [Dunnicliff](../dunnicliff/index.md),
+  [FHWA](../fhwa/index.md),
+  [Monitoreo del Desempeño de Presas](../monitoring-dam-performance/index.md)
+  y [Seguridad de Presas de Relaves](../tailings-dam-safety/index.md)
   para profundidad del lado civil.
-- Consulte al [GTI Doctor](../../../gti-doctor.md) para extraer detalles del corpus
+- Consulte al [GTI Doctor](../../gti-doctor.md) para extraer detalles del corpus
   más amplio.
 
 > **Seguridad y vigencia.** La tecnología de teledetección y sensores inalámbricos ha

@@ -19,13 +19,13 @@ lang_alt: reference-manuals/fhwa-mse-walls/
     una reproducción textual. Se ofrece para uso educativo y de campo, y cada
     proyecto es único: la guía aquí forma criterio de ingeniería, no fija normas
     mínimas. El manual completo está indexado en el asistente de IA
-    [GTI Doctor](../../../gti-doctor.md) para consultas más profundas.
+    [GTI Doctor](../../gti-doctor.md) para consultas más profundas.
 
 El **manual de la FHWA *Mechanically Stabilized Earth Walls and Reinforced Soil
 Slopes*** es la referencia de diseño y construcción que lleva la tecnología del
 suelo reforzado desde los principios fundamentales hasta una estructura de
 carretera construible. Mientras que el [manual de instrumentación de la
-FHWA](../../../reference-manuals/fhwa/index.md) le dice cómo *observar* una
+FHWA](../fhwa/index.md) le dice cómo *observar* una
 estructura de tierra, este manual le dice cómo *diseñar y construir* una: cómo el
 suelo friccional y el refuerzo tensil se combinan en un compuesto que se comporta
 como una masa gravitatoria, y cómo se proporciona, detalla, especifica e
@@ -75,11 +75,11 @@ referencia consolida esa estructura en las siguientes páginas:
   taludes de suelo reforzado (capítulos 6–7) son estructuras distintas con modos de
   falla distintos, aunque comparten los mismos principios de refuerzo.
 - **Úsela con el resto de la base de conocimientos.** Los capítulos de diseño se cruzan
-  con el tratamiento de [Ingeniería de Cimentaciones](../../../reference-manuals/foundation-engineering/index.md)
+  con el tratamiento de [Ingeniería de Cimentaciones](../foundation-engineering/index.md)
   sobre presión de tierras y muros de contención, y con el [manual de instrumentación
-  de la FHWA](../../../reference-manuals/fhwa/index.md) y [Dunnicliff](../../../reference-manuals/dunnicliff/index.md) para el
+  de la FHWA](../fhwa/index.md) y [Dunnicliff](../dunnicliff/index.md) para el
   monitoreo que exige el Capítulo 9.
-- **Consulte al [GTI Doctor](../../../gti-doctor.md).** El asistente de IA puede
+- **Consulte al [GTI Doctor](../../gti-doctor.md).** El asistente de IA puede
   responder preguntas específicas de estructura a partir del corpus completo de la FHWA.
 
 ---

@@ -82,8 +82,8 @@ Este digest sigue los doce capítulos del libro fuente:
 - **Use la tabla de terminología al final de cada capítulo.** Es lo más valioso que
   preserva este digest: los términos vietnamitas con sus equivalentes en inglés.
 - **Coteje con el glosario del sitio.** Vea el
-  [Glosario](../../../glossary/index.md) para el mapeo canónico 1-a-1 TCVN del sitio.
-- **Consulte al [GTI Doctor](../../../gti-doctor.md).** El asistente de IA responde a
+  [Glosario](../../glossary/index.md) para el mapeo canónico 1-a-1 TCVN del sitio.
+- **Consulte al [GTI Doctor](../../gti-doctor.md).** El asistente de IA responde a
   partir del corpus indexado.
 
 ---

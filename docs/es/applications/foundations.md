@@ -140,9 +140,9 @@ Verificar suposiciones de diseño sobre el comportamiento carga-asentamiento, va
 ---
 
 ## Páginas relacionadas
-- [Dunnicliff Capítulo 19](../../reference-manuals/dunnicliff/chapter-14-applications.md)
-- [Dunnicliff Capítulo 24](../../reference-manuals/dunnicliff/chapter-14-applications.md)
-- [Dunnicliff Capítulo 25](../../reference-manuals/dunnicliff/chapter-14-applications.md)
+- [Dunnicliff Capítulo 19](../reference-manuals/dunnicliff/chapter-14-applications.md)
+- [Dunnicliff Capítulo 24](../reference-manuals/dunnicliff/chapter-14-applications.md)
+- [Dunnicliff Capítulo 25](../reference-manuals/dunnicliff/chapter-14-applications.md)
 - [GTI Doctor — Consulte sobre monitoreo de cimentación/excavación](../gti-doctor.md)
 
 ---

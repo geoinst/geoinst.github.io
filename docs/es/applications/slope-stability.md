@@ -91,7 +91,7 @@ Detectar el inicio del movimiento del talud antes de la falla, identificar la su
 ---
 
 ## Páginas relacionadas
-- [Dunnicliff Capítulo 22](../../reference-manuals/dunnicliff/chapter-14-applications.md)
+- [Dunnicliff Capítulo 22](../reference-manuals/dunnicliff/chapter-14-applications.md)
 - [GTI Doctor — Consulte sobre monitoreo de taludes](../gti-doctor.md)
 
 ---

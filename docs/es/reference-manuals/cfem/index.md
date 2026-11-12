@@ -91,7 +91,7 @@ resto de esta biblioteca:
 - Siga los cruces a los digests [Dunnicliff](../dunnicliff/index.md),
   [FHWA](../fhwa/index.md), [Monitoreo del Desempeño de Presas](../monitoring-dam-performance/index.md)
   y [Seguridad de Presas de Relaves](../tailings-dam-safety/index.md) para profundizar.
-- Pida al [GTI Doctor](../../../gti-doctor.md) que extraiga específicos del corpus más amplio.
+- Pida al [GTI Doctor](../../gti-doctor.md) que extraiga específicos del corpus más amplio.
 
 > **Seguridad y vigencia.** Las normas se revisan en sus propios ciclos (ISO 18674,
 > ASTM D18.23, DIN 4150 entre otras). Verifique siempre la **edición actual** de

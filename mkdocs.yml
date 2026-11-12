@@ -333,6 +333,7 @@ nav:
               - Índice: es/applications/mining/index.md
               - "Estudio de Caso — Diques en Foso, Mina Muskeg River (2013)": es/applications/mining/in-pit-dykes-mrm/index.md
       - "Manuales de Referencia":
+          - "Índice del Catálogo": es/reference-manuals/index.md
           - "La Gran Visión y Marco Integrado": es/reference-manuals/overarching-vision.md
           - "Burt — Manual de Investigación y Tablas de Diseño Geotécnico": es/reference-manuals/burt-look-handbook/index.md
           - "CFEM 2022 — Manual Canadiense de Fundaciones (Cap. 25)": es/reference-manuals/cfem/index.md

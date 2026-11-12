@@ -65,7 +65,7 @@ Tablestacas y muros pantalla (muros de lodo bentonítico).
 
 Las excavaciones apuntaladas (hố đào với tường chống xà) son el caso más pertinente para
 la excavación profunda urbana y para la instrumentación descrita en la página
-[Cimentaciones y Excavaciones](../../../applications/foundations.md) de este sitio.
+[Cimentaciones y Excavaciones](../../applications/foundations.md) de este sitio.
 
 ### 8.3.5 Estabilidad de la base y deformación del muro en una excavación
 

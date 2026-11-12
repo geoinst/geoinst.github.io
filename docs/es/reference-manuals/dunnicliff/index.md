@@ -16,7 +16,7 @@ lang_alt: reference-manuals/dunnicliff/
     educativo y de campo, y cada proyecto es único: la guía aquí busca formar
     criterio de ingeniería, no fijar normas mínimas. El texto completo de
     Dunnicliff y la NCHRP Synthesis 89 están indexados en el asistente de IA
-    [GTI Doctor](../../../gti-doctor.md) para consultas más profundas.
+    [GTI Doctor](../../gti-doctor.md) para consultas más profundas.
 
 La **instrumentación geotécnica** es la disciplina de medir cómo se comportan
 realmente el suelo, la roca, las cimentaciones y las estructuras bajo cargas
@@ -55,8 +55,8 @@ siguientes capítulos:
 ## Cómo usar esta referencia
 
 - **Empiece por el Capítulo 3.** El enfoque sistemático de planificación es el eje de toda la disciplina.
-- **Úsela con el resto de la base de conocimientos.** Los capítulos de instrumentos se cruzan con los libros [Seguridad de Presas de Relaves](../../../reference-manuals/tailings-dam-safety/index.md) y [Monitoreo del Desempeño de Presas (MOP-135)](../../../reference-manuals/monitoring-dam-performance/index.md) para aplicaciones específicas por dominio.
-- **Consulte al [GTI Doctor](../../../gti-doctor.md).** El asistente de IA puede responder preguntas específicas sobre instrumentos a partir del corpus completo de Dunnicliff y NCHRP.
+- **Úsela con el resto de la base de conocimientos.** Los capítulos de instrumentos se cruzan con los libros [Seguridad de Presas de Relaves](../tailings-dam-safety/index.md) y [Monitoreo del Desempeño de Presas (MOP-135)](../monitoring-dam-performance/index.md) para aplicaciones específicas por dominio.
+- **Consulte al [GTI Doctor](../../gti-doctor.md).** El asistente de IA puede responder preguntas específicas sobre instrumentos a partir del corpus completo de Dunnicliff y NCHRP.
 
 ---
 

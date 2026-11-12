@@ -18,7 +18,7 @@ lang_alt: reference-manuals/fhwa/
     **no** una reproducción textual. Se ofrece para uso educativo y de campo, y
     cada proyecto es único: la guía aquí forma criterio de ingeniería, no fija
     normas mínimas. El manual completo está indexado en el asistente de IA
-    [GTI Doctor](../../../gti-doctor.md) para consultas más profundas.
+    [GTI Doctor](../../gti-doctor.md) para consultas más profundas.
 
 El **Manual de Referencia de Instrumentación Geotécnica de la FHWA** es el
 manual de capacitación que convierte la teoría de la instrumentación geotécnica
@@ -67,8 +67,8 @@ siguientes capítulos:
 
 - **Empiece por el Capítulo 6.** El proceso sistemático de planificación es el eje de toda la disciplina — todo lo demás lo respalda.
 - **Luego lea el capítulo de su tipo de construcción.** Los capítulos 7–11 terminan cada uno con las *principales preguntas geotécnicas* para esa construcción y los instrumentos que pueden responderlas.
-- **Úsela con el resto de la base de conocimientos.** Los capítulos de instrumentos se cruzan con los libros [Dunnicliff](../../../reference-manuals/dunnicliff/index.md), [Seguridad de Presas de Relaves](../../../reference-manuals/tailings-dam-safety/index.md) y [Monitoreo del Desempeño de Presas (MOP-135)](../../../reference-manuals/monitoring-dam-performance/index.md) para teoría más profunda y aplicación específica por dominio.
-- **Consulte al [GTI Doctor](../../../gti-doctor.md).** El asistente de IA puede responder preguntas específicas sobre instrumentos a partir del corpus completo de FHWA y Dunnicliff.
+- **Úsela con el resto de la base de conocimientos.** Los capítulos de instrumentos se cruzan con los libros [Dunnicliff](../dunnicliff/index.md), [Seguridad de Presas de Relaves](../tailings-dam-safety/index.md) y [Monitoreo del Desempeño de Presas (MOP-135)](../monitoring-dam-performance/index.md) para teoría más profunda y aplicación específica por dominio.
+- **Consulte al [GTI Doctor](../../gti-doctor.md).** El asistente de IA puede responder preguntas específicas sobre instrumentos a partir del corpus completo de FHWA y Dunnicliff.
 
 ---
 

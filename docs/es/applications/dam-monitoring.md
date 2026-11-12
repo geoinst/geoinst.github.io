@@ -119,7 +119,7 @@ Detectar cambios de filtración, erosión interna y deformación en presas de te
 ---
 
 ## Páginas relacionadas
-- [Dunnicliff Capítulo 21](../../reference-manuals/dunnicliff/chapter-14-applications.md)
+- [Dunnicliff Capítulo 21](../reference-manuals/dunnicliff/chapter-14-applications.md)
 - [GTI Doctor — Consulte sobre monitoreo de presas](../gti-doctor.md)
 
 ---

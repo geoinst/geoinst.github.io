@@ -123,12 +123,12 @@ Cuando los relaves se almacenan dentro de un tajo agotado en lugar de detrás de
 
 Esta sección de Minería enlaza directamente con los manuales y libros de ingeniería principales disponibles en esta plataforma:
 
-- **[Ingeniería de Rocas Práctica (Dr. Evert Hoek)](../../../reference-manuals/practical-rock-engineering/index.md)**: Resistencia de la roca intacta, criterio de falla de Hoek-Brown, Índice de Resistencia Geológica (GSI), diseño de pernos de roca, sostenimiento con shotcrete, daño por voladura y estabilidad de cavernas subterráneas.
-- **[Seguridad de Presas de Relaves (Boletín 194 de ICOLD)](../../../reference-manuals/tailings-dam-safety/index.md)**: Administración geotécnica crítica de las instalaciones de almacenamiento de desechos mineros, mecanismos de falla por licuación y planes de acción de emergencia.
-- **[Geología Física (Steven Earle)](../../../reference-manuals/physical-geology/index.md)**: Geología estructural, minerales formadores de roca, fallamiento, plegamiento, meteorización y procesos de remoción en masa.
-- **[Monitoreo del Desempeño de Presas (ASCE MOP-135)](../../../reference-manuals/monitoring-dam-performance/index.md)**: Análisis de modos de falla, filosofías de vigilancia y gestión del ciclo de vida de los instrumentos.
-- **[Dunnicliff — Instrumentación Geotécnica](../../../reference-manuals/dunnicliff/index.md)**: Principios fundamentales de instrumentación, adquisición, calibración de sensores y planificación sistemática.
-- **[Manual de Referencia de Instrumentación Geotécnica de la FHWA](../../../reference-manuals/fhwa/index.md)**: Cimentaciones profundas, taludes en corte en roca y estructuras de retención de tierras.
+- **[Ingeniería de Rocas Práctica (Dr. Evert Hoek)](../../reference-manuals/practical-rock-engineering/index.md)**: Resistencia de la roca intacta, criterio de falla de Hoek-Brown, Índice de Resistencia Geológica (GSI), diseño de pernos de roca, sostenimiento con shotcrete, daño por voladura y estabilidad de cavernas subterráneas.
+- **[Seguridad de Presas de Relaves (Boletín 194 de ICOLD)](../../reference-manuals/tailings-dam-safety/index.md)**: Administración geotécnica crítica de las instalaciones de almacenamiento de desechos mineros, mecanismos de falla por licuación y planes de acción de emergencia.
+- **[Geología Física (Steven Earle)](../../reference-manuals/physical-geology/index.md)**: Geología estructural, minerales formadores de roca, fallamiento, plegamiento, meteorización y procesos de remoción en masa.
+- **[Monitoreo del Desempeño de Presas (ASCE MOP-135)](../../reference-manuals/monitoring-dam-performance/index.md)**: Análisis de modos de falla, filosofías de vigilancia y gestión del ciclo de vida de los instrumentos.
+- **[Dunnicliff — Instrumentación Geotécnica](../../reference-manuals/dunnicliff/index.md)**: Principios fundamentales de instrumentación, adquisición, calibración de sensores y planificación sistemática.
+- **[Manual de Referencia de Instrumentación Geotécnica de la FHWA](../../reference-manuals/fhwa/index.md)**: Cimentaciones profundas, taludes en corte en roca y estructuras de retención de tierras.
 - **[La Gran Visión y Marco Integrado](../../reference-manuals/overarching-vision.md)**: La síntesis completa que enlaza la geología cortical planetaria hasta las telemetrías automatizadas diarias de sensores.
 
 ---

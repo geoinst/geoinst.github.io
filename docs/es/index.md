@@ -21,7 +21,7 @@ Bienvenido a una base de conocimientos curada y buscable que abarca:
 | ¿Nuevo en este sitio? Comience aquí | [Primeros Pasos →](getting-started/index.md) |
 | Explore tipos de instrumentos por lo que miden | [Categorías de Instrumentos](getting-started/categories.md) |
 | Conozca los tipos de instrumentos y plataformas | [Categorías de Instrumentos →](getting-started/categories.md) |
-| Consulte un manual de referencia específico | [Manuales de Referencia →](../reference-manuals/index.md) |
+| Consulte un manual de referencia específico | [Manuales de Referencia →](reference-manuals/index.md) |
 | Vea los instrumentos agrupados por aplicación del proyecto | [Aplicaciones →](applications/index.md) |
 
 ---

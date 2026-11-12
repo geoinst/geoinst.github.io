@@ -111,7 +111,7 @@ Monitorear el movimiento del terreno alrededor de la excavación del túnel, la 
 ---
 
 ## Páginas relacionadas
-- [Dunnicliff Capítulo 23](../../reference-manuals/dunnicliff/chapter-14-applications.md)
+- [Dunnicliff Capítulo 23](../reference-manuals/dunnicliff/chapter-14-applications.md)
 - [GTI Doctor — Consulte sobre monitoreo de túneles](../gti-doctor.md)
 
 ---

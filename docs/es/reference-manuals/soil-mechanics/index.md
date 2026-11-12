@@ -15,7 +15,7 @@ lang_alt: reference-manuals/soil-mechanics/
     dominio público**. No se reproduce ningún libro de texto con derechos de autor.
     Se ofrece con fines educativos y de campo; cada sitio es único y esta referencia
     construye criterio de ingeniería, no normas mínimas. Los manuales subyacentes
-    están indexados en el asistente de IA [GTI Doctor](../../../gti-doctor.md).
+    están indexados en el asistente de IA [GTI Doctor](../../gti-doctor.md).
 
 La **mecánica de suelos** es la ciencia de cómo el suelo —un material de tres fases
 de sólidos, agua y aire— responde al esfuerzo y al agua. Es la base de todo cálculo
@@ -73,7 +73,7 @@ prácticas de ensayos in-situ, selección de parámetros y suelos problemáticos
   resistencia al corte (Capítulo 10) son la física detrás de las referencias de
   instrumentos [Dunnicliff](../dunnicliff/index.md) y
   [FHWA](../fhwa/index.md).
-- **Consulte al [GTI Doctor](../../../gti-doctor.md)** para el texto de los manuales subyacentes.
+- **Consulte al [GTI Doctor](../../gti-doctor.md)** para el texto de los manuales subyacentes.
 
 > **Los parámetros no son verdad.** Todo parámetro de suelo lleva incertidumbre;
 > la buena ingeniería la acota y diseña para el rango, no para un número único.
