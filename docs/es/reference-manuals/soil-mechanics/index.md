@@ -8,7 +8,7 @@ lang_alt: reference-manuals/soil-mechanics/
 !!! note "Acerca de esta referencia"
     Esta es una **referencia técnica abierta y original** sobre mecánica de suelos e
     ingeniería geotécnica, escrita en lenguaje de ingeniería sencillo. Al igual que el
-    libro [Ingeniería de Cimentaciones](../../../reference-manuals/foundation-engineering/index.md),
+    libro [Ingeniería de Cimentaciones](../foundation-engineering/index.md),
     se construye **enteramente a partir de fuentes de dominio público** —el
     ***Soils and Foundations Reference Manual*** de FHWA NHI y los **Manuales de
     Ingeniería del USACE**, todos los cuales son **obras del gobierno de EE. UU. en
@@ -31,20 +31,20 @@ prácticas de ensayos in-situ, selección de parámetros y suelos problemáticos
 
 | # | Capítulo | Qué cubre |
 |---|---------|----------------|
-| 1 | [Introducción y Fuentes](../../../reference-manuals/soil-mechanics/chapter-01-introduction.md) | Por qué la mecánica de suelos; el corpus de dominio público |
-| 2 | [Composición del Suelo y Propiedades Índice](../../../reference-manuals/soil-mechanics/chapter-02-composition-index.md) | Fases, pesos unitarios, relación de vacíos, límites de Atterberg |
-| 3 | [Clasificación de Suelos](../../../reference-manuals/soil-mechanics/chapter-03-classification.md) | Sistemas USCS y AASHTO; qué le dicen al ingeniero |
-| 4 | [Compactación](../../../reference-manuals/soil-mechanics/chapter-04-compaction.md) | Ensayos Proctor, humedad–densidad, control de campo |
-| 5 | [Permeabilidad](../../../reference-manuals/soil-mechanics/chapter-05-permeability.md) | Ley de Darcy, medición de laboratorio y campo |
-| 6 | [Filtración y Redes de Flujo](../../../reference-manuals/soil-mechanics/chapter-06-seepage.md) | Redes de flujo, empuje, piping, filtros |
-| 7 | [Esfuerzo Efectivo y Presión de Poros](../../../reference-manuals/soil-mechanics/chapter-07-effective-stress.md) | El principio del esfuerzo efectivo; total vs. efectivo |
-| 8 | [Distribución de Esfuerzos en el Suelo](../../../reference-manuals/soil-mechanics/chapter-08-stress-distribution.md) | Boussinesq, cartas de influencia, aumento de esfuerzo con la profundidad |
-| 9 | [Consolidación](../../../reference-manuals/soil-mechanics/chapter-09-consolidation.md) | Teoría de Terzaghi, $c_v$, preconsolidación, tasa de asentamiento |
-| 10 | [Resistencia al Corte](../../../reference-manuals/soil-mechanics/chapter-10-shear-strength.md) | Mohr–Coulomb, drenado vs. no drenado, ensayos de laboratorio |
-| 11 | [Rigidez y Esfuerzo–Deformación](../../../reference-manuals/soil-mechanics/chapter-11-stiffness.md) | Módulo, no linealidad, comportamiento de pequeña deformación |
-| 12 | [Ensayos In-situ y Selección de Parámetros](../../../reference-manuals/soil-mechanics/chapter-12-in-situ-testing.md) | SPT, CPT, pala, presurómetro; elección de parámetros |
-| 13 | [Suelos Problemáticos](../../../reference-manuals/soil-mechanics/chapter-13-problem-soils.md) | Suelos expansivos, colapsables, orgánicos y licuables |
-| 14 | [Programa de Ensayos de Laboratorio y Campo](../../../reference-manuals/soil-mechanics/chapter-14-testing-program.md) | Planificación de ensayos para responder preguntas de diseño |
+| 1 | [Introducción y Fuentes](chapter-01-introduction.md) | Por qué la mecánica de suelos; el corpus de dominio público |
+| 2 | [Composición del Suelo y Propiedades Índice](chapter-02-composition-index.md) | Fases, pesos unitarios, relación de vacíos, límites de Atterberg |
+| 3 | [Clasificación de Suelos](chapter-03-classification.md) | Sistemas USCS y AASHTO; qué le dicen al ingeniero |
+| 4 | [Compactación](chapter-04-compaction.md) | Ensayos Proctor, humedad–densidad, control de campo |
+| 5 | [Permeabilidad](chapter-05-permeability.md) | Ley de Darcy, medición de laboratorio y campo |
+| 6 | [Filtración y Redes de Flujo](chapter-06-seepage.md) | Redes de flujo, empuje, piping, filtros |
+| 7 | [Esfuerzo Efectivo y Presión de Poros](chapter-07-effective-stress.md) | El principio del esfuerzo efectivo; total vs. efectivo |
+| 8 | [Distribución de Esfuerzos en el Suelo](chapter-08-stress-distribution.md) | Boussinesq, cartas de influencia, aumento de esfuerzo con la profundidad |
+| 9 | [Consolidación](chapter-09-consolidation.md) | Teoría de Terzaghi, $c_v$, preconsolidación, tasa de asentamiento |
+| 10 | [Resistencia al Corte](chapter-10-shear-strength.md) | Mohr–Coulomb, drenado vs. no drenado, ensayos de laboratorio |
+| 11 | [Rigidez y Esfuerzo–Deformación](chapter-11-stiffness.md) | Módulo, no linealidad, comportamiento de pequeña deformación |
+| 12 | [Ensayos In-situ y Selección de Parámetros](chapter-12-in-situ-testing.md) | SPT, CPT, pala, presurómetro; elección de parámetros |
+| 13 | [Suelos Problemáticos](chapter-13-problem-soils.md) | Suelos expansivos, colapsables, orgánicos y licuables |
+| 14 | [Programa de Ensayos de Laboratorio y Campo](chapter-14-testing-program.md) | Planificación de ensayos para responder preguntas de diseño |
 
 ---
 
@@ -67,12 +67,12 @@ prácticas de ensayos in-situ, selección de parámetros y suelos problemáticos
 
 ## Cómo usar esta referencia
 
-- **Léala junto con el libro [Ingeniería de Cimentaciones](../../../reference-manuals/foundation-engineering/index.md)**
+- **Léala junto con el libro [Ingeniería de Cimentaciones](../foundation-engineering/index.md)**
   —este aporta los parámetros y la mecánica del suelo; aquel los aplica a las cimentaciones.
 - **Úsela con los libros de monitoreo.** La presión de poros (Capítulo 7) y la
   resistencia al corte (Capítulo 10) son la física detrás de las referencias de
-  instrumentos [Dunnicliff](../../../reference-manuals/dunnicliff/index.md) y
-  [FHWA](../../../reference-manuals/fhwa/index.md).
+  instrumentos [Dunnicliff](../dunnicliff/index.md) y
+  [FHWA](../fhwa/index.md).
 - **Consulte al [GTI Doctor](../../../gti-doctor.md)** para el texto de los manuales subyacentes.
 
 > **Los parámetros no son verdad.** Todo parámetro de suelo lleva incertidumbre;
