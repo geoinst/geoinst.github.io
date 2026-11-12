@@ -39,20 +39,20 @@ el diseño.
 
 | # | Capítulo | Qué abarca |
 |---|----------|------------|
-| 1 | [Introducción y Fuentes](../../../reference-manuals/foundation-engineering/chapter-01-introduction.md) | Qué es la ingeniería de cimentaciones; el corpus de dominio público detrás de ella |
-| 2 | [Exploración Subsuperficial y Caracterización de Sitio](../../../reference-manuals/foundation-engineering/chapter-02-site-exploration.md) | Perforaciones, ensayos in situ, agua subterránea y el perfil de diseño |
-| 3 | [Cimentaciones Superficiales: Capacidad de Carga](../../../reference-manuals/foundation-engineering/chapter-03-bearing-capacity.md) | Modos de falla, Terzaghi/Meyerhof, nivel freático, excentricidad |
-| 4 | [Cimentaciones Superficiales: Asentamiento](../../../reference-manuals/foundation-engineering/chapter-04-settlement.md) | Asentamiento elástico y por consolidación; presión de carga admisible |
-| 5 | [Zapatas y Losas](../../../reference-manuals/foundation-engineering/chapter-05-spread-footings.md) | Proporcionamiento, excentricidad, losas y construcción |
-| 6 | [Cimentaciones Profundas: Tipos y Transferencia de Carga](../../../reference-manuals/foundation-engineering/chapter-06-pile-types.md) | Clasificación de pilotes y cómo entra la carga al terreno |
-| 7 | [Cimentaciones Profundas: Capacidad Axial](../../../reference-manuals/foundation-engineering/chapter-07-axial-capacity.md) | Métodos de análisis estático, punta, fricción de fuste, ensayos de carga |
-| 8 | [Cimentaciones Profundas: Cargas Laterales, Grupos y Asentamiento](../../../reference-manuals/foundation-engineering/chapter-08-lateral-groups.md) | Capacidad lateral, efectos de grupo, fricción negativa, asentamiento |
-| 9 | [Fustes Perforados y Cajones](../../../reference-manuals/foundation-engineering/chapter-09-drilled-shafts.md) | Construcción, capacidad y consideraciones especiales |
-| 10 | [Presión de Tierras Lateral](../../../reference-manuals/foundation-engineering/chapter-10-lateral-earth-pressure.md) | En reposo, activa y pasiva; Rankine y Coulomb |
-| 11 | [Muros de Contención y Muros MSE](../../../reference-manuals/foundation-engineering/chapter-11-retaining-walls.md) | Muros de gravedad, voladizo y de tierra estabilizada mecánicamente |
-| 12 | [Muros Pantalla y Excavaciones Apuntaladas](../../../reference-manuals/foundation-engineering/chapter-12-sheet-piles.md) | Sistemas voladizos, anclados y apuntalados; estabilidad |
-| 13 | [Estabilidad de Taludes](../../../reference-manuals/foundation-engineering/chapter-13-slope-stability.md) | Taludes infinitos y finitos, método de rebanadas, estabilización |
-| 14 | [Mejoramiento de Suelos e Instrumentación de Cimentación](../../../reference-manuals/foundation-engineering/chapter-14-ground-improvement.md) | Densificación, refuerzo, inyección y monitoreo |
+| 1 | [Introducción y Fuentes](chapter-01-introduction.md) | Qué es la ingeniería de cimentaciones; el corpus de dominio público detrás de ella |
+| 2 | [Exploración Subsuperficial y Caracterización de Sitio](chapter-02-site-exploration.md) | Perforaciones, ensayos in situ, agua subterránea y el perfil de diseño |
+| 3 | [Cimentaciones Superficiales: Capacidad de Carga](chapter-03-bearing-capacity.md) | Modos de falla, Terzaghi/Meyerhof, nivel freático, excentricidad |
+| 4 | [Cimentaciones Superficiales: Asentamiento](chapter-04-settlement.md) | Asentamiento elástico y por consolidación; presión de carga admisible |
+| 5 | [Zapatas y Losas](chapter-05-spread-footings.md) | Proporcionamiento, excentricidad, losas y construcción |
+| 6 | [Cimentaciones Profundas: Tipos y Transferencia de Carga](chapter-06-pile-types.md) | Clasificación de pilotes y cómo entra la carga al terreno |
+| 7 | [Cimentaciones Profundas: Capacidad Axial](chapter-07-axial-capacity.md) | Métodos de análisis estático, punta, fricción de fuste, ensayos de carga |
+| 8 | [Cimentaciones Profundas: Cargas Laterales, Grupos y Asentamiento](chapter-08-lateral-groups.md) | Capacidad lateral, efectos de grupo, fricción negativa, asentamiento |
+| 9 | [Fustes Perforados y Cajones](chapter-09-drilled-shafts.md) | Construcción, capacidad y consideraciones especiales |
+| 10 | [Presión de Tierras Lateral](chapter-10-lateral-earth-pressure.md) | En reposo, activa y pasiva; Rankine y Coulomb |
+| 11 | [Muros de Contención y Muros MSE](chapter-11-retaining-walls.md) | Muros de gravedad, voladizo y de tierra estabilizada mecánicamente |
+| 12 | [Muros Pantalla y Excavaciones Apuntaladas](chapter-12-sheet-piles.md) | Sistemas voladizos, anclados y apuntalados; estabilidad |
+| 13 | [Estabilidad de Taludes](chapter-13-slope-stability.md) | Taludes infinitos y finitos, método de rebanadas, estabilización |
+| 14 | [Mejoramiento de Suelos e Instrumentación de Cimentación](chapter-14-ground-improvement.md) | Densificación, refuerzo, inyección y monitoreo |
 
 ---
 
@@ -86,8 +86,8 @@ Esta referencia es una adaptación independiente del alcance y la estructura de 
 - **Empiece por los Capítulos 3 y 4** para cimentaciones superficiales, y los Capítulos
   6–8 para cimentaciones profundas — estas son las dos mitades de la disciplina.
 - **Úsela con el resto de la base de conocimientos.** Los capítulos de instrumentos
-  se cruzan con los manuales [Dunnicliff](../../../reference-manuals/dunnicliff/index.md),
-  [FHWA](../../../reference-manuals/fhwa/index.md) y los de presas para el detalle
+  se cruzan con los manuales   [Dunnicliff](../dunnicliff/index.md),
+  [FHWA](../fhwa/index.md) y los de presas para el detalle
   específico de monitoreo.
 - **Consulte al [GTI Doctor](../../../gti-doctor.md)** para el texto de los manuales subyacentes.
 
