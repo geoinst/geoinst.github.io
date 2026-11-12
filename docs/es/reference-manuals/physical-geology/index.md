@@ -44,17 +44,17 @@ meteorizada, como suelo residual.
 
 | Capítulo | Título | Por qué importa aquí |
 | --- | --- | --- |
-| 1 | [Introducción a la Geología](../../../reference-manuals/physical-geology/chapter-01-introduction-to-geology.md) | El alcance de la geología y dónde se sitúa la geología de ingeniería |
-| 2 | [Minerales](../../../reference-manuals/physical-geology/chapter-02-minerals.md) | De qué está hecha la roca; propiedades y reconocimiento de minerales |
-| 3 | [Rocas Ígneas Intrusivas](../../../reference-manuals/physical-geology/chapter-03-igneous-rocks.md) | El ciclo de la roca, el magma y los cuerpos intrusivos |
-| 5 | [Meteorización y Suelo](../../../reference-manuals/physical-geology/chapter-05-weathering-and-soil.md) | **El proceso que convierte la roca en suelo** —clave para los suelos residuales |
-| 6 | [Sedimentos y Rocas Sedimentarias](../../../reference-manuals/physical-geology/chapter-06-sedimentary-rocks.md) | Depósitos clásticos, estratificación y ambientes de depositación |
-| 7 | [Metamorfismo y Rocas Metamórficas](../../../reference-manuals/physical-geology/chapter-07-metamorphic-rocks.md) | La foliación —la causa de la anisotropía más fuerte en la roca |
-| 9 | [Interior de la Tierra y Sismología](../../../reference-manuals/physical-geology/chapter-09-earths-interior.md) | Ondas sísmicas y la base de toda investigación sísmica |
-| 11 | [Sismos](../../../reference-manuals/physical-geology/chapter-11-earthquakes.md) | Magnitud, intensidad y peligro sísmico |
-| 12 | [Estructuras Geológicas](../../../reference-manuals/physical-geology/chapter-12-geological-structures.md) | Estrés, plegamiento, fracturamiento y fallamiento |
-| 14 | [Aguas Subterráneas](../../../reference-manuals/physical-geology/chapter-14-groundwater.md) | Porosidad, permeabilidad, acuíferos y capas confinantes |
-| 15 | [Remoción en Masa](../../../reference-manuals/physical-geology/chapter-15-mass-wasting.md) | Estabilidad de taludes desde el lado geológico |
+| 1 | [Introducción a la Geología](chapter-01-introduction-to-geology.md) | El alcance de la geología y dónde se sitúa la geología de ingeniería |
+| 2 | [Minerales](chapter-02-minerals.md) | De qué está hecha la roca; propiedades y reconocimiento de minerales |
+| 3 | [Rocas Ígneas Intrusivas](chapter-03-igneous-rocks.md) | El ciclo de la roca, el magma y los cuerpos intrusivos |
+| 5 | [Meteorización y Suelo](chapter-05-weathering-and-soil.md) | **El proceso que convierte la roca en suelo** —clave para los suelos residuales |
+| 6 | [Sedimentos y Rocas Sedimentarias](chapter-06-sedimentary-rocks.md) | Depósitos clásticos, estratificación y ambientes de depositación |
+| 7 | [Metamorfismo y Rocas Metamórficas](chapter-07-metamorphic-rocks.md) | La foliación —la causa de la anisotropía más fuerte en la roca |
+| 9 | [Interior de la Tierra y Sismología](chapter-09-earths-interior.md) | Ondas sísmicas y la base de toda investigación sísmica |
+| 11 | [Sismos](chapter-11-earthquakes.md) | Magnitud, intensidad y peligro sísmico |
+| 12 | [Estructuras Geológicas](chapter-12-geological-structures.md) | Estrés, plegamiento, fracturamiento y fallamiento |
+| 14 | [Aguas Subterráneas](chapter-14-groundwater.md) | Porosidad, permeabilidad, acuíferos y capas confinantes |
+| 15 | [Remoción en Masa](chapter-15-mass-wasting.md) | Estabilidad de taludes desde el lado geológico |
 
 Los capítulos restantes del libro (4 vulcanismo, 8 tiempo geológico, 10 tectónica de
 placas, 13 arroyos e inundaciones, 16 glaciación, 17 litorales, 18 océanos, 19 clima,
