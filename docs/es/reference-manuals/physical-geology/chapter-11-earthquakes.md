@@ -1,6 +1,7 @@
 ---
 lang: es
 lang_alt: reference-manuals/physical-geology/chapter-11-earthquakes/
+lang_alt_vi: vi/reference-manuals/dia-chat-vat-ly/chapter-11-earthquakes/
 ---
 
 # Capítulo 11 — Sismos

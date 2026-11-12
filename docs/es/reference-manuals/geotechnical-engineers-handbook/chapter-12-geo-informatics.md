@@ -1,6 +1,7 @@
 ---
 lang: es
 lang_alt: reference-manuals/geotechnical-engineers-handbook/chapter-12-geo-informatics/
+lang_alt_vi: vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-12-geo-informatics/
 ---
 
 # Capítulo 12 — Geoinformática en Geotecnia

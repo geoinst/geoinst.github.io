@@ -1,5 +1,6 @@
 ---
 lang: vi
+lang_alt: ""
 ---
 # Hệ thống thu thập dữ liệu tự động (ADAQS)
 

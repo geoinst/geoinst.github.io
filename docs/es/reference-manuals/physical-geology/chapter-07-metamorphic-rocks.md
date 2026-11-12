@@ -1,6 +1,7 @@
 ---
 lang: es
 lang_alt: reference-manuals/physical-geology/chapter-07-metamorphic-rocks/
+lang_alt_vi: vi/reference-manuals/dia-chat-vat-ly/chapter-07-metamorphic-rocks/
 ---
 
 # Capítulo 7 — Metamorfismo y Rocas Metamórficas

@@ -1,6 +1,7 @@
 ---
 lang: es
 lang_alt: reference-manuals/geotechnical-engineers-handbook/chapter-08-retaining-walls/
+lang_alt_vi: vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-08-retaining-walls/
 ---
 
 # Capítulo 8 — Análisis de Muros de Contención

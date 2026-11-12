@@ -1,6 +1,7 @@
 ---
 lang: es
 lang_alt: reference-manuals/physical-geology/chapter-05-weathering-and-soil/
+lang_alt_vi: vi/reference-manuals/dia-chat-vat-ly/chapter-05-weathering-and-soil/
 ---
 
 # Capítulo 5 — Meteorización y Suelo

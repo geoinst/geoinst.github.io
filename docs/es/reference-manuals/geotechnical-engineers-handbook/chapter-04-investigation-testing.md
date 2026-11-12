@@ -1,6 +1,7 @@
 ---
 lang: es
 lang_alt: reference-manuals/geotechnical-engineers-handbook/chapter-04-investigation-testing/
+lang_alt_vi: vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-04-investigation-testing/
 ---
 
 # Capítulo 4 — Investigación, Exploración y Ensayos

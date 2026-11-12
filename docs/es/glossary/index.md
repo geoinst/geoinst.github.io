@@ -1,6 +1,7 @@
 ---
 lang: es
 lang_alt: glossary/
+lang_alt_vi: vi/thuat-ngu/
 ---
 
 # 📖 Glosario de Instrumentación Geotécnica y ADAQS

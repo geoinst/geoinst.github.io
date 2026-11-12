@@ -1,6 +1,7 @@
 ---
 lang: es
 lang_alt: reference-manuals/geotechnical-engineers-handbook/chapter-10-hydraulics/
+lang_alt_vi: vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-10-hydraulics/
 ---
 
 # Capítulo 10 — Hidráulica de Ingeniería

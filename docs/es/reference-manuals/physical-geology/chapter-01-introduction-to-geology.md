@@ -1,6 +1,7 @@
 ---
 lang: es
 lang_alt: reference-manuals/physical-geology/chapter-01-introduction-to-geology/
+lang_alt_vi: vi/reference-manuals/dia-chat-vat-ly/chapter-01-introduction-to-geology/
 ---
 
 # Capítulo 1 — Introducción a la Geología

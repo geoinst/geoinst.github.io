@@ -1,6 +1,7 @@
 ---
 lang: es
 lang_alt: reference-manuals/physical-geology/chapter-15-mass-wasting/
+lang_alt_vi: vi/reference-manuals/dia-chat-vat-ly/chapter-15-mass-wasting/
 ---
 
 # Capítulo 15 — Remoción en Masa

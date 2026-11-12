@@ -1,5 +1,6 @@
 ---
 lang: vi
+lang_alt: ""
 ---
 # Tuân thủ pháp lý trong quan trắc địa kỹ thuật
 

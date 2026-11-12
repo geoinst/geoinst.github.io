@@ -1,6 +1,7 @@
 ---
 lang: es
 lang_alt: reference-manuals/geotechnical-engineers-handbook/chapter-03-groundwater/
+lang_alt_vi: vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-03-groundwater/
 ---
 
 # Capítulo 3 — Agua Subterránea

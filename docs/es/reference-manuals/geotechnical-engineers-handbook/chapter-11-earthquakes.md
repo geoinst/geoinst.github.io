@@ -1,6 +1,7 @@
 ---
 lang: es
 lang_alt: reference-manuals/geotechnical-engineers-handbook/chapter-11-earthquakes/
+lang_alt_vi: vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-11-earthquakes/
 ---
 
 # Capítulo 11 — Sismos y Obras de Construcción

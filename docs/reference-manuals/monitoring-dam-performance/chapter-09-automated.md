@@ -1,6 +1,6 @@
 ---
 lang: en
-lang_alt: vi/reference-manuals/monitoring-dam-performance/chapter-09-automated.md
+lang_alt: vi/reference-manuals/monitoring-dam-performance/chapter-09-automated/
 ---
 # Chapter 9 — Automated, Remote, and Real-Time Monitoring Systems
 

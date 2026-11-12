@@ -1,6 +1,6 @@
 ---
 lang: en
-lang_alt: vi/reference-manuals/monitoring-dam-performance/chapter-11-data-management.md/
+lang_alt: vi/reference-manuals/monitoring-dam-performance/chapter-11-data-management/
 ---
 # Chapter 11 — Data Acquisition, Management, and Databases
 

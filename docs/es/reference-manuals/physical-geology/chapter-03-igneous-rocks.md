@@ -1,6 +1,7 @@
 ---
 lang: es
 lang_alt: reference-manuals/physical-geology/chapter-03-igneous-rocks/
+lang_alt_vi: vi/reference-manuals/dia-chat-vat-ly/chapter-03-igneous-rocks/
 ---
 
 # Capítulo 3 — Rocas Ígneas Intrusivas

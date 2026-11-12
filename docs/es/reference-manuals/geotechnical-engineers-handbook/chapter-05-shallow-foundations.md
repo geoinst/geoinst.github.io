@@ -1,6 +1,7 @@
 ---
 lang: es
 lang_alt: reference-manuals/geotechnical-engineers-handbook/chapter-05-shallow-foundations/
+lang_alt_vi: vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-05-shallow-foundations/
 ---
 
 # Capítulo 5 — Análisis de Cimentaciones Superficiales

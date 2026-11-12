@@ -1,6 +1,7 @@
 ---
 lang: es
 lang_alt: reference-manuals/geotechnical-engineers-handbook/chapter-06-deep-foundations/
+lang_alt_vi: vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-06-deep-foundations/
 ---
 
 # Capítulo 6 — Análisis de Cimentaciones Profundas

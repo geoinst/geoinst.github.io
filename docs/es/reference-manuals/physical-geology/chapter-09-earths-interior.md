@@ -1,6 +1,7 @@
 ---
 lang: es
 lang_alt: reference-manuals/physical-geology/chapter-09-earths-interior/
+lang_alt_vi: vi/reference-manuals/dia-chat-vat-ly/chapter-09-earths-interior/
 ---
 
 # Capítulo 9 — El Interior de la Tierra y la Sismología

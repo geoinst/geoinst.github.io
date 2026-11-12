@@ -1,6 +1,6 @@
 ---
 lang: en
-lang_alt: vi/reference-manuals/monitoring-dam-performance/chapter-08-deformation.md
+lang_alt: vi/reference-manuals/monitoring-dam-performance/chapter-08-deformation/
 ---
 # Chapter 8 — Deformation Monitoring: Survey and Geotechnical Sensors
 

@@ -1,6 +1,7 @@
 ---
 lang: es
 lang_alt: reference-manuals/physical-geology/chapter-12-geological-structures/
+lang_alt_vi: vi/reference-manuals/dia-chat-vat-ly/chapter-12-geological-structures/
 ---
 
 # Capítulo 12 — Estructuras Geológicas

@@ -1,6 +1,7 @@
 ---
 lang: es
 lang_alt: reference-manuals/geotechnical-engineers-handbook/chapter-09-embankment-soft-ground/
+lang_alt_vi: vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-09-embankment-soft-ground/
 ---
 
 # Capítulo 9 — Terraplenes sobre Suelo Blando

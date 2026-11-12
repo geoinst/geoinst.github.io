@@ -1,6 +1,7 @@
 ---
 lang: es
 lang_alt: reference-manuals/geotechnical-engineers-handbook/chapter-07-slope-stability/
+lang_alt_vi: vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-07-slope-stability/
 ---
 
 # Capítulo 7 — Análisis de Estabilidad de Taludes

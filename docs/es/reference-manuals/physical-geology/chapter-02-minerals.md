@@ -1,6 +1,7 @@
 ---
 lang: es
 lang_alt: reference-manuals/physical-geology/chapter-02-minerals/
+lang_alt_vi: vi/reference-manuals/dia-chat-vat-ly/chapter-02-minerals/
 ---
 
 # Capítulo 2 — Minerales

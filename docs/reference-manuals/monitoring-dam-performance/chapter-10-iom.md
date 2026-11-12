@@ -1,6 +1,6 @@
 ---
 lang: en
-lang_alt: vi/reference-manuals/monitoring-dam-performance/chapter-10-iom.md
+lang_alt: vi/reference-manuals/monitoring-dam-performance/chapter-10-iom/
 ---
 # Chapter 10 — Installation, Operation, and Maintenance
 

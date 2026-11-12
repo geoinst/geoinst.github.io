@@ -1,6 +1,7 @@
 ---
 lang: es
 lang_alt: reference-manuals/geotechnical-engineers-handbook/
+lang_alt_vi: vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/
 ---
 
 # Manual del Ingeniero Geotécnico (Trần Văn Việt)

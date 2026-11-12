@@ -1,6 +1,7 @@
 ---
 lang: es
 lang_alt: reference-manuals/physical-geology/
+lang_alt_vi: vi/reference-manuals/dia-chat-vat-ly/
 ---
 
 # Geología Física (2.ª Edición) — Steven Earle

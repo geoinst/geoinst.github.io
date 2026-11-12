@@ -1,6 +1,7 @@
 ---
 lang: es
 lang_alt: reference-manuals/geotechnical-engineers-handbook/chapter-02-soil-properties/
+lang_alt_vi: vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-02-soil-properties/
 ---
 
 # Capítulo 2 — Propiedades de Ingeniería de los Suelos de Cimentación

@@ -1,6 +1,7 @@
 ---
 lang: es
 lang_alt: reference-manuals/geotechnical-engineers-handbook/chapter-01-geology-soil-rock/
+lang_alt_vi: vi/reference-manuals/cam-nang-ky-su-dia-ky-thuat/chapter-01-geology-soil-rock/
 ---
 
 # Capítulo 1 — Geología: Suelo y Roca

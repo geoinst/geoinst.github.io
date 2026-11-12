@@ -1,6 +1,7 @@
 ---
 lang: es
 lang_alt: reference-manuals/physical-geology/chapter-14-groundwater/
+lang_alt_vi: vi/reference-manuals/dia-chat-vat-ly/chapter-14-groundwater/
 ---
 
 # Capítulo 14 — Aguas Subterráneas

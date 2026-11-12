@@ -1,6 +1,7 @@
 ---
 lang: es
 lang_alt: reference-manuals/physical-geology/chapter-06-sedimentary-rocks/
+lang_alt_vi: vi/reference-manuals/dia-chat-vat-ly/chapter-06-sedimentary-rocks/
 ---
 
 # Capítulo 6 — Sedimentos y Rocas Sedimentarias
