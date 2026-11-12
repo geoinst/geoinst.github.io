@@ -36,7 +36,7 @@ se **elabora en su totalidad** en la página del capítulo más abajo.
 
 | # | Capítulo | Qué abarca |
 |---|---------|----------------|
-| 1 | [Capítulo 25 — Instrumentación y Monitoreo Geotécnicos](../../../reference-manuals/cfem/chapter-25-instrumentation-monitoring.md) | El digest completo del capítulo, incluyendo el **aparato de referencias §25.2 elaborado** |
+| 1 | [Capítulo 25 — Instrumentación y Monitoreo Geotécnicos](chapter-25-instrumentation-monitoring.md) | El digest completo del capítulo, incluyendo el **aparato de referencias §25.2 elaborado** |
 
 ---
 
@@ -50,7 +50,7 @@ se **elabora en su totalidad** en la página del capítulo más abajo.
 
     [:material-file-download: **Tải PDF bản dịch tiếng Việt (đầy đủ)**](https://geoinst.github.io/assets/cfem/cfem-2022-ch25-vietnamese.pdf){ .md-button .md-button--primary }
     &nbsp;
-    [Đọc bản tổng hợp trên trang web](../../../reference-manuals/cfem/chapter-25-instrumentation-monitoring.md)
+    [Đọc bản tổng hợp trên trang web](chapter-25-instrumentation-monitoring.md)
 
 === "Inglés — capítulo original (PDF)"
 
@@ -84,7 +84,7 @@ resto de esta biblioteca:
 
 ## Cómo usar esta referencia
 
-- **Empiece por la [página del capítulo](../../../reference-manuals/cfem/chapter-25-instrumentation-monitoring.md)**
+- **Empiece por la [página del capítulo](chapter-25-instrumentation-monitoring.md)**
   y su tabla de referencias — es la parte más reutilizable del capítulo.
 - Use la **tabla de referencias agrupada** para encontrar la norma o el manual rector
   para un instrumento dado.
